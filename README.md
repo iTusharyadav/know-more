@@ -6,8 +6,9 @@ This is a collaborative space where you can contribute resources, ideas, project
 
 <!-- Gif -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl0OW5rb2N6dWt2NTMzamNuYWs4bnQ4cWxvZjgwd2J4dzd0MDd3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9NiP0XLxJc6u3u/giphy.gif" alt="Adventure GIF" width="400" style="margin-bottom: 20px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl0OW5rb2N6dWt2NTMzamNuYWs4bnQ4cWxvZjgwd2J4dzd0MDd3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9NiP0XLxJc6u3u/giphy.gif" alt="Adventure GIF">
 </p>
+
 
 ---
 
@@ -96,3 +97,8 @@ Use the [Pull Request Template](PULL_REQUEST_TEMPLATE.md) to make your contribut
 
 Explore various resources like notes, books, projects, and templates in the [Resources](resources.md) file.
 
+---
+
+<p align="center">
+  "Ideas grow when shared. 🌱💡"
+</p>
