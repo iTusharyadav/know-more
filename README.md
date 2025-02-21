@@ -27,16 +27,16 @@ This is a collaborative space where you can contribute resources, ideas, project
 
 ```Here’s an overview of the project structure:
 /Know-More-Repo 
-├── README.md                           : Main entry file (overview of the repo) 
-├── /resources                          # Folder containing different resource files 
-│ ├── notes.md                          # Notes and learning resources 
-│ ├── projects.md                       # Real-world projects 
-│ ├── books.md                          # Recommended books 
-│ └── templates.md                      # Reusable templates 
-├── CODE_OF_CONDUCT.md                  # Code of Conduct file 
-├── CONTRIBUTING.md                     # Contributing guidelines 
-├── LICENSE                             # License file 
-└── SECURITY.md                         # Security policy
+├── README.md                           --> Main entry file (overview of the repo) 
+├── /resources                          --> Folder containing different resource files 
+│ ├── notes.md                          --> (Notes and learning resources) 
+│ ├── projects.md                       --> (Real-world projects)
+│ ├── books.md                          --> (Recommended books) 
+│ └── templates.md                      --> (Reusable templates) 
+├── CODE_OF_CONDUCT.md                  --> Code of Conduct file 
+├── CONTRIBUTING.md                     --> Contributing guidelines 
+├── LICENSE                             --> License file 
+└── SECURITY.md                         --> Security policy
 ---
 ```
   
