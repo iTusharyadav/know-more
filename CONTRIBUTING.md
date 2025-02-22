@@ -16,7 +16,7 @@ To ensure smooth collaboration, please follow the guidelines outlined below. ✨
    - Clone the forked repository to your local machine:
      
      ```bash
-     git clone https://github.com/your-username/know-more.git
+     git clone https://github.com/iTusharyadav/know-more.git
      ```
 
 ### 3. **Create a New Branch** 🌱
@@ -57,13 +57,7 @@ To ensure smooth collaboration, please follow the guidelines outlined below. ✨
 
 ---
 
-## 🤝 Code of Conduct
 
-We strive to create a welcoming and inclusive environment for everyone. By participating in this project, you agree to follow our [Code of Conduct](#). 🌍
-
-Please be respectful and considerate to others. We will not tolerate harassment, discrimination, or any form of toxic behavior. 🚫
-
----
 
 ## 📚 Resource Format
 
@@ -100,18 +94,18 @@ If you find an issue or bug with the project, please do the following:
 
 ---
 
-## 🌟 Best Practices
+## 🤝 Code of Conduct
 
-- **Keep Pull Requests Small and Focused** 📏: Try to make one change per pull request. This makes it easier to review and accept.
-- **Follow the Project’s Structure** 🏗️: Maintain the organization of files and directories as they currently are. This will help others easily navigate the project.
-- **Test Changes Locally** 🧪: Ensure that your changes work as expected before submitting them.
-- **Provide Clear Descriptions** 💬: Whether in commits or PRs, always provide detailed and descriptive messages. This helps reviewers understand the reasoning behind your changes.
+We strive to create a welcoming and inclusive environment for everyone. By participating in this project, you agree to follow our [Code of Conduct](#). 🌍
+
+Please be respectful and considerate to others. We will not tolerate harassment, discrimination, or any form of toxic behavior. 🚫
 
 ---
 
+
 ## 📄 License
 
-By contributing to the "Know More" project, you agree that your contributions will be licensed under the [MIT License](LICENSE). 📝
+By contributing to the "Know More" project, you agree that your contributions will be licensed under the [MIT License](https://github.com/iTusharyadav/know-more/blob/main/LICENSE). 📝
 
 ---
 
