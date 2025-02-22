@@ -57,32 +57,6 @@ To ensure smooth collaboration, please follow the guidelines outlined below. ✨
 
 ---
 
-
-
-## 📚 Resource Format
-
-When adding resources like books, notes, icons, or code, please follow this format:
-
-### **For Books** 📖:
-   - **Title**: [Book Title] 📚
-   - **Author(s)**: [Author Name(s)]
-   - **Topic**: [Topic or Subject of the Book]
-   - **Description**: [Brief Description of the Book]
-   - **Link**: [Link to access or purchase the book]
-
-### **For Notes** 📝:
-   - **Subject/Topic**: [Topic of the Notes]
-   - **Description**: [Short Description of the Notes]
-   - **Link**: [Link to the Notes]
-
-### **For Code Snippets/Projects** 💻:
-   - **Project Name**: [Name of the Code or Project]
-   - **Language/Technology**: [Programming Language or Framework used]
-   - **Description**: [Short Description of What it Does]
-   - **Link**: [Link to the Code Repository]
-
----
-
 ## 🐞 Issues and Bug Reports
 
 If you find an issue or bug with the project, please do the following:
@@ -96,7 +70,7 @@ If you find an issue or bug with the project, please do the following:
 
 ## 🤝 Code of Conduct
 
-We strive to create a welcoming and inclusive environment for everyone. By participating in this project, you agree to follow our [Code of Conduct](#). 🌍
+We strive to create a welcoming and inclusive environment for everyone. By participating in this project, you agree to follow our [Code of Conduct](https://github.com/iTusharyadav/know-more/blob/main/CODE_OF_CONDUCT.md). 🌍
 
 Please be respectful and considerate to others. We will not tolerate harassment, discrimination, or any form of toxic behavior. 🚫
 
