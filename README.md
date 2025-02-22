@@ -6,9 +6,8 @@ This is a collaborative space where you can contribute resources, ideas, project
 
 <!-- Gif -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl0OW5rb2N6dWt2NTMzamNuYWs4bnQ4cWxvZjgwd2J4dzd0MDd3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9NiP0XLxJc6u3u/giphy.gif" alt="Adventure GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZnaG12dG04eDh3b2Y3YjZtYXdxeTh4ZWdseGRkOXd1anNoaHNxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ufWbAUZiTZCVi/giphy.gif">
 </p>
-
 
 ---
 
