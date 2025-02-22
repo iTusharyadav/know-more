@@ -73,7 +73,7 @@ Please refer to the [Code of Conduct](https://github.com/iTusharyadav/know-more/
 
 ---
 
-## Contributing Guidelines
+## Contribution Guidelines
 
 We welcome contributions! To get started, please check out our [Contributing Guidelines](https://github.com/iTusharyadav/know-more/blob/main/CONTRIBUTING.md).
 
