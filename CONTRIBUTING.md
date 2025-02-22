@@ -41,7 +41,7 @@ To ensure smooth collaboration, please follow the guidelines outlined below. ✨
      
      ```bash
      git add .
-     git commit -m "Add new [resource/book/code] about [topic]"
+     git commit -m "Add new [resource] about [topic]"
      ```
 
 ### 6. **Push Your Changes** ⬆️
