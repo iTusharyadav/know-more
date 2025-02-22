@@ -62,19 +62,19 @@ Explore various resources like notes, books, projects, and templates in the [Res
 
 ## Issue Templates
 
-Find templates for creating new issues in the [Issue Templates](ISSUE_TEMPLATE.md) file.
+Find templates for creating new issues in the [Issue Templates](https://github.com/iTusharyadav/know-more/tree/main/.github/ISSUE_TEMPLATE) file.
 
 ---
 
 ## Code of Conduct
 
-Please refer to the [Code of Conduct](CODE_OF_CONDUCT.md) for guidelines on respectful behavior.
+Please refer to the [Code of Conduct](https://github.com/iTusharyadav/know-more/blob/main/CODE_OF_CONDUCT.md) for guidelines on respectful behavior.
 
 ---
 
 ## Contributing Guidelines
 
-We welcome contributions! To get started, please check out our [Contributing Guidelines](CONTRIBUTING.md).
+We welcome contributions! To get started, please check out our [Contributing Guidelines](https://github.com/iTusharyadav/know-more/blob/main/CONTRIBUTING.md).
 
 ---
 
