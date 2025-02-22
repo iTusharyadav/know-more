@@ -67,11 +67,6 @@ Here are some key files you should check out:
 
 ---
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
----
 
 ## Code of Conduct
 
@@ -97,6 +92,11 @@ Use the [Pull Request Template](PULL_REQUEST_TEMPLATE.md) to make your contribut
 
 Explore various resources like notes, books, projects, and templates in the [Resources](resources.md) file.
 
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+---
 ---
 
 <p align="center">
