@@ -56,7 +56,7 @@ Here’s a table of various resources you can explore in this repository:
 
 ## Resources
 
-Explore various resources like notes, books, projects, and templates in the [Resources](resources.md) file.
+Explore various resources like notes, books, projects, and templates in the [Resources](https://github.com/iTusharyadav/know-more/tree/main/resources) file.
 
 ---
 
