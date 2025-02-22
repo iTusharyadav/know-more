@@ -54,43 +54,28 @@ Here’s a table of various resources you can explore in this repository:
 
 ---
 
-## Files & Documentation
+## Issue Templates
 
-Here are some key files you should check out:
-
-- [Code of Conduct](CODE_OF_CONDUCT.md) – Guidelines for respectful behavior.
-- [Contributing Guidelines](CONTRIBUTING.md) – How you can contribute to the project.
-- [License](LICENSE) – Licensing terms for this repository.
-- [Security Policy](SECURITY.md) – Security-related guidelines.
-- [Issue Templates](ISSUE_TEMPLATE.md) – Templates for submitting issues.
-- [Pull Request Template](PULL_REQUEST_TEMPLATE.md) – Template for creating pull requests.
+Find templates for creating new issues in the [Issue Templates](ISSUE_TEMPLATE.md) file.
 
 ---
+
+## Resources
+
+Explore various resources like notes, books, projects, and templates in the [Resources](resources.md) file.
 
 
 ## Code of Conduct
 
 Please refer to the [Code of Conduct](CODE_OF_CONDUCT.md) for guidelines on respectful behavior.
 
+---
+
 ## Contributing Guidelines
 
 We welcome contributions! To get started, please check out our [Contributing Guidelines](CONTRIBUTING.md).
 
-## Security Policy
-
-Please review our [Security Policy](SECURITY.md) for how to report security issues.
-
-## Issue Templates
-
-Find templates for creating new issues in the [Issue Templates](ISSUE_TEMPLATE.md) file.
-
-## Pull Request Template
-
-Use the [Pull Request Template](PULL_REQUEST_TEMPLATE.md) to make your contributions easier to review.
-
-## Resources
-
-Explore various resources like notes, books, projects, and templates in the [Resources](resources.md) file.
+---
 
 ## License
 
