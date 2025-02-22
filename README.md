@@ -22,7 +22,15 @@ This is a collaborative space where you can contribute resources, ideas, project
 - [Pull Request Template](PULL_REQUEST_TEMPLATE.md)
 - [Resources](resources.md)
 
+- [What is Mirror Matrix?](#white_check_mark-what-is-mirror-matrix)
+- [How It Works](#bulb-how-it-works)
+- [Installation Guide](#book-installation-guide)
+- [Contribution Guidelines](#mag-contribution-guidelines)
+- [License](#memo-license)
+- [Contact](#love_letter-contact)
+  
 ---
+
 ## Repository Structure
 
 ```Here’s an overview of the project structure:
