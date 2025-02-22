@@ -67,19 +67,11 @@ Here are some key files you should check out:
 
 ---
 
-## License
 
-This repository is licensed under the [MIT License](LICENSE).
 
----
 
-## Code of Conduct
 
-Please refer to the [Code of Conduct](CODE_OF_CONDUCT.md) for guidelines on respectful behavior.
 
-## Contributing Guidelines
-
-We welcome contributions! To get started, please check out our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## Security Policy
 
@@ -97,7 +89,22 @@ Use the [Pull Request Template](PULL_REQUEST_TEMPLATE.md) to make your contribut
 
 Explore various resources like notes, books, projects, and templates in the [Resources](resources.md) file.
 
+## Code of Conduct
+
+Please refer to the [Code of Conduct](CODE_OF_CONDUCT.md) for guidelines on respectful behavior.
+
+## Contributing Guidelines
+
+We welcome contributions! To get started, please check out our [Contributing Guidelines](CONTRIBUTING.md).
+
 ---
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+---
+
 
 <p align="center">
   "Ideas grow when shared. 🌱💡"
