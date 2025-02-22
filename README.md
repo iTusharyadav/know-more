@@ -14,20 +14,13 @@ This is a collaborative space where you can contribute resources, ideas, project
 
 ## Table of Contents
 
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
-- [License](LICENSE)
-- [Security Policy](SECURITY.md)
-- [Issue Templates](ISSUE_TEMPLATE.md)
-- [Pull Request Template](PULL_REQUEST_TEMPLATE.md)
-- [Resources](resources.md)
-
-- [What is Mirror Matrix?](#white_check_mark-what-is-mirror-matrix)
-- [How It Works](#bulb-how-it-works)
-- [Installation Guide](#book-installation-guide)
-- [Contribution Guidelines](#mag-contribution-guidelines)
-- [License](#memo-license)
-- [Contact](#love_letter-contact)
+- [Repository Structure](#repository-structure)
+- [Resources Overview](#resources-overview)
+- [Resources](#resources)
+- [Issue Templates](#issue-templates)
+- [Code of Conduct](#code-of-conduct)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
   
 ---
 
