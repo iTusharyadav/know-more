@@ -54,16 +54,17 @@ Here’s a table of various resources you can explore in this repository:
 
 ---
 
+## Resources
+
+Explore various resources like notes, books, projects, and templates in the [Resources](resources.md) file.
+
+---
+
 ## Issue Templates
 
 Find templates for creating new issues in the [Issue Templates](ISSUE_TEMPLATE.md) file.
 
 ---
-
-## Resources
-
-Explore various resources like notes, books, projects, and templates in the [Resources](resources.md) file.
-
 
 ## Code of Conduct
 
@@ -81,7 +82,6 @@ We welcome contributions! To get started, please check out our [Contributing Gui
 
 This repository is licensed under the [MIT License](LICENSE).
 
----
 ---
 
 <p align="center">
