@@ -82,7 +82,6 @@ We welcome contributions! To get started, please check out our [Contributing Gui
 This repository is licensed under the [MIT License](LICENSE).
 
 ---
-
 <p align="center">
-  "Ideas grow when shared. 🌱💡"
+  Built with 💙
 </p>
