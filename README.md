@@ -5,9 +5,9 @@
 This is a collaborative space where you can contribute resources, ideas, projects, and tools for the community.</p>
 
 <!-- Gif -->
-<p align="center">
+<!--<p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZnaG12dG04eDh3b2Y3YjZtYXdxeTh4ZWdseGRkOXd1anNoaHNxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ufWbAUZiTZCVi/giphy.gif">
-</p>
+</p>-->
 
 ---
 
