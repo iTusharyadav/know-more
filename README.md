@@ -23,7 +23,7 @@ This is a collaborative space where you can contribute resources, ideas, project
   
 ---
 
-## Repository Structure
+<!--## Repository Structure
 
 ```
 /Know-More 
@@ -36,7 +36,7 @@ This is a collaborative space where you can contribute resources, ideas, project
 ├── CONTRIBUTING.md                     # Contributing guidelines                         
 ├── LICENSE                             # License file 
 └──README.md                            # Main entry file (overview of the repo) 
-```
+``` -->
   
 ## Resources Overview
 
