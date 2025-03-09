@@ -13,7 +13,7 @@ This is a collaborative space where you can contribute resources, ideas, project
 
 ## Table of Contents
 
-- [Repository Structure](#repository-structure)
+<!-- [Repository Structure](#repository-structure) -->
 - [Resources Overview](#resources-overview)
 - [Resources](#resources)
 - [Issue Templates](#issue-templates)
