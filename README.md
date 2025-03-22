@@ -9,6 +9,12 @@ This is a collaborative space where you can contribute resources, ideas, project
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZnaG12dG04eDh3b2Y3YjZtYXdxeTh4ZWdseGRkOXd1anNoaHNxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ufWbAUZiTZCVi/giphy.gif">
 </p>-->
 
+
+<div align="center">
+  <img src="resources/logo.png" alt="Project Image" width="500" />
+</div>
+
+
 ---
 
 ## Table of Contents
