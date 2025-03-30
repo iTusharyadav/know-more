@@ -28,7 +28,7 @@
 | `Open Source Projects`  | Open source projects to contribute as beginners  | [Check Out](projects.md)   |\
 | `Useful Repo`       | Additional helpful resources or links       | [Check Out](resources.md) |
 | `Other Resources`       | Additional helpful resources or links       | [Check Out](resources.md)
-## Algorithms and Data Structures
+
 | **Resource Type**       | **Description**                             | **File Link**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Introduction to Algorithms`                 | Study notes and summaries for various topics | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/notes.md)         |
