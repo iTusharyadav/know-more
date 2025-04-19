@@ -1,4 +1,4 @@
-ii## Algorithms and Data Structures
+## Algorithms and Data Structures
 | **Resource Type**       | **Description**                             | **File Link**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Introduction to Algorithms`                 | Study notes and summaries for various topics | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/notes.md)         |
