@@ -3,12 +3,12 @@ APIs (Application Programming Interfaces) allow different software systems to co
 https://learn.microsoft.com/en-gb/
 
 ## AI APIs
-| **Name**       | **Description**                             | **Official Docs**                    |
+| **Name**       | **Description**                             | **Official Documentation**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `OpenAI API`              | Access AI models like GPT and DALL·E      | [Check Out](https://platform.openai.com/docs/overview)   |
 
 ## Backend & Backend Frameworks / Languages
-| **Name**                    | **Description**                                                     | **Official Docs**                                                 |
+| **Name**                    | **Description**                                                     | **Official Documentation**                                                 |
 |----------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------|
 | `ASP.NET Core`             | Cross-platform framework for building modern web apps               | [Check Out](https://learn.microsoft.com/en-us/aspnet/core/)       |
 | `AWS Lambda`               | Serverless compute platform with RESTful capabilities               | [Check Out](https://aws.amazon.com/lambda/)                       |
@@ -25,9 +25,15 @@ https://learn.microsoft.com/en-gb/
 | `Ruby on Rails`            | Full-stack web application framework written in Ruby                | [Check Out](https://guides.rubyonrails.org)                       |
 | `Spring Boot (Java)`       | Framework for creating stand-alone, production-grade Spring apps    | [Check Out](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) |
 
+## Compiler
+| **Name** | **Description**                                             | **Official Documentation**                      |
+|----------------|-------------------------------------------------------------|-------------------------------------------------|
+| `Babel.js`     | JavaScript compiler/transpiler (ES6+ compatibility)         | [Check Out](https://babeljs.io/docs/)           |
+| `Webpack`      | Module bundler and build tool with API configuration        | [Check Out](https://webpack.js.org/concepts/)   |
+
 
 ## Communication / Messaging APIs
-| **Name**       | **Description**                             | **Official Docs**                 |
+| **Name**       | **Description**                             | **Official Documentation**                 |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
 | `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
@@ -37,7 +43,7 @@ https://learn.microsoft.com/en-gb/
 
 
 ## Developer Tools
-| **Name**       | **Description**                             | **Official Docs**                    |
+| **Name**       | **Description**                             | **Official Documentation**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `DevDocs`              | Aggregated browser for offline API docs     | [Check Out](https://devdocs.io/)   |
 | `GitHub API`             | 	Interact with GitHub repos, issues, workflows | [Check Out](https://docs.github.com/en/rest?apiVersion=2022-11-28) |
@@ -50,7 +56,7 @@ https://learn.microsoft.com/en-gb/
 
 
 ## Payment and Finance APIs
-| **Name**       | **Description**                             | **Official Docs**                    |
+| **Name**       | **Description**                             | **Official Documentation**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Alpha Vantage API`              | 	Real-time and historical stock/crypto data     | [Check Out](https://www.alphavantage.co/documentation/)   |
 | `PayPal API`             | Payment processing and transaction management | [Check Out](https://developer.paypal.com/api/rest/) |
@@ -58,14 +64,14 @@ https://learn.microsoft.com/en-gb/
 
 
 ## News & Media APIs
-| **Name**       | **Description**                             | **Official Docs**                    |
+| **Name**       | **Description**                             | **Official Documentation**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `NewsData.io API`              | Access global news headlines and articles | [Check Out](https://newsdata.io/documentation)   |
 | `TMDb API`             | Access movie, TV, and actor data | [Check Out](https://developer.themoviedb.org/reference/intro/getting-started) |
 | `Vimeo API`                 |Integrate and manage Vimeo videos | [Check Out](https://developer.vimeo.com/)         |
 
 ## Real-Time Data & Messaging APIs
-| **Name**       | **Description**                             | **Official Docs**                    |
+| **Name**       | **Description**                             | **Official Documentation**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Ably API`                 |Real-time pub/sub messaging and data delivery | [Check Out](https://ably.com/docs)         |
 | `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
@@ -73,7 +79,7 @@ https://learn.microsoft.com/en-gb/
 | `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
 
 ## Search, Maps, and Content APIs
-| **Name**       | **Description**                             | **Official Docs**                    |
+| **Name**       | **Description**                             | **Official Documentation**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Google Maps API`              | Mapping, geolocation, and routing services     | [Check Out](https://developers.google.com/maps/documentation)   |
 | `NASA APOD API`             | 	Astronomy Picture of the Day – image & metadata | [Check Out](https://api.nasa.gov/) |
@@ -81,7 +87,7 @@ https://learn.microsoft.com/en-gb/
 | `Unsplash API`             |	(See News & Media) Movie and TV data| [Check Out](https://unsplash.com/developers) |
 
 ## Storage / Content Management APIs
-| **Name**       | **Description**                             | **Official Docs**                    |
+| **Name**       | **Description**                             | **Official Documentation**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Contentful API`              | Cloud-native headless CMS     | [Check Out](https://www.contentful.com/developers/docs/)   |
 | `Directus API`             |Turn SQL databases into REST/GraphQL APIs | [Check Out](https://directus.io/docs/) |
@@ -91,7 +97,7 @@ https://learn.microsoft.com/en-gb/
 
 
 ## Trading / Cryptocurrency APIs
-| **Name**       | **Description**                             | **Official Docs**                    |
+| **Name**       | **Description**                             | **Official Documentation**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Binance API`              | Crypto exchange data and trading      | [Check Out](https://github.com/binance/binance-spot-api-docs)   |
 | `CoinGecko API`             |Cryptocurrency market data | [Check Out](https://www.coingecko.com/en/api) |
