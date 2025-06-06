@@ -3,7 +3,7 @@ APIs (Application Programming Interfaces) allow different software systems to co
 https://learn.microsoft.com/en-gb/
 
 ## Communication / Messaging APIs
-| **Name**       | **Author**                             | **Official Docs**                 |
+| **Name**       | **Description**                             | **Official Docs**                 |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
 | `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
@@ -13,7 +13,7 @@ https://learn.microsoft.com/en-gb/
 
 
 ## Developer Tools
-| **Name**       | **Author**                             | **Official Docs**                    |
+| **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `DevDocs`              | Aggregated browser for offline API docs     | [Check Out](https://devdocs.io/)   |
 | `GitHub API`             | 	Interact with GitHub repos, issues, workflows | [Check Out](https://docs.github.com/en/rest?apiVersion=2022-11-28) |
@@ -24,12 +24,12 @@ https://learn.microsoft.com/en-gb/
 | `Redocly`                 | 	API docs generator from OpenAPI specs | [Check Out](https://redocly.com/docs) |
 
 ## AI APIs
-| **Name**       | **Author**                             | **Official Docs**                    |
+| **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `OpenAI API`              | Access AI models like GPT and DALL·E      | [Check Out](https://platform.openai.com/docs/overview)   |
 
-
-| **Name**       | **Author**                             | **	Official Docs**                    |
+## Payment and Finance APIs
+| **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
 | `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
@@ -37,7 +37,7 @@ https://learn.microsoft.com/en-gb/
 | `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
 | `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
 
-| **Name**       | **Author**                             | **	Official Docs**                    |
+| **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
 | `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
@@ -45,7 +45,7 @@ https://learn.microsoft.com/en-gb/
 | `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
 | `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
 
-| **Name**       | **Author**                             | **	Official Docs**                    |
+| **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
 | `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
@@ -53,7 +53,7 @@ https://learn.microsoft.com/en-gb/
 | `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
 | `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
 
-| **Name**       | **Author**                             | **	Official Docs**                    |
+| **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
 | `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
@@ -61,7 +61,7 @@ https://learn.microsoft.com/en-gb/
 | `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
 | `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
 
-| **Name**       | **Author**                             | **	Official Docs**                    |
+| **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
 | `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
@@ -69,7 +69,7 @@ https://learn.microsoft.com/en-gb/
 | `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
 | `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
 
-| **Name**       | **Author**                             | **	Official Docs**                    |
+| **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
 | `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
