@@ -1,7 +1,8 @@
 ## API 
 APIs (Application Programming Interfaces) allow different software systems to communicate and exchange data.
+https://learn.microsoft.com/en-gb/
 
-## 📡 Communication / Messaging APIs
+## Communication / Messaging APIs
 | **Name**       | **Author**                             | **Official Docs**                 |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
@@ -11,7 +12,7 @@ APIs (Application Programming Interfaces) allow different software systems to co
 | `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
 
 
-## 🧠 Developer Tools
+## Developer Tools
 | **Name**       | **Author**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `DevDocs`              | Aggregated browser for offline API docs     | [Check Out](https://devdocs.io/)   |
@@ -22,14 +23,11 @@ APIs (Application Programming Interfaces) allow different software systems to co
 | `RapidAPI Hub`                 | API marketplace & aggregation platform | [Check Out](https://docs.rapidapi.com/docs/navigating-this-documentation) |
 | `Redocly`                 | 	API docs generator from OpenAPI specs | [Check Out](https://redocly.com/docs) |
 
-
-| **Name**       | **Author**                             | **	Official Docs**                    |
+## AI APIs
+| **Name**       | **Author**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
-| `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
-| `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
-| `Slack API`                 | Build apps and automate workflows in Slack | [Check Out](https://api.slack.com/docs)         |
-| `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
-| `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
+| `OpenAI API`              | Access AI models like GPT and DALL·E      | [Check Out](https://platform.openai.com/docs/overview)   |
+
 
 | **Name**       | **Author**                             | **	Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
