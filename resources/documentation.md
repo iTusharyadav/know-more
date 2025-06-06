@@ -2,6 +2,11 @@
 APIs (Application Programming Interfaces) allow different software systems to communicate and exchange data.
 https://learn.microsoft.com/en-gb/
 
+## AI APIs
+| **Name**       | **Description**                             | **Official Docs**                    |
+|-------------------------|---------------------------------------------|-----------------------------------|
+| `OpenAI API`              | Access AI models like GPT and DALL·E      | [Check Out](https://platform.openai.com/docs/overview)   |
+
 ## Communication / Messaging APIs
 | **Name**       | **Description**                             | **Official Docs**                 |
 |-------------------------|---------------------------------------------|-----------------------------------|
@@ -23,10 +28,7 @@ https://learn.microsoft.com/en-gb/
 | `RapidAPI Hub`                 | API marketplace & aggregation platform | [Check Out](https://docs.rapidapi.com/docs/navigating-this-documentation) |
 | `Redocly`                 | 	API docs generator from OpenAPI specs | [Check Out](https://redocly.com/docs) |
 
-## AI APIs
-| **Name**       | **Description**                             | **Official Docs**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `OpenAI API`              | Access AI models like GPT and DALL·E      | [Check Out](https://platform.openai.com/docs/overview)   |
+
 
 ## Payment and Finance APIs
 | **Name**       | **Description**                             | **Official Docs**                    |
@@ -62,16 +64,17 @@ https://learn.microsoft.com/en-gb/
 ## Storage / Content Management APIs
 | **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
-| `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
-| `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
-| `Slack API`                 | Build apps and automate workflows in Slack | [Check Out](https://api.slack.com/docs)         |
-| `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
-| `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
+| `Contentful API`              | Cloud-native headless CMS     | [Check Out](https://www.contentful.com/developers/docs/)   |
+| `Directus API`             |Turn SQL databases into REST/GraphQL APIs | [Check Out](https://directus.io/docs/) |
+| `Dropbox API`                 | File upload, download, sync, and sharing | [Check Out](https://www.dropbox.com/developers/documentation/http/overview)         |
+| `Notion API`             | 	Access Notion content, databases, and pages| [Check Out](https://developers.notion.com/) |
+| `Sanity API`                 | Real-time content APIs with schema-based content | [Check Out](https://www.sanity.io/docs) |
 
+
+## Trading / Cryptocurrency APIs
 | **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
-| `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
-| `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
-| `Slack API`                 | Build apps and automate workflows in Slack | [Check Out](https://api.slack.com/docs)         |
-| `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
-| `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
+| `Binance API`              | Crypto exchange data and trading      | [Check Out](https://github.com/binance/binance-spot-api-docs)   |
+| `CoinGecko API`             |Cryptocurrency market data | [Check Out](https://www.coingecko.com/en/api) |
+| `OpenSky API`                 |Flight tracking and aviation data | [Check Out](https://openskynetwork.github.io/opensky-api/index.html)         |
+| `CoinAPI.io`             | 	Crypto and FX market data | [Check Out](https://docs.coinapi.io/) |
