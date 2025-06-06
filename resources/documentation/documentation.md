@@ -7,6 +7,25 @@ https://learn.microsoft.com/en-gb/
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `OpenAI API`              | Access AI models like GPT and DALL·E      | [Check Out](https://platform.openai.com/docs/overview)   |
 
+## Backend & Backend Frameworks / Languages
+| **Name**                    | **Description**                                                     | **Official Docs**                                                 |
+|----------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------|
+| `ASP.NET Core`             | Cross-platform framework for building modern web apps               | [Check Out](https://learn.microsoft.com/en-us/aspnet/core/)       |
+| `AWS Lambda`               | Serverless compute platform with RESTful capabilities               | [Check Out](https://aws.amazon.com/lambda/)                       |
+| `Django (Python)`          | High-level Python web framework                                     | [Check Out](https://docs.djangoproject.com/en/stable/)           |
+| `Django REST Framework`    | Toolkit for building Web APIs with Django                           | [Check Out](https://www.django-rest-framework.org/)              |
+| `Express.js`               | Fast, minimalist web framework for Node.js                          | [Check Out](https://expressjs.com/en/starter/installing.html)    |
+| `FastAPI (Python)`         | Modern, fast (high-performance) web framework for building APIs     | [Check Out](https://fastapi.tiangolo.com)                         |
+| `Flask (Python)`           | Lightweight WSGI web application framework                          | [Check Out](https://flask.palletsprojects.com/en/latest/)        |
+| `Go (Golang)`              | Open-source programming language for building efficient software    | [Check Out](https://golang.org/doc/)                              |
+| `Laravel (PHP)`            | PHP web application framework with expressive syntax                | [Check Out](https://laravel.com/docs)                             |
+| `LoopBack (Node.js)`       | Highly extensible framework for building APIs and microservices     | [Check Out](https://loopback.io/doc/)                             |
+| `Node.js`                  | JavaScript runtime built on Chrome's V8 engine                      | [Check Out](https://nodejs.org/en/docs)                           |
+| `PHP`                      | General-purpose scripting language for web development              | [Check Out](https://www.php.net/docs.php)                         |
+| `Ruby on Rails`            | Full-stack web application framework written in Ruby                | [Check Out](https://guides.rubyonrails.org)                       |
+| `Spring Boot (Java)`       | Framework for creating stand-alone, production-grade Spring apps    | [Check Out](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) |
+
+
 ## Communication / Messaging APIs
 | **Name**       | **Description**                             | **Official Docs**                 |
 |-------------------------|---------------------------------------------|-----------------------------------|
