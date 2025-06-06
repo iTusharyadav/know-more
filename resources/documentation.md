@@ -2,7 +2,8 @@
 APIs (Application Programming Interfaces) allow different software systems to communicate and exchange data.
 | **Name**       | **Author**                             | **Find Here**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
-| `FastAPI`                 | Study notes and summaries for various topics | [Check Out](https://fastapi.tiangolo.com/)         |
+| `FastAPI`                 | Study notes and summaries for various topics | [Check Out](https://fastapi.tiangolo.com/) <a href="https://www.google.com" target="_blank">Google</a>
+        |
 | `Hapi.js`                 | Recommended books for learning and reference | [Check Out](books.md)         |
 | `LoopBack`              | Real-world projects and code examples       | [Check Out](projects.md)   |
 | `Strapi`             | Reusable templates for documentation, code, etc. | [Check Out](templates.md) |
