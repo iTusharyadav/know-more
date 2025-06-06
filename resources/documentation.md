@@ -31,11 +31,10 @@ https://learn.microsoft.com/en-gb/
 ## Payment and Finance APIs
 | **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
-| `Pusher API`              | Real-time events, channels, and notifications      | [Check Out](https://pusher.com/docs/)   |
-| `PubNub API`             | Real-time messaging and presence | [Check Out](https://www.pubnub.com/docs/) |
-| `Slack API`                 | Build apps and automate workflows in Slack | [Check Out](https://api.slack.com/docs)         |
-| `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
-| `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
+| `Alpha Vantage API`              | 	Real-time and historical stock/crypto data     | [Check Out](https://www.alphavantage.co/documentation/)   |
+| `PayPal API`             | Payment processing and transaction management | [Check Out](https://developer.paypal.com/api/rest/) |
+| `Stripe API`                 | Handle payments, subscriptions, and invoices | [Check Out](https://docs.stripe.com/api)         |
+
 
 | **Name**       | **Description**                             | **Official Docs**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
