@@ -56,9 +56,6 @@ https://learn.microsoft.com/en-gb/
 
 
 ## DevOps / Developer Tools
-
-
-
 | **Name**                   | **Description**                                                | **Official Documentation**                                                     |
 |---------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------|
 | `Ansible`                 | Automation tool for configuration management and deployment    | [Check Out](https://docs.ansible.com)                                          |
@@ -79,6 +76,20 @@ https://learn.microsoft.com/en-gb/
 | `Terraform`               | Infrastructure as code tool for cloud provisioning             | [Check Out](https://developer.hashicorp.com/terraform/docs)                    |
 | `Terraform Cloud API`     | API for managing Terraform Cloud resources                     | [Check Out](https://developer.hashicorp.com/terraform/cloud-docs/api)          |
 
+## Frontend Developement 
+| **Technology**      | **Description**                                                 | **Official Documentation**                                         |
+|---------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
+| `Angular`           | Full-featured framework for building SPAs                        | [Check Out](https://angular.io/docs)                               |
+| `CSS`               | Style sheet language for describing the look of HTML documents   | [Check Out](https://developer.mozilla.org/en-US/docs/Web/CSS)     |
+| `HTML`              | Standard markup language for web pages                          | [Check Out](https://developer.mozilla.org/en-US/docs/Web/HTML)    |
+| `JavaScript`        | Scripting language for dynamic web content                      | [Check Out](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| `Next.js`           | React framework with server-side rendering and static generation| [Check Out](https://nextjs.org/docs)                               |
+| `React.js`          | UI library with Component and Hooks APIs                        | [Check Out](https://react.dev/learn)                               |
+| `SASS / SCSS`       | CSS extension language for variables, nesting, and mixins       | [Check Out](https://sass-lang.com/documentation)                  |
+| `Svelte`            | Compiler-based framework with reactive APIs                     | [Check Out](https://svelte.dev/docs)                               |
+| `Tailwind CSS`      | Utility-first CSS framework for rapid UI development            | [Check Out](https://tailwindcss.com/docs)                          |
+| `TypeScript`        | Typed superset of JavaScript                                    | [Check Out](https://www.typescriptlang.org/docs)                  |
+| `Vue.js`            | Progressive framework with Composition API                      | [Check Out](https://vuejs.org/guide/introduction.html)            |
 
 
 ## Payment and Finance APIs
