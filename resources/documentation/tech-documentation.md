@@ -7,7 +7,7 @@ https://learn.microsoft.com/en-gb/
 |-------------------------|---------------------------------------------|-----------------------------------|
 | `OpenAI API`              | Access AI models like GPT and DALL·E      | [Check Out](https://platform.openai.com/docs/overview)   |
 
-## Backend & Backend Frameworks / Languages
+## Backend Languages & Backend Frameworks 
 | **Name**                    | **Description**                                                     | **Official Documentation**                                                 |
 |----------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------|
 | `ASP.NET Core`             | Cross-platform framework for building modern web apps               | [Check Out](https://learn.microsoft.com/en-us/aspnet/core/)       |
@@ -55,16 +55,29 @@ https://learn.microsoft.com/en-gb/
 | `SQLite`                    | Lightweight, file-based relational database               | [Check Out](https://sqlite.org/docs.html)                    |
 
 
-## Developer Tools
-| **Name**       | **Description**                             | **Official Documentation**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `DevDocs`              | Aggregated browser for offline API docs     | [Check Out](https://devdocs.io/)   |
-| `GitHub API`             | 	Interact with GitHub repos, issues, workflows | [Check Out](https://docs.github.com/en/rest?apiVersion=2022-11-28) |
-| `Microsoft Graph API`                 | Access Microsoft 365 services | [Check Out](https://learn.microsoft.com/en-us/graph/)         |
-| `Plaid API`             | 	Access bank accounts and transaction data| [Check Out](https://plaid.com/docs/) |
-| `Public APIs List`                 | 	Curated list of free public APIs | [Check Out](https://github.com/public-apis/public-apis) |
-| `RapidAPI Hub`                 | API marketplace & aggregation platform | [Check Out](https://docs.rapidapi.com/docs/navigating-this-documentation) |
-| `Redocly`                 | 	API docs generator from OpenAPI specs | [Check Out](https://redocly.com/docs) |
+## DevOps / Developer Tools
+
+
+
+| **Name**                   | **Description**                                                | **Official Documentation**                                                     |
+|---------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------|
+| `Ansible`                 | Automation tool for configuration management and deployment    | [Check Out](https://docs.ansible.com)                                          |
+| `CI/CD with GitHub Actions` | Automate workflows, CI/CD pipelines using GitHub              | [Check Out](https://docs.github.com/en/actions)                                |
+| `DevDocs`                 | Aggregated browser for offline API docs                        | [Check Out](https://devdocs.io/)                                               |
+| `Docker`                  | Platform for developing, shipping, and running containers       | [Check Out](https://docs.docker.com)                                           |
+| `Docker Engine API`       | REST API for controlling Docker containers                     | [Check Out](https://docs.docker.com/engine/api/)                               |
+| `Git`                     | Version control system for source code                         | [Check Out](https://git-scm.com/doc)                                           |
+| `GitHub`                  | Code hosting platform for collaboration and version control    | [Check Out](https://docs.github.com/en)                                        |
+| `GitHub API`              | Interact with GitHub repos, issues, workflows                  | [Check Out](https://docs.github.com/en/rest?apiVersion=2022-11-28)             |
+| `Kubernetes`              | Container orchestration system                                 | [Check Out](https://kubernetes.io/docs/home/)                                  |
+| `Kubernetes API`          | RESTful API for managing Kubernetes resources                  | [Check Out](https://kubernetes.io/docs/reference/generated/kubernetes-api/)    |
+| `Microsoft Graph API`     | Access Microsoft 365 services via unified REST API             | [Check Out](https://learn.microsoft.com/en-us/graph/)                          |
+| `Plaid API`               | Access financial and banking data                              | [Check Out](https://plaid.com/docs/)                                           |
+| `Public APIs List`        | Curated list of free public APIs                               | [Check Out](https://github.com/public-apis/public-apis)                        |
+| `RapidAPI Hub`            | API marketplace & aggregation platform                         | [Check Out](https://docs.rapidapi.com/docs/navigating-this-documentation)      |
+| `Redocly`                 | API docs generator from OpenAPI specs                          | [Check Out](https://redocly.com/docs)                                          |
+| `Terraform`               | Infrastructure as code tool for cloud provisioning             | [Check Out](https://developer.hashicorp.com/terraform/docs)                    |
+| `Terraform Cloud API`     | API for managing Terraform Cloud resources                     | [Check Out](https://developer.hashicorp.com/terraform/cloud-docs/api)          |
 
 
 
