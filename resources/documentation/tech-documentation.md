@@ -91,6 +91,19 @@ https://learn.microsoft.com/en-gb/
 | `TypeScript`        | Typed superset of JavaScript                                    | [Check Out](https://www.typescriptlang.org/docs)                  |
 | `Vue.js`            | Progressive framework with Composition API                      | [Check Out](https://vuejs.org/guide/introduction.html)            |
 
+ 
+## Full Stack Develoepment
+| **Framework**       | **Description**                                                 | **Official Documentation**                            |
+|---------------------|-----------------------------------------------------------------|-------------------------------------------------------|
+| `Blitz.js`          | Full-stack React framework built on Next.js                     | [Check Out](https://blitzjs.com/docs/introduction)    |
+| `Bun.js`            | All-in-one toolkit (runtime, bundler, transpiler, test runner)  | [Check Out](https://bun.sh/docs)                      |
+| `Meteor`            | JavaScript platform for building real-time web apps             | [Check Out](https://docs.meteor.com/)                 |
+| `Next.js`           | React meta-framework with API routes                            | [Check Out](https://nextjs.org/docs)                  |
+| `Nuxt.js`           | Vue meta-framework with Server API capabilities                 | [Check Out](https://nuxt.com/docs)                    |
+| `Remix`             | Full-stack web framework focused on web standards               | [Check Out](https://remix.run/docs/en/main)         |
+| `RedwoodJS`         | Full-stack framework with GraphQL APIs                          | [Check Out](https://redwoodjs.com/docs/introduction)  |
+| `SST (Serverless Stack)` | Full-stack framework for serverless apps using AWS         | [Check Out](https://docs.sst.dev)                     |
+
 
 ## Payment and Finance APIs
 | **Name**       | **Description**                             | **Official Documentation**                    |
