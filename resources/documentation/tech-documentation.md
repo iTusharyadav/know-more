@@ -41,6 +41,19 @@ https://learn.microsoft.com/en-gb/
 | `Socket.IO`             | 	Real-time, bi-directional communication over WebSockets| [Check Out](https://socket.io/docs/v4/) |
 | `Twilio API `                 | Programmable voice, SMS, WhatsApp, and more | [Check Out](https://www.twilio.com/docs/usage/api) |
 
+## Databases 
+| **Name**               | **Description**                                           | **Official Documentation**                                   |
+|-----------------------------|-----------------------------------------------------------|--------------------------------------------------------------|
+| `Firebase`                  | Backend platform with real-time database and services     | [Check Out](https://firebase.google.com/docs)                |
+| `Firebase Realtime Database`| NoSQL DB with real-time syncing                           | [Check Out](https://firebase.google.com/docs/database)       |
+| `MongoDB`                   | NoSQL document database                                   | [Check Out](https://www.mongodb.com/docs/)                   |
+| `MongoDB Atlas`             | Managed cloud MongoDB DB with API integration             | [Check Out](https://www.mongodb.com/docs/atlas/)             |
+| `MySQL`                     | Open-source relational database                           | [Check Out](https://dev.mysql.com/doc/)                      |
+| `PostgreSQL`                | Advanced open-source relational database                  | [Check Out](https://www.postgresql.org/docs/)                |
+| `PostgreSQL (Heroku)`       | Hosted SQL DB with HTTP API options                       | [Check Out](https://devcenter.heroku.com/articles/heroku-postgresql) |
+| `Redis`                     | In-memory data store used as a database, cache, and broker| [Check Out](https://redis.io/docs/)                          |
+| `SQLite`                    | Lightweight, file-based relational database               | [Check Out](https://sqlite.org/docs.html)                    |
+
 
 ## Developer Tools
 | **Name**       | **Description**                             | **Official Documentation**                    |
