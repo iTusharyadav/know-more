@@ -50,3 +50,4 @@
 | `Open Source Projects`  | Open source projects to contribute as beginners  | [Check Out](projects.md)   |
 | `Other Resources`       | Additional helpful resources or links       | [Check Out](resources.md) |
 
+
