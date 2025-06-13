@@ -2,10 +2,23 @@
 APIs (Application Programming Interfaces) allow different software systems to communicate and exchange data.
 https://learn.microsoft.com/en-gb/
 
-## AI APIs
-| **Name**       | **Description**                             | **Official Documentation**                    |
-|----------------|---------------------------------------------|-----------------------------------------------|
-| `OpenAI API`   | Access AI models like GPT and DALL·E        | [Check Out](https://platform.openai.com/docs/overview) |
+## AI APIs  
+*Cloud-based platforms that provide artificial intelligence capabilities like natural language processing, image generation, or machine learning through accessible APIs.*
+
+| **Technology**         | **Description**                                                                 | **Official Documentation**                                        |
+|------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Anthropic Claude API   | AI assistant focused on safety and reasoning, based on Constitutional AI        | [Check Out](https://docs.anthropic.com/claude)                    |
+| AWS AI & ML Services   | Amazon’s suite of AI services including Comprehend, Lex, Rekognition, etc.      | [Check Out](https://docs.aws.amazon.com/machine-learning/index.html) |
+| Azure Cognitive Services | Microsoft APIs for language, vision, decision-making, and speech              | [Check Out](https://learn.microsoft.com/en-us/azure/cognitive-services/) |
+| Cohere API             | AI API for text generation, classification, and semantic search                 | [Check Out](https://docs.cohere.com/docs)                         |
+| Google AI (Gemini API) | Google's multimodal large language model for vision, text, and code             | [Check Out](https://ai.google.dev/)                               |
+| Hugging Face API       | API access to thousands of open-source AI models across NLP, vision, audio      | [Check Out](https://huggingface.co/docs)                          |
+| IBM Watson API         | APIs for NLP, visual recognition, speech, and assistant capabilities            | [Check Out](https://cloud.ibm.com/docs/watson)                    |
+| Mistral API            | Lightweight and performant open-weight language models                          | [Check Out](https://docs.mistral.ai/)                             |
+| OpenAI API             | Access to GPT, DALL·E, Whisper, and tools like function calling                 | [Check Out](https://platform.openai.com/docs)                     |
+| Stability AI API       | Text-to-image generation API (Stable Diffusion, etc.)                           | [Check Out](https://platform.stability.ai/docs)                   |
+| Together AI API        | Cloud-hosted open-weight models and API gateway for inference                   | [Check Out](https://docs.together.ai/docs)                        |
+
 
 ## Algorithm Libraries / Tools  
 *Libraries and frameworks that help developers implement or optimize algorithms for tasks like sorting, searching, graph traversal, or machine learning.*
