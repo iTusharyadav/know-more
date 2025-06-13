@@ -6,6 +6,20 @@ https://learn.microsoft.com/en-gb/
 | **Name**       | **Description**                             | **Official Documentation**                    |
 |----------------|---------------------------------------------|-----------------------------------------------|
 | `OpenAI API`   | Access AI models like GPT and DALL·E        | [Check Out](https://platform.openai.com/docs/overview) |
+## API Development
+## Algorithm Libraries / Tools  
+*Libraries and frameworks that help developers implement or optimize algorithms for tasks like sorting, searching, graph traversal, or machine learning.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                       |
+|--------------------|------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Apache Commons Math| Java library focused on mathematics and statistics                           | [Check Out](https://commons.apache.org/proper/commons-math/)    |
+| Boost C++ Libraries| Peer-reviewed C++ libraries, including many algorithms and data structures   | [Check Out](https://www.boost.org/doc/)                          |
+| CGAL               | Computational Geometry Algorithms Library for C++                            | [Check Out](https://www.cgal.org/documentation/)                 |
+| NetworkX           | Python package for the creation, manipulation, and study of graph structures | [Check Out](https://networkx.org/documentation/stable/)          |
+| NumPy              | Python library for array processing, linear algebra, and algorithmic tools   | [Check Out](https://numpy.org/doc/)                              |
+| SciPy              | Python-based ecosystem for mathematics, science, and engineering              | [Check Out](https://docs.scipy.org/doc/scipy/)                   |
+| TinkerPop (Apache) | Graph computing framework with traversal algorithms                          | [Check Out](https://tinkerpop.apache.org/docs/current/reference/)|
+
 
 ## Backend Languages & Backend Frameworks 
 | **Name**                 | **Description**                                                     | **Official Documentation**                                                 |
