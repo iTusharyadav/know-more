@@ -6,7 +6,7 @@ https://learn.microsoft.com/en-gb/
 | **Name**       | **Description**                             | **Official Documentation**                    |
 |----------------|---------------------------------------------|-----------------------------------------------|
 | `OpenAI API`   | Access AI models like GPT and DALL·E        | [Check Out](https://platform.openai.com/docs/overview) |
-## API Development
+
 ## Algorithm Libraries / Tools  
 *Libraries and frameworks that help developers implement or optimize algorithms for tasks like sorting, searching, graph traversal, or machine learning.*
 
