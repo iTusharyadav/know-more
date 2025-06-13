@@ -33,6 +33,16 @@ https://learn.microsoft.com/en-gb/
 | SciPy              | Python-based ecosystem for mathematics, science, and engineering              | [Check Out](https://docs.scipy.org/doc/scipy/)                   |
 | TinkerPop (Apache) | Graph computing framework with traversal algorithms                          | [Check Out](https://tinkerpop.apache.org/docs/current/reference/)|
 
+## Android Development  
+*Guides, APIs, and tools for building apps for Android devices, including mobile, tablets, TV, wearables, and the core OS itself.*
+
+| **Technology**                    | **Description**                                                                  | **Official Documentation**                                         |
+|-----------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Android Developers (general)      | Official site for Android app development: guides, samples, tools, and APIs     | [Check Out](https://developer.android.com/develop) :contentReference[oaicite:1]{index=1} |
+| Android OS (AOSP)                 | Documentation for building and contributing to the Android Open Source Project   | [Check Out](https://source.android.com/docs) :contentReference[oaicite:2]{index=2} |
+| Jetpack Compose                   | Declarative UI toolkit for building native Android interfaces in Kotlin         | [Check Out](https://developer.android.com/develop/ui/compose) :contentReference[oaicite:3]{index=3} |
+| Kotlin for Android                | Kotlin-first approach with extensions and tools for Android app development      | [Check Out](https://kotlinlang.org/docs/android-overview.html) :contentReference[oaicite:4]{index=4} |
+
 
 ## Backend Languages & Backend Frameworks 
 | **Name**                 | **Description**                                                     | **Official Documentation**                                                 |
