@@ -1,5 +1,3 @@
-## API 
-APIs (Application Programming Interfaces) allow different software systems to communicate and exchange data.
 https://learn.microsoft.com/en-gb/
 
 ## AI APIs  
@@ -55,6 +53,42 @@ https://learn.microsoft.com/en-gb/
 | Prometheus           | Open-source monitoring system with time-series database and alerting             | [Check Out](https://prometheus.io/docs/introduction/overview/)        |
 | Sentry               | Real-time error tracking, performance monitoring, and release health             | [Check Out](https://docs.sentry.io/)                                  |
 
+## Android Development  
+*Guides, APIs, and tools for building apps for Android devices, including mobile, tablets, TV, wearables, and the core OS itself.*
+
+| **Technology**                    | **Description**                                                                  | **Official Documentation**                                         |
+|-----------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Android Developers (general)      | Official site for Android app development: guides, samples, tools, and APIs     | [Check Out](https://developer.android.com/develop) :contentReference[oaicite:1]{index=1} |
+| Android OS (AOSP)                 | Documentation for building and contributing to the Android Open Source Project   | [Check Out](https://source.android.com/docs) :contentReference[oaicite:2]{index=2} |
+| Jetpack Compose                   | Declarative UI toolkit for building native Android interfaces in Kotlin         | [Check Out](https://developer.android.com/develop/ui/compose) :contentReference[oaicite:3]{index=3} |
+| Kotlin for Android                | Kotlin-first approach with extensions and tools for Android app development      | [Check Out](https://kotlinlang.org/docs/android-overview.html) :contentReference[oaicite:4]{index=4} |
+
+
+## API Development  
+*Tools and platforms that help you create, manage, document, and test APIs (Application Programming Interfaces), which allow software systems to talk to each other.*
+
+| **Technology**           | **Description**                                                                 | **Official Documentation**                                            |
+|--------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| API Blueprint            | High-level language for web API design and documentation                        | [Check Out](https://apiblueprint.org/documentation/)                  |
+| Apicurio                 | Open-source tool for designing and governing APIs using OpenAPI and AsyncAPI    | [Check Out](https://www.apicur.io/learn/)                             |
+| Apigee                   | Google Cloud’s API management and gateway platform                              | [Check Out](https://cloud.google.com/apigee/docs)                     |
+| Appsmith                 | Low-code open-source platform to build dashboards and apps with any API         | [Check Out](https://docs.appsmith.com/)                               |
+| AWS API Gateway          | Fully managed service to create and manage RESTful & WebSocket APIs             | [Check Out](https://docs.aws.amazon.com/apigateway/)                  |
+| Azure API Management     | Microsoft service to publish, secure, and analyze APIs                          | [Check Out](https://learn.microsoft.com/en-us/azure/api-management/)  |
+| Backstage (by Spotify)   | Open platform for building developer portals, API docs, and internal tools      | [Check Out](https://backstage.io/docs)                                |
+| Insomnia                 | API design platform with testing and collaboration features                     | [Check Out](https://docs.insomnia.rest/)                              |
+| Kong                     | Open-source API gateway and management platform                                 | [Check Out](https://docs.konghq.com/)                                 |
+| MuleSoft Anypoint        | Integration platform for APIs and services from Salesforce                      | [Check Out](https://docs.mulesoft.com/)                               |
+| PostgREST                | Serve a RESTful API directly from any PostgreSQL database                       | [Check Out](https://postgrest.org/en/stable/)                         |
+| Postman                  | API development platform for building, testing, and documenting APIs            | [Check Out](https://learning.postman.com/docs/getting-started/introduction/) |
+| RapidAPI                 | Hub for discovering, testing, and connecting to APIs                            | [Check Out](https://docs.rapidapi.com/docs)                           |
+| Redoc                    | OpenAPI-generated documentation using customizable UI                           | [Check Out](https://redocly.com/docs/redoc/)                          |
+| ReDocly                  | Toolkit for managing, linting, and hosting OpenAPI-based API docs               | [Check Out](https://redocly.com/docs/)                                |
+| REST United              | API design platform to automatically generate server/client code & docs         | [Check Out](https://restunited.com/)                                  |
+| Swagger (OpenAPI)        | Standard for API description, testing, and documentation generation             | [Check Out](https://swagger.io/docs/)                                 |
+| Tyk                      | Open-source API gateway and analytics platform                                  | [Check Out](https://tyk.io/docs/)                                     |
+| WSO2 API Manager         | Full lifecycle API management solution                                          | [Check Out](https://apim.docs.wso2.com/en/latest/)                    |
+
 
 ## Authentication & Authorization  
 *Tools and services used to handle user identity, login, sign-up, permissions, and secure access control in applications.*
@@ -73,15 +107,6 @@ https://learn.microsoft.com/en-gb/
 | Supabase Auth      | Open-source Firebase alternative with JWT-based authentication                     | [Check Out](https://supabase.com/docs/guides/auth)                     |
 
 
-## Android Development  
-*Guides, APIs, and tools for building apps for Android devices, including mobile, tablets, TV, wearables, and the core OS itself.*
-
-| **Technology**                    | **Description**                                                                  | **Official Documentation**                                         |
-|-----------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| Android Developers (general)      | Official site for Android app development: guides, samples, tools, and APIs     | [Check Out](https://developer.android.com/develop) :contentReference[oaicite:1]{index=1} |
-| Android OS (AOSP)                 | Documentation for building and contributing to the Android Open Source Project   | [Check Out](https://source.android.com/docs) :contentReference[oaicite:2]{index=2} |
-| Jetpack Compose                   | Declarative UI toolkit for building native Android interfaces in Kotlin         | [Check Out](https://developer.android.com/develop/ui/compose) :contentReference[oaicite:3]{index=3} |
-| Kotlin for Android                | Kotlin-first approach with extensions and tools for Android app development      | [Check Out](https://kotlinlang.org/docs/android-overview.html) :contentReference[oaicite:4]{index=4} |
 
 
 ## Backend Languages & Backend Frameworks 
