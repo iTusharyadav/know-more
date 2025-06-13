@@ -33,6 +33,29 @@ https://learn.microsoft.com/en-gb/
 | SciPy              | Python-based ecosystem for mathematics, science, and engineering              | [Check Out](https://docs.scipy.org/doc/scipy/)                   |
 | TinkerPop (Apache) | Graph computing framework with traversal algorithms                          | [Check Out](https://tinkerpop.apache.org/docs/current/reference/)|
 
+## Analytics & Monitoring Tools  
+*Platforms and tools used to collect, analyze, and visualize data about application performance, user behavior, system health, and more.*
+
+| **Technology**       | **Description**                                                                 | **Official Documentation**                                             |
+|----------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Amplitude            | Product analytics platform for tracking user behavior and retention             | [Check Out](https://www.docs.developers.amplitude.com/)               |
+| AppDynamics          | Application performance monitoring and observability solution by Cisco           | [Check Out](https://docs.appdynamics.com/)                            |
+| AWS CloudWatch       | Monitoring and observability service for AWS infrastructure and apps             | [Check Out](https://docs.aws.amazon.com/cloudwatch/)                  |
+| Azure Monitor         | Microsoft Azure’s tool for monitoring infrastructure, apps, and network         | [Check Out](https://learn.microsoft.com/en-us/azure/azure-monitor/)   |
+| Clicky               | Real-time web analytics tool with heatmaps and goal tracking                     | [Check Out](https://clicky.com/help/)                                 |
+| Datadog              | Cloud-scale monitoring for infrastructure, applications, logs, and metrics       | [Check Out](https://docs.datadoghq.com/)                              |
+| Dynatrace            | AI-powered observability platform for modern cloud environments                  | [Check Out](https://www.dynatrace.com/support/help/)                  |
+| Elastic APM          | Real-time application performance monitoring in the Elastic Stack                | [Check Out](https://www.elastic.co/guide/en/apm/get-started/index.html)|
+| Firebase Analytics   | Google’s free app analytics for iOS and Android                                 | [Check Out](https://firebase.google.com/docs/analytics)               |
+| Google Analytics     | Web analytics service to track website traffic and user behavior                 | [Check Out](https://support.google.com/analytics/answer/1008015)      |
+| Grafana              | Open-source analytics & interactive visualization web app                        | [Check Out](https://grafana.com/docs/grafana/latest/)                 |
+| Heap Analytics       | Automatically captures user interactions for web & mobile apps                   | [Check Out](https://docs.heap.io/docs)                                |
+| Mixpanel             | Product analytics focused on user engagement and behavior                        | [Check Out](https://docs.mixpanel.com/docs/)                          |
+| New Relic            | Real-time observability platform for infrastructure, applications, and logs      | [Check Out](https://docs.newrelic.com/)                               |
+| Prometheus           | Open-source monitoring system with time-series database and alerting             | [Check Out](https://prometheus.io/docs/introduction/overview/)        |
+| Sentry               | Real-time error tracking, performance monitoring, and release health             | [Check Out](https://docs.sentry.io/)                                  |
+
+
 ## Authentication & Authorization  
 *Tools and services used to handle user identity, login, sign-up, permissions, and secure access control in applications.*
 
