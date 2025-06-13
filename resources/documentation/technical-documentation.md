@@ -33,6 +33,23 @@ https://learn.microsoft.com/en-gb/
 | SciPy              | Python-based ecosystem for mathematics, science, and engineering              | [Check Out](https://docs.scipy.org/doc/scipy/)                   |
 | TinkerPop (Apache) | Graph computing framework with traversal algorithms                          | [Check Out](https://tinkerpop.apache.org/docs/current/reference/)|
 
+## Authentication & Authorization  
+*Tools and services used to handle user identity, login, sign-up, permissions, and secure access control in applications.*
+
+| **Technology**     | **Description**                                                                    | **Official Documentation**                                              |
+|--------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Auth0              | Identity platform offering login, SSO, social logins, and token-based auth         | [Check Out](https://auth0.com/docs)                                    |
+| AWS Cognito        | AWS service for user sign-up, sign-in, and access control                          | [Check Out](https://docs.aws.amazon.com/cognito/)                      |
+| Azure AD B2C       | Azure's identity service for managing external customer identities                 | [Check Out](https://learn.microsoft.com/en-us/azure/active-directory-b2c/) |
+| Firebase Authentication | Backend service to authenticate users using passwords, phone, and providers | [Check Out](https://firebase.google.com/docs/auth)                     |
+| FusionAuth         | Complete user management platform with authentication and security features        | [Check Out](https://fusionauth.io/docs)                                |
+| Keycloak           | Open-source identity and access management platform                                | [Check Out](https://www.keycloak.org/documentation.html)              |
+| OAuth 2.0          | Protocol for secure delegated access, used by many auth systems                    | [Check Out](https://oauth.net/2/)                                      |
+| Okta               | Enterprise-grade identity and access management service                            | [Check Out](https://developer.okta.com/docs/)                          |
+| Passport.js        | Middleware for Node.js for user authentication with strategies (Google, Facebook)  | [Check Out](http://www.passportjs.org/docs/)                           |
+| Supabase Auth      | Open-source Firebase alternative with JWT-based authentication                     | [Check Out](https://supabase.com/docs/guides/auth)                     |
+
+
 ## Android Development  
 *Guides, APIs, and tools for building apps for Android devices, including mobile, tablets, TV, wearables, and the core OS itself.*
 
