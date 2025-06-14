@@ -152,8 +152,31 @@ https://learn.microsoft.com/en-gb/
 | Bootstrap 5.x     | Latest version featuring RTL support, CSS variables, and drop-in JS    | [Check Out](https://getbootstrap.com/docs/5.3/getting-started/introduction/) :contentReference[oaicite:4]{index=4} |
 | Bootstrap Studio  | Visual web design tool based on Bootstrap                             | [Check Out](https://bootstrapstudio.io/docs/) :contentReference[oaicite:5]{index=5} |
 
+## Browser Testing Tools  
+*Frameworks and platforms used to automate testing of web applications across browsers and devices.*
+
+| **Technology**     | **Description**                                                             | **Official Documentation**                                               |
+|--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| BrowserStack       | Cloud-based platform for cross-browser and cross-device testing             | [Check Out](https://www.browserstack.com/docs)                           |
+| Cypress            | JavaScript-based end-to-end testing framework for web applications          | [Check Out](https://docs.cypress.io/)                                    |
+| Playwright         | Framework by Microsoft for automated browser testing with multiple engines  | [Check Out](https://playwright.dev/docs/intro)                           |
+| Puppeteer          | Headless Chrome Node.js API for browser automation                          | [Check Out](https://pptr.dev/)                                           |
+| Selenium           | Widely used open-source web automation framework                           | [Check Out](https://www.selenium.dev/documentation/)                     |
+| TestCafe           | Node.js tool for automated web testing without browser plugins              | [Check Out](https://testcafe.io/documentation)                           |
 
 
+## Business Intelligence (BI) Tools  
+*Platforms and tools used to analyze data and provide actionable insights through dashboards, reports, and visualizations.*
+
+| **Technology**     | **Description**                                                         | **Official Documentation**                                                |
+|--------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Apache Superset    | Open-source modern BI and data exploration platform                     | [Check Out](https://superset.apache.org/docs/intro)                      |
+| Google Data Studio | Free tool for turning data into customizable informative reports        | [Check Out](https://support.google.com/looker-studio/answer/6283323)     |
+| Looker             | Modern business intelligence and data exploration platform by Google     | [Check Out](https://cloud.google.com/looker/docs)                        |
+| Metabase           | Open-source BI tool for dashboards, charts, and data queries             | [Check Out](https://www.metabase.com/docs/latest/)                       |
+| Microsoft Power BI | Business analytics solution for interactive visualizations and reports   | [Check Out](https://learn.microsoft.com/power-bi/fundamentals/)          |
+| Qlik Sense         | Data analytics platform with associative data engine and smart AI        | [Check Out](https://help.qlik.com/en-US/sense/February2024/Content/Sense_Helpsites/Welcome.htm) |
+| Tableau            | Visual analytics platform for interactive dashboards and data exploration| [Check Out](https://help.tableau.com/current/guides/e-learning/en-us/whatis.htm) |
 
 
 ## Compiler
