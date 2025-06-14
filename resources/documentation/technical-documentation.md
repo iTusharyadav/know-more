@@ -152,6 +152,63 @@ https://learn.microsoft.com/en-gb/
 | Bootstrap 5.x     | Latest version featuring RTL support, CSS variables, and drop-in JS    | [Check Out](https://getbootstrap.com/docs/5.3/getting-started/introduction/) :contentReference[oaicite:4]{index=4} |
 | Bootstrap Studio  | Visual web design tool based on Bootstrap                             | [Check Out](https://bootstrapstudio.io/docs/) :contentReference[oaicite:5]{index=5} |
 
+## Big Data  
+*Technologies and frameworks used for processing, analyzing, and storing large-scale datasets, often in distributed environments.*
+
+| **Technology**         | **Description**                                                                | **Official Documentation**                                               |
+|------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Apache Hadoop          | Distributed storage and processing framework based on HDFS and MapReduce      | [Check Out](https://hadoop.apache.org/)                                  |
+| Apache Hive            | Data warehouse software built on Hadoop for querying and managing big data    | [Check Out](https://cwiki.apache.org/confluence/display/Hive/Home)       |
+| Apache Spark           | Unified analytics engine for large-scale data processing with in-memory speed | [Check Out](https://spark.apache.org/docs/latest/)                       |
+| Dask                   | Flexible parallel computing library in Python for advanced analytics           | [Check Out](https://docs.dask.org/en/stable/)                            |
+| Google BigQuery        | Serverless, highly scalable data warehouse solution                            | [Check Out](https://cloud.google.com/bigquery/docs)                      |
+| Oracle Big Data Service| Managed Hadoop and Spark environment in Oracle Cloud                          | [Check Out](https://docs.oracle.com/en-us/iaas/Content/bigdata/overview.htm) |
+| Presto / Trino         | Distributed SQL query engine for big data                                     | [Check Out](https://trino.io/docs/current/)                              |
+
+
+## Blockchain  
+*Decentralized technologies and frameworks used to build distributed ledgers, smart contracts, and secure peer-to-peer systems.*
+
+| **Technology**               | **Description**                                                                  | **Official Documentation**                                              |
+|------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Amazon Managed Blockchain    | AWS service to create and manage scalable blockchain networks                   | [Check Out](https://docs.aws.amazon.com/managed-blockchain/)           |
+| Bitcoin Developer Docs       | Guides and technical reference for the Bitcoin protocol                         | [Check Out](https://developer.bitcoin.org/devguide/)                   |
+| Corda                        | Enterprise-grade distributed ledger platform from R3                            | [Check Out](https://docs.r3.com/en/platform/corda/5.0/)                |
+| Ethereum                    | Decentralized platform for smart contracts                                       | [Check Out](https://ethereum.org/en/developers/docs/)                  |
+| Hyperledger Fabric           | Modular blockchain framework for enterprise solutions                           | [Check Out](https://hyperledger-fabric.readthedocs.io/en/latest/)      |
+| Multichain                   | Open platform for blockchain applications                                       | [Check Out](https://www.multichain.com/developers/)                    |
+| Polkadot                     | Platform for building interoperable blockchains (parachains)                    | [Check Out](https://docs.polkadot.network/)                            |
+| Solana                       | High-performance blockchain supporting fast, scalable decentralized apps        | [Check Out](https://docs.solana.com/)                                  |
+| Solidity                     | Contract-oriented language for writing smart contracts on Ethereum              | [Check Out](https://docs.soliditylang.org/)                            |
+| TON Blockchain               | Blockchain network originally developed by Telegram                             | [Check Out](https://docs.ton.org/)                                     |
+
+
+## Build Tools  
+*Utilities that help automate compiling, bundling, transpiling, and other tasks involved in building and deploying software.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                            |
+|--------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Babel              | JavaScript compiler for writing modern JS and converting it for older browsers | [Check Out](https://babeljs.io/docs/en/)                            |
+| Bazel              | Fast, scalable build system from Google                                | [Check Out](https://bazel.build/)                                     |
+| Gulp               | JavaScript task runner for automating development workflows            | [Check Out](https://gulpjs.com/docs/en/getting-started/quick-start)   |
+| Grunt              | JavaScript task runner used for automation of repetitive tasks         | [Check Out](https://gruntjs.com/getting-started)                      |
+| Make               | Classic Unix tool to control compilation and build processes           | [Check Out](https://www.gnu.org/software/make/manual/make.html)       |
+| Parcel             | Zero-config web application bundler                                    | [Check Out](https://parceljs.io/docs/)                                |
+| Turborepo          | High-performance monorepo build system                                 | [Check Out](https://turbo.build/repo/docs)                            |
+| Vite               | Fast frontend build tool with hot module replacement                   | [Check Out](https://vitejs.dev/guide/)                                |
+| Webpack            | Popular module bundler for JavaScript apps                             | [Check Out](https://webpack.js.org/concepts/)                         |
+
+
+## Browser Engines  
+*Core software components responsible for rendering web pages and interpreting HTML, CSS, and JavaScript.*
+
+| **Technology**   | **Description**                                                             | **Official Documentation**                                                   |
+|------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Blink            | Open-source rendering engine developed by Google and used in Chromium       | [Check Out](https://www.chromium.org/blink/)                                 |
+| Gecko            | Mozilla's layout engine used in Firefox                                     | [Check Out](https://developer.mozilla.org/en-US/docs/Mozilla/Gecko)         |
+| WebKit           | Browser engine used by Safari and previously by Chrome                      | [Check Out](https://webkit.org/)                                             |
+
+
 ## Browser Testing Tools  
 *Frameworks and platforms used to automate testing of web applications across browsers and devices.*
 
