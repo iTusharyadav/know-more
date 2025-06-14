@@ -106,6 +106,21 @@ https://learn.microsoft.com/en-gb/
 | Passport.js        | Middleware for Node.js for user authentication with strategies (Google, Facebook)  | [Check Out](http://www.passportjs.org/docs/)                           |
 | Supabase Auth      | Open-source Firebase alternative with JWT-based authentication                     | [Check Out](https://supabase.com/docs/guides/auth)                     |
 
+## Backend Development  
+*Frameworks and environments for building server‑side applications, handling business logic, databases, APIs, and integrations.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                             |
+|--------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| .NET Core          | Cross‑platform, high‑performance .NET runtime for backend services           | [Check Out](https://learn.microsoft.com/dotnet/core/)                   |
+| Express.js         | Minimalist web framework for Node.js                                         | [Check Out](https://expressjs.com/en/starter/installing.html)           |
+| Flask              | Lightweight Python web framework                                             | [Check Out](https://flask.palletsprojects.com/en/latest/)               |
+| Laravel            | Elegant PHP web framework                                                    | [Check Out](https://laravel.com/docs)                                   |
+| NestJS             | Progressive Node.js framework built with TypeScript                          | [Check Out](https://docs.nestjs.com/)                                   |
+| Ruby on Rails      | Full-stack web framework for Ruby                                            | [Check Out](https://guides.rubyonrails.org/)                            |
+| Spring Framework   | Comprehensive Java framework for enterprise applications                     | [Check Out](https://docs.spring.io/spring-framework/reference/index.html) |
+| Strapi             | Open‑source headless CMS & API builder                                       | [Check Out](https://docs.strapi.io/)                                    |
+| Symfony            | PHP framework with reusable components and APIs                              | [Check Out](https://symfony.com/doc/current/index.html)                 |
+
 
 
 
@@ -126,6 +141,20 @@ https://learn.microsoft.com/en-gb/
 | `PHP`                    | General-purpose scripting language for web development             | [Check Out](https://www.php.net/docs.php)                                  |
 | `Ruby on Rails`          | Full-stack web application framework written in Ruby               | [Check Out](https://guides.rubyonrails.org)                                |
 | `Spring Boot (Java)`     | Framework for creating stand-alone, production-grade Spring apps   | [Check Out](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) |
+
+## Bootstrap (UI Framework)  
+*Front‑end toolkit for building responsive websites using pre‑built HTML, CSS, and JS components.*
+
+| **Technology**    | **Description**                                                         | **Official Documentation**                                        |
+|-------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Bootstrap 3.x     | Legacy responsive front‑end framework using Bootstrap CSS/JS components | [Check Out](https://getbootstrap.com/docs/3.4/css/) :contentReference[oaicite:2]{index=2} |
+| Bootstrap 4.x     | Updated version with improved grid and Flexbox utilities               | [Check Out](https://getbootstrap.com/docs/4.6/getting-started/introduction/) :contentReference[oaicite:3]{index=3} |
+| Bootstrap 5.x     | Latest version featuring RTL support, CSS variables, and drop-in JS    | [Check Out](https://getbootstrap.com/docs/5.3/getting-started/introduction/) :contentReference[oaicite:4]{index=4} |
+| Bootstrap Studio  | Visual web design tool based on Bootstrap                             | [Check Out](https://bootstrapstudio.io/docs/) :contentReference[oaicite:5]{index=5} |
+
+
+
+
 
 ## Compiler
 | **Name**   | **Description**                                      | **Official Documentation**                   |
