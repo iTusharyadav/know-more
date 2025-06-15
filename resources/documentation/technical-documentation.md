@@ -288,6 +288,37 @@ https://learn.microsoft.com/en-gb/
 | Umbraco            | Open-source .NET CMS used for building custom web apps                      | [Check Out](https://docs.umbraco.com/)                                  |
 | WordPress          | Widely-used CMS for blogging and website building                           | [Check Out](https://developer.wordpress.org/)                           |
 
+## Compilers  
+*Tools that convert source code written in high-level programming languages into machine code or intermediate code.*
+
+| **Technology**       | **Description**                                                                | **Official Documentation**                                             |
+|----------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Clang                | C, C++, and Objective-C compiler based on LLVM                                 | [Check Out](https://clang.llvm.org/docs/index.html)                   |
+| GCC (GNU Compiler)   | Standard compiler for C, C++, and other languages                              | [Check Out](https://gcc.gnu.org/onlinedocs/)                          |
+| Kotlin Compiler      | Compiler for the Kotlin programming language                                   | [Check Out](https://kotlinlang.org/docs/command-line.html)            |
+| NVCC                 | NVIDIA CUDA Compiler for parallel computing                                    | [Check Out](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/)  |
+| Rustc                | Official compiler for the Rust programming language                            | [Check Out](https://doc.rust-lang.org/rustc/index.html)               |
+| Scala Compiler       | Compiler for the Scala language                                                | [Check Out](https://docs.scala-lang.org/scala3/guides/migration/tooling-tour.html) |
+| Swift Compiler       | Compiler for Apple’s Swift programming language                                | [Check Out](https://www.swift.org/documentation/#the-swift-compiler)  |
+| TypeScript Compiler  | Transpiles TypeScript into JavaScript                                          | [Check Out](https://www.typescriptlang.org/docs/handbook/compiler-options.html) |
+
+## Communication / Messaging APIs  
+*APIs and platforms that enable real-time communication like SMS, chat, email, and video calling.*
+
+| **Technology**     | **Description**                                                               | **Official Documentation**                                               |
+|--------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Bandwidth          | Voice, messaging, and 911 access APIs for apps                                | [Check Out](https://dev.bandwidth.com/)                                 |
+| Brevo (formerly Sendinblue) | Email and SMS messaging platform with marketing tools                  | [Check Out](https://developers.brevo.com/docs)                          |
+| MessageBird        | Omnichannel messaging platform (SMS, WhatsApp, Email, Voice)                  | [Check Out](https://developers.messagebird.com/)                        |
+| Nexmo (Vonage API) | Voice, SMS, and phone verification services                                   | [Check Out](https://developer.vonage.com/)                              |
+| PubNub             | Real-time data push, chat, and IoT connectivity                               | [Check Out](https://www.pubnub.com/docs/)                               |
+| Pusher             | Real-time APIs for websockets, chat, and notifications                        | [Check Out](https://pusher.com/docs)                                    |
+| Rocket.Chat        | Open-source team chat platform with REST & Realtime APIs                      | [Check Out](https://docs.rocket.chat/)                                  |
+| SendGrid           | Cloud-based email delivery service by Twilio                                  | [Check Out](https://docs.sendgrid.com/)                                 |
+| Socket.IO          | JavaScript library for real-time web apps via WebSocket transport             | [Check Out](https://socket.io/docs/)                                    |
+| Twilio             | Cloud communication platform for SMS, voice, video, and chat                  | [Check Out](https://www.twilio.com/docs)                                |
+| WhatsApp Cloud API | Official API for integrating WhatsApp messaging into apps                     | [Check Out](https://developers.facebook.com/docs/whatsapp/)             |
+
 
 ## Compiler
 | **Name**   | **Description**                                      | **Official Documentation**                   |
