@@ -335,6 +335,26 @@ https://learn.microsoft.com/en-gb/
 | `Socket.IO`    | Real-time, bi-directional communication over WebSockets     | [Check Out](https://socket.io/docs/v4/)            |
 | `Twilio API`   | Programmable voice, SMS, WhatsApp, and more                 | [Check Out](https://www.twilio.com/docs/usage/api) |
 
+
+## Data Analysis & Visualization Tools  
+*Libraries and platforms used to analyze, process, and visually represent data for insights.*
+
+| **Technology**     | **Description**                                                                | **Official Documentation**                                               |
+|--------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Apache Superset    | Modern data exploration and visualization platform                             | [Check Out](https://superset.apache.org/docs/intro)                     |
+| Bokeh              | Interactive visualization library for Python                                   | [Check Out](https://docs.bokeh.org/en/latest/)                          |
+| D3.js              | JavaScript library for producing dynamic, interactive data visualizations      | [Check Out](https://d3js.org/)                                          |
+| Grafana            | Open-source analytics and monitoring platform                                  | [Check Out](https://grafana.com/docs/)                                  |
+| Kibana             | Visualization tool for Elasticsearch data                                      | [Check Out](https://www.elastic.co/guide/en/kibana/current/index.html)  |
+| Matplotlib         | Plotting library for Python                                                    | [Check Out](https://matplotlib.org/stable/contents.html)                |
+| Metabase           | Open-source BI tool for data visualization                                     | [Check Out](https://www.metabase.com/docs/latest/)                      |
+| Plotly             | Graphing libraries for Python, R, and JavaScript                               | [Check Out](https://plotly.com/python/)                                 |
+| Power BI           | Microsoft’s interactive data visualization tool                                | [Check Out](https://learn.microsoft.com/en-us/power-bi/)                |
+| Redash             | Open-source tool for querying and visualizing data                             | [Check Out](https://redash.io/help/user-guide/)                         |
+| Seaborn            | Python visualization library based on matplotlib                               | [Check Out](https://seaborn.pydata.org/)                                |
+| Tableau            | Popular commercial data visualization software                                 | [Check Out](https://help.tableau.com/current/guides/e-learning/en-us/tableau_overview.htm) |
+
+
 ## Databases 
 | **Name**                    | **Description**                                                | **Official Documentation**                                     |
 |-----------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
