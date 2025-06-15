@@ -254,6 +254,25 @@ https://learn.microsoft.com/en-gb/
 | TeamCity            | JetBrains CI/CD tool for professional developers                          | [Check Out](https://www.jetbrains.com/teamcity/documentation/)          |
 | Travis CI           | CI/CD system used to build and test software hosted on GitHub             | [Check Out](https://docs.travis-ci.com/)                                |
 
+## Cloud Platforms  
+*Infrastructure and services that allow users to build, deploy, and scale applications via the internet.*
+
+| **Technology**     | **Description**                                                               | **Official Documentation**                                               |
+|--------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Alibaba Cloud      | Leading cloud computing service provider in Asia                              | [Check Out](https://www.alibabacloud.com/help)                          |
+| Amazon Web Services (AWS) | Comprehensive cloud platform with compute, storage, and other services         | [Check Out](https://docs.aws.amazon.com/)                               |
+| DigitalOcean       | Cloud computing platform for developers with simplified infrastructure         | [Check Out](https://docs.digitalocean.com/)                             |
+| Google Cloud Platform (GCP) | Google’s cloud platform offering compute, storage, and AI services               | [Check Out](https://cloud.google.com/docs)                              |
+| Heroku             | Platform-as-a-Service (PaaS) for deploying and managing applications           | [Check Out](https://devcenter.heroku.com/)                              |
+| IBM Cloud          | IBM’s hybrid cloud platform with AI and IoT integrations                       | [Check Out](https://cloud.ibm.com/docs)                                 |
+| Linode             | Developer-friendly cloud hosting platform                                     | [Check Out](https://www.linode.com/docs/)                               |
+| Microsoft Azure    | Cloud services for computing, analytics, storage, and networking               | [Check Out](https://learn.microsoft.com/en-us/azure/)                   |
+| Netlify            | Platform for frontend deployment and serverless functions                      | [Check Out](https://docs.netlify.com/)                                  |
+| Oracle Cloud       | Enterprise-grade cloud solutions from Oracle                                   | [Check Out](https://docs.oracle.com/en/cloud/)                          |
+| Render             | Cloud platform to host web apps, static sites, and APIs                        | [Check Out](https://docs.render.com/)                                   |
+| Vercel             | Frontend cloud platform for static sites and serverless functions              | [Check Out](https://vercel.com/docs)                                    |
+
+
 ## CMS (Content Management Systems)  
 *Platforms used to create, manage, and modify digital content — often without needing to write code.*
 
