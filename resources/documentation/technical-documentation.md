@@ -236,6 +236,40 @@ https://learn.microsoft.com/en-gb/
 | Tableau            | Visual analytics platform for interactive dashboards and data exploration| [Check Out](https://help.tableau.com/current/guides/e-learning/en-us/whatis.htm) |
 
 
+## CI/CD Tools  
+*Continuous Integration and Continuous Deployment tools automate building, testing, and deploying applications.*
+
+| **Technology**      | **Description**                                                           | **Official Documentation**                                               |
+|---------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| AppVeyor            | CI/CD service mainly for Windows-based applications                       | [Check Out](https://www.appveyor.com/docs/)                             |
+| Argo CD             | Declarative GitOps CD tool for Kubernetes                                 | [Check Out](https://argo-cd.readthedocs.io/en/stable/)                  |
+| Azure DevOps        | CI/CD, version control, and agile tools by Microsoft                      | [Check Out](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops) |
+| Bitbucket Pipelines | Built-in CI/CD service in Bitbucket cloud                                 | [Check Out](https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-bitbucket-pipelines/) |
+| Buddy               | CI/CD and DevOps automation platform with visual workflows                | [Check Out](https://docs.buddy.works/)                                  |
+| CircleCI            | Modern CI/CD platform optimized for performance and developer productivity| [Check Out](https://circleci.com/docs/)                                  |
+| Codefresh           | GitOps-based CI/CD tool for Kubernetes                                    | [Check Out](https://codefresh.io/docs/)                                 |
+| GitHub Actions      | Automate workflows directly in your GitHub repository                     | [Check Out](https://docs.github.com/en/actions)                         |
+| GitLab CI/CD        | Integrated CI/CD in GitLab platform                                       | [Check Out](https://docs.gitlab.com/ee/ci/)                             |
+| Jenkins             | Open-source automation server with plugins for building and deploying     | [Check Out](https://www.jenkins.io/doc/)                                |
+| TeamCity            | JetBrains CI/CD tool for professional developers                          | [Check Out](https://www.jetbrains.com/teamcity/documentation/)          |
+| Travis CI           | CI/CD system used to build and test software hosted on GitHub             | [Check Out](https://docs.travis-ci.com/)                                |
+
+## CMS (Content Management Systems)  
+*Platforms used to create, manage, and modify digital content — often without needing to write code.*
+
+| **Technology**     | **Description**                                                             | **Official Documentation**                                               |
+|--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Contentful         | Headless CMS for structured content management                              | [Check Out](https://www.contentful.com/developers/docs/)                |
+| Directus           | Open-source headless CMS for managing SQL database content                  | [Check Out](https://docs.directus.io/)                                  |
+| Drupal             | Flexible open-source CMS with a powerful module system                      | [Check Out](https://www.drupal.org/docs)                                |
+| Ghost              | Headless Node.js CMS for blogs and publications                             | [Check Out](https://ghost.org/docs/)                                    |
+| Joomla             | Open-source CMS known for its extensibility                                 | [Check Out](https://docs.joomla.org/Main_Page)                          |
+| Sanity             | Headless CMS designed for structured content with real-time collaboration   | [Check Out](https://www.sanity.io/docs)                                 |
+| Strapi             | Open-source headless CMS built with Node.js                                 | [Check Out](https://docs.strapi.io/)                                    |
+| Umbraco            | Open-source .NET CMS used for building custom web apps                      | [Check Out](https://docs.umbraco.com/)                                  |
+| WordPress          | Widely-used CMS for blogging and website building                           | [Check Out](https://developer.wordpress.org/)                           |
+
+
 ## Compiler
 | **Name**   | **Description**                                      | **Official Documentation**                   |
 |------------|------------------------------------------------------|----------------------------------------------|
