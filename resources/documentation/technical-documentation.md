@@ -354,6 +354,21 @@ https://learn.microsoft.com/en-gb/
 | Seaborn            | Python visualization library based on matplotlib                               | [Check Out](https://seaborn.pydata.org/)                                |
 | Tableau            | Popular commercial data visualization software                                 | [Check Out](https://help.tableau.com/current/guides/e-learning/en-us/tableau_overview.htm) |
 
+## Data Engineering Tools  
+*Frameworks and services used to collect, transform, and manage large-scale data systems.*
+
+| **Technology**     | **Description**                                                      | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|
+| Airbyte            | Open-source data integration engine                                  | [Check Out](https://docs.airbyte.com/)                             |
+| Apache Beam        | Unified model for defining batch and streaming data processing jobs | [Check Out](https://beam.apache.org/documentation/)                |
+| Apache Flink       | Stream-processing framework for distributed, high-performing apps    | [Check Out](https://nightlies.apache.org/flink/flink-docs-master/)|
+| Apache Kafka       | Distributed event streaming platform                                 | [Check Out](https://kafka.apache.org/documentation/)              |
+| Apache NiFi        | Data routing, transformation, and system mediation logic             | [Check Out](https://nifi.apache.org/docs.html)                    |
+| dbt (Data Build Tool)| Transform data in your warehouse via SQL                          | [Check Out](https://docs.getdbt.com/)                              |
+| Google Dataflow    | Serverless data processing by Google (built on Apache Beam)          | [Check Out](https://cloud.google.com/dataflow/docs)                |
+| Prefect            | Workflow orchestration for data pipelines                            | [Check Out](https://docs.prefect.io/)                              |
+| StreamSets         | Data integration platform for building smart data pipelines          | [Check Out](https://docs.streamsets.com/)                          |
+
 
 ## Databases 
 | **Name**                    | **Description**                                                | **Official Documentation**                                     |
