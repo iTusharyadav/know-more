@@ -384,6 +384,28 @@ https://learn.microsoft.com/en-gb/
 | VisPy              | High-performance interactive 2D/3D data visualization based on OpenGL    | [Check Out](https://vispy.org/)                                    |
 
 
+## Database Management Systems (DBMS)  
+*Systems used to store, retrieve, and manage data in structured or unstructured formats.*
+
+| **Technology**     | **Description**                                                            | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Cassandra          | Distributed NoSQL DB designed to handle large amounts of data              | [Check Out](https://cassandra.apache.org/doc/latest/)              |
+| CockroachDB        | Cloud-native SQL database built to survive failures                        | [Check Out](https://www.cockroachlabs.com/docs/)                   |
+| Couchbase          | NoSQL database with key-value and document access models                   | [Check Out](https://docs.couchbase.com/home/index.html)            |
+| CouchDB            | Document-oriented NoSQL database that uses JSON to store data              | [Check Out](https://docs.couchdb.org/en/stable/)                   |
+| Firebase Realtime Database | NoSQL cloud database for building real-time apps                 | [Check Out](https://firebase.google.com/docs/database)             |
+| IBM Db2            | Relational database by IBM for transactional and analytical workloads      | [Check Out](https://www.ibm.com/docs/en/db2)                       |
+| MariaDB            | Community-developed fork of MySQL                                          | [Check Out](https://mariadb.com/kb/en/documentation/)              |
+| Microsoft SQL Server | Relational DBMS developed by Microsoft                                  | [Check Out](https://learn.microsoft.com/en-us/sql/sql-server/)     |
+| MongoDB            | NoSQL document-based database                                              | [Check Out](https://www.mongodb.com/docs/)                         |
+| MySQL              | Popular open-source relational database                                    | [Check Out](https://dev.mysql.com/doc/)                            |
+| Neo4j              | Graph database that uses Cypher query language                             | [Check Out](https://neo4j.com/docs/)                               |
+| Oracle Database    | Multi-model database management system by Oracle                           | [Check Out](https://docs.oracle.com/en/database/)                  |
+| PostgreSQL         | Advanced open-source relational database                                   | [Check Out](https://www.postgresql.org/docs/)                      |
+| Redis              | In-memory key-value store, used as a database, cache, and message broker   | [Check Out](https://redis.io/docs/)                                |
+| SQLite             | Lightweight, embedded relational database                                  | [Check Out](https://sqlite.org/docs.html)                          |
+
+
 ## Databases 
 | **Name**                    | **Description**                                                | **Official Documentation**                                     |
 |-----------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
