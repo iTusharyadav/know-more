@@ -441,6 +441,18 @@ https://learn.microsoft.com/en-gb/
 | VuePress           | Vue-powered static site generator for technical docs                        | [Check Out](https://vuepress.vuejs.org/guide/)                     |
 | Zola               | Fast static site generator in a single binary                               | [Check Out](https://www.getzola.org/documentation/)                |
 
+## DSLs (Domain-Specific Languages)  
+*Programming or scripting languages specialized for a particular application domain.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| GraphQL SDL        | Schema definition language for GraphQL APIs                            | [Check Out](https://graphql.org/learn/schema/)                     |
+| Gherkin            | DSL used in Behavior Driven Development (BDD) with Cucumber            | [Check Out](https://cucumber.io/docs/gherkin/)                     |
+| HCL (HashiCorp Configuration Language) | DSL used for infrastructure-as-code with Terraform      | [Check Out](https://developer.hashicorp.com/terraform/language)    |
+| PromQL             | Query language for Prometheus monitoring system                         | [Check Out](https://prometheus.io/docs/prometheus/latest/querying/basics/) |
+| Rego               | Policy language used in Open Policy Agent (OPA)                         | [Check Out](https://www.openpolicyagent.org/docs/latest/policy-language/) |
+| SQL                | Domain-specific language for managing and querying relational databases | [Check Out](https://www.w3schools.com/sql/)                        |
+
 
 ## Databases 
 | **Name**                    | **Description**                                                | **Official Documentation**                                     |
