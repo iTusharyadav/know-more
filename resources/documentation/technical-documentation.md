@@ -369,6 +369,20 @@ https://learn.microsoft.com/en-gb/
 | Prefect            | Workflow orchestration for data pipelines                            | [Check Out](https://docs.prefect.io/)                              |
 | StreamSets         | Data integration platform for building smart data pipelines          | [Check Out](https://docs.streamsets.com/)                          |
 
+## Data Science / Analysis Libraries  
+*Libraries and frameworks used for exploring, visualizing, and analyzing data.*
+
+| **Technology**     | **Description**                                                          | **Official Documentation**                                         |
+|--------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Dask               | Parallel computing library for analytics workloads                       | [Check Out](https://docs.dask.org/en/stable/)                      |
+| Orange             | Data mining and machine learning suite with visual programming           | [Check Out](https://orangedatamining.com/docs/)                    |
+| Pandas             | Python data analysis and manipulation library                            | [Check Out](https://pandas.pydata.org/docs/)                       |
+| Plotly             | Graphing and visualization libraries for Python, JS, R, etc.             | [Check Out](https://plotly.com/python/)                            |
+| Polars             | Lightning-fast DataFrame library in Rust and Python                      | [Check Out](https://docs.pola.rs/)                                 |
+| RAPIDS             | GPU-accelerated data science libraries built on CUDA                     | [Check Out](https://docs.rapids.ai/)                               |
+| Vaex               | Out-of-core DataFrame system for large datasets                          | [Check Out](https://vaex.io/docs/)                                 |
+| VisPy              | High-performance interactive 2D/3D data visualization based on OpenGL    | [Check Out](https://vispy.org/)                                    |
+
 
 ## Databases 
 | **Name**                    | **Description**                                                | **Official Documentation**                                     |
