@@ -488,6 +488,23 @@ https://learn.microsoft.com/en-gb/
 | `Terraform`               | Infrastructure as code tool for cloud provisioning                  | [Check Out](https://developer.hashicorp.com/terraform/docs)               |
 | `Terraform Cloud API`     | API for managing Terraform Cloud resources                          | [Check Out](https://developer.hashicorp.com/terraform/cloud-docs/api)     |
 
+## E-commerce Platforms / SDKs  
+*Frameworks, APIs, and toolkits for building and integrating e-commerce functionality.*
+
+| **Technology**     | **Description**                                                         | **Official Documentation**                                         |
+|--------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------|
+| BigCommerce SDK    | Headless commerce API and SDK for integrating storefront functionality  | [Check Out](https://developer.bigcommerce.com/)                    |
+| Commerce.js        | Headless commerce API by Chec for building custom storefronts            | [Check Out](https://commercejs.com/docs/)                          |
+| Ecwid              | E-commerce platform with embeddable store widgets                        | [Check Out](https://support.ecwid.com/hc/en-us/categories/360001929419-Documentation) |
+| Magento (Adobe Commerce) | Open-source e-commerce platform from Adobe                      | [Check Out](https://developer.adobe.com/commerce/docs/)            |
+| Medusa             | Headless commerce engine built with Node.js                              | [Check Out](https://docs.medusajs.com/)                            |
+| Moltin (now Elastic Path) | Headless commerce API platform                                  | [Check Out](https://documentation.elasticpath.com/)                |
+| Saleor             | GraphQL-first open-source e-commerce platform                           | [Check Out](https://docs.saleor.io/docs/3.x/)                      |
+| Shopify API        | Commerce API to create and manage e-commerce functionality               | [Check Out](https://shopify.dev/docs)                              |
+| Snipcart           | JavaScript-based cart platform for adding checkout to any website        | [Check Out](https://docs.snipcart.com/)                            |
+| WooCommerce        | WordPress plugin for building e-commerce websites                        | [Check Out](https://woocommerce.com/documentation/)                |
+
+
 ## Frontend Development 
 | **Technology**     | **Description**                                                 | **Official Documentation**                                         |
 |--------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
