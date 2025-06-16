@@ -405,6 +405,25 @@ https://learn.microsoft.com/en-gb/
 | Redis              | In-memory key-value store, used as a database, cache, and message broker   | [Check Out](https://redis.io/docs/)                                |
 | SQLite             | Lightweight, embedded relational database                                  | [Check Out](https://sqlite.org/docs.html)                          |
 
+## DevOps / Developer Tools  
+*Tools that help in automating, monitoring, and improving development, deployment, and infrastructure processes.*
+
+| **Technology**     | **Description**                                                           | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Ansible            | IT automation engine for configuration management and app deployment      | [Check Out](https://docs.ansible.com/)                             |
+| Argo CD            | Kubernetes-native continuous delivery tool                                | [Check Out](https://argo-cd.readthedocs.io/en/stable/)             |
+| Azure DevOps       | Microsoft’s DevOps toolchain for managing and deploying applications      | [Check Out](https://learn.microsoft.com/en-us/azure/devops/)       |
+| CircleCI           | Continuous integration and delivery platform                              | [Check Out](https://circleci.com/docs/)                            |
+| Docker             | Platform for developing, shipping, and running containerized applications | [Check Out](https://docs.docker.com/)                              |
+| Git                | Version control system for tracking changes in source code                | [Check Out](https://git-scm.com/doc)                               |
+| GitHub Actions     | CI/CD automation directly in GitHub repos                                 | [Check Out](https://docs.github.com/en/actions)                    |
+| GitLab CI/CD       | DevOps lifecycle tool with built-in CI/CD capabilities                    | [Check Out](https://docs.gitlab.com/ee/ci/)                        |
+| Jenkins            | Automation server used for building and deploying software                | [Check Out](https://www.jenkins.io/doc/)                           |
+| Kubernetes         | System for automating containerized application deployment & management   | [Check Out](https://kubernetes.io/docs/)                           |
+| Pulumi             | Infrastructure as code using general-purpose programming languages        | [Check Out](https://www.pulumi.com/docs/)                          |
+| Terraform          | Infrastructure as code tool by HashiCorp                                  | [Check Out](https://developer.hashicorp.com/terraform/docs)        |
+| Travis CI          | CI/CD service used to build and test projects hosted at GitHub            | [Check Out](https://docs.travis-ci.com/)                           |
+
 
 ## Databases 
 | **Name**                    | **Description**                                                | **Official Documentation**                                     |
