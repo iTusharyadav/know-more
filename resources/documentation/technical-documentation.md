@@ -530,6 +530,20 @@ https://learn.microsoft.com/en-gb/
 | SendGrid           | Email delivery service by Twilio                                       | [Check Out](https://docs.sendgrid.com/)                            |
 | SMTP2GO            | Reliable transactional email delivery service                          | [Check Out](https://help.smtp2go.com/hc/en-gb/categories/201485753)|
 
+## Encryption / Cryptography Libraries  
+*Libraries and tools used to encrypt, decrypt, and secure data using cryptographic techniques.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Bouncy Castle      | Cryptography API for Java and C#                                       | [Check Out](https://www.bouncycastle.org/documentation.html)       |
+| Crypto++           | C++ library for cryptographic schemes                                  | [Check Out](https://www.cryptopp.com/docs/ref/)                    |
+| Libgcrypt          | General-purpose cryptographic library, part of GnuPG                   | [Check Out](https://gnupg.org/documentation/manuals/libgcrypt/)    |
+| Libsodium          | Modern, easy-to-use crypto library                                     | [Check Out](https://doc.libsodium.org/)                            |
+| OpenSSL            | Full-featured toolkit for TLS and cryptography                        | [Check Out](https://www.openssl.org/docs/)                         |
+| PyCryptodome       | Self-contained Python package for cryptography                         | [Check Out](https://pycryptodome.readthedocs.io/en/latest/)        |
+| Tink               | Cross-platform cryptographic library by Google                         | [Check Out](https://developers.google.com/tink)                    |
+| Web Crypto API     | Native browser API for cryptographic operations                        | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API) |
+
 
 ## Frontend Development 
 | **Technology**     | **Description**                                                 | **Official Documentation**                                         |
