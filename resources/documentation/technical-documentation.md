@@ -504,6 +504,18 @@ https://learn.microsoft.com/en-gb/
 | Snipcart           | JavaScript-based cart platform for adding checkout to any website        | [Check Out](https://docs.snipcart.com/)                            |
 | WooCommerce        | WordPress plugin for building e-commerce websites                        | [Check Out](https://woocommerce.com/documentation/)                |
 
+## Edge Computing  
+*Technologies and platforms that enable processing data near the source rather than relying on centralized cloud systems.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AWS Greengrass     | Extends AWS to edge devices for local compute, messaging, and data sync | [Check Out](https://docs.aws.amazon.com/greengrass/latest/developerguide/) |
+| Azure IoT Edge     | Extends cloud intelligence to edge devices with containers              | [Check Out](https://learn.microsoft.com/en-us/azure/iot-edge/)     |
+| Cloudflare Workers | Serverless platform for deploying apps at the edge                     | [Check Out](https://developers.cloudflare.com/workers/)            |
+| Fastly Compute@Edge| Secure serverless compute at the edge                                   | [Check Out](https://developer.fastly.com/learning/compute/)        |
+| Google Cloud IoT Edge | Google’s solution for deploying AI and ML to edge devices          | [Check Out](https://cloud.google.com/iot-edge)                     |
+| Netlify Edge Functions | Run serverless functions at the edge for dynamic content          | [Check Out](https://docs.netlify.com/functions/edge-functions/overview/) |
+
 
 ## Frontend Development 
 | **Technology**     | **Description**                                                 | **Official Documentation**                                         |
