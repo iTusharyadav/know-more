@@ -544,6 +544,22 @@ https://learn.microsoft.com/en-gb/
 | Tink               | Cross-platform cryptographic library by Google                         | [Check Out](https://developers.google.com/tink)                    |
 | Web Crypto API     | Native browser API for cryptographic operations                        | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API) |
 
+## Error Tracking / Logging Tools  
+*Platforms and services to monitor, log, and debug errors in applications.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Bugsnag            | Real-time error monitoring and reporting for apps                      | [Check Out](https://docs.bugsnag.com/)                             |
+| Datadog            | Monitoring and observability platform with logging capabilities        | [Check Out](https://docs.datadoghq.com/logs/)                      |
+| LogDNA (Mezmo)     | Centralized log management platform                                     | [Check Out](https://docs.mezmo.com/docs)                           |
+| Loggly             | Cloud-based log management and analytics                               | [Check Out](https://documentation.solarwinds.com/en/success_center/loggly/default.htm) |
+| Logstash           | Data processing pipeline for ingesting logs                            | [Check Out](https://www.elastic.co/guide/en/logstash/current/index.html) |
+| Raygun             | Crash reporting and performance monitoring                              | [Check Out](https://raygun.com/documentation/)                     |
+| Rollbar            | Continuous code improvement with real-time error tracking              | [Check Out](https://docs.rollbar.com/docs)                         |
+| Sentry             | Open-source error tracking for developers                              | [Check Out](https://docs.sentry.io/)                               |
+| Splunk             | Platform for searching, monitoring, and analyzing log data             | [Check Out](https://docs.splunk.com/Documentation/Splunk/latest)   |
+| Stackdriver (Cloud Logging) | Google Cloud’s logging service                              | [Check Out](https://cloud.google.com/logging/docs)                 |
+
 
 ## Frontend Development 
 | **Technology**     | **Description**                                                 | **Official Documentation**                                         |
