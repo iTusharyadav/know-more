@@ -516,6 +516,20 @@ https://learn.microsoft.com/en-gb/
 | Google Cloud IoT Edge | Google’s solution for deploying AI and ML to edge devices          | [Check Out](https://cloud.google.com/iot-edge)                     |
 | Netlify Edge Functions | Run serverless functions at the edge for dynamic content          | [Check Out](https://docs.netlify.com/functions/edge-functions/overview/) |
 
+## Email APIs / Services  
+*Platforms and APIs used to send, receive, and manage email programmatically.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Amazon SES         | Scalable email sending service from AWS                               | [Check Out](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/Welcome.html) |
+| Brevo (formerly Sendinblue) | Email and SMS marketing API                          | [Check Out](https://developers.brevo.com/docs)                     |
+| Mailchimp API      | Marketing and transactional email services                             | [Check Out](https://mailchimp.com/developer/)                      |
+| Mailgun            | Email API for sending, receiving, and tracking emails                  | [Check Out](https://documentation.mailgun.com/en/latest/)          |
+| Postmark           | Fast transactional email service                                       | [Check Out](https://postmarkapp.com/developer)                     |
+| Resend             | Developer-friendly email sending API                                   | [Check Out](https://resend.com/docs)                               |
+| SendGrid           | Email delivery service by Twilio                                       | [Check Out](https://docs.sendgrid.com/)                            |
+| SMTP2GO            | Reliable transactional email delivery service                          | [Check Out](https://help.smtp2go.com/hc/en-gb/categories/201485753)|
+
 
 ## Frontend Development 
 | **Technology**     | **Description**                                                 | **Official Documentation**                                         |
