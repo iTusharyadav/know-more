@@ -1903,3 +1903,126 @@ https://learn.microsoft.com/en-gb/
 | Transifex          | Translation platform for software and digital content                 | [Check Out](https://docs.transifex.com/)                           |
 | Weblate            | Web-based translation tool with Git integration                       | [Check Out](https://docs.weblate.org/en/latest/)                   |
 
+## UI Component Libraries  
+*Collections of pre-built UI elements and components that help developers quickly design and build user interfaces.*
+
+| **Technology**     | **Description**                                                     | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|
+| Ant Design         | A UI design language and React component library                    | [Check Out](https://ant.design/docs/react/introduce)              |
+| Chakra UI          | Modular and accessible component library for React                  | [Check Out](https://chakra-ui.com/getting-started)                |
+| Mantine            | React components with native dark theme support                     | [Check Out](https://mantine.dev/docs/getting-started/)            |
+| Material UI (MUI)  | React components implementing Google’s Material Design              | [Check Out](https://mui.com/material-ui/getting-started/overview/)|
+| Radix UI           | Unstyled accessible primitives for building design systems          | [Check Out](https://www.radix-ui.com/docs/primitives/overview/introduction) |
+| React Bootstrap    | Bootstrap components built with React                               | [Check Out](https://react-bootstrap.github.io/getting-started/introduction/) |
+| ShadCN/UI          | Beautifully designed components using Tailwind CSS                  | [Check Out](https://ui.shadcn.com/docs)                           |
+| Semantic UI        | UI framework designed for theming and responsiveness                | [Check Out](https://semantic-ui.com/introduction/getting-started.html) |
+| Tailwind UI        | Official UI component set built on top of Tailwind CSS              | [Check Out](https://tailwindui.com/documentation)                 |
+| Vuetify            | Vue UI library with material design components                      | [Check Out](https://vuetifyjs.com/en/introduction/why-vuetify/)   |
+
+## UI Frameworks  
+*Frameworks that provide structure, patterns, and components to simplify building user interfaces across web and mobile apps.*
+
+| **Technology**     | **Description**                                                       | **Official Documentation**                                         |
+|--------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|
+| Bootstrap          | Popular HTML, CSS, and JS framework for building responsive UIs       | [Check Out](https://getbootstrap.com/docs/)                       |
+| Foundation         | Responsive front-end framework from Zurb                              | [Check Out](https://get.foundation/sites/docs/)                   |
+| Ionic Framework    | UI toolkit for building cross-platform mobile and web apps            | [Check Out](https://ionicframework.com/docs)                      |
+| Quasar Framework   | High-performance Vue.js UI framework                                  | [Check Out](https://quasar.dev/start/pick-quasar-flavour)         |
+| UIkit              | Lightweight and modular front-end framework                           | [Check Out](https://getuikit.com/docs/introduction)               |
+| UNOCSS             | Instant on-demand atomic CSS engine                                   | [Check Out](https://unocss.dev/guide/)                            |
+| Vuetify            | Vue UI library with material design components                        | [Check Out](https://vuetifyjs.com/en/introduction/why-vuetify/)   |
+
+## Version Control Systems  
+*Tools used to track and manage changes to source code and files over time, supporting collaboration across teams.*
+
+| **Technology**     | **Description**                                                     | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|
+| Azure Repos        | Git repositories for source control hosted on Azure DevOps         | [Check Out](https://learn.microsoft.com/en-us/azure/devops/repos/?view=azure-devops) |
+| Fossil             | Distributed version control with built-in wiki and bug tracking     | [Check Out](https://fossil-scm.org/home/doc/trunk/www/index.wiki) |
+| Git                | Widely used distributed version control system                      | [Check Out](https://git-scm.com/doc)                              |
+| GitHub             | Cloud platform for Git repositories with CI/CD and issue tracking   | [Check Out](https://docs.github.com/en)                           |
+| GitLab             | Git-based DevOps platform for collaboration and CI/CD               | [Check Out](https://docs.gitlab.com/)                             |
+| Mercurial (hg)     | Distributed version control system with simpler workflows           | [Check Out](https://www.mercurial-scm.org/guide)                  |
+| Perforce (Helix)   | Enterprise-scale version control system optimized for large files    | [Check Out](https://www.perforce.com/manuals/vcs/Content/VCS/version-control.html) |
+| SourceForge        | Web-based platform with support for version control                 | [Check Out](https://sourceforge.net/p/forge/documentation/)       |
+
+## Visualization Tools  
+*Software and libraries for creating data visualizations, charts, and interactive graphics.*
+
+| **Technology**     | **Description**                                                    | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
+| Apache ECharts     | Powerful charting and visualization library                      | [Check Out](https://echarts.apache.org/en/index.html)             |
+| Chart.js           | Simple yet flexible JavaScript charting library                  | [Check Out](https://www.chartjs.org/docs/latest/)                 |
+| D3.js              | JavaScript library for producing dynamic, interactive data visualizations | [Check Out](https://d3js.org/)                                    |
+| Grafana            | Open-source platform for monitoring and visualization            | [Check Out](https://grafana.com/docs/)                            |
+| Plotly.js          | Graphing library for JavaScript                                  | [Check Out](https://plotly.com/javascript/)                      |
+| Tableau Public     | Data visualization software with free public sharing             | [Check Out](https://help.tableau.com/current/public/en-us/)      |
+| Vega               | Visualization grammar for creating, saving, and sharing interactive visualization designs | [Check Out](https://vega.github.io/vega/docs/)                   |
+
+## Web Servers  
+*Software that serves web content over the internet or intranet, handling HTTP requests and responses.*
+
+| **Technology**     | **Description**                                                     | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|
+| Apache HTTP Server | Popular open-source HTTP server                                    | [Check Out](https://httpd.apache.org/docs/)                       |
+| Caddy              | Modern web server with automatic HTTPS                            | [Check Out](https://caddyserver.com/docs/)                        |
+| IIS (Internet Information Services) | Microsoft's web server for Windows                        | [Check Out](https://learn.microsoft.com/en-us/iis/)              |
+| LiteSpeed          | High-performance HTTP server                                      | [Check Out](https://docs.litespeedtech.com/)                      |
+| Nginx              | High-performance HTTP server and reverse proxy                    | [Check Out](https://nginx.org/en/docs/)                           |
+| OpenLiteSpeed      | Open-source edition of LiteSpeed web server                       | [Check Out](https://openlitespeed.org/kb/)                        |
+| Tomcat             | Java Servlet container and web server                             | [Check Out](https://tomcat.apache.org/tomcat-9.0-doc/index.html)  |
+
+## Web Frameworks  
+*Frameworks designed to simplify building web applications by providing tools and libraries.*
+
+| **Technology**     | **Description**                                                     | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|
+| ASP.NET Core       | Cross-platform framework for building modern web apps              | [Check Out](https://learn.microsoft.com/en-us/aspnet/core/)       |
+| Django             | High-level Python web framework encouraging rapid development       | [Check Out](https://docs.djangoproject.com/en/stable/)            |
+| Express.js         | Minimalist web framework for Node.js                               | [Check Out](https://expressjs.com/en/starter/installing.html)     |
+| Flask              | Lightweight Python web framework                                   | [Check Out](https://flask.palletsprojects.com/en/latest/)         |
+| Laravel            | PHP framework for web artisans                                     | [Check Out](https://laravel.com/docs)                             |
+| Ruby on Rails      | Full-stack web framework for Ruby                                  | [Check Out](https://guides.rubyonrails.org/)                      |
+| Spring Boot        | Java-based framework for building microservices and web apps      | [Check Out](https://spring.io/projects/spring-boot)               |
+| Symfony            | PHP framework for web applications                                 | [Check Out](https://symfony.com/doc/current/index.html)           |
+| Vue.js             | Progressive JavaScript framework for building UI                   | [Check Out](https://vuejs.org/guide/introduction.html)            |
+| Zend Framework     | PHP framework for building web applications                        | [Check Out](https://docs.laminas.dev/)                            |
+
+## Workflow Automation Tools  
+*Tools to automate repetitive tasks and streamline software development processes.*
+
+| **Technology**     | **Description**                                                     | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|
+| Apache Airflow     | Platform to programmatically author, schedule, and monitor workflows| [Check Out](https://airflow.apache.org/docs/)                     |
+| GitHub Actions     | Automation for software workflows directly integrated with GitHub   | [Check Out](https://docs.github.com/en/actions)                   |
+| Jenkins            | Open-source automation server for CI/CD                            | [Check Out](https://www.jenkins.io/doc/)                          |
+| Microsoft Power Automate | Cloud-based service to create automated workflows               | [Check Out](https://learn.microsoft.com/en-us/power-automate/)    |
+| Zapier             | Online automation tool connecting apps and services                | [Check Out](https://zapier.com/help/)                             |
+
+## XML Technologies  
+*Standards and tools related to XML, a markup language for encoding documents.*
+
+| **Technology**      | **Description**                                               | **Official Documentation**                                         |
+|---------------------|---------------------------------------------------------------|--------------------------------------------------------------------|
+| XML (eXtensible Markup Language) | Standard markup language for structured data             | [Check Out](https://www.w3.org/XML/)                              |
+| XSLT                | Language for transforming XML documents                       | [Check Out](https://www.w3.org/TR/xslt/)                          |
+| XPath               | Language to navigate XML documents                             | [Check Out](https://www.w3.org/TR/xpath/)                         |
+| XQuery              | Query language for XML data                                   | [Check Out](https://www.w3.org/TR/xquery/)                        |
+
+## YAML  
+*Human-readable data serialization standard commonly used for configuration files.*
+
+| **Technology**     | **Description**                                                   | **Official Documentation**                                         |
+|--------------------|-------------------------------------------------------------------|--------------------------------------------------------------------|
+| YAML               | Data serialization format used for configs and data exchange     | [Check Out](https://yaml.org/spec/)                               |
+| PyYAML             | YAML parser and emitter for Python                                | [Check Out](https://pyyaml.org/wiki/PyYAMLDocumentation)          |
+
+## Zero Trust Security  
+*Security model that requires strict identity verification for every person and device trying to access resources.*
+
+| **Technology**     | **Description**                                                   | **Official Documentation**                                         |
+|--------------------|-------------------------------------------------------------------|--------------------------------------------------------------------|
+| Google BeyondCorp  | Google's implementation of Zero Trust architecture               | [Check Out](https://cloud.google.com/beyondcorp)                  |
+| Microsoft Zero Trust | Microsoft's framework for Zero Trust security                    | [Check Out](https://learn.microsoft.com/en-us/security/zero-trust/) |
+| Palo Alto Networks Zero Trust | Zero Trust security platform and solutions                  | [Check Out](https://www.paloaltonetworks.com/zero-trust)          |
+
