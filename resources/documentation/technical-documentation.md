@@ -1259,3 +1259,92 @@ https://learn.microsoft.com/en-gb/
 | Poetry             | Python packaging and dependency management tool                                 | [Check Out](https://python-poetry.org/docs/)                       |
 | Yarn               | JavaScript package manager with better performance and offline support          | [Check Out](https://yarnpkg.com/getting-started)                   |
 
+## Payment APIs  
+*APIs used for handling online transactions, payment gateways, and financial operations securely.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Authorize.Net      | Trusted payment gateway for accepting online payments                           | [Check Out](https://developer.authorize.net/api/reference/)        |
+| Braintree          | Full-stack payment platform from PayPal                                         | [Check Out](https://developer.paypal.com/braintree/docs/start/overview) |
+| Cashfree           | Indian payment gateway and payouts platform                                     | [Check Out](https://docs.cashfree.com/docs/)                       |
+| CCAvenue           | Indian online payment service                                                   | [Check Out](https://docs.ccavenue.com/docs/)                       |
+| Flutterwave        | African-focused payment platform                                                | [Check Out](https://developer.flutterwave.com/docs/)               |
+| Payoneer           | Global cross-border payment and receiving solution                              | [Check Out](https://developer.payoneer.com/docs/)                  |
+| PayPal             | Widely-used online payment system                                               | [Check Out](https://developer.paypal.com/docs/api/overview/)       |
+| Razorpay           | Modern Indian payments gateway and API provider                                 | [Check Out](https://razorpay.com/docs/api/)                        |
+| Square             | Payments and POS solution with developer-friendly APIs                          | [Check Out](https://developer.squareup.com/docs)                   |
+| Stripe             | Leading payment processing platform for the internet                            | [Check Out](https://stripe.com/docs)                               |
+
+## Platform-as-a-Service (PaaS)  
+*Cloud services that provide a platform for developers to build, deploy, and manage applications without managing the underlying infrastructure.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AWS Elastic Beanstalk | Easy-to-use service for deploying applications on AWS                      | [Check Out](https://docs.aws.amazon.com/elasticbeanstalk/)         |
+| Azure App Service  | Fully managed PaaS for building, hosting web apps and APIs                      | [Check Out](https://learn.microsoft.com/en-us/azure/app-service/)  |
+| Dokku              | Docker-powered mini-Heroku for self-hosted PaaS                                 | [Check Out](https://dokku.com/docs/)                               |
+| Firebase           | Google’s mobile and web development platform                                    | [Check Out](https://firebase.google.com/docs)                      |
+| Fly.io             | Run full-stack apps globally on a PaaS designed for developers                  | [Check Out](https://fly.io/docs/)                                  |
+| Google App Engine  | Scalable platform to build and deploy applications on Google Cloud              | [Check Out](https://cloud.google.com/appengine/docs)               |
+| Heroku             | Cloud platform for deploying, managing, and scaling apps                        | [Check Out](https://devcenter.heroku.com/categories/reference)     |
+| Netlify            | Cloud-based platform for deploying static and Jamstack sites                    | [Check Out](https://docs.netlify.com/)                             |
+| Railway            | Deployment platform with GitHub integration for backend services                | [Check Out](https://docs.railway.app/)                             |
+| Render             | Unified cloud platform for apps, databases, and static sites                    | [Check Out](https://render.com/docs)                               |
+| Vercel             | Optimized platform for frontend frameworks like Next.js                         | [Check Out](https://vercel.com/docs)                               |
+
+## Programming Languages  
+*Languages used to write software, scripts, and applications across various platforms.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| C                  | General-purpose procedural programming language                                  | [Check Out](https://en.cppreference.com/w/c)                       |
+| C#                 | Object-oriented language for .NET development                                    | [Check Out](https://learn.microsoft.com/en-us/dotnet/csharp/)      |
+| C++                | Extension of C with object-oriented and generic programming features             | [Check Out](https://en.cppreference.com/w/cpp)                     |
+| Dart               | Optimized for building mobile, desktop, server, and web apps                     | [Check Out](https://dart.dev/guides)                               |
+| Elixir             | Functional language for scalable and maintainable applications                   | [Check Out](https://elixir-lang.org/docs.html)                     |
+| Go (Golang)        | Statically typed language from Google for efficient concurrency                  | [Check Out](https://go.dev/doc/)                                   |
+| Haskell            | Purely functional programming language                                           | [Check Out](https://www.haskell.org/documentation/)                |
+| Java               | Widely-used object-oriented programming language                                 | [Check Out](https://docs.oracle.com/en/java/)                      |
+| JavaScript         | Lightweight, interpreted scripting language mostly used for web development      | [Check Out](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| Kotlin             | Concise, modern language interoperable with Java                                 | [Check Out](https://kotlinlang.org/docs/home.html)                 |
+| Lua                | Lightweight scripting language used in embedded systems and games                | [Check Out](https://www.lua.org/manual/)                           |
+| PHP                | Server-side scripting language used for web development                          | [Check Out](https://www.php.net/docs.php)                          |
+| Python             | High-level language known for readability and versatility                        | [Check Out](https://docs.python.org/3/)                            |
+| Ruby               | Dynamic, interpreted language with a focus on simplicity                         | [Check Out](https://www.ruby-lang.org/en/documentation/)           |
+| Rust               | Memory-safe, fast, and concurrent systems language                               | [Check Out](https://doc.rust-lang.org/)                            |
+| Scala              | Combines object-oriented and functional programming                              | [Check Out](https://docs.scala-lang.org/)                          |
+| Swift              | Apple's modern language for iOS and macOS development                           | [Check Out](https://swift.org/documentation/)                      |
+| TypeScript         | Superset of JavaScript with optional static typing                               | [Check Out](https://www.typescriptlang.org/docs/)                  |
+
+## Protocols  
+*Standardized rules and formats that define how data is transmitted and communicated across networks and systems.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| FTP                | Protocol used to transfer files between client and server                        | [Check Out](https://datatracker.ietf.org/doc/html/rfc959)          |
+| gRPC               | High-performance, open-source universal RPC framework                            | [Check Out](https://grpc.io/docs/)                                 |
+| HTTP/1.1           | Foundation of data communication for the web                                     | [Check Out](https://datatracker.ietf.org/doc/html/rfc2616)         |
+| HTTP/2             | Faster version of HTTP with multiplexing and compression                         | [Check Out](https://http2.github.io/)                              |
+| HTTP/3             | Latest HTTP version built on QUIC for better performance                         | [Check Out](https://datatracker.ietf.org/doc/html/draft-ietf-quic-http) |
+| MQTT               | Lightweight messaging protocol for IoT                                           | [Check Out](http://mqtt.org/documentation)                         |
+| QUIC               | Transport protocol designed by Google for faster connections                     | [Check Out](https://www.rfc-editor.org/rfc/rfc9000.html)           |
+| REST               | Software architecture style for designing networked applications                 | [Check Out](https://restfulapi.net/)                               |
+| SOAP               | Protocol for exchanging structured XML-based messages over the network           | [Check Out](https://www.w3.org/TR/soap/)                           |
+| WebSocket          | Protocol enabling full-duplex communication channels over a single TCP connection| [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) |
+
+## Python Frameworks  
+*Frameworks built using Python that streamline application development in areas like web, data, APIs, and more.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Bottle             | Lightweight micro web-framework for small web applications                      | [Check Out](https://bottlepy.org/docs/dev/)                        |
+| Dash               | Web application framework for data visualization                                | [Check Out](https://dash.plotly.com/introduction)                  |
+| Django             | High-level framework for building secure and maintainable web apps              | [Check Out](https://docs.djangoproject.com/en/stable/)             |
+| FastAPI            | Modern web framework for building APIs with Python 3.7+ based on type hints     | [Check Out](https://fastapi.tiangolo.com/)                         |
+| Flask              | Lightweight WSGI web application framework                                       | [Check Out](https://flask.palletsprojects.com/)                    |
+| Hug                | API development framework with minimal setup                                    | [Check Out](https://hugapi.github.io/hug/)                         |
+| Pylons             | Web application framework for rapid development                                 | [Check Out](https://pylonsproject.org/)                            |
+| Pyramid            | Flexible web framework for both small and large applications                    | [Check Out](https://docs.pylonsproject.org/projects/pyramid/en/latest/) |
+| Tornado            | Scalable, non-blocking web server and web framework                             | [Check Out](https://www.tornadoweb.org/en/stable/)                 |
+| Web2py             | Full-stack framework with built-in components for rapid development             | [Check Out](http://www.web2py.com/init/default/documentation)      |
+
