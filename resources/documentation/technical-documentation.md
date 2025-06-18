@@ -560,3 +560,189 @@ https://learn.microsoft.com/en-gb/
 | Splunk             | Platform for searching, monitoring, and analyzing log data             | [Check Out](https://docs.splunk.com/Documentation/Splunk/latest)   |
 | Stackdriver (Cloud Logging) | Google Cloud’s logging service                              | [Check Out](https://cloud.google.com/logging/docs)                 |
 
+## Feature Flag Tools  
+*Services and libraries that help enable or disable application features remotely without deploying code changes.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Flagsmith          | Open-source feature flag and remote config service                    | [Check Out](https://docs.flagsmith.com/)                           |
+| LaunchDarkly       | Feature management and experimentation platform                        | [Check Out](https://docs.launchdarkly.com/)                        |
+| Split.io           | Feature flagging and experimentation tool                              | [Check Out](https://docs.split.io/)                                |
+| Unleash            | Open-source feature management platform                                | [Check Out](https://docs.getunleash.io/)                           |
+
+## File Storage & Management APIs  
+*Services and APIs that enable developers to upload, store, manage, and retrieve files and digital assets.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AWS S3             | Object storage service for file hosting and retrieval                  | [Check Out](https://docs.aws.amazon.com/s3/)                       |
+| Cloudinary         | Media management platform for storing and transforming images/videos   | [Check Out](https://cloudinary.com/documentation)                  |
+| Firebase Storage   | Cloud storage for app files integrated with Firebase SDKs              | [Check Out](https://firebase.google.com/docs/storage)              |
+| Google Cloud Storage | Scalable storage for files and backups                              | [Check Out](https://cloud.google.com/storage/docs)                 |
+| ImageKit           | Real-time image optimization and file storage platform                 | [Check Out](https://docs.imagekit.io/)                             |
+| IPFS (InterPlanetary File System) | Decentralized protocol for storing and sharing files | [Check Out](https://docs.ipfs.tech/)                               |
+| Supabase Storage   | Open-source alternative to Firebase storage                            | [Check Out](https://supabase.com/docs/guides/storage)              |
+| Uploadcare         | File uploading, storage, and CDN platform                              | [Check Out](https://uploadcare.com/docs/)                          |
+## Firebase Services  
+*A set of backend services provided by Google to help you build and scale apps faster across platforms.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Firebase Authentication | Secure authentication system supporting email, social, and more | [Check Out](https://firebase.google.com/docs/auth)                |
+| Firebase Cloud Firestore | NoSQL cloud database for real-time syncing                      | [Check Out](https://firebase.google.com/docs/firestore)           |
+| Firebase Cloud Functions | Run backend code in response to events                           | [Check Out](https://firebase.google.com/docs/functions)           |
+| Firebase Cloud Messaging | Send push notifications across platforms                        | [Check Out](https://firebase.google.com/docs/cloud-messaging)     |
+| Firebase Crashlytics | Real-time crash reporter for debugging                              | [Check Out](https://firebase.google.com/docs/crashlytics)         |
+| Firebase Hosting    | Fast and secure web hosting for static content                        | [Check Out](https://firebase.google.com/docs/hosting)             |
+| Firebase ML         | Machine learning features for mobile apps                             | [Check Out](https://firebase.google.com/docs/ml)                  |
+| Firebase Realtime Database | JSON-based NoSQL cloud database                           | [Check Out](https://firebase.google.com/docs/database)            |
+| Firebase Remote Config | Dynamically change app behavior and appearance                     | [Check Out](https://firebase.google.com/docs/remote-config)       |
+| Firebase Test Lab   | App testing infrastructure on physical and virtual devices            | [Check Out](https://firebase.google.com/docs/test-lab)            |
+
+## Frameworks (Backend)  
+*Libraries or platforms that provide structure and tools for building backend applications efficiently.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AdonisJS           | Fully featured Node.js MVC framework                                   | [Check Out](https://docs.adonisjs.com/)                            |
+| ASP.NET Core       | Cross-platform framework for building modern cloud-based apps with .NET| [Check Out](https://learn.microsoft.com/en-us/aspnet/core/)        |
+| Django             | High-level Python web framework with ORM and admin panel               | [Check Out](https://docs.djangoproject.com/en/stable/)             |
+| Express.js         | Minimalist web framework for Node.js                                   | [Check Out](https://expressjs.com/en/starter/installing.html)      |
+| FastAPI            | High-performance Python framework for APIs with async support          | [Check Out](https://fastapi.tiangolo.com/)                         |
+| Flask              | Lightweight WSGI web application framework for Python                  | [Check Out](https://flask.palletsprojects.com/en/latest/)          |
+| Hapi.js            | Rich framework for building web applications and services              | [Check Out](https://hapi.dev/api/?v=21.2.0)                        |
+| Koa                | Lightweight Node.js framework developed by the creators of Express     | [Check Out](https://koajs.com/#introduction)                       |
+| Laravel            | PHP framework for web artisans with expressive syntax                  | [Check Out](https://laravel.com/docs)                              |
+| NestJS             | Progressive Node.js framework built with TypeScript                    | [Check Out](https://docs.nestjs.com/)                              |
+| Phoenix            | Web development framework written in Elixir                            | [Check Out](https://hexdocs.pm/phoenix/)                           |
+| Ruby on Rails      | Server-side web application framework written in Ruby                  | [Check Out](https://guides.rubyonrails.org/)                       |
+| Spring Boot        | Java framework for building microservices and web applications         | [Check Out](https://docs.spring.io/spring-boot/docs/current/reference/html/) |
+| Strapi             | Headless CMS built with Node.js for flexible backend APIs              | [Check Out](https://docs.strapi.io/)                               |
+## Frontend Development  
+*Technologies and tools used to build the client-side (UI/UX) of web applications.*
+
+| **Technology**     | **Description**                                                        | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Alpine.js          | Lightweight JavaScript framework for adding interactivity              | [Check Out](https://alpinejs.dev/start-here)                       |
+| Angular            | Full-featured framework for building SPAs                              | [Check Out](https://angular.io/docs)                               |
+| Bootstrap          | Popular CSS framework for responsive design                            | [Check Out](https://getbootstrap.com/docs/)                        |
+| CSS                | Style sheet language for describing the look of HTML documents         | [Check Out](https://developer.mozilla.org/en-US/docs/Web/CSS)     |
+| HTML               | Standard markup language for creating web pages                        | [Check Out](https://developer.mozilla.org/en-US/docs/Web/HTML)    |
+| JavaScript         | Programming language of the web for dynamic content                    | [Check Out](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| Next.js            | React-based framework for SSR and static site generation               | [Check Out](https://nextjs.org/docs)                               |
+| Nuxt.js            | Vue.js framework for server-rendered and static applications           | [Check Out](https://nuxt.com/docs)                                 |
+| Preact             | Fast alternative to React with the same API                            | [Check Out](https://preactjs.com/guide/v10/getting-started/)      |
+| Qwik               | Framework focused on instant-loading web applications                  | [Check Out](https://qwik.builder.io/docs/)                         |
+| React.js           | UI library for building component-based frontends                      | [Check Out](https://react.dev/learn)                               |
+| Remix              | Full stack web framework based on React and web fundamentals           | [Check Out](https://remix.run/docs)                                |
+| SolidJS            | Reactive UI library with fine-grained reactivity                       | [Check Out](https://www.solidjs.com/docs)                          |
+| Svelte             | Compiler-based framework for building highly reactive UIs              | [Check Out](https://svelte.dev/docs)                               |
+| Tailwind CSS       | Utility-first CSS framework for rapid UI development                   | [Check Out](https://tailwindcss.com/docs)                          |
+| TypeScript         | Typed superset of JavaScript for safer coding                          | [Check Out](https://www.typescriptlang.org/docs)                   |
+| Vanilla JS         | Using plain JavaScript without libraries or frameworks                 | [Check Out](https://vanillajstoolkit.com/)                         |
+| Vue.js             | Progressive JavaScript framework for building UIs                      | [Check Out](https://vuejs.org/guide/introduction.html)            |
+## Full Stack Frameworks  
+*Frameworks that provide both frontend and backend capabilities for developing complete applications.*
+
+| **Technology**     | **Description**                                                         | **Official Documentation**                                         |
+|--------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Blitz.js           | Fullstack React framework built on Next.js                              | [Check Out](https://blitzjs.com/docs)                              |
+| Bison              | Boilerplate fullstack TypeScript setup with GraphQL and Prisma          | [Check Out](https://github.com/echobind/bisonapp)                  |
+| Hydrogen (Shopify) | Fullstack React framework for custom Shopify storefronts                | [Check Out](https://shopify.dev/docs/custom-storefronts/hydrogen) |
+| Meteor             | Fullstack JavaScript platform for building real-time web apps           | [Check Out](https://docs.meteor.com/)                              |
+| RedwoodJS          | Fullstack framework with React, GraphQL, Prisma                         | [Check Out](https://redwoodjs.com/docs/introduction)               |
+| Wasp               | DSL-powered fullstack framework using React & Node.js                   | [Check Out](https://wasp-lang.dev/docs)                            |
+## Functional Programming Libraries  
+*Libraries or toolkits that promote or enable functional programming paradigms in various languages.*
+
+| **Technology**     | **Description**                                                       | **Official Documentation**                                          |
+|--------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
+| Fantasy Land       | Specification for interoperability of common algebraic structures     | [Check Out](https://github.com/fantasyland/fantasy-land)            |
+| Flix               | Functional, logic, and imperative programming language                | [Check Out](https://flix.dev/docs)                                  |
+| Folktale           | Suite of libraries for functional programming in JavaScript           | [Check Out](https://folktale.origamitower.com/docs/)                |
+| FP-TS              | Functional programming library for TypeScript                         | [Check Out](https://gcanti.github.io/fp-ts/)                        |
+| F#                 | Functional-first programming language for .NET platform               | [Check Out](https://learn.microsoft.com/en-us/dotnet/fsharp/)       |
+| Haskell            | Purely functional programming language                                | [Check Out](https://www.haskell.org/documentation/)                 |
+| PureScript         | Strongly typed functional language that compiles to JavaScript        | [Check Out](https://docs.purescript.org/)                           |
+| ReasonML (ReScript)| Functional language based on OCaml for web development                | [Check Out](https://rescript-lang.org/docs/manual/latest/introduction) |
+## Game Development  
+*Technologies, engines, and frameworks used to build 2D, 3D, and interactive games.*
+
+| **Technology**     | **Description**                                                       | **Official Documentation**                                         |
+|--------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|
+| Babylon.js         | Powerful, open-source 3D engine for web development                   | [Check Out](https://doc.babylonjs.com/)                            |
+| Bevy               | Modern game engine built in Rust with ECS architecture                | [Check Out](https://bevyengine.org/learn/book/introduction/)       |
+| Cocos Creator      | Open-source engine for mobile/web games with visual editor            | [Check Out](https://docs.cocos.com/creator/manual/en/)             |
+| Defold             | Cross-platform game engine for 2D games                               | [Check Out](https://defold.com/manuals/)                           |
+| Flax Engine        | High-quality 3D game engine for C# developers                         | [Check Out](https://docs.flaxengine.com/manual/)                   |
+| Godot              | Feature-rich, open-source game engine for 2D and 3D development       | [Check Out](https://docs.godotengine.org/en/stable/)               |
+| GDevelop           | Open-source, no-code game engine for 2D games                         | [Check Out](https://wiki.gdevelop.io/gdevelop5/)                   |
+| LibGDX             | Java framework for cross-platform game development                    | [Check Out](https://libgdx.com/wiki/)                              |
+| Phaser             | Popular HTML5 game framework for 2D games                             | [Check Out](https://phaser.io/learn)                               |
+| PlayCanvas         | Web-first 3D game engine with visual editor                           | [Check Out](https://developer.playcanvas.com/en/)                  |
+| Unity              | Widely-used engine for 2D, 3D, AR/VR, and mobile games                | [Check Out](https://docs.unity3d.com/Manual/index.html)            |
+| Unreal Engine      | AAA-grade game engine for complex and cinematic experiences           | [Check Out](https://docs.unrealengine.com/)                        |
+## Geolocation & Maps APIs  
+*APIs and SDKs that allow applications to access mapping, GPS, and location-based services.*
+
+| **Technology**       | **Description**                                                              | **Official Documentation**                                               |
+|----------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Google Maps API      | Widely used API for maps, places, routes, and geolocation                   | [Check Out](https://developers.google.com/maps/documentation)           |
+| HERE Maps API        | Location services including maps, geocoding, routing, and traffic            | [Check Out](https://developer.here.com/documentation)                   |
+| Mapbox               | Location and mapping tools with customizable map styles                      | [Check Out](https://docs.mapbox.com/)                                   |
+| OpenCage Geocoder    | API for geocoding using multiple open data sources                           | [Check Out](https://opencagedata.com/api)                               |
+| OpenStreetMap        | Collaborative project to create a free editable map of the world             | [Check Out](https://wiki.openstreetmap.org/wiki/Main_Page)              |
+| TomTom Maps SDK/API  | SDKs for routing, traffic, and map visualizations                            | [Check Out](https://developer.tomtom.com/)                              |
+## Git Platforms & Tools  
+*Platforms and tools used for version control, collaboration, and managing Git repositories.*
+
+| **Technology**     | **Description**                                                            | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Bitbucket          | Git repository management tool from Atlassian                              | [Check Out](https://support.atlassian.com/bitbucket-cloud/)        |
+| Gitea              | Lightweight, self-hosted Git service                                        | [Check Out](https://docs.gitea.io/en-us/)                          |
+| GitHub             | Cloud-based hosting for Git repositories with CI/CD and team collaboration | [Check Out](https://docs.github.com/)                              |
+| GitKraken          | Visual Git GUI and productivity suite                                      | [Check Out](https://help.gitkraken.com/gitkraken-client/)          |
+| GitLab             | DevOps platform with Git repository hosting and CI/CD                      | [Check Out](https://docs.gitlab.com/)                              |
+| SourceHut          | Minimalist Git hosting platform with mailing list integration              | [Check Out](https://man.sr.ht/)                                    |
+## GraphQL Tools & APIs  
+*Technologies that help build, query, or manage GraphQL APIs.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Apollo GraphQL     | Popular GraphQL client and server implementation                            | [Check Out](https://www.apollographql.com/docs/)                   |
+| Dgraph              | Distributed graph database with native GraphQL support                     | [Check Out](https://dgraph.io/docs/)                               |
+| GraphQL.js         | Reference implementation of GraphQL for JavaScript                         | [Check Out](https://graphql.org/graphql-js/)                       |
+| GraphQL Mesh       | Converts REST, gRPC, and other APIs into a GraphQL unified schema           | [Check Out](https://www.graphql-mesh.com/docs/introduction)        |
+| GraphQL Yoga       | Fully-featured GraphQL server based on Envelop and Express                 | [Check Out](https://the-guild.dev/graphql/yoga-server/docs)        |
+| Hasura             | Instant GraphQL APIs on top of PostgreSQL                                  | [Check Out](https://hasura.io/docs/)                               |
+| PostGraphile       | Creates GraphQL APIs automatically from a PostgreSQL database               | [Check Out](https://www.graphile.org/postgraphile/)                |
+| Relay              | JavaScript framework for fetching and managing GraphQL data in React        | [Check Out](https://relay.dev/docs/)                               |
+## GUI Frameworks  
+*Libraries and toolkits used to build graphical user interfaces (GUIs) across platforms.*
+
+| **Technology**     | **Description**                                                       | **Official Documentation**                                         |
+|--------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|
+| Electron           | Framework for building cross-platform desktop apps with web tech      | [Check Out](https://www.electronjs.org/docs/latest/)              |
+| Flutter            | UI toolkit from Google for building natively compiled apps            | [Check Out](https://docs.flutter.dev/)                            |
+| GTK                | Toolkit for creating graphical user interfaces for Linux and more     | [Check Out](https://docs.gtk.org/)                                |
+| JavaFX             | Java’s modern GUI framework for desktop applications                  | [Check Out](https://openjfx.io/)                                  |
+| Qt                 | Cross-platform application development framework                      | [Check Out](https://doc.qt.io/)                                   |
+| React Native       | Build native mobile apps using React and JavaScript                   | [Check Out](https://reactnative.dev/docs/getting-started)         |
+| SwiftUI            | Apple’s declarative UI framework for building iOS/macOS apps          | [Check Out](https://developer.apple.com/documentation/swiftui/)   |
+| Tauri              | Lightweight alternative to Electron for building native apps          | [Check Out](https://tauri.app/v1/guides/)                         |
+| Tkinter            | Standard Python interface to the Tk GUI toolkit                       | [Check Out](https://docs.python.org/3/library/tk.html)            |
+| WinUI              | Modern native UI platform for Windows                                 | [Check Out](https://learn.microsoft.com/en-us/windows/apps/winui/)|
+## gRPC & RPC Frameworks  
+*Technologies for remote procedure calls (RPC), enabling services to communicate across networks.*
+
+| **Technology**     | **Description**                                                            | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Apache Thrift      | Interface definition language and RPC framework from Apache                | [Check Out](https://thrift.apache.org/docs)                        |
+| Cap’n Proto        | Extremely fast data interchange and RPC system                             | [Check Out](https://capnproto.org/cxx.html)                        |
+| Dubbo              | High-performance Java-based RPC framework by Alibaba                       | [Check Out](https://dubbo.apache.org/en/docs/)                     |
+| gRPC               | High-performance RPC framework by Google                                   | [Check Out](https://grpc.io/docs/)                                 |
+| JSON-RPC           | Lightweight RPC protocol using JSON                                         | [Check Out](https://www.jsonrpc.org/specification)                 |
+| NATS               | Lightweight messaging system with RPC-like capabilities                    | [Check Out](https://docs.nats.io/)                                 |
+| RPyC               | Transparent, symmetric Python RPC library                                  | [Check Out](https://rpyc.readthedocs.io/)                          |
+| TARS               | RPC framework with support for multiple languages                          | [Check Out](https://tarscloud.org/en/docs/install/install.html)   |
+| XML-RPC            | Remote procedure call protocol using XML                                   | [Check Out](https://docs.python.org/3/library/xmlrpc.server.html) |
