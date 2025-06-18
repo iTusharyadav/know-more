@@ -1,4 +1,17 @@
 https://learn.microsoft.com/en-gb/
+---
+
+## Table of Contents
+
+<!-- [Repository Structure](#repository-structure) -->
+- [Resources Overview](#resources-overview)
+- [Resources](#resources)
+- [Issue Templates](#issue-templates)
+- [Code of Conduct](#code-of-conduct)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
+  
+---
 
 ## AI APIs  
 *Cloud-based platforms that provide artificial intelligence capabilities like natural language processing, image generation, or machine learning through accessible APIs.*
