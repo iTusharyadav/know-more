@@ -1348,3 +1348,55 @@ https://learn.microsoft.com/en-gb/
 | Tornado            | Scalable, non-blocking web server and web framework                             | [Check Out](https://www.tornadoweb.org/en/stable/)                 |
 | Web2py             | Full-stack framework with built-in components for rapid development             | [Check Out](http://www.web2py.com/init/default/documentation)      |
 
+## Query Languages  
+*Languages used to make queries in databases and information systems to retrieve, insert, update, or delete data.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| GraphQL            | A query language for APIs and runtime for fulfilling those queries with your data | [Check Out](https://graphql.org/learn/)                           |
+| Gremlin            | Graph traversal language used in graph databases                                | [Check Out](https://tinkerpop.apache.org/docs/current/reference/#gremlin-language-variants) |
+| JSONiq             | Query language designed for querying JSON data                                  | [Check Out](https://www.jsoniq.org/docs.html)                      |
+| PromQL             | Query language for Prometheus metrics                                           | [Check Out](https://prometheus.io/docs/prometheus/latest/querying/basics/) |
+| SPARQL             | Query language for RDF data and semantic web                                    | [Check Out](https://www.w3.org/TR/sparql11-query/)                 |
+| SQL                | Structured Query Language for managing relational databases                     | [Check Out](https://www.iso.org/standard/63555.html) *(ISO official)* or [W3Schools SQL Tutorial](https://www.w3schools.com/sql/) |
+| XQuery             | XML query language to extract and manipulate data                               | [Check Out](https://www.w3.org/XML/Query/)                         |
+
+## REST API Frameworks  
+*Frameworks designed to help developers build RESTful APIs efficiently using various programming languages.*
+
+| **Technology**     | **Description**                                                                | **Official Documentation**                                         |
+|--------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Eve                | REST API framework built on top of Flask for MongoDB                          | [Check Out](https://docs.python-eve.org/en/stable/)                |
+| Express.js         | Minimalist web framework for Node.js with strong REST API support             | [Check Out](https://expressjs.com/)                                |
+| FastAPI            | Modern, fast (high-performance) web framework for building APIs with Python   | [Check Out](https://fastapi.tiangolo.com/)                         |
+| Flask-RESTful      | Extension for Flask that adds support for quickly building REST APIs          | [Check Out](https://flask-restful.readthedocs.io/en/latest/)       |
+| Hapi               | Rich framework for building applications and services in Node.js              | [Check Out](https://hapi.dev/)                                     |
+| LoopBack           | Highly extensible Node.js framework for building APIs                         | [Check Out](https://loopback.io/doc/en/lb4/)                       |
+| NestJS             | Progressive Node.js framework for building efficient, scalable server-side apps| [Check Out](https://docs.nestjs.com/)                              |
+| Restify            | Node.js framework for building RESTful web services                           | [Check Out](http://restify.com/docs/home/)                         |
+| Spring Boot        | Java-based framework with built-in REST API features                          | [Check Out](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) |
+
+## Robotics Development  
+*Tools and frameworks used to build, simulate, and control robotics systems.*
+
+| **Technology**     | **Description**                                                            | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| CoppeliaSim        | Robotics simulator with integrated development environment                 | [Check Out](https://www.coppeliarobotics.com/helpFiles/index.html) |
+| MoveIt             | Motion planning framework for ROS (Robot Operating System)                 | [Check Out](https://moveit.picknik.ai/humble/index.html)           |
+| PX4 Autopilot      | Open-source flight control software for drones and unmanned vehicles       | [Check Out](https://docs.px4.io/main/en/)                          |
+| RoboDK             | Offline programming and simulation software for industrial robots          | [Check Out](https://robodk.com/documentation/)                     |
+| ROS (Robot Operating System) | Flexible framework for writing robot software                   | [Check Out](https://docs.ros.org/en/)                              |
+| Webots             | Open-source robot simulator for education and research                     | [Check Out](https://cyberbotics.com/doc/guide/index)               |
+
+## Runtime Environments  
+*Software platforms that provide the infrastructure for executing applications.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| .NET Runtime        | Microsoft’s managed code runtime for C#, F#, and VB applications            | [Check Out](https://learn.microsoft.com/en-us/dotnet/core/runtime/) |
+| Deno                | A secure runtime for JavaScript and TypeScript                              | [Check Out](https://deno.land/manual)                              |
+| GraalVM             | High-performance runtime for Java and other languages                       | [Check Out](https://www.graalvm.org/latest/reference-manual/)      |
+| JVM (Java Virtual Machine) | Executes Java bytecode and other JVM-based languages            | [Check Out](https://docs.oracle.com/en/java/javase/17/docs/specs/index.html) |
+| Node.js             | JavaScript runtime built on Chrome’s V8 engine                              | [Check Out](https://nodejs.org/en/docs/)                           |
+| V8 Engine           | Google’s open-source high-performance JavaScript and WebAssembly engine     | [Check Out](https://v8.dev/docs)                                   |
+
