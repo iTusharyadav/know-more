@@ -618,6 +618,7 @@ https://learn.microsoft.com/en-gb/
 | Ruby on Rails      | Server-side web application framework written in Ruby                  | [Check Out](https://guides.rubyonrails.org/)                       |
 | Spring Boot        | Java framework for building microservices and web applications         | [Check Out](https://docs.spring.io/spring-boot/docs/current/reference/html/) |
 | Strapi             | Headless CMS built with Node.js for flexible backend APIs              | [Check Out](https://docs.strapi.io/)                               |
+
 ## Frontend Development  
 *Technologies and tools used to build the client-side (UI/UX) of web applications.*
 
@@ -641,6 +642,7 @@ https://learn.microsoft.com/en-gb/
 | TypeScript         | Typed superset of JavaScript for safer coding                          | [Check Out](https://www.typescriptlang.org/docs)                   |
 | Vanilla JS         | Using plain JavaScript without libraries or frameworks                 | [Check Out](https://vanillajstoolkit.com/)                         |
 | Vue.js             | Progressive JavaScript framework for building UIs                      | [Check Out](https://vuejs.org/guide/introduction.html)            |
+
 ## Full Stack Frameworks  
 *Frameworks that provide both frontend and backend capabilities for developing complete applications.*
 
@@ -652,6 +654,7 @@ https://learn.microsoft.com/en-gb/
 | Meteor             | Fullstack JavaScript platform for building real-time web apps           | [Check Out](https://docs.meteor.com/)                              |
 | RedwoodJS          | Fullstack framework with React, GraphQL, Prisma                         | [Check Out](https://redwoodjs.com/docs/introduction)               |
 | Wasp               | DSL-powered fullstack framework using React & Node.js                   | [Check Out](https://wasp-lang.dev/docs)                            |
+
 ## Functional Programming Libraries  
 *Libraries or toolkits that promote or enable functional programming paradigms in various languages.*
 
@@ -665,6 +668,7 @@ https://learn.microsoft.com/en-gb/
 | Haskell            | Purely functional programming language                                | [Check Out](https://www.haskell.org/documentation/)                 |
 | PureScript         | Strongly typed functional language that compiles to JavaScript        | [Check Out](https://docs.purescript.org/)                           |
 | ReasonML (ReScript)| Functional language based on OCaml for web development                | [Check Out](https://rescript-lang.org/docs/manual/latest/introduction) |
+
 ## Game Development  
 *Technologies, engines, and frameworks used to build 2D, 3D, and interactive games.*
 
@@ -682,6 +686,7 @@ https://learn.microsoft.com/en-gb/
 | PlayCanvas         | Web-first 3D game engine with visual editor                           | [Check Out](https://developer.playcanvas.com/en/)                  |
 | Unity              | Widely-used engine for 2D, 3D, AR/VR, and mobile games                | [Check Out](https://docs.unity3d.com/Manual/index.html)            |
 | Unreal Engine      | AAA-grade game engine for complex and cinematic experiences           | [Check Out](https://docs.unrealengine.com/)                        |
+
 ## Geolocation & Maps APIs  
 *APIs and SDKs that allow applications to access mapping, GPS, and location-based services.*
 
@@ -693,6 +698,7 @@ https://learn.microsoft.com/en-gb/
 | OpenCage Geocoder    | API for geocoding using multiple open data sources                           | [Check Out](https://opencagedata.com/api)                               |
 | OpenStreetMap        | Collaborative project to create a free editable map of the world             | [Check Out](https://wiki.openstreetmap.org/wiki/Main_Page)              |
 | TomTom Maps SDK/API  | SDKs for routing, traffic, and map visualizations                            | [Check Out](https://developer.tomtom.com/)                              |
+
 ## Git Platforms & Tools  
 *Platforms and tools used for version control, collaboration, and managing Git repositories.*
 
@@ -717,6 +723,7 @@ https://learn.microsoft.com/en-gb/
 | Hasura             | Instant GraphQL APIs on top of PostgreSQL                                  | [Check Out](https://hasura.io/docs/)                               |
 | PostGraphile       | Creates GraphQL APIs automatically from a PostgreSQL database               | [Check Out](https://www.graphile.org/postgraphile/)                |
 | Relay              | JavaScript framework for fetching and managing GraphQL data in React        | [Check Out](https://relay.dev/docs/)                               |
+
 ## GUI Frameworks  
 *Libraries and toolkits used to build graphical user interfaces (GUIs) across platforms.*
 
@@ -732,6 +739,7 @@ https://learn.microsoft.com/en-gb/
 | Tauri              | Lightweight alternative to Electron for building native apps          | [Check Out](https://tauri.app/v1/guides/)                         |
 | Tkinter            | Standard Python interface to the Tk GUI toolkit                       | [Check Out](https://docs.python.org/3/library/tk.html)            |
 | WinUI              | Modern native UI platform for Windows                                 | [Check Out](https://learn.microsoft.com/en-us/windows/apps/winui/)|
+
 ## gRPC & RPC Frameworks  
 *Technologies for remote procedure calls (RPC), enabling services to communicate across networks.*
 
@@ -746,3 +754,213 @@ https://learn.microsoft.com/en-gb/
 | RPyC               | Transparent, symmetric Python RPC library                                  | [Check Out](https://rpyc.readthedocs.io/)                          |
 | TARS               | RPC framework with support for multiple languages                          | [Check Out](https://tarscloud.org/en/docs/install/install.html)   |
 | XML-RPC            | Remote procedure call protocol using XML                                   | [Check Out](https://docs.python.org/3/library/xmlrpc.server.html) |
+
+## Headless CMS  
+*Content management systems that provide content via APIs without a traditional front-end.*
+
+| **Technology**     | **Description**                                                          | **Official Documentation**                                         |
+|--------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|
+| ButterCMS         | Headless CMS with blogging and marketing content features                | [Check Out](https://buttercms.com/docs/api/)                       |
+| Contentful         | API-first headless CMS for structured content management                 | [Check Out](https://www.contentful.com/developers/docs/)           |
+| Directus           | Open-source headless CMS and API builder                                 | [Check Out](https://docs.directus.io/)                             |
+| Ghost              | Headless Node.js-based CMS focused on publishing                         | [Check Out](https://ghost.org/docs/)                               |
+| Hygraph (formerly GraphCMS) | Headless CMS with a native GraphQL API                          | [Check Out](https://hygraph.com/docs)                              |
+| Netlify CMS        | Git-based CMS for static site generators                                 | [Check Out](https://www.netlifycms.org/docs/intro/)                |
+| Payload CMS        | TypeScript-based CMS for custom apps                                     | [Check Out](https://payloadcms.com/docs)                           |
+| Prismic            | Headless CMS with custom types and slices                                | [Check Out](https://prismic.io/docs)                               |
+| Sanity             | Flexible headless CMS with real-time collaboration                       | [Check Out](https://www.sanity.io/docs)                            |
+| Strapi             | Open-source headless CMS built on Node.js                                | [Check Out](https://docs.strapi.io/)                               |
+
+## Hosting & Deployment Platforms  
+*Services that host, deploy, and scale web applications, static sites, or APIs.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AWS Amplify        | Hosting service by Amazon for full-stack web and mobile apps                 | [Check Out](https://docs.amplify.aws/)                             |
+| Cloudflare Pages   | JAMstack platform for frontend hosting with edge caching                     | [Check Out](https://developers.cloudflare.com/pages/platform/)     |
+| DigitalOcean App Platform | PaaS for deploying code directly from Git repositories             | [Check Out](https://docs.digitalocean.com/products/app-platform/)  |
+| Firebase Hosting   | Google service for hosting web apps and static content                      | [Check Out](https://firebase.google.com/docs/hosting)              |
+| GitHub Pages       | Static site hosting directly from GitHub repositories                       | [Check Out](https://docs.github.com/en/pages)                      |
+| Heroku             | PaaS that enables deployment of apps via Git and Docker                     | [Check Out](https://devcenter.heroku.com/categories/reference)     |
+| Netlify            | Frontend and full-stack deployment with CI/CD and edge functions            | [Check Out](https://docs.netlify.com/)                             |
+| Railway            | Instant deployments of full-stack apps with Git integration                 | [Check Out](https://docs.railway.app/)                             |
+| Render             | Unified cloud platform for deploying web apps, databases, and services      | [Check Out](https://docs.render.com/)                              |
+| Vercel             | Next.js-focused platform for frontend apps and APIs                         | [Check Out](https://vercel.com/docs)                               |
+
+## HTTP Clients & Tools  
+*Libraries and tools to make HTTP requests, handle REST APIs, and debug network communication.*
+
+| **Technology**     | **Description**                                                             | **Official Documentation**                                         |
+|--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Axios              | Promise-based HTTP client for browser and Node.js                          | [Check Out](https://axios-http.com/docs/intro)                     |
+| cURL               | Command-line tool for transferring data with URL syntax                    | [Check Out](https://curl.se/docs/)                                 |
+| fetch API          | Native browser API for making HTTP requests                                | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) |
+| HTTPie             | Command-line HTTP client with intuitive UI                                 | [Check Out](https://httpie.io/docs/cli)                            |
+| Insomnia           | REST and GraphQL client for API debugging and testing                      | [Check Out](https://docs.insomnia.rest/)                           |
+| Postman            | Popular tool for testing, documenting, and monitoring APIs                 | [Check Out](https://learning.postman.com/docs/getting-started/introduction/) |
+| ReqRes             | Hosted REST API for testing and prototyping                                | [Check Out](https://reqres.in/)                                    |
+| REST Client (VSCode Extension) | Send HTTP requests and view responses directly in VS Code     | [Check Out](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) |
+| SuperAgent         | Lightweight progressive AJAX API for Node.js and browsers                  | [Check Out](https://visionmedia.github.io/superagent/)             |
+| Thunder Client     | Lightweight REST API client for VS Code                                    | [Check Out](https://www.thunderclient.com/docs/introduction)       |
+
+## Hybrid App Frameworks  
+*Frameworks that allow building mobile apps using web technologies with native capabilities.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Apache Cordova     | Framework for building mobile apps using HTML, CSS, and JavaScript             | [Check Out](https://cordova.apache.org/docs/en/latest/)            |
+| Capacitor          | Native runtime by the Ionic team for building web-native apps                  | [Check Out](https://capacitorjs.com/docs)                          |
+| Flutter            | Google’s UI toolkit for crafting natively compiled applications                | [Check Out](https://docs.flutter.dev/)                             |
+| Ionic Framework    | Toolkit for building cross-platform mobile and web apps with web technologies  | [Check Out](https://ionicframework.com/docs)                       |
+| Kivy               | Open-source Python framework for developing multi-platform applications         | [Check Out](https://kivy.org/doc/stable/)                          |
+| NativeScript       | Open-source framework to build native apps with JavaScript or TypeScript       | [Check Out](https://docs.nativescript.org/)                        |
+| React Native       | Framework for building native apps using React                                 | [Check Out](https://reactnative.dev/docs/getting-started)          |
+| Weex               | Framework by Alibaba for building mobile apps with modern web development      | [Check Out](https://weex.apache.org/)                              |
+| Xamarin            | Microsoft’s open-source platform for building iOS and Android apps with .NET   | [Check Out](https://learn.microsoft.com/en-us/xamarin/)            |
+
+## HTML / Markup Languages  
+*Languages used to structure and present content on the web.*
+
+| **Technology**     | **Description**                                                             | **Official Documentation**                                         |
+|--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| HTML               | Standard markup language for creating web pages                             | [Check Out](https://developer.mozilla.org/en-US/docs/Web/HTML)    |
+| Markdown           | Lightweight markup language with plain text formatting syntax               | [Check Out](https://www.markdownguide.org/basic-syntax/)          |
+| Pug (formerly Jade)| Template engine for Node.js that compiles to HTML                           | [Check Out](https://pugjs.org/api/getting-started.html)           |
+| WXML               | Markup language used in WeChat Mini Programs                                | [Check Out](https://developers.weixin.qq.com/miniprogram/en/dev/framework/view/wxml/) |
+| XML                | Markup language that defines a set of rules for encoding documents           | [Check Out](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction) |
+
+## IDEs & Code Editors  
+*Integrated development environments and editors for writing, debugging, and managing code.*
+
+| **Technology**     | **Description**                                                               | **Official Documentation**                                         |
+|--------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Android Studio     | Official IDE for Android app development, built on IntelliJ IDEA              | [Check Out](https://developer.android.com/studio)                  |
+| Eclipse            | Extensible IDE widely used for Java and other languages                       | [Check Out](https://www.eclipse.org/documentation/)                |
+| IntelliJ IDEA      | Java-based IDE for JVM languages with smart code completion                   | [Check Out](https://www.jetbrains.com/idea/documentation/)         |
+| NetBeans           | Open-source IDE for Java and other languages                                  | [Check Out](https://netbeans.apache.org/kb/index.html)             |
+| PhpStorm           | Commercial IDE by JetBrains tailored for PHP development                      | [Check Out](https://www.jetbrains.com/phpstorm/documentation/)     |
+| PyCharm            | IDE by JetBrains for Python development                                       | [Check Out](https://www.jetbrains.com/pycharm/documentation/)      |
+| Replit             | Online IDE and collaborative coding platform                                  | [Check Out](https://docs.replit.com/)                              |
+| Sublime Text       | Lightweight and fast text editor with rich plugin support                     | [Check Out](https://www.sublimetext.com/docs/)                     |
+| Visual Studio      | Feature-rich IDE by Microsoft for .NET and C++                                | [Check Out](https://learn.microsoft.com/en-us/visualstudio/)       |
+| Visual Studio Code | Popular lightweight editor with extensive extensions and debugging tools      | [Check Out](https://code.visualstudio.com/docs)                    |
+
+## Image Processing Libraries  
+*Libraries used for manipulating, analyzing, and transforming images programmatically.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| ImageMagick        | Command-line tool for editing, converting, and composing images                 | [Check Out](https://imagemagick.org/script/resources.php)          |
+| OpenCV             | Open-source computer vision and image processing library                        | [Check Out](https://docs.opencv.org/)                              |
+| PIL / Pillow       | Python Imaging Library (forked as Pillow), used for opening and manipulating images | [Check Out](https://pillow.readthedocs.io/en/stable/)           |
+| Sharp              | High-performance Node.js image processing library                               | [Check Out](https://sharp.pixelplumbing.com/)                      |
+| Skia               | 2D graphics library used in Chrome, Flutter, and Android                        | [Check Out](https://skia.org/docs/user/)                           |
+| stb_image          | Header-only C library for image loading                                         | [Check Out](https://github.com/nothings/stb)                       |
+| Wand               | Python binding for ImageMagick                                                  | [Check Out](https://docs.wand-py.org/en/latest/)                   |
+
+## Infrastructure as Code (IaC)  
+*Tools used to provision, manage, and configure infrastructure through machine-readable configuration files.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Ansible            | Automation tool for provisioning, configuration management, and application deployment | [Check Out](https://docs.ansible.com/)                      |
+| AWS CloudFormation | Amazon’s IaC service to model and provision AWS resources                      | [Check Out](https://docs.aws.amazon.com/cloudformation/index.html) |
+| CDK (AWS CDK)      | Define AWS infrastructure using familiar programming languages                  | [Check Out](https://docs.aws.amazon.com/cdk/latest/guide/home.html) |
+| Chef               | Ruby-based configuration management tool                                        | [Check Out](https://docs.chef.io/)                                 |
+| Pulumi             | Infrastructure as Code tool using real programming languages                    | [Check Out](https://www.pulumi.com/docs/)                          |
+| SaltStack          | Event-driven IT automation and configuration management                         | [Check Out](https://docs.saltproject.io/)                          |
+| Terraform          | Popular open-source IaC tool for building, changing, and versioning infrastructure | [Check Out](https://developer.hashicorp.com/terraform/docs)     |
+
+## IoT (Internet of Things) Platforms  
+*Technologies and platforms that support development, deployment, and management of IoT solutions.*
+
+| **Technology**         | **Description**                                                                 | **Official Documentation**                                         |
+|------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Arduino IoT Cloud      | Cloud-based platform for Arduino devices to connect and interact remotely       | [Check Out](https://docs.arduino.cc/cloud/iot-cloud/)              |
+| AWS IoT Core           | Amazon's managed cloud service to connect IoT devices                           | [Check Out](https://docs.aws.amazon.com/iot/index.html)            |
+| Azure IoT Hub          | Microsoft’s cloud platform for connecting, monitoring, and managing IoT assets  | [Check Out](https://learn.microsoft.com/en-us/azure/iot-hub/)      |
+| Blynk IoT              | IoT platform for connecting hardware to mobile apps                             | [Check Out](https://docs.blynk.io/)                                |
+| Eclipse IoT            | Open-source IoT tools and frameworks managed by the Eclipse Foundation          | [Check Out](https://iot.eclipse.org/)                              |
+| Google Cloud IoT Core  | Fully managed service for connecting and managing IoT devices on Google Cloud   | [Check Out](https://cloud.google.com/iot-core/docs) *(deprecated)* |
+| Home Assistant         | Open-source platform to control smart home devices locally                      | [Check Out](https://www.home-assistant.io/docs/)                   |
+| Kaa IoT Platform       | Open-source platform for IoT application development                            | [Check Out](https://www.kaaproject.org/documentation/)             |
+| Particle               | IoT platform with hardware, connectivity, and cloud tools                       | [Check Out](https://docs.particle.io/)                             |
+| ThingsBoard            | Open-source IoT platform for device management, data collection, and visualization | [Check Out](https://thingsboard.io/docs/)                      |
+
+## Issue Tracking & Project Management Tools  
+*Tools to manage software development projects, bugs, tasks, and team collaboration.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| ClickUp            | All-in-one productivity and project management tool                             | [Check Out](https://help.clickup.com/hc/en-us)                     |
+| GitHub Issues      | Integrated issue tracking system on GitHub repositories                         | [Check Out](https://docs.github.com/en/issues)                    |
+| GitLab Issues      | Built-in issue tracker in GitLab for project planning                           | [Check Out](https://docs.gitlab.com/ee/user/project/issues/)       |
+| Jira               | Popular tool by Atlassian for bug tracking and agile project management         | [Check Out](https://support.atlassian.com/jira-software-cloud/)    |
+| Linear             | Project management tool focused on speed and simplicity for software teams      | [Check Out](https://linear.app/docs)                               |
+| Monday.com         | Work operating system with task, project, and workflow tracking                 | [Check Out](https://support.monday.com/)                           |
+| Notion             | All-in-one workspace combining notes, tasks, databases, and calendars           | [Check Out](https://www.notion.so/help)                            |
+| Trello             | Kanban-based task tracking and team collaboration tool                          | [Check Out](https://support.atlassian.com/trello/)                 |
+| YouTrack           | JetBrains issue tracker with agile boards, workflows, and reports               | [Check Out](https://www.jetbrains.com/help/youtrack/)              |
+
+## Java Frameworks  
+*Popular frameworks and libraries used for developing applications with the Java programming language.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Dropwizard         | Lightweight Java framework for building RESTful web services                    | [Check Out](https://www.dropwizard.io/en/latest/)                  |
+| Hibernate ORM      | Object-relational mapping framework for Java                                    | [Check Out](https://hibernate.org/orm/documentation/)              |
+| Jakarta EE         | Enterprise edition of Java for building large-scale web applications            | [Check Out](https://jakarta.ee/specifications/)                    |
+| JHipster           | Development platform for generating Spring Boot + Angular/React/Vue applications | [Check Out](https://www.jhipster.tech/documentation-archive/)     |
+| JSF (Jakarta Faces)| UI framework for Java web apps (part of Jakarta EE)                             | [Check Out](https://jakarta.ee/specifications/faces/)              |
+| Micronaut          | JVM-based framework for building modular, testable microservices                | [Check Out](https://docs.micronaut.io/)                            |
+| Quarkus            | Java framework optimized for Kubernetes and serverless environments             | [Check Out](https://quarkus.io/guides/)                            |
+| Spring Boot        | Java-based framework to create stand-alone, production-grade Spring apps        | [Check Out](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) |
+| Spring Framework   | Comprehensive programming and configuration model for modern Java apps          | [Check Out](https://docs.spring.io/spring-framework/docs/current/reference/html/) |
+| Vert.x             | Toolkit for building reactive applications on the JVM                           | [Check Out](https://vertx.io/docs/)                                |
+
+## JavaScript Libraries / Frameworks  
+*Popular libraries and frameworks built using JavaScript to enhance frontend and backend development.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Alpine.js          | Lightweight JavaScript framework for adding reactivity to HTML                  | [Check Out](https://alpinejs.dev/start-here)                       |
+| D3.js              | Library for creating dynamic, interactive data visualizations using SVG/HTML    | [Check Out](https://d3js.org/)                                     |
+| Ember.js           | Framework for ambitious web applications                                        | [Check Out](https://guides.emberjs.com/)                           |
+| Express.js         | Web framework for Node.js to build APIs and web apps                            | [Check Out](https://expressjs.com/en/starter/installing.html)      |
+| jQuery             | DOM manipulation and traversal library                                           | [Check Out](https://api.jquery.com/)                               |
+| Lodash             | Utility library for JavaScript that simplifies working with arrays, objects, and strings | [Check Out](https://lodash.com/docs/)                      |
+| Nuxt.js            | Framework for creating Vue.js applications with SSR and static generation       | [Check Out](https://nuxt.com/docs)                                 |
+| Redux              | State management library for JavaScript apps                                    | [Check Out](https://redux.js.org/introduction/getting-started)     |
+| Three.js           | 3D JavaScript library for creating 3D content in the browser                    | [Check Out](https://threejs.org/docs/)                             |
+| Vue.js             | Progressive JavaScript framework for building UI on the web                     | [Check Out](https://vuejs.org/guide/introduction.html)             |
+
+## JSON Tools / Libraries  
+*Libraries and tools used to parse, generate, and manipulate JSON data.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| FastJSON (Java)    | High-performance JSON processor for Java                                        | [Check Out](https://github.com/alibaba/fastjson)                   |
+| Gson               | Java library to convert Java Objects into JSON and vice versa                   | [Check Out](https://github.com/google/gson)                        |
+| Jackson            | Java JSON library for parsing, serialization, and deserialization               | [Check Out](https://github.com/FasterXML/jackson)                  |
+| Jayway JsonPath    | JSON querying and parsing tool (similar to XPath for XML)                       | [Check Out](https://github.com/json-path/JsonPath)                 |
+| JSON5              | JSON extension for more human-readable format                                   | [Check Out](https://json5.org/)                                    |
+| JSON Schema        | Vocabulary for validating and annotating JSON documents                         | [Check Out](https://json-schema.org/understanding-json-schema/)    |
+| Newtonsoft.Json    | Popular .NET library for JSON parsing and manipulation                          | [Check Out](https://www.newtonsoft.com/json/help/html/Introduction.htm) |
+| RapidJSON (C++)    | Fast JSON parser/generator for C++                                              | [Check Out](https://rapidjson.org/)                                |
+| Serde (Rust)       | Framework for serializing and deserializing data structures efficiently         | [Check Out](https://serde.rs/)                                     |
+
+## Kubernetes Ecosystem  
+*A container orchestration platform used to automate deployment, scaling, and management of containerized applications.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Helm               | Kubernetes package manager for defining, installing, and upgrading apps         | [Check Out](https://helm.sh/docs/)                                 |
+| Istio              | Service mesh for managing microservices traffic, security, and observability    | [Check Out](https://istio.io/latest/docs/)                         |
+| K9s                | Terminal UI for managing Kubernetes clusters                                    | [Check Out](https://k9scli.io/)                                    |
+| KEDA               | Kubernetes-based Event Driven Autoscaler                                        | [Check Out](https://keda.sh/docs/)                                 |
+| Kind               | Tool for running local Kubernetes clusters using Docker container “nodes”       | [Check Out](https://kind.sigs.k8s.io/docs/)                        |
+| Kubeadm            | CLI tool to bootstrap a Kubernetes cluster                                      | [Check Out](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/) |
+| Kubectl            | Command-line tool for interacting with Kubernetes clusters                      | [Check Out](https://kubernetes.io/docs/reference/kubectl/)         |
+| Kustomize          | Tool to customize Kubernetes YAML configurations                                | [Check Out](https://kubectl.docs.kubernetes.io/references/kustomize/kustomization/) |
+| Kubernetes         | Container orchestration platform                                                | [Check Out](https://kubernetes.io/docs/home/)                      |
+| Lens               | IDE for managing Kubernetes clusters visually                                   | [Check Out](https://docs.k8slens.dev/)                             |
