@@ -1400,3 +1400,506 @@ https://learn.microsoft.com/en-gb/
 | Node.js             | JavaScript runtime built on Chrome’s V8 engine                              | [Check Out](https://nodejs.org/en/docs/)                           |
 | V8 Engine           | Google’s open-source high-performance JavaScript and WebAssembly engine     | [Check Out](https://v8.dev/docs)                                   |
 
+## SDKs (Software Development Kits)  
+*Pre-packaged tools, libraries, and documentation that help developers build applications for specific platforms or services.*
+
+| **Technology**     | **Description**                                                               | **Official Documentation**                                         |
+|--------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Android SDK        | Tools and APIs required to develop Android apps                               | [Check Out](https://developer.android.com/studio)                  |
+| AWS SDK            | Tools and libraries for interacting with AWS services                         | [Check Out](https://docs.aws.amazon.com/sdkref/latest/guide/overview.html) |
+| Azure SDK          | SDKs for building apps using Microsoft Azure services                         | [Check Out](https://azure.github.io/azure-sdk/)                    |
+| Flutter SDK        | SDK for building natively compiled apps with Flutter                          | [Check Out](https://docs.flutter.dev/get-started/install)          |
+| Google Cloud SDK   | CLI tools for Google Cloud products and services                              | [Check Out](https://cloud.google.com/sdk/docs)                     |
+| Java SDK (JDK)     | Java Development Kit with tools, compiler, and libraries                      | [Check Out](https://docs.oracle.com/en/java/javase/17/)           |
+| iOS SDK            | Apple’s SDK for building iOS applications                                     | [Check Out](https://developer.apple.com/documentation/)            |
+| Unity SDK          | Unity-specific libraries and APIs for third-party services                    | [Check Out](https://docs.unity3d.com/Manual/index.html)            |
+| Unreal Engine SDK  | SDKs and APIs for extending Unreal Engine features                            | [Check Out](https://docs.unrealengine.com/)                        |
+| Zoom SDK           | SDKs for embedding Zoom video and audio into apps                             | [Check Out](https://marketplace.zoom.us/docs/sdk/native-sdks/introduction/) |
+
+## Search Engines / Libraries  
+*Tools and engines that provide search capabilities, from full-text search to indexing and querying large datasets.*
+
+| **Technology**     | **Description**                                                               | **Official Documentation**                                         |
+|--------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Algolia            | Hosted search engine with instant, typo-tolerant results                      | [Check Out](https://www.algolia.com/doc/)                          |
+| Apache Lucene      | High-performance, full-featured text search engine library                    | [Check Out](https://lucene.apache.org/core/)                       |
+| Apache Solr        | Enterprise search platform built on Lucene                                    | [Check Out](https://solr.apache.org/guide/)                        |
+| Elasticsearch      | Distributed, RESTful search and analytics engine                              | [Check Out](https://www.elastic.co/guide/index.html)               |
+| MeiliSearch        | Fast, open-source, typo-tolerant search engine                                | [Check Out](https://www.meilisearch.com/docs/)                     |
+| Typesense          | Typo-tolerant search engine optimized for instant search                      | [Check Out](https://typesense.org/docs/)                           |
+| Whoosh             | Pure Python full-text indexing and searching library                          | [Check Out](https://whoosh.readthedocs.io/en/latest/)              |
+| Xapian             | Open-source search engine library written in C++                              | [Check Out](https://xapian.org/docs/)                              |
+
+## Security / Authentication  
+*Tools and services that help secure applications, manage users, and implement authentication and authorization.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Auth0              | Identity-as-a-Service for authentication and authorization                   | [Check Out](https://auth0.com/docs)                                |
+| AWS Cognito        | AWS service for user authentication, authorization, and user management      | [Check Out](https://docs.aws.amazon.com/cognito/)                 |
+| Firebase Auth      | Firebase service for user authentication across platforms                    | [Check Out](https://firebase.google.com/docs/auth)                 |
+| Keycloak           | Open-source Identity and Access Management solution                          | [Check Out](https://www.keycloak.org/documentation)                |
+| Okta               | Enterprise identity management and authentication platform                   | [Check Out](https://developer.okta.com/docs/)                      |
+| Ory                | Identity infrastructure for modern applications                              | [Check Out](https://www.ory.sh/docs/)                              |
+| OAuth 2.0          | Protocol for token-based authorization                                        | [Check Out](https://oauth.net/2/)                                  |
+| OpenID Connect     | Simple identity layer on top of OAuth 2.0                                    | [Check Out](https://openid.net/developers/specs/)                  |
+| Passport.js        | Node.js middleware for authentication strategies                             | [Check Out](https://www.passportjs.org/docs/)                      |
+| SAML               | XML-based framework for user authentication and authorization                | [Check Out](https://docs.oasis-open.org/security/saml/v2.0/)       |
+
+## Serverless Frameworks  
+*Tools and platforms to build and deploy applications without managing server infrastructure.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AWS Lambda         | Serverless compute service by AWS                                            | [Check Out](https://docs.aws.amazon.com/lambda/)                   |
+| Azure Functions    | Event-driven serverless compute platform by Microsoft Azure                  | [Check Out](https://learn.microsoft.com/en-us/azure/azure-functions/) |
+| Google Cloud Functions | Lightweight, single-purpose functions on Google Cloud                  | [Check Out](https://cloud.google.com/functions/docs)               |
+| Netlify Functions  | Serverless backend functions with frontend hosting                          | [Check Out](https://docs.netlify.com/functions/overview/)          |
+| Vercel Functions   | API routes and serverless functions for frontend apps                       | [Check Out](https://vercel.com/docs/functions)                     |
+| Serverless Framework | Open-source framework for building and deploying serverless apps         | [Check Out](https://www.serverless.com/framework/docs/)            |
+| Begin              | Serverless web app platform built on AWS with framework abstraction          | [Check Out](https://docs.begin.com/)                               |
+| Kubeless           | Kubernetes-native serverless framework                                        | [Check Out](https://kubeless.io/docs/)                             |
+| OpenFaaS           | Functions-as-a-Service built on Kubernetes                                   | [Check Out](https://docs.openfaas.com/)                            |
+| Knative            | Kubernetes-based platform for deploying and managing serverless workloads    | [Check Out](https://knative.dev/docs/)                             |
+
+## Static Site Generators  
+*Tools that generate pre-rendered HTML websites from templates or markdown, ideal for speed and simplicity.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Astro              | Modern static site builder with component-based architecture                 | [Check Out](https://docs.astro.build/)                            |
+| Eleventy (11ty)    | Simple and powerful static site generator                                    | [Check Out](https://www.11ty.dev/docs/)                           |
+| Gatsby             | React-based static site generator                                            | [Check Out](https://www.gatsbyjs.com/docs/)                       |
+| Hugo               | Fast and flexible static site generator written in Go                        | [Check Out](https://gohugo.io/documentation/)                     |
+| Jekyll             | Blog-aware static site generator built with Ruby                             | [Check Out](https://jekyllrb.com/docs/)                           |
+| Nuxt (Static Mode)| Vue-based framework that supports static site generation                     | [Check Out](https://nuxt.com/docs/getting-started/introduction)   |
+| Next.js (Static Export) | React-based framework supporting hybrid static generation            | [Check Out](https://nextjs.org/docs/pages/building-your-application/deploying/static-exports) |
+| Scully             | Static site generator for Angular                                            | [Check Out](https://scully.io/docs/)                              |
+| VuePress           | Vue-powered static site generator                                            | [Check Out](https://vuepress.vuejs.org/)                          |
+| MkDocs             | Python-based static site generator geared toward project documentation       | [Check Out](https://www.mkdocs.org/)                              |
+
+## Storage Services  
+*Cloud-based solutions for storing and retrieving files, blobs, and objects.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Amazon S3          | Scalable object storage from AWS                                             | [Check Out](https://docs.aws.amazon.com/s3/)                      |
+| Azure Blob Storage | Microsoft’s scalable object storage for unstructured data                    | [Check Out](https://learn.microsoft.com/en-us/azure/storage/blobs/) |
+| Backblaze B2       | Affordable cloud object storage                                              | [Check Out](https://www.backblaze.com/b2/docs/)                   |
+| Cloudflare R2      | Object storage compatible with S3 but with zero egress fees                  | [Check Out](https://developers.cloudflare.com/r2/)                |
+| DigitalOcean Spaces| S3-compatible object storage with built-in CDN                               | [Check Out](https://docs.digitalocean.com/products/spaces/)      |
+| Firebase Storage   | Cloud storage solution for user-generated content                           | [Check Out](https://firebase.google.com/docs/storage)            |
+| Google Cloud Storage | Unified object storage across availability zones                          | [Check Out](https://cloud.google.com/storage/docs)               |
+| IBM Cloud Object Storage | Scalable, secure cloud storage by IBM                                | [Check Out](https://cloud.ibm.com/docs/cloud-object-storage)     |
+| Linode Object Storage | S3-compatible object storage on Linode                                   | [Check Out](https://www.linode.com/docs/products/storage/object-storage/) |
+| Wasabi             | Low-cost cloud storage with S3 compatibility                                | [Check Out](https://wasabi-support.zendesk.com/hc/en-us/categories/360001056172) |
+
+## SSO / Authentication  
+*Technologies and services used for Single Sign-On (SSO), authentication, and identity management.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Auth0              | Identity management platform offering authentication & authorization         | [Check Out](https://auth0.com/docs)                               |
+| AWS Cognito        | Amazon’s solution for managing user sign-up and authentication               | [Check Out](https://docs.aws.amazon.com/cognito/)                 |
+| Clerk              | Full-stack authentication and user management                                | [Check Out](https://clerk.com/docs)                               |
+| Firebase Auth      | Firebase's authentication service for web and mobile apps                    | [Check Out](https://firebase.google.com/docs/auth)                |
+| FusionAuth         | Complete user identity and access management solution                        | [Check Out](https://fusionauth.io/docs/)                          |
+| Keycloak           | Open-source identity and access management                                   | [Check Out](https://www.keycloak.org/documentation.html)          |
+| Microsoft Entra ID (Azure AD) | Enterprise identity service by Microsoft                     | [Check Out](https://learn.microsoft.com/en-us/entra/)             |
+| Okta               | Cloud-based identity and access management service                           | [Check Out](https://developer.okta.com/docs/)                     |
+| Ory                | Open-source identity infrastructure                                          | [Check Out](https://www.ory.sh/docs/)                             |
+| Supabase Auth      | Auth system built into Supabase for PostgreSQL apps                          | [Check Out](https://supabase.com/docs/guides/auth)                |
+
+## Static Code Analysis  
+*Tools that examine source code for potential errors, vulnerabilities, or code smells without executing the program.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Bandit             | Security linter for Python code                                               | [Check Out](https://bandit.readthedocs.io/en/latest/)             |
+| Checkstyle         | Static code analysis tool for Java                                            | [Check Out](https://checkstyle.sourceforge.io/)                   |
+| Codacy             | Automated code review and static analysis platform                            | [Check Out](https://docs.codacy.com/)                             |
+| CodeClimate        | Maintainability and test coverage analysis tool                               | [Check Out](https://docs.codeclimate.com/)                        |
+| Coverity Scan      | Static analysis for detecting defects in C/C++/Java                           | [Check Out](https://scan.coverity.com/)                           |
+| ESLint             | Linting tool for JavaScript/TypeScript                                        | [Check Out](https://eslint.org/docs/latest/)                      |
+| Flake8             | Linter for Python code combining PyFlakes, pycodestyle, and McCabe            | [Check Out](https://flake8.pycqa.org/en/latest/)                  |
+| FindBugs (SpotBugs)| Static code analyzer for Java                                                 | [Check Out](https://spotbugs.github.io/)                          |
+| PMD                | Source code analyzer for Java, Apex, and others                               | [Check Out](https://pmd.github.io/latest/pmd_userdocs_getting_started.html) |
+| SonarQube          | Continuous inspection tool for code quality and security                      | [Check Out](https://docs.sonarsource.com/)                        |
+
+## Static Site Generators  
+*Tools that generate static HTML websites from templates or content files like Markdown.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Docusaurus         | Static site generator optimized for documentation websites                    | [Check Out](https://docusaurus.io/docs)                           |
+| Eleventy (11ty)    | Simple and flexible static site generator                                     | [Check Out](https://www.11ty.dev/docs/)                           |
+| Gatsby             | React-based framework for building static and dynamic websites                | [Check Out](https://www.gatsbyjs.com/docs/)                       |
+| Hugo               | Fast and flexible static site generator written in Go                         | [Check Out](https://gohugo.io/documentation/)                     |
+| Jekyll             | Popular static site generator compatible with GitHub Pages                    | [Check Out](https://jekyllrb.com/docs/)                           |
+| MkDocs             | Python-based generator for project documentation                              | [Check Out](https://www.mkdocs.org/user-guide/)                   |
+| Next.js (Static Export) | React framework with hybrid static & server rendering                  | [Check Out](https://nextjs.org/docs/pages/building-your-application/deploying/static-exports) |
+| Nuxt.js (Static Target) | Vue.js-based framework supporting static site generation               | [Check Out](https://nuxt.com/docs/getting-started/introduction)   |
+| Scully             | Static site generator for Angular apps                                       | [Check Out](https://scully.io/docs/)                              |
+| VuePress           | Vue-powered static site generator                                             | [Check Out](https://vuepress.vuejs.org/guide/)                    |
+
+## Static Typing Tools  
+*Tools and languages that provide type checking during development to catch errors early.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Flow               | Static type checker for JavaScript                                            | [Check Out](https://flow.org/en/docs/)                            |
+| Kotlin             | Statically typed language for JVM, Android, and browser development           | [Check Out](https://kotlinlang.org/docs/home.html)                |
+| Mypy               | Static type checker for Python                                                 | [Check Out](https://mypy.readthedocs.io/en/stable/)               |
+| Pyright            | Fast type checker for Python (used with VS Code, supports gradual typing)     | [Check Out](https://github.com/microsoft/pyright)                 |
+| TypeScript         | Superset of JavaScript with optional static typing                            | [Check Out](https://www.typescriptlang.org/docs)                  |
+
+## Storage Solutions  
+*Technologies and services used to store, retrieve, and manage data at scale—locally or in the cloud.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Amazon S3          | Scalable object storage service by AWS                                        | [Check Out](https://docs.aws.amazon.com/s3/index.html)            |
+| Azure Blob Storage | Microsoft’s cloud object storage solution                                     | [Check Out](https://learn.microsoft.com/en-us/azure/storage/blobs/) |
+| Ceph               | Distributed object, block, and file storage platform                          | [Check Out](https://docs.ceph.com/en/latest/)                     |
+| DigitalOcean Spaces| Object storage service from DigitalOcean                                      | [Check Out](https://docs.digitalocean.com/products/spaces/)       |
+| Firebase Storage   | Google’s cloud storage for app files                                          | [Check Out](https://firebase.google.com/docs/storage)             |
+| Google Cloud Storage | Unified object storage from Google Cloud                                  | [Check Out](https://cloud.google.com/storage/docs)                |
+| MinIO              | High-performance, self-hosted object storage system                           | [Check Out](https://min.io/docs/minio/)                           |
+| NetApp ONTAP       | Enterprise storage management platform                                        | [Check Out](https://docs.netapp.com/us-en/ontap/)                 |
+| OpenStack Swift    | Open-source object storage system                                             | [Check Out](https://docs.openstack.org/swift/latest/)             |
+| Wasabi             | Affordable cloud object storage with S3 compatibility                        | [Check Out](https://wasabi-support.zendesk.com/hc/en-us/categories/360001391632-Documentation) |
+
+## Scripting Languages  
+*Languages primarily used to automate tasks, control software environments, or run quick utilities.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Bash               | Unix shell and command language used for scripting and automation             | [Check Out](https://www.gnu.org/software/bash/manual/)            |
+| Lua                | Lightweight, embeddable scripting language                                    | [Check Out](https://www.lua.org/manual/5.4/)                       |
+| Perl               | High-level, general-purpose scripting language                                | [Check Out](https://perldoc.perl.org/)                            |
+| PowerShell         | Task automation and configuration management framework from Microsoft         | [Check Out](https://learn.microsoft.com/en-us/powershell/)        |
+| Python             | Popular general-purpose and scripting language                                | [Check Out](https://docs.python.org/3/)                           |
+| Ruby               | Dynamic, open-source programming and scripting language                       | [Check Out](https://www.ruby-lang.org/en/documentation/)          |
+| Tcl                | Tool Command Language used for rapid prototyping and scripting                | [Check Out](https://www.tcl-lang.org/doc/)                        |
+
+## SDKs (Software Development Kits)  
+*Toolkits provided by platforms or services to help developers build applications efficiently.*
+
+| **Technology**         | **Description**                                                            | **Official Documentation**                                         |
+|------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Android SDK            | Toolkit for developing Android applications                                | [Check Out](https://developer.android.com/studio)                 |
+| AWS SDK                | SDKs for various programming languages to interact with AWS services       | [Check Out](https://docs.aws.amazon.com/tools/)                   |
+| Azure SDK              | SDKs for accessing Microsoft Azure services                                | [Check Out](https://learn.microsoft.com/en-us/azure/developer/azure-sdk/intro) |
+| Facebook SDK           | Tools and libraries for integrating Facebook features                      | [Check Out](https://developers.facebook.com/docs/)                |
+| Firebase SDK           | SDKs for integrating Firebase services into mobile and web apps            | [Check Out](https://firebase.google.com/docs)                     |
+| Flutter SDK            | SDK for building cross-platform applications using Dart                    | [Check Out](https://docs.flutter.dev/)                            |
+| Google Cloud SDK       | Tools for interacting with Google Cloud services                           | [Check Out](https://cloud.google.com/sdk/docs)                    |
+| iOS SDK                | Apple's SDK for building iOS apps                                          | [Check Out](https://developer.apple.com/documentation/)           |
+| Stripe SDK             | SDKs for integrating Stripe payment processing                             | [Check Out](https://stripe.com/docs/mobile)                       |
+| Unity SDK              | SDK for building 2D, 3D, AR, and VR games and experiences                  | [Check Out](https://docs.unity3d.com/Manual/index.html)           |
+
+## Security Tools  
+*Technologies and frameworks used to enhance application, system, and network security.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Auth0              | Identity management platform for authentication and authorization            | [Check Out](https://auth0.com/docs)                               |
+| HashiCorp Vault    | Secrets management, data encryption, and identity-based access                | [Check Out](https://developer.hashicorp.com/vault/docs)           |
+| JWT (JSON Web Tokens) | Open standard for securely transmitting information                       | [Check Out](https://jwt.io/introduction)                          |
+| Keycloak           | Open-source identity and access management tool                              | [Check Out](https://www.keycloak.org/documentation.html)          |
+| Metasploit         | Penetration testing and vulnerability assessment framework                   | [Check Out](https://docs.rapid7.com/metasploit/)                  |
+| OAuth 2.0          | Authorization framework for delegated access                                 | [Check Out](https://oauth.net/2/)                                 |
+| OpenSSL            | Toolkit for TLS/SSL encryption and certificate management                    | [Check Out](https://www.openssl.org/docs/)                        |
+| OWASP ZAP          | Web application security scanner                                              | [Check Out](https://www.zaproxy.org/docs/)                        |
+| Snyk               | Tool for finding and fixing vulnerabilities in dependencies                   | [Check Out](https://docs.snyk.io/)                                |
+| SSL Labs           | Security testing and analysis of SSL certificates                            | [Check Out](https://docs.ssllabs.com/)                            |
+
+## Serverless Platforms  
+*Cloud platforms that allow running code without managing servers, scaling automatically on demand.*
+
+| **Technology**        | **Description**                                                            | **Official Documentation**                                         |
+|-----------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AWS Lambda            | Run code in response to events without provisioning servers                | [Check Out](https://docs.aws.amazon.com/lambda/)                  |
+| Azure Functions       | Serverless compute platform by Microsoft Azure                             | [Check Out](https://learn.microsoft.com/en-us/azure/azure-functions/) |
+| Cloudflare Workers    | Run JavaScript at the network edge using Cloudflare's infrastructure        | [Check Out](https://developers.cloudflare.com/workers/)           |
+| Firebase Cloud Functions | Backend serverless functions for Firebase apps                        | [Check Out](https://firebase.google.com/docs/functions)           |
+| Google Cloud Functions | Lightweight, single-purpose functions for Google Cloud                     | [Check Out](https://cloud.google.com/functions/docs)              |
+| Netlify Functions     | Run serverless functions alongside your frontend hosted on Netlify          | [Check Out](https://docs.netlify.com/functions/overview/)         |
+| Vercel Serverless Functions | Serverless backend API endpoints for Vercel projects                | [Check Out](https://vercel.com/docs/functions/serverless-functions) |
+
+## Static Site Generators  
+*Tools that generate static HTML websites from templates and content files, often used for blogs and documentation.*
+
+| **Technology**     | **Description**                                                            | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Astro              | Static site builder for modern frontend frameworks                         | [Check Out](https://docs.astro.build)                             |
+| Docusaurus         | Static site generator optimized for documentation                          | [Check Out](https://docusaurus.io/docs)                           |
+| Eleventy (11ty)    | Simple static site generator based on JavaScript                           | [Check Out](https://www.11ty.dev/docs/)                           |
+| Gatsby             | React-based framework for building static and server-rendered websites     | [Check Out](https://www.gatsbyjs.com/docs/)                       |
+| Gridsome           | Vue-powered static site generator                                           | [Check Out](https://gridsome.org/docs/)                           |
+| Hugo               | Fast and flexible static site generator written in Go                      | [Check Out](https://gohugo.io/documentation/)                     |
+| Jekyll             | Ruby-based static site generator commonly used with GitHub Pages           | [Check Out](https://jekyllrb.com/docs/)                           |
+| Next.js (SSG)      | React framework supporting static site generation                          | [Check Out](https://nextjs.org/docs/pages/building-your-application/rendering/static-generation) |
+| Nuxt (SSG)         | Vue framework supporting static generation                                 | [Check Out](https://nuxt.com/docs/getting-started/introduction)   |
+| Sapper             | Framework for building static sites with Svelte (deprecated)               | [Check Out](https://sapper.svelte.dev/docs)                       |
+| VuePress           | Vue-powered static site generator primarily used for documentation         | [Check Out](https://vuepress.vuejs.org/guide/)                    |
+
+## Storage Services  
+*Services and platforms for storing and managing files, objects, and structured/unstructured data in the cloud.*
+
+| **Technology**      | **Description**                                                             | **Official Documentation**                                         |
+|---------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Amazon S3           | Scalable object storage service by AWS                                      | [Check Out](https://docs.aws.amazon.com/s3/)                      |
+| Azure Blob Storage  | Microsoft Azure's object storage solution for the cloud                     | [Check Out](https://learn.microsoft.com/en-us/azure/storage/blobs/) |
+| Backblaze B2        | Cloud storage service with S3 compatibility                                 | [Check Out](https://www.backblaze.com/b2/docs/)                   |
+| DigitalOcean Spaces | Object storage service compatible with S3                                  | [Check Out](https://docs.digitalocean.com/products/spaces/)       |
+| Filebase            | Decentralized object storage using IPFS and S3 API                         | [Check Out](https://docs.filebase.com/)                           |
+| Firebase Storage    | File storage backed by Google Cloud Storage, designed for mobile apps       | [Check Out](https://firebase.google.com/docs/storage)             |
+| Google Cloud Storage| Scalable and secure object storage from Google                             | [Check Out](https://cloud.google.com/storage/docs)                |
+| IBM Cloud Object Storage | Secure and scalable cloud object storage by IBM                        | [Check Out](https://cloud.ibm.com/docs/cloud-object-storage)      |
+| MinIO               | High-performance S3-compatible object storage system                        | [Check Out](https://min.io/docs/)                                 |
+| Wasabi             | Affordable and fast cloud object storage with S3 API                        | [Check Out](https://wasabi-support.zendesk.com/hc/en-us/categories/360000089971-Documentation) |
+
+## Static File Hosting  
+*Platforms used to host static files like HTML, CSS, JS, images, or entire static websites.*
+
+| **Technology**      | **Description**                                                      | **Official Documentation**                                         |
+|---------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|
+| Cloudflare Pages    | Static site hosting from Cloudflare with CDN and Git integration     | [Check Out](https://developers.cloudflare.com/pages/)             |
+| Firebase Hosting    | Static and dynamic web hosting for Firebase apps                     | [Check Out](https://firebase.google.com/docs/hosting)             |
+| GitHub Pages        | Host static websites directly from GitHub repositories               | [Check Out](https://docs.github.com/en/pages)                     |
+| GitLab Pages        | Static site hosting from GitLab repositories                         | [Check Out](https://docs.gitlab.com/ee/user/project/pages/)       |
+| Netlify             | Git-based static hosting platform with CI/CD and functions           | [Check Out](https://docs.netlify.com/)                            |
+| Render Static Sites | Static site hosting on Render platform                               | [Check Out](https://render.com/docs/static-sites)                 |
+| Surge.sh            | Simple CLI-based static site publishing service                      | [Check Out](https://surge.sh/help/)                               |
+| Vercel              | Hosting and deployment platform for frontend and static sites        | [Check Out](https://vercel.com/docs)                              |
+
+## Static Code Analysis  
+*Tools that analyze source code without executing it to find bugs, enforce coding standards, and ensure quality.*
+
+| **Technology**       | **Description**                                                          | **Official Documentation**                                         |
+|----------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Bandit               | Security linter for Python code                                          | [Check Out](https://bandit.readthedocs.io/en/latest/)             |
+| Checkstyle           | Static code analysis tool for Java                                       | [Check Out](https://checkstyle.sourceforge.io/)                    |
+| Clang Static Analyzer| Static analysis tool for C, C++, and Objective-C                         | [Check Out](https://clang-analyzer.llvm.org/)                     |
+| CodeQL               | Semantic code analysis for security vulnerabilities (by GitHub)          | [Check Out](https://codeql.github.com/docs/)                      |
+| Coverity Scan        | Static code analysis platform for finding defects                        | [Check Out](https://scan.coverity.com/)                           |
+| ESLint               | Popular linting tool for JavaScript/TypeScript                          | [Check Out](https://eslint.org/docs/latest/)                      |
+| FindBugs (spotbugs)  | Static analysis tool for Java programs                                   | [Check Out](https://spotbugs.github.io/)                          |
+| Flake8               | Python linting and style enforcement tool                                | [Check Out](https://flake8.pycqa.org/en/latest/)                  |
+| GolangCI-Lint        | Fast linters aggregator for Go                                           | [Check Out](https://golangci-lint.run/usage/install/)             |
+| Pylint               | Python source code analyzer                                              | [Check Out](https://pylint.readthedocs.io/en/latest/)             |
+| SonarQube            | Comprehensive static code analysis and quality tool                      | [Check Out](https://docs.sonarsource.com/)                        |
+| StyleCop             | Static code analysis for C# to enforce style and consistency             | [Check Out](https://github.com/StyleCop/StyleCop)                 |
+| TSLint (Deprecated)  | Linter for TypeScript (now merged into ESLint)                          | [Check Out](https://github.com/palantir/tslint)                   |
+
+## Static Site Generators  
+*Tools that generate static HTML websites from templates and content files, often used with JAMstack.*
+
+| **Technology**     | **Description**                                                           | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Docusaurus         | Static site generator by Meta, ideal for documentation sites              | [Check Out](https://docusaurus.io/docs)                           |
+| Eleventy (11ty)    | Simple and fast static site generator written in JavaScript               | [Check Out](https://www.11ty.dev/docs/)                           |
+| Gatsby             | React-based static site generator with GraphQL integration                 | [Check Out](https://www.gatsbyjs.com/docs/)                       |
+| Hugo               | Fast and flexible static site generator written in Go                     | [Check Out](https://gohugo.io/documentation/)                     |
+| Jekyll             | Ruby-based static site generator, popular with GitHub Pages                | [Check Out](https://jekyllrb.com/docs/)                           |
+| MkDocs             | Static site generator for building project documentation using Markdown    | [Check Out](https://www.mkdocs.org/user-guide/)                   |
+| Next.js (Static)   | React framework supporting static site generation via `getStaticProps`     | [Check Out](https://nextjs.org/docs/pages/building-your-application/rendering/static-site-generation) |
+| Nuxt.js (Static)   | Vue framework with static site generation support                         | [Check Out](https://nuxt.com/docs/getting-started/introduction)   |
+| Pelican            | Static site generator written in Python                                   | [Check Out](https://docs.getpelican.com/)                         |
+| Sapper (deprecated)| Svelte-based static site generator, predecessor to SvelteKit               | [Check Out](https://sapper.svelte.dev/docs)                       |
+| Scully             | Static site generator for Angular apps                                     | [Check Out](https://scully.io/docs/)                              |
+| SvelteKit          | Svelte framework that supports static site generation                     | [Check Out](https://kit.svelte.dev/docs)                          |
+| VuePress           | Vue-powered static site generator, ideal for docs                          | [Check Out](https://vuepress.vuejs.org/guide/)                    |
+
+## Storage Services  
+*Services and tools used to store, retrieve, and manage data in the cloud or locally.*
+
+| **Technology**     | **Description**                                                  | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
+| Amazon S3          | Scalable object storage service by AWS                           | [Check Out](https://docs.aws.amazon.com/s3/)                       |
+| Azure Blob Storage | Object storage solution for the cloud by Microsoft Azure         | [Check Out](https://learn.microsoft.com/en-us/azure/storage/blobs/)|
+| Backblaze B2       | Affordable cloud storage for backups and large data              | [Check Out](https://www.backblaze.com/b2/docs/)                    |
+| DigitalOcean Spaces| S3-compatible object storage service by DigitalOcean             | [Check Out](https://docs.digitalocean.com/products/spaces/)       |
+| Firebase Storage   | Cloud storage for Firebase apps                                  | [Check Out](https://firebase.google.com/docs/storage)             |
+| Google Cloud Storage | Unified object storage from Google Cloud Platform              | [Check Out](https://cloud.google.com/storage/docs)                 |
+| IPFS               | Peer-to-peer hypermedia protocol for decentralized storage       | [Check Out](https://docs.ipfs.tech/)                              |
+| Linode Object Storage| S3-compatible storage from Linode                              | [Check Out](https://www.linode.com/docs/products/storage/object-storage/) |
+| MinIO              | High-performance S3-compatible object storage                    | [Check Out](https://docs.min.io/docs/)                            |
+| Storj              | Decentralized cloud object storage                               | [Check Out](https://docs.storj.io/)                               |
+| Wasabi             | Affordable, high-speed S3-compatible object storage               | [Check Out](https://docs.wasabi.com/)                             |
+
+## System Programming  
+*Low-level programming focused on building system software like operating systems, device drivers, and utilities.*
+
+| **Technology**     | **Description**                                                       | **Official Documentation**                                         |
+|--------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|
+| Assembly Language  | Low-level language directly interacting with hardware                | [Check Out](https://nasm.us/doc/)                                 |
+| C                  | General-purpose low-level language, foundational for system software | [Check Out](https://devdocs.io/c/)                                |
+| C++                | Extension of C with OOP and templates for systems and performance     | [Check Out](https://en.cppreference.com/w/)                       |
+| D Language         | Modern system programming language with C-like syntax                | [Check Out](https://dlang.org/spec.html)                          |
+| Go (Golang)        | Compiled language from Google, suitable for systems and services     | [Check Out](https://go.dev/doc/)                                  |
+| Nim                | Compiled systems programming language with Python-like syntax        | [Check Out](https://nim-lang.org/docs/manual.html)                |
+| Rust               | Safe, modern systems programming language                            | [Check Out](https://doc.rust-lang.org/book/)                      |
+| V Language         | Simple, fast, safe compiled language for system-level programming     | [Check Out](https://github.com/vlang/v/blob/master/doc/docs.md)   |
+| Zig                | Low-level programming language focused on performance and safety     | [Check Out](https://ziglang.org/documentation/)                   |
+
+## Syntax Highlighters  
+*Tools and libraries that apply code-specific color formatting for better readability.*
+
+| **Technology**     | **Description**                                                 | **Official Documentation**                                         |
+|--------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
+| Highlight.js       | JavaScript library for syntax highlighting in web browsers      | [Check Out](https://highlightjs.org/usage/)                        |
+| Prism.js           | Lightweight, extensible syntax highlighter                      | [Check Out](https://prismjs.com/#basic-usage)                      |
+| Rouge              | Ruby-based syntax highlighter used in Jekyll                    | [Check Out](https://github.com/rouge-ruby/rouge)                   |
+| Pygments           | Python syntax highlighter with support for many languages       | [Check Out](https://pygments.org/docs/)                            |
+| Shiki              | Syntax highlighter powered by TextMate grammar and VS Code themes | [Check Out](https://shiki.style/guide/)                         |
+| CodeMirror         | Versatile code editor with syntax highlighting capabilities     | [Check Out](https://codemirror.net/docs/)                          |
+| Monaco Editor      | VS Code’s editor library with rich syntax highlighting          | [Check Out](https://microsoft.github.io/monaco-editor/)            |
+
+## Task Runners  
+*Tools that automate repetitive development tasks such as minification, compilation, testing, and deployment.*
+
+| **Technology**     | **Description**                                                       | **Official Documentation**                                         |
+|--------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|
+| Gulp               | Streaming build system for automating tasks                          | [Check Out](https://gulpjs.com/docs/en/getting-started/quick-start) |
+| Grunt              | JavaScript task runner for automation                                 | [Check Out](https://gruntjs.com/getting-started)                  |
+| Just               | Task runner similar to Make, written in Rust                          | [Check Out](https://just.systems/man/en/)                         |
+| Make               | Classic build automation tool using Makefiles                         | [Check Out](https://www.gnu.org/software/make/manual/make.html)   |
+| Rake               | Task runner and build tool for Ruby projects                          | [Check Out](https://ruby.github.io/rake/)                         |
+| Taskfile           | Cross-platform task runner written in Go                              | [Check Out](https://taskfile.dev/#/)                              |
+| Mage               | Make-like build tool using Go                                         | [Check Out](https://magefile.org/guide/)                          |
+| Cake (C# Make)     | C#-based build automation system                                      | [Check Out](https://cakebuild.net/docs/)                          |
+
+## Template Engines  
+*Tools that enable dynamic generation of HTML or other text by combining templates with data.*
+
+| **Technology**     | **Description**                                                     | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|
+| EJS                | Simple templating language that lets you generate HTML markup       | [Check Out](https://ejs.co/#docs)                                 |
+| Handlebars.js      | Minimal templating engine with logic-less philosophy                | [Check Out](https://handlebarsjs.com/guide/)                      |
+| Jinja2             | Powerful templating engine for Python                               | [Check Out](https://jinja.palletsprojects.com/en/latest/)         |
+| Liquid             | Template language created by Shopify for flexible web content       | [Check Out](https://shopify.github.io/liquid/)                    |
+| Mustache           | Logic-less templates for many languages                             | [Check Out](https://mustache.github.io/mustache.5.html)           |
+| Nunjucks           | Rich templating engine for JavaScript, inspired by Jinja2           | [Check Out](https://mozilla.github.io/nunjucks/)                  |
+| Pug (Jade)         | Clean, whitespace-sensitive templating engine for Node.js           | [Check Out](https://pugjs.org/api/getting-started.html)           |
+| Smarty             | PHP-based templating engine with caching and logic support          | [Check Out](https://www.smarty.net/docs/en/)                      |
+| Thymeleaf          | Java-based server-side template engine                              | [Check Out](https://www.thymeleaf.org/documentation.html)         |
+| Twig               | Fast, secure templating engine for PHP                              | [Check Out](https://twig.symfony.com/doc/3.x/)                    |
+
+## Testing Frameworks  
+*Libraries and tools that help developers write, organize, and run tests to ensure code correctness.*
+
+| **Technology**     | **Description**                                                     | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|
+| Cypress            | End-to-end testing framework for web applications                  | [Check Out](https://docs.cypress.io/)                             |
+| JUnit              | Widely used testing framework for Java                              | [Check Out](https://junit.org/junit5/docs/current/user-guide/)    |
+| Mocha              | JavaScript test framework for Node.js                               | [Check Out](https://mochajs.org/#getting-started)                 |
+| Jasmine            | Behavior-driven development framework for testing JavaScript code   | [Check Out](https://jasmine.github.io/tutorials/your_first_suite) |
+| PyTest             | Full-featured Python testing tool                                   | [Check Out](https://docs.pytest.org/en/stable/)                   |
+| RSpec              | Behavior-driven development (BDD) framework for Ruby                | [Check Out](https://rspec.info/documentation/)                    |
+| TestNG             | Powerful test framework inspired by JUnit, for Java                 | [Check Out](https://testng.org/doc/)                              |
+| NUnit              | Unit-testing framework for all .NET languages                       | [Check Out](https://nunit.org/)                                   |
+| Jest               | Delightful JavaScript testing framework maintained by Meta          | [Check Out](https://jestjs.io/docs/getting-started)               |
+| Vitest             | Blazing fast unit test framework powered by Vite                    | [Check Out](https://vitest.dev/guide/)                            |
+| Ava                | Minimalistic test runner for Node.js                                | [Check Out](https://avajs.dev/#getting-started)                   |
+| Catch2             | Modern C++-based test framework                                     | [Check Out](https://github.com/catchorg/Catch2)                   |
+| Go test            | Built-in testing tool for Go                                        | [Check Out](https://pkg.go.dev/testing)                           |
+| QUnit              | JavaScript unit testing framework for jQuery projects               | [Check Out](https://api.qunitjs.com/)                             |
+| PHPUnit            | Unit testing framework for PHP                                      | [Check Out](https://phpunit.de/documentation.html)                |
+
+## Text Editors  
+*Lightweight code editors that offer syntax highlighting, extensions, and a user-friendly interface for coding.*
+
+| **Technology**     | **Description**                                                   | **Official Documentation**                                         |
+|--------------------|-------------------------------------------------------------------|--------------------------------------------------------------------|
+| Atom               | Hackable text editor developed by GitHub (now sunsetted)          | [Check Out](https://flight-manual.atom.io/)                       |
+| Brackets           | Open-source editor focused on web development                     | [Check Out](http://brackets.io/)                                  |
+| Geany              | Lightweight editor with IDE features                              | [Check Out](https://www.geany.org/documentation/)                 |
+| Gedit              | Official text editor of the GNOME desktop environment             | [Check Out](https://help.gnome.org/users/gedit/stable/)           |
+| Kate               | KDE Advanced Text Editor                                          | [Check Out](https://docs.kde.org/stable5/en/kate/kate/index.html) |
+| Notepad++          | Popular open-source text editor for Windows                       | [Check Out](https://npp-user-manual.org/docs/)                    |
+| Sublime Text       | Fast, powerful, and extensible text editor                        | [Check Out](https://www.sublimetext.com/docs/)                    |
+| TextMate           | macOS text editor with a dynamic snippet system                   | [Check Out](https://manual.macromates.com/en/)                    |
+| Vim                | Highly configurable command-line text editor                      | [Check Out](https://vimhelp.org/)                                 |
+| Neovim             | Refactored Vim with modern features                               | [Check Out](https://neovim.io/doc/user/)                          |
+
+## Time Series Databases  
+*Databases optimized for storing and querying time-stamped or time-series data.*
+
+| **Technology**     | **Description**                                                      | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|
+| Graphite           | Monitoring tool with a powerful graphing feature                     | [Check Out](https://graphite.readthedocs.io/en/latest/)           |
+| InfluxDB           | Time series platform for real-time analytics                         | [Check Out](https://docs.influxdata.com/influxdb/latest/)         |
+| OpenTSDB           | Distributed, scalable time series database built on HBase            | [Check Out](http://opentsdb.net/docs/build/html/index.html)       |
+| Prometheus         | Monitoring system and time series database                           | [Check Out](https://prometheus.io/docs/introduction/overview/)    |
+| TimescaleDB        | PostgreSQL-based time-series database                                | [Check Out](https://docs.timescale.com/)                          |
+| VictoriaMetrics    | Fast, cost-effective, and scalable time series database              | [Check Out](https://docs.victoriametrics.com/)                    |
+
+## Type Checkers  
+*Tools that analyze source code to ensure type correctness and help catch bugs during development.*
+
+| **Technology**     | **Description**                                                    | **Official Documentation**                                         |
+|--------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| Flow               | Static type checker for JavaScript developed by Meta              | [Check Out](https://flow.org/en/docs/)                            |
+| Mypy               | Static type checker for Python                                     | [Check Out](https://mypy.readthedocs.io/en/stable/)               |
+| Pyright            | Fast type checker for Python powered by TypeScript tech           | [Check Out](https://github.com/microsoft/pyright)                 |
+| Sorbet             | Static type checker for Ruby                                       | [Check Out](https://sorbet.org/docs/overview)                     |
+| TypeScript         | Superset of JavaScript that adds optional static typing           | [Check Out](https://www.typescriptlang.org/docs/)                 |
+| TypeGuard          | Runtime type checker for Python                                    | [Check Out](https://typeguard.readthedocs.io/en/latest/)          |
+
+## Testing Frameworks / Tools  
+*Libraries and utilities for writing, running, and managing automated tests in software development.*
+
+| **Technology**     | **Description**                                                    | **Official Documentation**                                         |
+|--------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| Appium             | Cross-platform mobile app testing framework                        | [Check Out](https://appium.io/docs/en/about-appium/intro/)        |
+| Ava                | Node.js test runner with concise syntax and parallel testing       | [Check Out](https://github.com/avajs/ava/blob/main/readme.md)     |
+| Chai               | BDD/TDD assertion library for JavaScript                           | [Check Out](https://www.chaijs.com/guide/)                        |
+| Cucumber           | Tool for running automated acceptance tests written in Gherkin     | [Check Out](https://cucumber.io/docs/guides/10-minute-tutorial/)  |
+| Cypress            | Fast, easy, and reliable testing for anything that runs in a browser| [Check Out](https://docs.cypress.io/)                             |
+| Detox              | End-to-end testing for mobile apps                                 | [Check Out](https://wix.github.io/Detox/docs/introduction/getting-started) |
+| Espresso           | Android UI testing framework                                       | [Check Out](https://developer.android.com/training/testing/espresso) |
+| Jasmine            | Behavior-driven testing for JavaScript                            | [Check Out](https://jasmine.github.io/tutorials/your_first_suite) |
+| Jest               | Delightful JavaScript testing framework by Facebook                | [Check Out](https://jestjs.io/docs/getting-started)               |
+| JUnit              | Popular unit testing framework for Java                            | [Check Out](https://junit.org/junit5/docs/current/user-guide/)    |
+| Karma              | Test runner for JavaScript                                         | [Check Out](https://karma-runner.github.io/latest/index.html)     |
+| Mocha              | JavaScript test framework running on Node.js                       | [Check Out](https://mochajs.org/#getting-started)                 |
+| NUnit              | Unit testing framework for .NET                                    | [Check Out](https://docs.nunit.org/articles/nunit/)               |
+| Playwright         | End-to-end browser automation framework                            | [Check Out](https://playwright.dev/docs/intro)                    |
+| Pytest             | Framework for writing simple and scalable Python tests             | [Check Out](https://docs.pytest.org/en/stable/)                   |
+| Robot Framework    | Keyword-driven testing framework for acceptance testing            | [Check Out](https://robotframework.org/)                          |
+| Selenium           | Web automation and testing tool                                    | [Check Out](https://www.selenium.dev/documentation/)              |
+| TestCafe           | Automated end-to-end testing tool for web apps                     | [Check Out](https://testcafe.io/documentation)                    |
+| Vitest             | Blazing-fast unit test framework for Vite projects                 | [Check Out](https://vitest.dev/guide/)                            |
+| XCTest             | Framework for unit and UI testing on Apple platforms               | [Check Out](https://developer.apple.com/documentation/xctest)     |
+
+## Text Editors  
+*Lightweight software tools used to write and edit code or text files, often used by developers.*
+
+| **Technology**     | **Description**                                                  | **Official Documentation**                                         |
+|--------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
+| Atom               | Hackable text editor from GitHub (now sunset)                    | [Check Out](https://flight-manual.atom.io/)                       |
+| Brackets           | Open-source editor focused on web development                    | [Check Out](https://github.com/brackets-cont/brackets)           |
+| Geany              | Lightweight and fast IDE/text editor                             | [Check Out](https://www.geany.org/documentation/)                 |
+| Gedit              | GNOME's official text editor                                     | [Check Out](https://help.gnome.org/users/gedit/stable/)           |
+| Kate               | KDE Advanced Text Editor                                         | [Check Out](https://docs.kde.org/stable5/en/kate/kate/)           |
+| Notepad++          | Popular Windows source code editor                               | [Check Out](https://npp-user-manual.org/docs/)                    |
+| Sublime Text       | Sophisticated cross-platform text editor                         | [Check Out](https://www.sublimetext.com/docs/)                    |
+| TextMate           | Powerful text editor for macOS                                   | [Check Out](https://macromates.com/manual/en/)                    |
+| Vim                | Highly configurable text editor built to enable efficient editing| [Check Out](https://www.vim.org/docs.php)                         |
+| Visual Studio Code | Free source-code editor from Microsoft                           | [Check Out](https://code.visualstudio.com/docs)                   |
+
+## Translation & Localization  
+*Tools and services used to translate, internationalize, and manage content in multiple languages across software platforms.*
+
+| **Technology**     | **Description**                                                       | **Official Documentation**                                         |
+|--------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|
+| Crowdin            | Localization management platform for teams and developers             | [Check Out](https://developer.crowdin.com/)                        |
+| i18next            | Internationalization framework for JavaScript                         | [Check Out](https://www.i18next.com/overview/introduction)         |
+| Lokalise           | Translation and localization platform for agile teams                 | [Check Out](https://docs.lokalise.com/en/articles/1382727-getting-started) |
+| Phrase             | Cloud-based translation management system                             | [Check Out](https://help.phrase.com/help)                          |
+| POEditor           | Collaborative localization platform with API integration              | [Check Out](https://poeditor.com/docs/api)                         |
+| Transifex          | Translation platform for software and digital content                 | [Check Out](https://docs.transifex.com/)                           |
+| Weblate            | Web-based translation tool with Git integration                       | [Check Out](https://docs.weblate.org/en/latest/)                   |
+
