@@ -964,3 +964,298 @@ https://learn.microsoft.com/en-gb/
 | Kustomize          | Tool to customize Kubernetes YAML configurations                                | [Check Out](https://kubectl.docs.kubernetes.io/references/kustomize/kustomization/) |
 | Kubernetes         | Container orchestration platform                                                | [Check Out](https://kubernetes.io/docs/home/)                      |
 | Lens               | IDE for managing Kubernetes clusters visually                                   | [Check Out](https://docs.k8slens.dev/)                             |
+
+## Kotlin Development  
+*A modern programming language that runs on the JVM and is officially supported for Android development.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Kotlin             | General-purpose programming language by JetBrains, fully interoperable with Java| [Check Out](https://kotlinlang.org/docs/home.html)                 |
+| Ktor               | Asynchronous framework for creating microservices and web applications in Kotlin| [Check Out](https://ktor.io/docs/)                                 |
+| Kotlinx Coroutines | Kotlin library for asynchronous programming using coroutines                    | [Check Out](https://kotlinlang.org/docs/coroutines-overview.html) |
+| Kotlin Multiplatform | Enables code sharing across platforms like Android, iOS, and backend         | [Check Out](https://kotlinlang.org/docs/multiplatform.html)        |
+| Kotlin Native      | Kotlin technology for compiling Kotlin code to native binaries                  | [Check Out](https://kotlinlang.org/docs/native-overview.html)      |
+
+## Language Processing Libraries  
+*Libraries and frameworks used for processing, analyzing, or generating natural language.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AllenNLP           | NLP library built on PyTorch for research and production                        | [Check Out](https://allenai.org/allennlp)                          |
+| LangChain          | Framework for building applications powered by language models                  | [Check Out](https://docs.langchain.com/docs/)                      |
+| LingPipe           | NLP library for Java for classification, clustering, and entity extraction      | [Check Out](http://alias-i.com/lingpipe/web/index.html)            |
+| LlamaIndex (GPT Index) | Framework for connecting LLMs with external data                            | [Check Out](https://docs.llamaindex.ai/)                           |
+| Lucene             | Java-based search engine and indexing library                                   | [Check Out](https://lucene.apache.org/core/)                       |
+| spaCy              | Industrial-strength NLP library in Python                                       | [Check Out](https://spacy.io/usage)                                |
+| Stanford NLP       | Toolkit for natural language processing in Java                                 | [Check Out](https://stanfordnlp.github.io/CoreNLP/)                |
+| TextBlob           | Python library for processing textual data                                      | [Check Out](https://textblob.readthedocs.io/en/dev/)               |
+| Transformers (🤗)   | Hugging Face library for state-of-the-art NLP models                           | [Check Out](https://huggingface.co/docs/transformers/index)        |
+
+## Logging Libraries & Tools  
+*Libraries and platforms used to log, monitor, and analyze application events or system behaviors.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Bunyan             | Simple and fast JSON logging library for Node.js                                | [Check Out](https://github.com/trentm/node-bunyan)                 |
+| Fluentd            | Open-source data collector for unified logging layer                            | [Check Out](https://docs.fluentd.org/)                             |
+| Graylog            | Centralized logging and log management platform                                 | [Check Out](https://go2docs.graylog.org/)                          |
+| Log4j              | Popular Java-based logging utility                                               | [Check Out](https://logging.apache.org/log4j/2.x/manual/index.html)|
+| Logback            | Successor to Log4j, another powerful Java logging framework                     | [Check Out](https://logback.qos.ch/documentation.html)             |
+| Loki (Grafana)     | Log aggregation system designed to work with Prometheus                         | [Check Out](https://grafana.com/docs/loki/latest/)                 |
+| Morgan             | HTTP request logger middleware for Node.js apps                                 | [Check Out](https://expressjs.com/en/resources/middleware/morgan.html) |
+| Pino               | Fast and low-overhead logging library for Node.js                               | [Check Out](https://getpino.io/#/docs/api)                         |
+| Serilog            | Structured logging library for .NET                                              | [Check Out](https://serilog.net/)                                  |
+| Winston            | Versatile logging library for Node.js                                           | [Check Out](https://github.com/winstonjs/winston)                  |
+
+## Low-Code / No-Code Platforms  
+*Platforms that allow users to build applications with minimal or no traditional coding, using visual interfaces.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Appgyver           | Professional-grade no-code platform for building full-stack apps                | [Check Out](https://docs.appgyver.com/)                            |
+| Budibase           | Low-code platform to build internal tools and applications                     | [Check Out](https://docs.budibase.com/)                            |
+| Mendix             | Enterprise-level low-code development platform                                  | [Check Out](https://docs.mendix.com/)                              |
+| Microsoft Power Apps | Suite to build custom business apps without writing extensive code           | [Check Out](https://learn.microsoft.com/en-us/power-apps/)         |
+| OutSystems         | Modern application platform for building low-code enterprise apps              | [Check Out](https://success.outsystems.com/)                       |
+| Retool             | Low-code platform to quickly build internal tools                              | [Check Out](https://docs.retool.com/docs/)                         |
+| Wappler            | Low-code visual builder with full control for web and mobile apps              | [Check Out](https://docs.wappler.io/)                              |
+
+## Load Testing Tools  
+*Tools used to test the performance and scalability of systems under load or stress conditions.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Apache JMeter      | Open-source tool to load test applications and measure performance              | [Check Out](https://jmeter.apache.org/usermanual/index.html)       |
+| Gatling            | Powerful load testing tool based on Scala                                      | [Check Out](https://gatling.io/docs/gatling/)                      |
+| k6                 | Modern load testing tool built for developers and testers                      | [Check Out](https://k6.io/docs/)                                   |
+| Locust             | Scalable, Python-based load testing framework                                  | [Check Out](https://docs.locust.io/)                               |
+| Loader.io          | Cloud-based load testing service for web apps                                  | [Check Out](https://support.loader.io/docs/)                       |
+| Tsung              | High-performance benchmark tool for web applications                           | [Check Out](http://tsung.erlang-projects.org/user_manual/)         |
+| Vegeta             | HTTP load testing tool written in Go                                           | [Check Out](https://github.com/tsenart/vegeta#usage)               |
+
+## Machine Learning Libraries / Frameworks  
+*Tools and libraries used to build, train, and deploy machine learning models.*
+
+| **Technology**     | **Description**                                                                 | **Official Documentation**                                         |
+|--------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Apache Mahout      | Scalable machine learning library for big data                                 | [Check Out](https://mahout.apache.org/users/index.html)            |
+| CatBoost           | Gradient boosting library by Yandex with categorical feature support            | [Check Out](https://catboost.ai/en/docs/)                          |
+| H2O.ai             | Open-source platform for machine learning and AI                                | [Check Out](https://docs.h2o.ai/)                                  |
+| Keras              | High-level API for building neural networks (runs on top of TensorFlow)         | [Check Out](https://keras.io/)                                     |
+| LightGBM           | Gradient boosting framework by Microsoft                                        | [Check Out](https://lightgbm.readthedocs.io/en/latest/)            |
+| MXNet              | Deep learning framework by Apache                                               | [Check Out](https://mxnet.apache.org/versions/1.9.1/api/python/docs/index.html) |
+| PyCaret            | Low-code machine learning library in Python                                     | [Check Out](https://pycaret.gitbook.io/docs/)                      |
+| PyTorch            | Deep learning library developed by Meta AI                                      | [Check Out](https://pytorch.org/docs/)                             |
+| Scikit-learn       | Simple and efficient tools for predictive data analysis in Python               | [Check Out](https://scikit-learn.org/stable/documentation.html)    |
+| TensorFlow         | Open-source library for machine learning and AI by Google                       | [Check Out](https://www.tensorflow.org/overview)                   |
+| XGBoost            | Optimized distributed gradient boosting library                                 | [Check Out](https://xgboost.readthedocs.io/en/stable/)             |
+
+## Mobile App Development  
+*Technologies and frameworks used to build applications for mobile devices.*
+
+| **Technology**     | **Description**                                                              | **Official Documentation**                                        |
+|--------------------|------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Android SDK        | Official software development kit for Android apps                           | [Check Out](https://developer.android.com/docs)                  |
+| Flutter            | Google’s UI toolkit for building natively compiled applications               | [Check Out](https://flutter.dev/docs)                            |
+| Ionic Framework    | Cross-platform mobile app framework using web technologies                    | [Check Out](https://ionicframework.com/docs)                     |
+| React Native       | Framework for building native apps using React                               | [Check Out](https://reactnative.dev/docs/getting-started)        |
+| SwiftUI            | Apple’s declarative framework for building iOS apps                         | [Check Out](https://developer.apple.com/documentation/swiftui)   |
+| Xamarin            | Microsoft’s framework for cross-platform mobile app development               | [Check Out](https://docs.microsoft.com/en-us/xamarin/)           |
+
+## Monitoring Tools  
+*Tools used to track performance, uptime, metrics, and health of applications and infrastructure.*
+
+| **Technology**     | **Description**                                                                | **Official Documentation**                                         |
+|--------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AppDynamics        | Application performance monitoring and analytics platform by Cisco             | [Check Out](https://docs.appdynamics.com/)                         |
+| Datadog            | Monitoring and analytics platform for cloud-scale applications                 | [Check Out](https://docs.datadoghq.com/)                           |
+| Dynatrace          | AI-powered monitoring for infrastructure, applications, and user experience    | [Check Out](https://www.dynatrace.com/support/help/)               |
+| Elastic Observability | Suite of monitoring tools built on the Elastic Stack (ELK)                  | [Check Out](https://www.elastic.co/guide/en/observability/current/index.html) |
+| Grafana            | Open-source platform for monitoring and observability                          | [Check Out](https://grafana.com/docs/grafana/latest/)              |
+| Nagios             | Infrastructure monitoring tool for systems, networks, and servers              | [Check Out](https://www.nagios.org/documentation/)                 |
+| New Relic          | Full-stack observability and performance monitoring tool                       | [Check Out](https://docs.newrelic.com/)                            |
+| Prometheus         | Open-source monitoring system and time series database                         | [Check Out](https://prometheus.io/docs/introduction/overview/)     |
+| Splunk             | Platform for searching, monitoring, and analyzing machine-generated big data   | [Check Out](https://docs.splunk.com/)                              |
+| Zabbix             | Enterprise-class open-source monitoring solution                               | [Check Out](https://www.zabbix.com/documentation/current/manual/)  |
+
+## Multimedia Libraries / Tools  
+*Libraries and tools used for handling images, video, audio, and streaming functionalities.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| FFmpeg             | Open-source multimedia framework for processing video, audio, and other media    | [Check Out](https://ffmpeg.org/documentation.html)                 |
+| GStreamer          | Multimedia framework for building media-handling components                      | [Check Out](https://gstreamer.freedesktop.org/documentation/)      |
+| OpenCV             | Library for computer vision and image processing                                 | [Check Out](https://docs.opencv.org/)                              |
+| VLC Media Player   | Open-source media player with streaming capabilities and libraries                | [Check Out](https://wiki.videolan.org/Documentation:VLC/)          |
+| WebRTC             | Real-time communication framework for video, voice, and data                     | [Check Out](https://webrtc.org/getting-started/overview)           |
+
+## Natural Language Processing (NLP) Libraries  
+*Libraries and frameworks used to process, analyze, and understand human language data.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AllenNLP           | NLP research library built on PyTorch                                            | [Check Out](https://docs.allennlp.org/)                            |
+| Flair              | NLP library from Zalando with support for contextual word embeddings             | [Check Out](https://flairnlp.github.io/)                           |
+| Gensim             | Topic modeling and document similarity analysis in Python                        | [Check Out](https://radimrehurek.com/gensim/)                      |
+| Hugging Face Transformers | State-of-the-art pretrained models for NLP                                | [Check Out](https://huggingface.co/docs/transformers/index)       |
+| NLTK               | Natural Language Toolkit for Python                                              | [Check Out](https://www.nltk.org/)                                 |
+| OpenNLP            | Machine learning based toolkit for processing natural language text              | [Check Out](https://opennlp.apache.org/docs.html)                  |
+| spaCy              | Industrial-strength NLP library in Python                                        | [Check Out](https://spacy.io/usage)                                |
+| Stanford NLP       | NLP tools by Stanford including CoreNLP                                          | [Check Out](https://stanfordnlp.github.io/CoreNLP/)                |
+| TextBlob           | Simple NLP tool for processing textual data                                      | [Check Out](https://textblob.readthedocs.io/en/dev/)               |
+| T5 (Text-To-Text Transfer Transformer) | Google’s NLP model for text generation, translation, and more | [Check Out](https://huggingface.co/docs/transformers/model_doc/t5) |
+
+## Network Tools / Libraries  
+*Tools and libraries used for building, managing, and analyzing computer networks and communication protocols.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| cURL               | Command-line tool and library for transferring data with URLs                    | [Check Out](https://curl.se/docs/)                                 |
+| iperf3             | Network bandwidth measurement tool                                               | [Check Out](https://iperf.fr/iperf-doc.php)                        |
+| Libpcap            | Packet capture library for network traffic monitoring                            | [Check Out](https://www.tcpdump.org/manpages/pcap.3pcap.html)      |
+| Netcat             | Command-line networking utility for reading/writing data over TCP/UDP            | [Check Out](https://nc110.sourceforge.io/)                         |
+| Nmap               | Network scanner for security auditing and network discovery                      | [Check Out](https://nmap.org/book/man.html)                        |
+| Scapy              | Python-based interactive packet manipulation tool                                | [Check Out](https://scapy.readthedocs.io/en/latest/)               |
+| Tcpdump            | Packet analyzer for network diagnostics                                          | [Check Out](https://www.tcpdump.org/tcpdump_man.html)              |
+| Wireshark          | Widely-used network protocol analyzer                                            | [Check Out](https://www.wireshark.org/docs/)                       |
+
+## NoSQL Databases  
+*Databases designed for flexible schemas and large-scale data, often used for distributed systems and real-time applications.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Amazon DynamoDB    | Fully managed NoSQL database by AWS for key-value and document data              | [Check Out](https://docs.aws.amazon.com/dynamodb/index.html)       |
+| Apache Cassandra   | Highly scalable distributed NoSQL database for handling large volumes of data    | [Check Out](https://cassandra.apache.org/doc/latest/)              |
+| Couchbase          | Distributed NoSQL document-oriented database                                     | [Check Out](https://docs.couchbase.com/home/index.html)            |
+| CouchDB            | Document-oriented NoSQL database that uses JSON for documents                    | [Check Out](https://docs.couchdb.org/en/stable/)                   |
+| FaunaDB            | Serverless NoSQL database with GraphQL and FQL support                           | [Check Out](https://docs.fauna.com/fauna/current/)                 |
+| Firebase Realtime Database | NoSQL cloud database for syncing data in real-time across clients         | [Check Out](https://firebase.google.com/docs/database)             |
+| MongoDB            | Document-based NoSQL database with flexible schema                              | [Check Out](https://www.mongodb.com/docs/)                         |
+| Neo4j              | Native graph database for handling highly connected data                         | [Check Out](https://neo4j.com/docs/)                               |
+| Redis              | In-memory key-value store often used as a NoSQL database                         | [Check Out](https://redis.io/docs/)                                |
+
+## Object-Oriented Programming (OOP) Languages  
+*Programming languages that support the object-oriented paradigm with concepts like classes, inheritance, and encapsulation.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| C++                | Powerful OOP language with low-level memory control and system-level programming | [Check Out](https://en.cppreference.com/w/)                        |
+| C#                 | OOP language developed by Microsoft, widely used for .NET applications           | [Check Out](https://learn.microsoft.com/en-us/dotnet/csharp/)      |
+| Dart               | Client-optimized OOP language used with Flutter                                  | [Check Out](https://dart.dev/guides)                               |
+| Java               | Widely-used, platform-independent OOP language                                   | [Check Out](https://docs.oracle.com/en/java/)                      |
+| Kotlin             | Concise, expressive OOP language for Android and JVM                             | [Check Out](https://kotlinlang.org/docs/home.html)                 |
+| Objective-C        | OOP language used for macOS and iOS development before Swift                     | [Check Out](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) |
+| Python             | High-level, versatile language supporting OOP, functional, and imperative styles | [Check Out](https://docs.python.org/3/)                            |
+| Ruby               | Pure OOP language focused on simplicity and productivity                         | [Check Out](https://www.ruby-lang.org/en/documentation/)           |
+| Swift              | Apple’s modern OOP language for iOS/macOS development                            | [Check Out](https://swift.org/documentation/)                      |
+
+## Observability / Monitoring Tools  
+*Tools used to monitor, log, and trace the performance, health, and behavior of systems and applications.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| AppDynamics        | Performance monitoring tool by Cisco for applications and infrastructure         | [Check Out](https://docs.appdynamics.com/)                         |
+| Datadog            | Cloud-scale monitoring and analytics platform                                    | [Check Out](https://docs.datadoghq.com/)                           |
+| Dynatrace          | Intelligent observability platform for full-stack monitoring                     | [Check Out](https://docs.dynatrace.com/docs/)                      |
+| Elastic Stack (ELK) | Log and data analysis stack (Elasticsearch, Logstash, Kibana)                   | [Check Out](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html) |
+| Grafana            | Open-source platform for monitoring and observability dashboards                 | [Check Out](https://grafana.com/docs/)                             |
+| New Relic          | Real-time observability platform for infrastructure and applications             | [Check Out](https://docs.newrelic.com/)                            |
+| OpenTelemetry      | Set of APIs, SDKs, and tools for instrumentation                                 | [Check Out](https://opentelemetry.io/docs/)                        |
+| Prometheus         | Monitoring system and time series database developed by the CNCF                 | [Check Out](https://prometheus.io/docs/)                           |
+| Sentry             | Error tracking and performance monitoring for developers                         | [Check Out](https://docs.sentry.io/)                               |
+| Splunk             | Platform for searching, monitoring, and analyzing machine-generated big data     | [Check Out](https://docs.splunk.com/)                              |
+
+## OCR (Optical Character Recognition) Tools  
+*Technologies that convert different types of documents (PDFs, scanned images) into machine-readable and editable data.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| EasyOCR            | Ready-to-use OCR tool based on PyTorch, supports multiple languages              | [Check Out](https://www.jaided.ai/easyocr/)                        |
+| Google Cloud Vision OCR | Cloud-based OCR with high accuracy and language support                   | [Check Out](https://cloud.google.com/vision/docs/ocr)             |
+| Microsoft OCR       | Azure Cognitive Services OCR tool for extracting text from images              | [Check Out](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-ocr) |
+| OCR.space API      | Free OCR API for reading text from images and PDFs                              | [Check Out](https://ocr.space/ocrapi)                              |
+| PaddleOCR          | Lightweight and rich OCR toolkit developed by Baidu                             | [Check Out](https://github.com/PaddlePaddle/PaddleOCR)            |
+| Tesseract OCR      | Open-source OCR engine developed by Google                                      | [Check Out](https://tesseract-ocr.github.io/tessdoc/)             |
+
+## Office Suite & Document Editing Libraries  
+*Libraries and tools used to create, read, write, or convert documents like Word, Excel, PDF, and presentations.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Apache POI         | Java API for manipulating Microsoft Office formats (Word, Excel, PowerPoint)    | [Check Out](https://poi.apache.org/components/index.html)         |
+| Aspose             | .NET/Java APIs for document processing including Word, Excel, PDF, etc.         | [Check Out](https://docs.aspose.com/)                             |
+| Docx4j             | Java library for creating and manipulating Word documents (DOCX)                | [Check Out](https://docx4java.org/trac/docx4j)                    |
+| iText              | Java/PDF library for reading and writing PDFs                                   | [Check Out](https://kb.itextpdf.com/home/it7kb/overview)          |
+| jsPDF              | JavaScript library for generating PDF documents in the browser                  | [Check Out](https://github.com/parallax/jsPDF)                    |
+| LibreOffice SDK    | APIs to interact with LibreOffice for document automation                       | [Check Out](https://wiki.documentfoundation.org/Documentation/Development) |
+| Pandoc             | Universal document converter between formats like Markdown, Word, LaTeX, etc.   | [Check Out](https://pandoc.org/MANUAL.html)                       |
+| PDF.js             | JavaScript library to render PDF documents using HTML5                         | [Check Out](https://mozilla.github.io/pdf.js/)                    |
+| python-docx        | Python library for creating and updating Microsoft Word (.docx) files           | [Check Out](https://python-docx.readthedocs.io/en/latest/)        |
+| xlsxwriter         | Python module for writing files in Excel 2007+ XLSX format                      | [Check Out](https://xlsxwriter.readthedocs.io/)                   |
+
+## Operating Systems  
+*Software that manages computer hardware, software resources, and provides common services for computer programs.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Android OS         | Mobile operating system developed by Google based on the Linux kernel           | [Check Out](https://source.android.com/docs)                       |
+| Arch Linux         | Lightweight and flexible Linux distribution with a rolling release model        | [Check Out](https://wiki.archlinux.org/)                           |
+| CentOS             | Community-supported distribution compatible with Red Hat Enterprise Linux       | [Check Out](https://wiki.centos.org/)                              |
+| Debian             | Stable and free Linux-based operating system                                    | [Check Out](https://www.debian.org/doc/)                           |
+| Fedora             | Red Hat-sponsored Linux distribution for developers                             | [Check Out](https://docs.fedoraproject.org/)                       |
+| FreeBSD            | Unix-like operating system used for servers, desktops, and embedded platforms   | [Check Out](https://docs.freebsd.org/en/books/handbook/)           |
+| macOS              | Apple’s desktop operating system for Mac computers                              | [Check Out](https://developer.apple.com/documentation/macos-release-notes) |
+| Red Hat Enterprise Linux (RHEL) | Enterprise-level Linux distribution by Red Hat                    | [Check Out](https://access.redhat.com/documentation/en-us/)        |
+| Ubuntu             | Popular Linux distribution based on Debian, user-friendly and widely used       | [Check Out](https://ubuntu.com/tutorials)                          |
+| Windows            | Family of proprietary operating systems developed by Microsoft                  | [Check Out](https://learn.microsoft.com/en-us/windows/)            |
+
+## ORM (Object-Relational Mapping) Tools  
+*Libraries and frameworks that help interact with databases using object-oriented code instead of direct SQL queries.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Doctrine ORM       | Powerful ORM for PHP, mainly used with Symfony                                  | [Check Out](https://www.doctrine-project.org/projects/orm.html)    |
+| Dapper             | Lightweight and fast micro ORM for .NET                                         | [Check Out](https://github.com/DapperLib/Dapper)                   |
+| Entity Framework   | ORM for .NET, enables data access with LINQ and C# classes                      | [Check Out](https://learn.microsoft.com/en-us/ef/)                 |
+| GORM               | ORM library for Golang                                                          | [Check Out](https://gorm.io/docs/)                                 |
+| Hibernate ORM      | Robust ORM tool for Java                                                        | [Check Out](https://hibernate.org/orm/documentation/)              |
+| MikroORM           | TypeScript ORM for Node.js based on Data Mapper pattern                         | [Check Out](https://mikro-orm.io/docs)                             |
+| Prisma             | Next-gen ORM for TypeScript and Node.js with type safety                        | [Check Out](https://www.prisma.io/docs)                            |
+| Sequelize          | Promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite, and more        | [Check Out](https://sequelize.org/docs/v6/)                        |
+| SQLAlchemy         | Powerful and flexible ORM for Python                                            | [Check Out](https://docs.sqlalchemy.org/)                          |
+| TypeORM            | ORM for TypeScript and JavaScript with support for many DBs                     | [Check Out](https://typeorm.io/)                                   |
+
+## OS Containers & Virtualization  
+*Technologies that allow you to run isolated environments for apps or systems, improving deployment, scalability, and testing.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Docker             | Platform to build, deploy, and manage containerized applications                 | [Check Out](https://docs.docker.com/)                              |
+| Firecracker        | Lightweight virtualization technology for microVMs by AWS                        | [Check Out](https://firecracker-microvm.github.io/)                |
+| Kata Containers    | Secure containers combining VM isolation and container speed                     | [Check Out](https://katacontainers.io/docs/)                       |
+| LXC (Linux Containers) | OS-level virtualization for running multiple Linux systems on one host    | [Check Out](https://linuxcontainers.org/lxc/introduction/)         |
+| OpenVZ             | Container-based virtualization for Linux                                        | [Check Out](https://wiki.openvz.org/Main_Page)                     |
+| Podman             | Daemonless container engine for managing OCI containers on Linux                 | [Check Out](https://docs.podman.io/)                               |
+| QEMU               | Generic and open-source machine emulator and virtualizer                         | [Check Out](https://www.qemu.org/docs/master/)                     |
+| Vagrant            | Tool for building and maintaining portable virtual software development environments | [Check Out](https://developer.hashicorp.com/vagrant/docs)         |
+| VirtualBox         | Cross-platform virtualization product from Oracle                                | [Check Out](https://www.virtualbox.org/wiki/Documentation)         |
+| VMware             | Virtualization software for servers, desktops, and cloud environments            | [Check Out](https://docs.vmware.com/)                              |
+
+## Package Managers  
+*Tools used to automate the process of installing, upgrading, configuring, and removing software packages.*
+
+| **Technology**     | **Description**                                                                  | **Official Documentation**                                         |
+|--------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| APT (Advanced Package Tool) | Package manager for Debian-based systems                             | [Check Out](https://wiki.debian.org/Apt)                           |
+| Chocolatey         | Windows package manager for software management                                 | [Check Out](https://docs.chocolatey.org/en-us/)                    |
+| Composer           | Dependency manager for PHP                                                      | [Check Out](https://getcomposer.org/doc/)                          |
+| Conda              | Package manager for Python and R environments                                   | [Check Out](https://docs.conda.io/en/latest/)                      |
+| Homebrew           | Popular package manager for macOS and Linux                                     | [Check Out](https://docs.brew.sh/)                                 |
+| Maven              | Build and dependency management tool for Java                                   | [Check Out](https://maven.apache.org/guides/index.html)            |
+| NPM (Node Package Manager) | JavaScript package manager for Node.js                            | [Check Out](https://docs.npmjs.com/)                               |
+| NuGet              | Package manager for .NET                                                        | [Check Out](https://learn.microsoft.com/en-us/nuget/)              |
+| pip                | Package manager for Python                                                      | [Check Out](https://pip.pypa.io/en/stable/)                        |
+| pnpm               | Fast, disk space-efficient package manager for Node.js                          | [Check Out](https://pnpm.io/motivation)                            |
+| Poetry             | Python packaging and dependency management tool                                 | [Check Out](https://python-poetry.org/docs/)                       |
+| Yarn               | JavaScript package manager with better performance and offline support          | [Check Out](https://yarnpkg.com/getting-started)                   |
+
