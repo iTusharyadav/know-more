@@ -212,3 +212,196 @@
 | MongoDB             | NoSQL database program                                                           | [Check Out](https://github.com/mongodb/mongo)               |
 | Moodle              | Open-source learning management system (LMS)                                    | [Check Out](https://github.com/moodle/moodle)               |
 
+## N – Open Source Projects  
+*Popular open-source projects starting with the letter "N".*
+
+| **Project**         | **Description**                                                               | **Official Repository / Docs**                              |
+|---------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------|
+| N8N                 | Workflow automation tool with a visual editor                                 | [Check Out](https://github.com/n8n-io/n8n)                 |
+| Nagios              | Infrastructure monitoring and alerting system                                 | [Check Out](https://github.com/NagiosEnterprises/nagioscore) |
+| NATS                | High-performance messaging system                                              | [Check Out](https://github.com/nats-io/nats-server)        |
+| NativeScript        | Framework for building native iOS and Android apps using JavaScript/TypeScript| [Check Out](https://github.com/NativeScript/NativeScript)  |
+| Navidrome           | Music streaming server and self-hosted alternative to Subsonic/Airsonic       | [Check Out](https://github.com/navidrome/navidrome)        |
+| Netdata             | Real-time performance monitoring for systems and applications                 | [Check Out](https://github.com/netdata/netdata)            |
+| Netlify CMS         | Open-source content management system for Git-based workflows                 | [Check Out](https://github.com/netlify/netlify-cms)        |
+| Next.js             | React-based framework for server-rendered web apps                            | [Check Out](https://github.com/vercel/next.js)             |
+| Nexus Repository OSS| Open-source repository manager for binary artifacts                           | [Check Out](https://github.com/sonatype/nexus-public)      |
+| Nginx               | High-performance HTTP server and reverse proxy                                | [Check Out](https://github.com/nginx/nginx)                |
+| Nikto               | Web server scanner for security vulnerabilities                               | [Check Out](https://github.com/sullo/nikto)                |
+| Node.js             | JavaScript runtime built on Chrome’s V8 engine                                | [Check Out](https://github.com/nodejs/node)                |
+| Node-RED            | Flow-based programming tool for IoT and event-driven apps                     | [Check Out](https://github.com/node-red/node-red)          |
+| NocoDB              | Turns any MySQL, PostgreSQL into a smart spreadsheet                         | [Check Out](https://github.com/nocodb/nocodb)              |
+| Notepad++           | Source code and text editor for Windows                                       | [Check Out](https://github.com/notepad-plus-plus/notepad-plus-plus) |
+| Nuxt.js             | Framework for Vue.js with server-side rendering support                       | [Check Out](https://github.com/nuxt/nuxt)                  |
+
+## O – Open Source Projects  
+*Popular open-source projects starting with the letter "O".*
+
+| **Project**         | **Description**                                                             | **Official Repository / Docs**                               |
+|---------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
+| OBS Studio          | Open source software for video recording and live streaming                 | [Check Out](https://github.com/obsproject/obs-studio)       |
+| Oh My Zsh           | Framework for managing Zsh configuration                                    | [Check Out](https://github.com/ohmyzsh/ohmyzsh)             |
+| OPA (Open Policy Agent) | Policy engine for Cloud-native environments                             | [Check Out](https://github.com/open-policy-agent/opa)       |
+| OPNsense            | Open source FreeBSD-based firewall and routing platform                     | [Check Out](https://github.com/opnsense/core)               |
+| OpenAPI Specification | Standard for defining RESTful APIs                                         | [Check Out](https://github.com/OAI/OpenAPI-Specification)   |
+| OpenCV              | Computer vision and machine learning software library                       | [Check Out](https://github.com/opencv/opencv)               |
+| OpenFaaS            | Serverless functions made simple with Docker and Kubernetes                 | [Check Out](https://github.com/openfaas/faas)               |
+| OpenFeature         | Open standard for feature flag management                                   | [Check Out](https://github.com/open-feature/spec)           |
+| OpenLibrary         | Open source project aiming to create a web page for every book ever published | [Check Out](https://github.com/internetarchive/openlibrary) |
+| OpenProject         | Project management software with Gantt charts, agile boards, etc.           | [Check Out](https://github.com/opf/openproject)             |
+| OpenRefine          | Tool for working with messy data: cleaning it; transforming it              | [Check Out](https://github.com/OpenRefine/OpenRefine)       |
+| OpenResty           | High-performance web platform based on Nginx and Lua                        | [Check Out](https://github.com/openresty/openresty)         |
+| OpenShot            | Open source video editor for Linux, Windows, and macOS                      | [Check Out](https://github.com/OpenShot/openshot-qt)        |
+| OpenStack           | Cloud computing software for building and managing public and private clouds| [Check Out](https://github.com/openstack)                   |
+| OpenTofu (ex-Terraform fork) | Infrastructure as Code tool compatible with Terraform ecosystem      | [Check Out](https://github.com/opentofu/opentofu)           |
+| OpenVINO            | Intel’s toolkit for optimizing deep learning models                         | [Check Out](https://github.com/openvinotoolkit/openvino)    |
+| Oracle JET          | JavaScript toolkit by Oracle for enterprise-grade applications              | [Check Out](https://github.com/oracle/oraclejet)            |
+
+## P – Open Source Projects  
+*Popular open-source projects starting with the letter "P".*
+
+| **Project**          | **Description**                                                             | **Official Repository / Docs**                               |
+|----------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Pandas               | Python data analysis and manipulation library                               | [Check Out](https://github.com/pandas-dev/pandas)            |
+| PostgreSQL           | Powerful, open-source object-relational database                           | [Check Out](https://github.com/postgres/postgres)            |
+| PHP                  | Popular general-purpose scripting language optimized for web development     | [Check Out](https://github.com/php/php-src)                  |
+| Playwright           | Node.js library to automate Chromium, Firefox, and WebKit with a single API| [Check Off](https://github.com/microsoft/playwright)         |
+| PowerShell           | Task automation and configuration management framework                      | [Check Out](https://github.com/PowerShell/PowerShell)         |
+| Prometheus           | Monitoring system and time-series database                                  | [Check Out](https://github.com/prometheus/prometheus)         |
+| Puppeteer            | Node library which provides a high-level API to control Chrome/Chromium      | [Check Out](https://github.com/puppeteer/puppeteer)          |
+| PyTorch              | Deep learning platform and framework by Meta and community                   | [Check Out](https://github.com/pytorch/pytorch)              |
+| pytest               | Framework that makes building simple and scalable Python tests easy         | [Check Out](https://github.com/pytest-dev/pytest)            |
+| PHP-FPM              | FastCGI Process Manager for PHP                                             | [Check Out](https://github.com/php/php-src/tree/master/sapi/fpm) |
+
+## Q – Open Source Projects  
+*Popular open-source projects starting with the letter "Q".*
+
+| **Project**       | **Description**                                                          | **Official Repository / Docs**                           |
+|-------------------|---------------------------------------------------------------------------|----------------------------------------------------------|
+| QGIS              | A free and open-source geographic information system                      | [Check Out](https://github.com/qgis/QGIS)                |
+| Quarkus           | Kubernetes-native Java stack tailored for OpenJDK HotSpot & GraalVM       | [Check Out](https://github.com/quarkusio/quarkus)        |
+| Quill             | Powerful rich text editor built for the modern web                        | [Check Out](https://github.com/quilljs/quill)            |
+| Quasar Framework  | High-performance Vue.js framework for building responsive apps            | [Check Out](https://github.com/quasarframework/quasar)   |
+| QEMU              | Open-source machine emulator and virtualizer                              | [Check Out](https://github.com/qemu/qemu)                |
+
+## R – Open Source Projects  
+*Popular open-source projects starting with the letter "R".*
+
+| **Project**       | **Description**                                                              | **Official Repository / Docs**                         |
+|-------------------|-------------------------------------------------------------------------------|--------------------------------------------------------|
+| React             | JavaScript library for building user interfaces                              | [Check Out](https://github.com/facebook/react)         |
+| React Native      | Framework for building native apps using React                               | [Check Out](https://github.com/facebook/react-native)  |
+| Redis             | In-memory data structure store, used as a database, cache, and message broker| [Check Out](https://github.com/redis/redis)            |
+| Ruby on Rails     | Web application framework written in Ruby                                    | [Check Out](https://github.com/rails/rails)            |
+| Rollup            | JavaScript module bundler                                                    | [Check Out](https://github.com/rollup/rollup)          |
+| Rust              | Memory-safe systems programming language                                     | [Check Out](https://github.com/rust-lang/rust)         |
+| Rocket            | Web framework for Rust                                                       | [Check Out](https://github.com/SergioBenitez/Rocket)   |
+| RethinkDB         | Distributed document-oriented database                                       | [Check Out](https://github.com/rethinkdb/rethinkdb)    |
+| Robot Framework   | Generic open-source automation framework                                     | [Check Out](https://github.com/robotframework/robotframework) |
+| React Query       | Hooks for fetching, caching and updating async data in React                 | [Check Out](https://github.com/TanStack/query)         |
+
+## S – Open Source Projects  
+*Popular open-source projects starting with the letter "S".*
+
+| **Project**        | **Description**                                                           | **Official Repository / Docs**                             |
+|--------------------|----------------------------------------------------------------------------|------------------------------------------------------------|
+| Selenium           | Browser automation framework for testing web apps                         | [Check Out](https://github.com/SeleniumHQ/selenium)        |
+| Spring Boot        | Java-based framework to build microservices and web apps                  | [Check Out](https://github.com/spring-projects/spring-boot)|
+| Svelte             | Cybernetically enhanced web UI compiler                                   | [Check Out](https://github.com/sveltejs/svelte)            |
+| Strapi             | Open-source headless CMS based on Node.js                                 | [Check Out](https://github.com/strapi/strapi)              |
+| Supabase           | Open-source Firebase alternative                                          | [Check Out](https://github.com/supabase/supabase)          |
+| Sentry             | Real-time error tracking for applications                                 | [Check Out](https://github.com/getsentry/sentry)           |
+| Storybook          | UI development environment for UI components                              | [Check Out](https://github.com/storybookjs/storybook)      |
+| Socket.IO          | Real-time bidirectional event-based communication                         | [Check Out](https://github.com/socketio/socket.io)         |
+| SQLite             | Embedded SQL database engine                                               | [Check Out](https://github.com/sqlite/sqlite)              |
+| Semantic UI        | Development framework for designing responsive layouts                     | [Check Out](https://github.com/Semantic-Org/Semantic-UI)   |
+| Sequelize          | Promise-based Node.js ORM for Postgres, MySQL, SQLite and more            | [Check Out](https://github.com/sequelize/sequelize)        |
+| SolidJS            | Declarative JavaScript library for building user interfaces               | [Check Out](https://github.com/solidjs/solid)              |
+
+## T – Open Source Projects  
+*Popular open-source projects starting with the letter "T".*
+
+| **Project**        | **Description**                                                             | **Official Repository / Docs**                           |
+|--------------------|------------------------------------------------------------------------------|----------------------------------------------------------|
+| Tailwind CSS       | Utility-first CSS framework for building modern UIs                         | [Check Out](https://github.com/tailwindlabs/tailwindcss)|
+| TensorFlow         | End-to-end open-source platform for machine learning                        | [Check Out](https://github.com/tensorflow/tensorflow)    |
+| TypeScript         | Superset of JavaScript that adds static types                               | [Check Out](https://github.com/microsoft/TypeScript)     |
+| Tauri              | Framework for building tiny, secure desktop apps with web technologies      | [Check Out](https://github.com/tauri-apps/tauri)          |
+| Turborepo          | High-performance monorepo build system                                      | [Check Out](https://github.com/vercel/turborepo)         |
+| tRPC               | End-to-end typesafe APIs with TypeScript                                    | [Check Out](https://github.com/trpc/trpc)                |
+| Three.js           | JavaScript 3D library                                                        | [Check Out](https://github.com/mrdoob/three.js)          |
+| Terraform          | Infrastructure as Code (IaC) for managing cloud resources                   | [Check Out](https://github.com/hashicorp/terraform)      |
+| Twilio             | Cloud communications platform for messaging and calls                       | [Check Out](https://github.com/twilio/twilio-python)     |
+| Theia              | Cloud & Desktop IDE framework                                               | [Check Out](https://github.com/eclipse-theia/theia)      |
+| Tesseract OCR      | Optical Character Recognition engine                                        | [Check Out](https://github.com/tesseract-ocr/tesseract)  |
+
+## U – Open Source Projects  
+*Popular open-source projects starting with the letter "U".*
+
+| **Project**       | **Description**                                                        | **Official Repository / Docs**                          |
+|-------------------|------------------------------------------------------------------------|---------------------------------------------------------|
+| Uppy              | Modular open-source file uploader for browsers                        | [Check Out](https://github.com/transloadit/uppy)        |
+| UIkit             | Lightweight and modular front-end framework                            | [Check Out](https://github.com/uikit/uikit)             |
+| Unreal Engine     | Powerful open-source game engine                                      | [Check Out](https://github.com/EpicGames/UnrealEngine)  |
+| Umbraco           | Open-source CMS platform built on .NET                                | [Check Out](https://github.com/umbraco/Umbraco-CMS)     |
+| Ultralight        | Lightweight web rendering engine for games and apps                   | [Check Out](https://github.com/ultralight-ux/Ultralight)|
+| Unleash           | Open-source feature management solution                               | [Check Out](https://github.com/Unleash/unleash)         |
+
+## V – Open Source Projects  
+*Popular open-source projects starting with the letter "V".*
+
+| **Project**        | **Description**                                                      | **Official Repository / Docs**                          |
+|--------------------|----------------------------------------------------------------------|---------------------------------------------------------|
+| Vite               | Next-generation frontend build tool                                 | [Check Out](https://github.com/vitejs/vite)             |
+| Vue.js             | Progressive JavaScript framework for building UIs                  | [Check Out](https://github.com/vuejs/vue)                |
+| Vault              | Secure, store, and tightly control access to tokens, passwords, etc| [Check Out](https://github.com/hashicorp/vault)          |
+| Vuetify            | Material Design component framework for Vue.js                      | [Check Out](https://github.com/vuetifyjs/vuetify)        |
+| Vercel             | Platform for frontend frameworks and static sites                   | [Check Out](https://github.com/vercel/vercel)            |
+| Vulkan             | Cross-platform 3D graphics and compute API                          | [Check Out](https://github.com/KhronosGroup/Vulkan-Docs) |
+| Vagrant            | Tool for building and managing virtual machine environments         | [Check Out](https://github.com/hashicorp/vagrant)        |
+
+## W – Open Source Projects  
+*Popular open-source projects starting with the letter "W".*
+
+| **Project**        | **Description**                                                     | **Official Repository / Docs**                           |
+|--------------------|---------------------------------------------------------------------|----------------------------------------------------------|
+| Webpack            | Module bundler for JavaScript applications                         | [Check Out](https://github.com/webpack/webpack)          |
+| WordPress          | Popular open-source content management system                      | [Check Out](https://github.com/WordPress/WordPress)      |
+| WireGuard          | Simple and fast VPN software                                       | [Check Out](https://git.zx2c4.com/wireguard-linux-compat)|
+| Winston            | A versatile logging library for Node.js                            | [Check Out](https://github.com/winstonjs/winston)        |
+| WireMock           | API mocking tool for service virtualization                        | [Check Out](https://github.com/wiremock/wiremock)        |
+| WTForms            | Flexible forms validation and rendering library for Python        | [Check Out](https://github.com/wtforms/wtforms)          |
+| Wagtail            | Open-source CMS built on Django                                    | [Check Out](https://github.com/wagtail/wagtail)          |
+
+## X – Open Source Projects  
+*Popular open-source projects starting with the letter "X".*
+
+| **Project**        | **Description**                                                | **Official Repository / Docs**                     |
+|--------------------|----------------------------------------------------------------|----------------------------------------------------|
+| Xen                | Open-source hypervisor for virtualization                     | [Check Out](https://github.com/xen-project/xen)    |
+| XGBoost            | Scalable and efficient gradient boosting library              | [Check Out](https://github.com/dmlc/xgboost)       |
+| XMLStarlet         | Command-line toolkit to transform, query, validate XML files  | [Check Out](https://github.com/xmlstar/xmlstarlet) |
+| XMonad             | Tiling window manager for X11                                 | [Check Out](https://github.com/xmonad/xmonad)      |
+| Xerces             | XML parser library from Apache                                 | [Check Out](https://xerces.apache.org/xerces-j/)   |
+
+## Y – Open Source Projects  
+*Popular open-source projects starting with the letter "Y".*
+
+| **Project**       | **Description**                                              | **Official Repository / Docs**                       |
+|-------------------|--------------------------------------------------------------|------------------------------------------------------|
+| Yarn              | Fast, reliable, and secure dependency management for JavaScript | [Check Out](https://github.com/yarnpkg/yarn)         |
+| YARP              | Yet Another Reverse Proxy from Microsoft                     | [Check Out](https://github.com/microsoft/reverse-proxy) |
+| Yocto Project     | Open-source collaboration project for creating custom Linux distributions | [Check Out](https://github.com/yoctoproject/yocto-project) |
+| Yew               | Modern Rust framework for creating multi-threaded front-end web apps | [Check Out](https://github.com/yewstack/yew)         |
+| YugabyteDB        | Distributed SQL database for cloud-native applications       | [Check Out](https://github.com/yugabyte/yugabyte-db)  |
+
+## Z – Open Source Projects  
+*Popular open-source projects starting with the letter "Z".*
+
+| **Project**       | **Description**                                              | **Official Repository / Docs**                       |
+|-------------------|--------------------------------------------------------------|------------------------------------------------------|
+| Zulip             | Open-source team chat application                            | [Check Out](https://github.com/zulip/zulip)          |
+| Zabbix            | Enterprise-grade open-source monitoring software             | [Check Out](https://github.com/zabbix/zabbix)        |
+| Zeppelin          | Web-based notebook for interactive data analytics            | [Check Out](https://github.com/apache/zeppelin)      |
+| ZeroMQ            | High-performance asynchronous messaging library              | [Check Out](https://github.com/zeromq/libzmq)        |
+| Zola              | Static site generator written in Rust                        | [Check Out](https://github.com/getzola/zola)          |
