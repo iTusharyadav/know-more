@@ -12,7 +12,9 @@
 | Appwrite           | Backend server for web, mobile, and Flutter developers                      | [Check Out](https://github.com/appwrite/appwrite)                |
 | Astro              | Static site generator for fast websites                                     | [Check Out](https://github.com/withastro/astro)                  |
 | AutoML             | Google’s open-source AutoML toolkit for automated machine learning pipelines| [Check Out](https://github.com/google/automl)                    |
+
 ---
+
 | **Project**        | **Description**                                                             | **Official Repository / Docs**                                   |
 |--------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------|
 | Babel              | JavaScript compiler that lets you use next generation JS                    | [Check Out](https://github.com/babel/babel)                      |
