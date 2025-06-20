@@ -277,7 +277,7 @@ https://learn.microsoft.com/en-gb/
 | OpenAI API             | Access to GPT, DALL·E, Whisper, and tools like function calling                 | [Check Out](https://platform.openai.com/docs)                     |
 | Stability AI API       | Text-to-image generation API (Stable Diffusion, etc.)                           | [Check Out](https://platform.stability.ai/docs)                   |
 | Together AI API        | Cloud-hosted open-weight models and API gateway for inference                   | [Check Out](https://docs.together.ai/docs)                        |
-
+---
 
 ## Algorithm Libraries / Tools  
 *Libraries and frameworks that help developers implement or optimize algorithms for tasks like sorting, searching, graph traversal, or machine learning.*
@@ -291,6 +291,8 @@ https://learn.microsoft.com/en-gb/
 | NumPy              | Python library for array processing, linear algebra, and algorithmic tools   | [Check Out](https://numpy.org/doc/)                              |
 | SciPy              | Python-based ecosystem for mathematics, science, and engineering              | [Check Out](https://docs.scipy.org/doc/scipy/)                   |
 | TinkerPop (Apache) | Graph computing framework with traversal algorithms                          | [Check Out](https://tinkerpop.apache.org/docs/current/reference/)|
+
+---
 
 ## Analytics & Monitoring Tools  
 *Platforms and tools used to collect, analyze, and visualize data about application performance, user behavior, system health, and more.*
@@ -312,7 +314,10 @@ https://learn.microsoft.com/en-gb/
 | Mixpanel             | Product analytics focused on user engagement and behavior                        | [Check Out](https://docs.mixpanel.com/docs/)                          |
 | New Relic            | Real-time observability platform for infrastructure, applications, and logs      | [Check Out](https://docs.newrelic.com/)                               |
 | Prometheus           | Open-source monitoring system with time-series database and alerting             | [Check Out](https://prometheus.io/docs/introduction/overview/)        |
-| Sentry               | Real-time error tracking, performance monitoring, and release health             | [Check Out](https://docs.sentry.io/)                                  |
+| Sentry               | Real-time error tracking, performance monitoring, and release health             | [Check Out](https://docs.sentry.io/)                  
+|
+
+---
 
 ## Android Development  
 *Guides, APIs, and tools for building apps for Android devices, including mobile, tablets, TV, wearables, and the core OS itself.*
@@ -324,6 +329,7 @@ https://learn.microsoft.com/en-gb/
 | Jetpack Compose                   | Declarative UI toolkit for building native Android interfaces in Kotlin         | [Check Out](https://developer.android.com/develop/ui/compose) :contentReference[oaicite:3]{index=3} |
 | Kotlin for Android                | Kotlin-first approach with extensions and tools for Android app development      | [Check Out](https://kotlinlang.org/docs/android-overview.html) :contentReference[oaicite:4]{index=4} |
 
+---
 
 ## API Development  
 *Tools and platforms that help you create, manage, document, and test APIs (Application Programming Interfaces), which allow software systems to talk to each other.*
@@ -349,7 +355,7 @@ https://learn.microsoft.com/en-gb/
 | Swagger (OpenAPI)        | Standard for API description, testing, and documentation generation             | [Check Out](https://swagger.io/docs/)                                 |
 | Tyk                      | Open-source API gateway and analytics platform                                  | [Check Out](https://tyk.io/docs/)                                     |
 | WSO2 API Manager         | Full lifecycle API management solution                                          | [Check Out](https://apim.docs.wso2.com/en/latest/)                    |
-
+---
 
 ## Authentication & Authorization  
 *Tools and services used to handle user identity, login, sign-up, permissions, and secure access control in applications.*
@@ -367,6 +373,8 @@ https://learn.microsoft.com/en-gb/
 | Passport.js        | Middleware for Node.js for user authentication with strategies (Google, Facebook)  | [Check Out](http://www.passportjs.org/docs/)                           |
 | Supabase Auth      | Open-source Firebase alternative with JWT-based authentication                     | [Check Out](https://supabase.com/docs/guides/auth)                     |
 
+---
+
 ## Backend Development  
 *Frameworks and environments for building server‑side applications, handling business logic, databases, APIs, and integrations.*
 
@@ -382,8 +390,7 @@ https://learn.microsoft.com/en-gb/
 | Strapi             | Open‑source headless CMS & API builder                                       | [Check Out](https://docs.strapi.io/)                                    |
 | Symfony            | PHP framework with reusable components and APIs                              | [Check Out](https://symfony.com/doc/current/index.html)                 |
 
-
-
+---
 
 ## Backend Languages & Backend Frameworks 
 | **Name**                 | **Description**                                                     | **Official Documentation**                                                 |
