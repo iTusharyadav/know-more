@@ -28,8 +28,7 @@
 | Bullet             | Real-time physics simulation engine                                          | [Check Out](https://github.com/bulletphysics/bullet3)           |
 | Berty              | Secure peer-to-peer messaging app built with privacy in mind                | [Check Out](https://github.com/berty/berty)                      |
 
-## C – Open Source Projects  
-*Popular open-source projects starting with the letter "C".*
+---
 
 | **Project**         | **Description**                                                                | **Official Repository / Docs**                                 |
 |---------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -44,8 +43,7 @@
 | CockroachDB         | Distributed SQL database with ACID guarantees                                 | [Check Out](https://github.com/cockroachdb/cockroach)          |
 | CMake               | Tool to manage the build process of software using a compiler-independent method| [Check Out](https://github.com/Kitware/CMake)                  |
 
-## D – Open Source Projects  
-*Popular open-source projects starting with the letter "D".*
+---
 
 | **Project**         | **Description**                                                               | **Official Repository / Docs**                                 |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -60,8 +58,7 @@
 | Doctrine ORM        | Powerful object-relational mapper for PHP                                    | [Check Out](https://github.com/doctrine/orm)                   |
 | Drupal              | Flexible, open-source content management system                               | [Check Out](https://github.com/drupal/drupal)                  |
 
-## E – Open Source Projects  
-*Popular open-source projects starting with the letter "E".*
+---
 
 | **Project**         | **Description**                                                              | **Official Repository / Docs**                                 |
 |---------------------|------------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -76,8 +73,7 @@
 | Etcher              | Flash OS images to SD cards and USB drives safely and easily                | [Check Out](https://github.com/balena-io/etcher)              |
 | Excalidraw          | Virtual whiteboard for sketching hand-drawn like diagrams                   | [Check Out](https://github.com/excalidraw/excalidraw)         |
 
-## F – Open Source Projects  
-*Popular open-source projects starting with the letter "F".*
+---
 
 | **Project**         | **Description**                                                               | **Official Repository / Docs**                                 |
 |---------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -92,8 +88,7 @@
 | F# (FSharp)         | Functional-first language on the .NET platform                                | [Check Out](https://github.com/dotnet/fsharp)                 |
 | Fluent UI           | Collection of UX frameworks from Microsoft                                    | [Check Out](https://github.com/microsoft/fluentui)            |
 
-## G – Open Source Projects  
-*Popular open-source projects starting with the letter "G".*
+---
 
 | **Project**         | **Description**                                                              | **Official Repository / Docs**                                |
 |---------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -108,8 +103,7 @@
 | GIMP                | GNU Image Manipulation Program                                               | [Check Out](https://github.com/GNOME/gimp)                   |
 | Gitea               | Lightweight self-hosted Git service                                           | [Check Out](https://github.com/go-gitea/gitea)               |
 
-## H – Open Source Projects  
-*Popular open-source projects starting with the letter "H".*
+---
 
 | **Project**          | **Description**                                                              | **Official Repository / Docs**                               |
 |----------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
@@ -124,8 +118,7 @@
 | Hapi.js              | Rich framework for building applications and services in Node.js             | [Check Out](https://github.com/hapijs/hapi)                 |
 | H2 Database          | Java SQL database, embeddable and open-source                               | [Check Out](https://github.com/h2database/h2database)       |
 
-## I – Open Source Projects  
-*Popular open-source projects starting with the letter "I".*
+---
 
 | **Project**         | **Description**                                                          | **Official Repository / Docs**                               |
 |---------------------|--------------------------------------------------------------------------|--------------------------------------------------------------|
@@ -140,8 +133,7 @@
 | Ionic Framework     | Open-source mobile UI toolkit for building high-quality apps             | [Check Out](https://github.com/ionic-team/ionic-framework)  |
 | IPFS                | Distributed system for storing and accessing files, websites, apps       | [Check Out](https://github.com/ipfs/kubo)                   |
 
-## J – Open Source Projects  
-*Popular open-source projects starting with the letter "J".*
+---
 
 | **Project**          | **Description**                                                             | **Official Repository / Docs**                                |
 |----------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -156,8 +148,7 @@
 | jQuery               | JavaScript library for DOM manipulation, events, and AJAX                    | [Check Out](https://github.com/jquery/jquery)                |
 | JuiceShop            | OWASP’s intentionally insecure web application for testing security tools    | [Check Out](https://github.com/juice-shop/juice-shop)        |
 
-## K – Open Source Projects  
-*Popular open-source projects starting with the letter "K".*
+---
 
 | **Project**          | **Description**                                                           | **Official Repository / Docs**                               |
 |----------------------|---------------------------------------------------------------------------|--------------------------------------------------------------|
