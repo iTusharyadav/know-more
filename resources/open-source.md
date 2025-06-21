@@ -166,8 +166,7 @@
 | Kotlin               | Statically typed programming language for JVM, Android, and the browser   | [Check Out](https://github.com/JetBrains/kotlin)            |
 | Kubernetes           | Open-source system for automating deployment, scaling, and management      | [Check Out](https://github.com/kubernetes/kubernetes)       |
 
-## L – Open Source Projects  
-*Popular open-source projects starting with the letter "L".*
+---
 
 | **Project**          | **Description**                                                             | **Official Repository / Docs**                                |
 |----------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -182,8 +181,7 @@
 | Loki (Grafana)       | Log aggregation system by Grafana Labs                                      | [Check Out](https://github.com/grafana/loki)                 |
 | LoopBack             | Highly extensible Node.js framework for APIs                                | [Check Out](https://github.com/strongloop/loopback-next)     |
 
-## M – Open Source Projects  
-*Popular open-source projects starting with the letter "M".*
+---
 
 | **Project**         | **Description**                                                                 | **Official Repository / Docs**                               |
 |---------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------|
@@ -202,8 +200,7 @@
 | MongoDB             | NoSQL database program                                                           | [Check Out](https://github.com/mongodb/mongo)               |
 | Moodle              | Open-source learning management system (LMS)                                    | [Check Out](https://github.com/moodle/moodle)               |
 
-## N – Open Source Projects  
-*Popular open-source projects starting with the letter "N".*
+---
 
 | **Project**         | **Description**                                                               | **Official Repository / Docs**                              |
 |---------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------|
@@ -224,8 +221,7 @@
 | Notepad++           | Source code and text editor for Windows                                       | [Check Out](https://github.com/notepad-plus-plus/notepad-plus-plus) |
 | Nuxt.js             | Framework for Vue.js with server-side rendering support                       | [Check Out](https://github.com/nuxt/nuxt)                  |
 
-## O – Open Source Projects  
-*Popular open-source projects starting with the letter "O".*
+---
 
 | **Project**         | **Description**                                                             | **Official Repository / Docs**                               |
 |---------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
@@ -247,8 +243,7 @@
 | OpenVINO            | Intel’s toolkit for optimizing deep learning models                         | [Check Out](https://github.com/openvinotoolkit/openvino)    |
 | Oracle JET          | JavaScript toolkit by Oracle for enterprise-grade applications              | [Check Out](https://github.com/oracle/oraclejet)            |
 
-## P – Open Source Projects  
-*Popular open-source projects starting with the letter "P".*
+---
 
 | **Project**          | **Description**                                                             | **Official Repository / Docs**                               |
 |----------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|
@@ -263,8 +258,7 @@
 | pytest               | Framework that makes building simple and scalable Python tests easy         | [Check Out](https://github.com/pytest-dev/pytest)            |
 | PHP-FPM              | FastCGI Process Manager for PHP                                             | [Check Out](https://github.com/php/php-src/tree/master/sapi/fpm) |
 
-## Q – Open Source Projects  
-*Popular open-source projects starting with the letter "Q".*
+---
 
 | **Project**       | **Description**                                                          | **Official Repository / Docs**                           |
 |-------------------|---------------------------------------------------------------------------|----------------------------------------------------------|
@@ -274,8 +268,7 @@
 | Quasar Framework  | High-performance Vue.js framework for building responsive apps            | [Check Out](https://github.com/quasarframework/quasar)   |
 | QEMU              | Open-source machine emulator and virtualizer                              | [Check Out](https://github.com/qemu/qemu)                |
 
-## R – Open Source Projects  
-*Popular open-source projects starting with the letter "R".*
+---
 
 | **Project**       | **Description**                                                              | **Official Repository / Docs**                         |
 |-------------------|-------------------------------------------------------------------------------|--------------------------------------------------------|
@@ -290,8 +283,7 @@
 | Robot Framework   | Generic open-source automation framework                                     | [Check Out](https://github.com/robotframework/robotframework) |
 | React Query       | Hooks for fetching, caching and updating async data in React                 | [Check Out](https://github.com/TanStack/query)         |
 
-## S – Open Source Projects  
-*Popular open-source projects starting with the letter "S".*
+---
 
 | **Project**        | **Description**                                                           | **Official Repository / Docs**                             |
 |--------------------|----------------------------------------------------------------------------|------------------------------------------------------------|
@@ -308,8 +300,7 @@
 | Sequelize          | Promise-based Node.js ORM for Postgres, MySQL, SQLite and more            | [Check Out](https://github.com/sequelize/sequelize)        |
 | SolidJS            | Declarative JavaScript library for building user interfaces               | [Check Out](https://github.com/solidjs/solid)              |
 
-## T – Open Source Projects  
-*Popular open-source projects starting with the letter "T".*
+---
 
 | **Project**        | **Description**                                                             | **Official Repository / Docs**                           |
 |--------------------|------------------------------------------------------------------------------|----------------------------------------------------------|
@@ -325,8 +316,7 @@
 | Theia              | Cloud & Desktop IDE framework                                               | [Check Out](https://github.com/eclipse-theia/theia)      |
 | Tesseract OCR      | Optical Character Recognition engine                                        | [Check Out](https://github.com/tesseract-ocr/tesseract)  |
 
-## U – Open Source Projects  
-*Popular open-source projects starting with the letter "U".*
+---
 
 | **Project**       | **Description**                                                        | **Official Repository / Docs**                          |
 |-------------------|------------------------------------------------------------------------|---------------------------------------------------------|
