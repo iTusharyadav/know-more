@@ -801,6 +801,7 @@ https://learn.microsoft.com/en-gb/
 | IPFS (InterPlanetary File System) | Decentralized protocol for storing and sharing files | [Check Out](https://docs.ipfs.tech/)                               |
 | Supabase Storage   | Open-source alternative to Firebase storage                            | [Check Out](https://supabase.com/docs/guides/storage)              |
 | Uploadcare         | File uploading, storage, and CDN platform                              | [Check Out](https://uploadcare.com/docs/)                          |
+
 ## Firebase Services  
 *A set of backend services provided by Google to help you build and scale apps faster across platforms.*
 
@@ -1207,7 +1208,7 @@ https://learn.microsoft.com/en-gb/
 | spaCy              | Industrial-strength NLP library in Python                                       | [Check Out](https://spacy.io/usage)                                |
 | Stanford NLP       | Toolkit for natural language processing in Java                                 | [Check Out](https://stanfordnlp.github.io/CoreNLP/)                |
 | TextBlob           | Python library for processing textual data                                      | [Check Out](https://textblob.readthedocs.io/en/dev/)               |
-| Transformers (🤗)   | Hugging Face library for state-of-the-art NLP models                           | [Check Out](https://huggingface.co/docs/transformers/index)        |
+| Transformers    | Hugging Face library for state-of-the-art NLP models                           | [Check Out](https://huggingface.co/docs/transformers/index)        |
 
 ## Logging Libraries & Tools  
 *Libraries and platforms used to log, monitor, and analyze application events or system behaviors.*
