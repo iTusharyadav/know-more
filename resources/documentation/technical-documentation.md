@@ -588,22 +588,6 @@ https://learn.microsoft.com/en-gb/
 | WhatsApp Cloud API | Official API for integrating WhatsApp messaging into apps                     | [Check Out](https://developers.facebook.com/docs/whatsapp/)             |
 
 
-## Compiler
-| **Name**   | **Description**                                      | **Official Documentation**                   |
-|------------|------------------------------------------------------|----------------------------------------------|
-| `Babel.js` | JavaScript compiler/transpiler (ES6+ compatibility)  | [Check Out](https://babeljs.io/docs/)        |
-| `Webpack`  | Module bundler and build tool with API configuration | [Check Out](https://webpack.js.org/concepts/) |
-
-## Communication / Messaging APIs
-| **Name**       | **Description**                                             | **Official Documentation**                         |
-|----------------|-------------------------------------------------------------|----------------------------------------------------|
-| `Pusher API`   | Real-time events, channels, and notifications               | [Check Out](https://pusher.com/docs/)              |
-| `PubNub API`   | Real-time messaging and presence                            | [Check Out](https://www.pubnub.com/docs/)          |
-| `Slack API`    | Build apps and automate workflows in Slack                  | [Check Out](https://api.slack.com/docs)            |
-| `Socket.IO`    | Real-time, bi-directional communication over WebSockets     | [Check Out](https://socket.io/docs/v4/)            |
-| `Twilio API`   | Programmable voice, SMS, WhatsApp, and more                 | [Check Out](https://www.twilio.com/docs/usage/api) |
-
-
 ## Data Analysis & Visualization Tools  
 *Libraries and platforms used to analyze, process, and visually represent data for insights.*
 
@@ -721,40 +705,6 @@ https://learn.microsoft.com/en-gb/
 | Rego               | Policy language used in Open Policy Agent (OPA)                         | [Check Out](https://www.openpolicyagent.org/docs/latest/policy-language/) |
 | SQL                | Domain-specific language for managing and querying relational databases | [Check Out](https://www.w3schools.com/sql/)                        |
 
-
-## Databases 
-| **Name**                    | **Description**                                                | **Official Documentation**                                     |
-|-----------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
-| `Firebase`                  | Backend platform with real-time database and services          | [Check Out](https://firebase.google.com/docs)                  |
-| `Firebase Realtime Database`| NoSQL DB with real-time syncing                                | [Check Out](https://firebase.google.com/docs/database)         |
-| `MongoDB`                   | NoSQL document database                                        | [Check Out](https://www.mongodb.com/docs/)                     |
-| `MongoDB Atlas`             | Managed cloud MongoDB DB with API integration                  | [Check Out](https://www.mongodb.com/docs/atlas/)               |
-| `MySQL`                     | Open-source relational database                                | [Check Out](https://dev.mysql.com/doc/)                        |
-| `PostgreSQL`                | Advanced open-source relational database                       | [Check Out](https://www.postgresql.org/docs/)                  |
-| `PostgreSQL (Heroku)`       | Hosted SQL DB with HTTP API options                            | [Check Out](https://devcenter.heroku.com/articles/heroku-postgresql) |
-| `Redis`                     | In-memory data store used as a database, cache, and broker     | [Check Out](https://redis.io/docs/)                            |
-| `SQLite`                    | Lightweight, file-based relational database                    | [Check Out](https://sqlite.org/docs.html)                      |
-
-## DevOps / Developer Tools
-| **Name**                  | **Description**                                                     | **Official Documentation**                                                |
-|---------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
-| `Ansible`                 | Automation tool for configuration management and deployment         | [Check Out](https://docs.ansible.com)                                     |
-| `CI/CD with GitHub Actions` | Automate workflows, CI/CD pipelines using GitHub                | [Check Out](https://docs.github.com/en/actions)                           |
-| `DevDocs`                 | Aggregated browser for offline API docs                             | [Check Out](https://devdocs.io/)                                          |
-| `Docker`                  | Platform for developing, shipping, and running containers           | [Check Out](https://docs.docker.com)                                      |
-| `Docker Engine API`       | REST API for controlling Docker containers                          | [Check Out](https://docs.docker.com/engine/api/)                          |
-| `Git`                     | Version control system for source code                              | [Check Out](https://git-scm.com/doc)                                      |
-| `GitHub`                  | Code hosting platform for collaboration and version control         | [Check Out](https://docs.github.com/en)                                   |
-| `GitHub API`              | Interact with GitHub repos, issues, workflows                       | [Check Out](https://docs.github.com/en/rest?apiVersion=2022-11-28)        |
-| `Kubernetes`              | Container orchestration system                                      | [Check Out](https://kubernetes.io/docs/home/)                             |
-| `Kubernetes API`          | RESTful API for managing Kubernetes resources                       | [Check Out](https://kubernetes.io/docs/reference/generated/kubernetes-api/) |
-| `Microsoft Graph API`     | Access Microsoft 365 services via unified REST API                  | [Check Out](https://learn.microsoft.com/en-us/graph/)                     |
-| `Plaid API`               | Access financial and banking data                                   | [Check Out](https://plaid.com/docs/)                                      |
-| `Public APIs List`        | Curated list of free public APIs                                    | [Check Out](https://github.com/public-apis/public-apis)                   |
-| `RapidAPI Hub`            | API marketplace & aggregation platform                              | [Check Out](https://docs.rapidapi.com/docs/navigating-this-documentation) |
-| `Redocly`                 | API docs generator from OpenAPI specs                               | [Check Out](https://redocly.com/docs)                                     |
-| `Terraform`               | Infrastructure as code tool for cloud provisioning                  | [Check Out](https://developer.hashicorp.com/terraform/docs)               |
-| `Terraform Cloud API`     | API for managing Terraform Cloud resources                          | [Check Out](https://developer.hashicorp.com/terraform/cloud-docs/api)     |
 
 ## E-commerce Platforms / SDKs  
 *Frameworks, APIs, and toolkits for building and integrating e-commerce functionality.*
