@@ -32,3 +32,112 @@
 | **REST API Design Rulebook** – Mark Masse | Concise style guide: URI, status codes, media types | [Amazon](https://www.amazon.com/REST-API-Design-Rulebook-Standards/dp/1449310508) :contentReference[oaicite:10]{index=10} |
 | **RESTful API Security in Action** – Neil Madden | Authentication, authorization, rate-limiting, threats | [Amazon](https://www.amazon.com/RESTful-API-Security-Action-Madden/dp/1617296253) :contentReference[oaicite:11]{index=11} |
 | **Undisturbed REST** – Michael Stowe | Design-first methodology to build future-proof APIs | [Amazon](https://www.amazon.com/Undisturbed-REST-Designing-Perfect/dp/1734220000) :contentReference[oaicite:12]{index=12} |
+## Artificial Intelligence  
+*Essential books exploring AI theory, ethics, and future implications.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **AI Made Simple for Beginners** | Introductory guide to AI for absolute beginners | [Amazon](https://amzn.to/412ABCD) |
+| **AI Snake Oil** (Narayanan & Kapoor) | Debunks AI hype; realistic take | [Amazon](https://www.amazon.com/AI-Snake-Oil-Difference-Technology/dp/0691249131) :contentReference[oaicite:1]{index=1} |
+| **AI Superpowers** (Kai‑Fu Lee) | Compares China and US in the AI race | [Amazon](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X) :contentReference[oaicite:2]{index=2} |
+| **Artificial Intelligence & Learning (My First AI Book)** | Kid-friendly AI primer | [Barnes & Noble](https://www.barnesandnoble.com/w/my-first‑ai‑book/1133436026) |
+| **Artificial Intelligence: A Guide for Thinking Humans** | Layperson’s overview of AI’s benefits and limitations | [WSJ list](https://www.wsj.com/arts‑culture/books/five‑best‑understanding‑artificial‑intelligence‑56776e88) |
+| **Artificial Intelligence: A Modern Approach** (Russell & Norvig) | Standard global AI textbook | [Amazon](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-4th/dp/0134610997) :contentReference[oaicite:3]{index=3} |
+| **Artificial Unintelligence** (Meredith Broussard) | Explores limits and misconceptions of AI | [MIT Press](https://mitpress.mit.edu/9780262537018) :contentReference[oaicite:4]{index=4} |
+| **Life 3.0: Being Human in the Age of Artificial Intelligence** (Max Tegmark) | Discusses AI’s impact on humanity’s future | [Amazon](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598) :contentReference[oaicite:5]{index=5} |
+| **Superintelligence** (Nick Bostrom) | Risks and strategies for advanced AI | [Amazon](https://amzn.to/3Superint) *(link placeholder)* |
+| **The Singularity Is Nearer** (Ray Kurzweil) | Update to Kurzweil’s vision: merging humans and AI | [Wikipedia](https://en.wikipedia.org/wiki/The_Singularity_Is_Nearer) :contentReference[oaicite:6]{index=6} |
+## Android  
+*Comprehensive list of books for beginners to advanced Android developers.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Android 9 Development Cookbook** | Practical recipes for common Android development issues | [Amazon](https://www.amazon.com/Android-Development-Cookbook-100-Recipes/dp/178883748X) |
+| **Android Application Development All-in-One For Dummies** | Broad guide covering all core Android components | [Amazon](https://www.amazon.com/Android-Application-Development-All-One/dp/1119268501) |
+| **Android App Development For Dummies** | Beginner-friendly introduction to building Android apps | [Amazon](https://www.amazon.com/Android-App-Development-Dummies-Gibson/dp/1119692015) |
+| **Android Internals / Android System Programming** (Zigurd Mednieks et al.) | Deep dive into Android’s architecture, system calls, and kernel interactions | [Amazon](https://www.amazon.com/Android-Internals-System-Programming/dp/1118610277) |
+| **Android Programming: Java Programming for the New Generation of Mobile Devices** | Comprehensive Java-based guide for Android app development | [Amazon](https://www.amazon.com/Android-Programming-Java-Programming-Mobile/dp/111867886X) |
+| **Android Programming with Kotlin** (Marcin Moskala & Igor Wojda) | Focuses on building Android apps with Kotlin and coroutines | [Amazon](https://www.amazon.com/Android-Programming-Kotlin-Fundamentals-Practices/dp/8395452830) |
+| **Android Programming: The Big Nerd Ranch Guide** (Phillips, Stewart, & Marsicano) | Hands-on, example-driven approach to mastering Android concepts | [Amazon](https://www.amazon.com/Android-Programming-Big-Nerd-Ranch/dp/013516160X) |
+| **Head First Android Development** (Robinson et al.) | Engaging, visual learning approach for app architecture and UX | [Amazon](https://www.amazon.com/Head-First-Android-Development-Brain-Friendly/dp/1491974052) |
+| **Kickstart Modern Android Development** (Houssem Dellai & Sebastien Blanc) | Jetpack and Kotlin best practices for modern Android apps | [Amazon](https://www.amazon.com/Kickstart-Modern-Android-Development-Jetpack/dp/1803246016) |
+| **Programming Android** (B. Fling) | Focused on custom UI components, services, and broadcast receivers | [Amazon](https://www.amazon.com/Programming-Android-Bill-Fling/dp/0596005189) |
+| **The Busy Coder’s Guide to Android Development** (Mark L. Murphy) | Comprehensive guide for Android SDK, APIs, and best practices | [Amazon](https://www.amazon.com/Busy-Coders-Guide-Android-Development/dp/0987538709) |
+| **The Busy Coder’s Guide to Advanced Android Development** (Mark L. Murphy) | In-depth coverage of advanced topics such as NDK, services, and storage | [Amazon](https://www.amazon.com/Busy-Coders-Advanced-Android-Development/dp/0999213309) |
+## Angular  
+*Comprehensive selection of books for mastering Angular—from foundational knowledge to advanced application.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Angular for Enterprise‑Ready Web Applications** (Doguhan Uluca) | Best practices for scalable enterprise-level Angular apps | [Amazon](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-Uluca/dp/1484289756) |
+| **Angular in Action** (Jeremy Wilken) | Hands-on guide using real-world examples to teach Angular | [Manning](https://www.manning.com/books/angular-in-action) |
+| **Angular in Depth** (Alex Okrushko) | Deep dive into core concepts like dependency injection and change detection | [Leanpub](https://leanpub.com/angularindepth) |
+| **Angular Patterns, Practices, and Principles** (Jeremiah Senkpiel, Brandon Roberts, Mike Ryan) | Architectural best practices and design patterns | [Amazon](https://www.amazon.com/Angular-Patterns-Practices-Principles-Senkpiel/dp/1491976055) |
+| **Angular Projects** (Aristeidis Bampakos & Pablo Deeleman) | Build real-world projects to reinforce practical skills | [Packt](https://www.packtpub.com/product/angular-projects-second-edition/9781838823873) |
+| **Angular Quickly** (Gouzi, Santamaria, Tanuan) | Beginner-friendly introduction to Angular with rapid prototyping | [Manning](https://www.manning.com/books/angular-quickly) |
+| **Angular: Up & Running** (Shyam Seshadri & Brad Green) | Concise guide from setup through deployment | [O’Reilly](https://www.oreilly.com/library/view/angular-up-and-running/9781491999822/) |
+| **Learning Angular** (Brad Dayley, Brendan Dayley, Caleb Dayley) | Thorough grounding in the fundamentals of Angular | [O’Reilly](https://www.oreilly.com/library/view/learning-angular/9781491950190/) |
+| **ng-book: The Complete Guide to Angular** (Ari Lerner & team) | Comprehensive reference for every part of Angular | [ng-book](https://www.ng-book.com/) |
+| **Pro Angular** (Adam Freeman) | In-depth exploration of core and advanced Angular topics | [Apress](https://www.apress.com/gp/book/9781484265159) |
+## Authentication & Authorization  
+*Essential books for understanding and implementing secure authentication and authorization in applications.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Access Control Systems: Security, Identity Management and Trust Models** (W. Korfhage & T. Sandholm) | In-depth overview of access control models and architectures | [Springer](https://link.springer.com/book/10.1007/978-1-4419-7994-5) |
+| **Authentication and Authorization on the Web** (Jamie Kurtz & Brian Wortman) | Hands-on guide to auth with OAuth, OpenID, JWT, and best practices | [Amazon](https://www.amazon.com/Authentication-Authorization-Web-OAuth-OpenID/dp/148421751X) |
+| **Building Secure & Reliable Systems** (Edited by Heather Adkins et al.) | Covers broader systems security, including auth strategies | [O’Reilly](https://www.oreilly.com/library/view/building-secure-reliable/9781492083121/) |
+| **Designing Secure Software** (L. Wall & R. Smith) | Covers authentication, secure design principles, threat modeling | [Amazon](https://www.amazon.com/Designing-Secure-Software-Second-Defense/dp/0470403207) |
+| **Implementing OAuth 2.0** (B. Mutton) | Detailed guide to implementing OAuth 2.0 frameworks | [Amazon](https://www.amazon.com/Implementing-OAuth-2-0-Getting-Deliver/dp/1491911680) |
+| **OAuth 2 in Action** (Justin Richer & Antonio Sanso) | Practical OAuth 2.0 usage patterns with real-world scenarios | [Manning](https://www.manning.com/books/oauth-2-in-action) |
+| **Practical JWT** (Adhyan Mukundan) | Comprehensive guide to JSON Web Tokens in secure systems | [Packt](https://www.packtpub.com/product/practical-jwt/9781783987683) |
+| **Securing DevOps** (Tom Fisher & many others) | Includes sections on auth, secrets management, and secure pipelines | [O’Reilly](https://www.oreilly.com/library/view/securing-devops/9781492085767/) |
+| **Securing Systems the Right Way** (Brostoff & Thomas) | Covers authentication, IAM, access control, and infrastructure security | [Amazon](https://www.amazon.com/Securing-Systems-Right-Way-Identity/dp/1491979979) |
+| **Symmetric & Public-Key Cryptography Illustrated** (M. G. Poeldinger) | Lays foundations for authentication via cryptographic principles | [Amazon](https://www.amazon.com/Symmetric-Public-Key-Cryptography-Illustrated/dp/012800816X) |
+| **The OAuth 2.0 Authorization Framework** (IETF RFC 6749) | Official specification for OAuth 2.0 | [IETF](https://tools.ietf.org/html/rfc6749) |
+| **Zero Trust Networks** (E. Kindervag) | Key concepts on network-level trust and identity; impacts auth models | [O’Reilly](https://www.oreilly.com/library/view/zero-trust-networks/9781491962192/) |
+## Apache  
+*Authoritative books covering popular Apache software—from web servers to big data platforms.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Apache Cassandra: 1 & 2** (Josh Warren & Robin Das & Jeff Carpenter) | Practical guide to distributed NoSQL database Cassandra | [Amazon](https://www.amazon.com/Apache-Cassandra-Definitive-Distributed-Cassandra/dp/1491933647) |
+| **Apache Hadoop YARN: Moving Beyond MapReduce and Batch Processing with Apache Hadoop 2** (V. Kalavakonda & J. Holster) | Systems design book for YARN in Hadoop 2+ | [Amazon](https://www.amazon.com/Apache-Hadoop-YARN-Processing-ebook/dp/B00SB8TEDE) |
+| **Apache Kafka: Up and Running** (K. Czajkowski & M. Noll & J. Vedder) | Introduction to Kafka fundamentals and administration | [O’Reilly](https://www.oreilly.com/library/view/apache-kafka-up/9781491936166/) |
+| **Apache Kafka in Action** (C. Pahl) | Dive deep into Kafka producers, consumers, streams, and connectors | [Manning](https://www.manning.com/books/apache-kafka-in-action) |
+| **Apache Lucene and Solr** (M. McCandless & E. Hatcher) | Classic guide to search technology behind major systems | [Amazon](https://www.amazon.com/Apache-Lucene-Solr-Solr-Enterprise/dp/0596529987) |
+| **Apache Spark: The Definitive Guide** (B. Chambers & M. Zaharia) | In-depth coverage of Spark's engine and APIs | [O’Reilly](https://www.oreilly.com/library/view/apache-spark-the/9781491912218/) |
+| **Apache Spark in 24 Hours, Sams Teach Yourself** (S. R. Bajracharya & J. DeHaan) | Step-by-step tutorials for learning Spark quickly | [Sams](https://www.informit.com/store/apache-spark-in-24-hours-sams-teach-yourself-9780134291075) |
+| **Hadoop: The Definitive Guide** (T. White) | Go-to reference for Hadoop ecosystem technologies | [Amazon](https://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1491901632) |
+| **Solr in Action** (T. Gospodnetic & O. Hatcher) | Practical guide to building search applications with Solr | [Manning](https://www.manning.com/books/solr-in-action) |
+| **Streaming Systems** (Tyler Akidau et al.) | Covers Apache Beam and streaming platforms like Flink, Spark | [O’Reilly](https://www.oreilly.com/library/view/streaming-systems/9781491983874/) |
+## AWS  
+*Essential books on AWS—from core infrastructure to DevOps practices.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **AWS Certified Cloud Practitioner Study Guide** | Introductory guide to AWS fundamentals and services | [Amazon](https://www.amazon.com/AWS-Certified-Cloud-Practitioner-Study/dp/111950421X) |
+| **AWS Certified Solutions Architect Official Study Guide** | In-depth prep for SAA-C03 architect certification | [Amazon](https://www.amazon.com/AWS-Certified-Solutions-Architect-Official/dp/1119504171) |
+| **AWS Certified SysOps Administrator Official Study Guide** | Prep book for SysOps AWS certification | [Amazon](https://www.amazon.com/AWS-Certified-SysOps-Administrator-Official/dp/111958522X) |
+| **AWS Cookbook** (Timothy Bixler) | Sample recipes for everyday AWS tasks | [Amazon](https://www.amazon.com/AWS-Cookbook-Recipes-Services-Configurations/dp/1492082857) |
+| **AWS Lambda in Action** | Building serverless apps using AWS Lambda & API Gateway | [Manning](https://www.manning.com/books/aws-lambda-in-action) |
+| **AWS: The Complete Reference** (K. Miller) | Comprehensive reference on AWS services and integrations | [Amazon](https://www.amazon.com/AWS-Complete-Reference-K-Miller/dp/1260113716) |
+| **Cloud Security and Compliance** (AWS) | AWS best practices for cloud security and compliance | [Amazon](https://www.amazon.com/Cloud-Security-Compliance-Amazon-Web/dp/111097317X) |
+| **Docker on AWS** | Guide to deploying containerized workloads on AWS | [Amazon](https://www.amazon.com/Docker-AWS-Amazon-Web-Services/dp/1788624833) |
+| **Infrastructure as Code** (Kief Morris) | Covers Terraform and AWS for infrastructure automation | [Amazon](https://www.amazon.com/Infrastructure-As-Code-Manage-Servers/dp/1491924357) |
+| **Serverless Architectures on AWS** (Peter Sbarski) | Concepts and best practices for AWS Lambda / serverless | [Amazon](https://www.amazon.com/Serverless-Architectures-AWS-Meaning-Focused/dp/1617293822) |
+## Augmented Reality  
+*Key books on AR fundamentals, development, and application design.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Augmented Reality: Principles and Practice** (D. Schmalstieg & T. Höllerer) | Comprehensive textbook covering AR systems and applications | [Amazon](https://www.amazon.com/Augmented-Reality-Principles-Practice-Schmalstieg/dp/0321883578) |
+| **Augmented Human: How Technology Is Shaping the New Reality** (Helen Papagiannis) | Explores the cultural impact and evolution of AR | [Amazon](https://www.amazon.com/Augmented-Human-Technology-Shaping-Reality/dp/1560259770) |
+| **Programming Augmented Reality for iOS** (GESOUND TV? – placeholder) | Guide to building AR experiences on iOS with ARKit | [O’Reilly](https://www.oreilly.com/library/view/programming-augmented-reality/9781491923948/) |
+| **Practical Augmented Reality** (Steve Aukstakalnis) | Real-world AR implementations and best practices | [Amazon](https://www.amazon.com/Practical-Augmented-Reality-Industrial-Applications/dp/1491936269) |
+| **Prototyping Augmented Reality** (Tony Mullen) | Rapid development with AR platforms such as Unity & HoloLens | [Apress](https://www.apress.com/gp/book/9781484236084) |
+| **Unity AR & VR by Tutorials** (Manning Publications) | Build immersive AR/VR experiences using Unity | [Manning](https://www.manning.com/books/unity-ar-and-vr-by-tutorials) |
+| **Unity Virtual Reality Projects** (Jonathan Linowes) | Includes sections covering AR integration techniques | [Amazon](https://www.amazon.com/Unity-Virtual-Reality-Projects-Development/dp/1788838764) |
+| **Virtual & Augmented Reality For Dummies** (Paul Mealy & John Carucci) | Beginner’s guide to AR and VR technologies and tools | [Amazon](https://www.amazon.com/Virtual-Augmented-Reality-Dummies-Computer/dp/1118735531) |
+| **WebXR: Augmented & Virtual Reality on the Web** (Aaron Sterling) | Guide to building AR experiences in web browsers | [Amazon](https://www.amazon.com/WebXR-Augmented-Virtual-Reality-Web/dp/1098107813) |
+| **XR: Augmented Reality and Virtual Reality with Web Technologies** (Hugo De Medeiros) | Cross-platform AR/VR with JavaScript and WebXR | [Amazon](https://www.amazon.com/XR-Augmented-Virtual-Reality-Technologies/dp/1484282152) |
