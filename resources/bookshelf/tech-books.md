@@ -141,3 +141,78 @@
 | **Virtual & Augmented Reality For Dummies** (Paul Mealy & John Carucci) | Beginner’s guide to AR and VR technologies and tools | [Amazon](https://www.amazon.com/Virtual-Augmented-Reality-Dummies-Computer/dp/1118735531) |
 | **WebXR: Augmented & Virtual Reality on the Web** (Aaron Sterling) | Guide to building AR experiences in web browsers | [Amazon](https://www.amazon.com/WebXR-Augmented-Virtual-Reality-Web/dp/1098107813) |
 | **XR: Augmented Reality and Virtual Reality with Web Technologies** (Hugo De Medeiros) | Cross-platform AR/VR with JavaScript and WebXR | [Amazon](https://www.amazon.com/XR-Augmented-Virtual-Reality-Technologies/dp/1484282152) |
+## Backend Development  
+*Core books for designing, building, scaling, and securing server‑side systems.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Back‑End Development Unleashed** (Kiet Huynh) | Modern guide to secure and scalable back‑end systems | [Amazon](https://www.amazon.com/Back-End-Development-Unleashed-Techniques-Practices/dp/B0CKTZSK22) |
+| **Backend Developer in 30 Days** (R. Singh) | Fast-tracked training from server setup to APIs and databases | [Amazon](https://www.amazon.com/Backend-Developer-Days-Application-Optimization/dp/9355513216) |
+| **Building Microservices** (Sam Newman) | Design patterns and implementation strategies for microservices | [Amazon](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358) :contentReference[oaicite:1]{index=1} |
+| **Cracking the Coding Interview** (Gayle McDowell) | Widely used guide with backend problems and extensive prep | [Amazon](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) :contentReference[oaicite:2]{index=2} |
+| **Designing Data‑Intensive Applications** (Martin Kleppmann) | Deep dive into data systems, storage, and backend architecture | [Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) :contentReference[oaicite:3]{index=3} |
+| **Effective Java** (3rd Ed, Joshua Bloch) | Best practices in Java—often used on backend systems | [Amazon](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) :contentReference[oaicite:4]{index=4} |
+| **Mastering Back‑End Development** (Cybellium Ltd) | Comprehensive guide from backend fundamentals to deployment | [Amazon](https://www.amazon.com/Mastering-Back-End-Development-Comprehensive-Guide/dp/B0CMV7HNYW) :contentReference[oaicite:5]{index=5} |
+| **Microservice APIs** (Jose Haro Peralta) | Practical guide to designing robust, maintainable microservice APIs | [MentorCruise Book List] :contentReference[oaicite:6]{index=6} |
+| **Node.js Web Development** (David Herron) | Backend development with Node.js, Express, and modern practices | [Amazon](https://www.amazon.com/JavaScript-Frontend-Backend-Learn-development/dp/1801070318) :contentReference[oaicite:7]{index=7} |
+| **Zero To Production In Rust** (Luca Palmieri) | Building production-grade backend services with Rust from scratch | [Amazon](https://www.amazon.com/Zero-Production-Rust-introduction-development/dp/B0BHLDMFDQ) :contentReference[oaicite:8]{index=8} |
+## Big Data  
+*Fundamental and advanced texts for designing, managing, and analyzing large-scale data systems.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Big Data Analytics with Hadoop 3** (Srini Penchikala) | Guide to Hadoop 3 enhancements and ecosystem tools | [Amazon](https://www.amazon.com/Big-Data-Analytics-Hadoop-3/dp/1788627343) |
+| **Building the Data Lakehouse** (Bill Inmon et al.) | Blueprint for integrating data lakes and warehouses | [Amazon](https://www.amazon.com/Building-Data-Lakehouse-Inmon/dp/1119818541) |
+| **Data Analytics with Spark Using Python** (Srini Penchikala) | Scalable data processing with Spark and Python | [Amazon](https://www.amazon.com/Data-Analytics-Spark-Using-Python/dp/183898041X) |
+| **Hadoop: The Definitive Guide** (Tom White) | Core reference for Hadoop ecosystem implementation | [Amazon](https://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1491901632) |
+| **Knowledge Graphs and Big Data Preparation** (Jesus Barrasa et al.) | Strategies for managing and preparing large graph datasets | [Springer](https://link.springer.com/book/10.1007/978-3-030-08108-1) |
+| **Mastering Big Data Analytics** (Rajiv Sabharwal) | End-to-end approach for building analytic pipelines | [Amazon](https://www.amazon.com/Mastering-Big-Data-Analytics-Architectures/dp/1788392290) |
+| **NoSQL Distilled** (Pramod J. Sadalage & Martin Fowler) | Theory and implementation of NoSQL systems with big data use cases | [Amazon](https://www.amazon.com/NoSQL-Distilled-Database-Architects-Pramod/dp/0321826620) |
+| **Streaming Systems** (Tyler Akidau et al.) | Foundations of real-time data processing architectures | [O’Reilly](https://www.oreilly.com/library/view/streaming-systems/9781491983874/) |
+| **The Data Warehouse Toolkit** (Ralph Kimball & Margy Ross) | Essential dimensional modeling for analytics | [Amazon](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802) |
+| **Understanding Big Data: Analytics for Enterprise Class Hadoop and Streaming Data** (Chris Eaton et al.) | Concepts and strategies for enterprise-scale data solutions | [Amazon](https://www.amazon.com/Understanding-Big-Data-Analytics-Enterprise-Class/dp/0071790539) |
+## Blockchain  
+*Understanding blockchain from fundamentals, development, business implications to societal impact.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Blockchain Basics: A Non-Technical Introduction in 25 Steps** (Daniel Drescher) | Beginner-friendly guide with no code or math | [Amazon](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038) :contentReference[oaicite:1]{index=1} |
+| **Blockchain: Ultimate Guide to Understanding…** (Mark Gates) | Covers basics of Bitcoin, smart contracts, and crypto | [Amazon](https://www.amazon.com/Blockchain-understanding-blockchain-cryptocurrencies-contracts/dp/1547090685) :contentReference[oaicite:2]{index=2} |
+| **Blockchain Revolution: How the Technology Behind Bitcoin…** (Don & Alex Tapscott) | Explores broader business and societal applications | [Amazon](https://www.amazon.com/Blockchain-Revolution-Technology-Cryptocurrencies-Changing/dp/1101980141) :contentReference[oaicite:3]{index=3} |
+| **Mastering Bitcoin: Unlocking Digital Cryptocurrencies** (Andreas Antonopoulos) | Deep dive into Bitcoin’s technical underpinnings | [Amazon](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042/) :contentReference[oaicite:4]{index=4} |
+| **Mastering Blockchain: Inner Workings of Blockchain…** (Imran Bashir) | Developer-focused, covers cryptography, DeFi, NFTs | [Amazon](https://www.amazon.com/Mastering-Blockchain-distributed-consensus-cryptocurrencies/dp/1839213191) :contentReference[oaicite:5]{index=5} |
+| **The Basics of Bitcoins and Blockchains** (Antony Lewis) | Clear, illustrated introduction suitable for non-experts | [Amazon](https://www.amazon.com/Basics-Bitcoins-Blockchains-Introduction-Cryptocurrencies/dp/1633538001) :contentReference[oaicite:6]{index=6} |
+| **The Blockchain Developer** (Elad Elrom) | Practical guide to building dApps and blockchain systems | [Amazon](https://www.amazon.com/Blockchain-Developer-Implementing-Distributed-Blockchain-based/dp/1484248465) :contentReference[oaicite:7]{index=7} |
+| **The Cryptopians: Idealism, Greed…** (Laura Shin) | Inside story of Ethereum’s growth and ideals | [Wikipedia summary](https://en.wikipedia.org/wiki/The_Cryptopians) :contentReference[oaicite:8]{index=8} |
+| **The Real Business of Blockchain** (David Furlonger & Christophe Uzureau) | Strategic guide to blockchain for business leaders | [Amazon](https://www.amazon.com/Real-Business-Blockchain-Leaders-Digital/dp/1633698041) :contentReference[oaicite:9]{index=9} |
+| **Tracers in the Dark** (Andy Greenberg) | Investigative account of blockchain analytics and crime tracing | [TIME summary](https://time.com/6239364/crypto-criminals-andy-greenberg/) :contentReference[oaicite:10]{index=10} |
+## Business Intelligence  
+*Key books to master BI strategies, tools, visualizations, and data-driven decision-making.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Business Intelligence Guidebook** (Rick Sherman) | End-to-end BI lifecycle best practices | [Amazon](https://www.amazon.com/Business-Intelligence-Guidebook-Effective-Approaches/dp/0124114611) |
+| **Competing on Analytics** (Thomas H. Davenport, Jeanne G. Harris, Robert Morison) | How data-driven companies gain competitive edge | [Amazon](https://www.amazon.com/Competing-Analytics-Intelligence-Organizations-Work/dp/1422103323) |
+| **Data Science for Business** (Foster Provost & Tom Fawcett) | Foundational BI concepts through data science lens | [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323) |
+| **Information Dashboard Design** (Stephen Few) | Principles for clear and effective dashboard creation | [Amazon](https://www.amazon.com/Information-Dashboard-Design-Effective-Communication/dp/1938377001) |
+| **Microsoft Power BI Dashboards Step by Step** (Erry Kristanto, Erry Kristanto) | Guided BI insight with Power BI | [Amazon](https://www.amazon.com/Microsoft-Power-Dashboards-Step/dp/150930789X) |
+| **Performance Dashboards** (Wayne Eckerson) | Balanced metrics and dashboard design focus | [Amazon](https://www.amazon.com/Performance-Dashboards-Measure-improve-organization-Forecasts/dp/0782146080) |
+| **Practical Business Intelligence and Data Warehousing** (Michael Scouler) | BI design and data warehouse architecture | [Amazon](https://www.amazon.com/Practical-Business-Intelligence-Data-Warehousing/dp/1849511162) |
+| **Successful Business Intelligence** (Ciballi, Melymuka, Vega, Hightower) | BI project lifecycle and management strategies | [Amazon](https://www.amazon.com/Successful-Business-Intelligence-Project-Development/dp/0131178376) |
+| **Storytelling with Data** (Cole Nussbaumer Knaflic) | Turning data into effective narratives | [Amazon](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) |
+| **Teaching Data Visualization** (Dstaines) | Techniques for teaching and applying BI visualization | [Amazon](https://www.amazon.com/Teaching-Data-Visualization-Brynn-Sta-Train/dp/0645658435) |
+## Build Tools  
+*Comprehensive guides for mastering build automation, CI/CD pipelines, and toolchains.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Ant in Action** (Earle & Powell) | Practical guide to Apache Ant build tool | [Manning](https://www.manning.com/books/ant-in-action) |
+| **Automate the Boring Stuff with Python** (Al Sweigart) | Covers scripting and build tasks with Python | [Amazon](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994) |
+| **Continuous Delivery** (Humble & Farley) | Best practices for automated, reliable software delivery | [Amazon](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) |
+| **Gradle in Action** (Benjamin Muschko) | Real-world examples of Gradle build automation | [Manning](https://www.manning.com/books/gradle-in-action) |
+| **Jenkins 2: Up and Running** (Okuttken & al.) | Modern DevOps CI/CD using Jenkins pipelines | [O’Reilly](https://www.oreilly.com/library/view/jenkins-2-up/9781491979585/) |
+| **Learning Continuous Integration with Jenkins** (Nikhil Pathania) | Guide to creating robust CI pipelines | [Packt](https://www.packtpub.com/product/learning-continuous-integration-with-jenkins/9781783551036) |
+| **Maven: The Definitive Guide** (Sonatype team) | In-depth guide to Apache Maven project builds | [O’Reilly](https://www.oreilly.com/library/view/maven-the-definitive/9780596527409/) |
+| **Pragmatic Project Automation** (Dan Woods & Ara Pulido) | Covers build scripting and CI/CD techniques | [Amazon](https://www.amazon.com/Pragmatic-Project-Automation-Scripting-Techniques/dp/0134701588) |
+| **The DevOps Handbook** (Kim, Debois, Willis, Humble) | Covers automation, CI/CD, and continuous improvement culture | [Amazon](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) |
+| **Understanding and Using GitLab CI/CD** (A. Kloukinas) | Deep dive into GitLab’s CI/CD features and usage | [Amazon](https://www.amazon.com/Understanding-Using-GitLab-CI-CD-Practically/dp/183921531X) |
