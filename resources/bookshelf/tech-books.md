@@ -231,3 +231,18 @@
 | **Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming** (John Whitington) | Beginner-friendly step-by-step guide | [Amazon](https://www.amazon.com/Shell-Scripting-Command-Programming-Python/dp/1098052574) |
 | **The Linux Programming Interface** (Michael Kerrisk) | Thorough coverage of Unix/Linux system calls and scripting capabilities | [Amazon](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200) |
 | **Unix Power Tools** (Jerry Peek et al.) | Collection of tips, tricks, and scripts for Unix shell productivity | [O’Reilly](https://www.oreilly.com/library/view/unix-power-tools/9780596003302/) |
+## Browser Engines  
+*Definitive guides to how browsers work, covering parsing, rendering, JavaScript engines, and performance.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Game Engine Architecture** (Jason Gregory) | Though focused on game engines, includes overlapping insights into rendering, memory, threading and optimization | [Amazon](https://www.amazon.com/Engine-Architecture-Third-Jason-Gregory/dp/1138035459) :contentReference[oaicite:1]{index=1} |
+| **High Performance Browser Networking** (Ilya Grigorik) | Deep dive into HTTP, TLS, TCP, UDP, and real-world browser performance strategies | [Amazon](https://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763) |
+| **Image and Video Compression for Multimedia Engineering** (Chandra et al.) | Not purely engines—but crucial for handling browser multimedia pipelines | [Amazon](https://www.amazon.com/Image-Video-Compression-Multimedia-Engineering/dp/158053885X) |
+| **Learning Chrome Developer Tools** (S. Suslov) | Explains Chrome DevTools, V8, performance tracing – developer-facing engine tools | [Amazon](https://www.amazon.com/Learning-Chrome-Developer-Tools-introduction/dp/180020907X) |
+| **Real World Browser Networking** (Grigorik’s companion) | Practical tips for developing and debugging browser-based apps | [O’Reilly](https://www.oreilly.com/library/view/real-world-browser/9781491944548/) |
+| **Servo Book** (Mozilla Project) | Explains Rust-based Servo engine architecture—parallel layout and memory safety | [Online](https://book.servo.org/architecture/overview.html) :contentReference[oaicite:2]{index=2} |
+| **Understanding ECMAScript Engines** (Nicholas Zakas) | Covers how JavaScript engines like V8, SpiderMonkey, and Chakra implement spec | [O’Reilly](https://www.oreilly.com/library/view/understanding-ecmascript-engines/9781492045277/) |
+| **V8: Inside the JavaScript Engine** (Igor Sysoev) | Technical deep dive into Google’s open-source V8 engine powering Chrome and Node.js | [Google Blogpost](https://v8.dev/blog) :contentReference[oaicite:3]{index=3} |
+| **Web Browser Engineering** (Pavel Panchekha & Chris Harrelson) | Build your own minimalist browser from scratch in Python for learning | [Web & Amazon](https://www.amazon.com/Web-Browser-Engineering-Pavel-Panchekha/dp/0198913869) :contentReference[oaicite:4]{index=4} |
+| **Web Performance in Action** (Jeremy Wagner) | Covers rendering pipeline essentials and performance optimization | [Manning](https://www.manning.com/books/web-performance-in-action) |
