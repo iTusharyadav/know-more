@@ -246,3 +246,18 @@
 | **V8: Inside the JavaScript Engine** (Igor Sysoev) | Technical deep dive into Google’s open-source V8 engine powering Chrome and Node.js | [Google Blogpost](https://v8.dev/blog) :contentReference[oaicite:3]{index=3} |
 | **Web Browser Engineering** (Pavel Panchekha & Chris Harrelson) | Build your own minimalist browser from scratch in Python for learning | [Web & Amazon](https://www.amazon.com/Web-Browser-Engineering-Pavel-Panchekha/dp/0198913869) :contentReference[oaicite:4]{index=4} |
 | **Web Performance in Action** (Jeremy Wagner) | Covers rendering pipeline essentials and performance optimization | [Manning](https://www.manning.com/books/web-performance-in-action) |
+## Bots & Chatbots  
+*Fundamental and advanced books for building intelligent conversational agents and automation bots.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Building Chatbots with Python** (Sumit Raj) | Hands-on guide to creating chatbots with NLP and ML in Python | [Amazon](https://www.amazon.com/Building-Chatbots-Python-conversational-applications/dp/1484259319) |
+| **Building Chatbots with Microsoft Bot Framework and Node.js** (Gopinath) | Full-stack chatbot development using Microsoft tools | [Amazon](https://www.amazon.com/Building-Chatbots-Microsoft-Bot-Framework/dp/1484242173) |
+| **Conversational AI** (Andrew Freed) | Covers creation, management, and deployment of chatbots | [O’Reilly](https://www.oreilly.com/library/view/conversational-ai-building/9781492043471/) |
+| **Designing Bots** (Amir Shevat) | User-centric design principles for chatbots and conversational experiences | [O’Reilly](https://www.oreilly.com/library/view/designing-bots/9781491974821/) |
+| **Hands-On Chatbots and Conversational UI Development** (Nikolaos Vomvas) | Practical examples with Rasa, Azure, and Google Dialogflow | [Amazon](https://www.amazon.com/Hands-Chatbots-Conversational-Development-Multi-Platform/dp/1788835438) |
+| **Intelligent Virtual Agents** (Asadi, Wani & Hulstijn) | Study of conversational agent design with AI insights | [Springer](https://link.springer.com/book/10.1007/978-3-319-92068-6) |
+| **Practical Bot Development** (Russ Elliott) | Covers Facebook Messenger, Slack, Telegram bots in Node.js | [Apress](https://www.apress.com/gp/book/9781484235131) |
+| **Rasa Open Source Essentials** (Gregory Argyros & Alessio Beltrame) | Guide to building chatbots with Rasa and machine learning | [Packt](https://www.packtpub.com/product/rasa-open-source-essentials/9781838648969) |
+| **Voice AI: The New Era of Conversation** (Brian Roemmele et al.) | Focus on voice-based bots and conversational UX | [Amazon](https://www.amazon.com/Voice-AI-New-Era-Conversation/dp/1736401064) |
+| **Writing Voice Applications** (Joseph Piccillo) | Guide to building Alexa skills and Google Assistant bots | [Amazon](https://www.amazon.com/Writing-Voice-Applications-Amazon-Assistant/dp/1492085678) |
