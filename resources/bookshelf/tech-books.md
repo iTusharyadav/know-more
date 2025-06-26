@@ -261,3 +261,18 @@
 | **Rasa Open Source Essentials** (Gregory Argyros & Alessio Beltrame) | Guide to building chatbots with Rasa and machine learning | [Packt](https://www.packtpub.com/product/rasa-open-source-essentials/9781838648969) |
 | **Voice AI: The New Era of Conversation** (Brian Roemmele et al.) | Focus on voice-based bots and conversational UX | [Amazon](https://www.amazon.com/Voice-AI-New-Era-Conversation/dp/1736401064) |
 | **Writing Voice Applications** (Joseph Piccillo) | Guide to building Alexa skills and Google Assistant bots | [Amazon](https://www.amazon.com/Writing-Voice-Applications-Amazon-Assistant/dp/1492085678) |
+## Business Process Automation  
+*Strategic and technical guides for automating workflows, improving efficiency, and integrating systems.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Automate with GraspIO & Business Process Automation** (A. M. Fernando) | Practical introduction to automating business workflows | [Amazon](https://www.amazon.com/Automate-Business-Process-Integration-GraspIO/dp/1788998456) |
+| **BPMN Method and Style** (Bruce Silver) | BPMN best practices for clear, executable process models | [Amazon](https://www.amazon.com/BPMN-Method-Style-Second-Modeling/dp/098236810X) |
+| **Enterprise Integration Patterns** (Hohpe & Woolf) | In-depth look at messaging patterns for automation | [Amazon](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683) |
+| **Implementing Robotic Process Automation** (Phillip O’Neill) | Real-world RPA strategies with tools like UiPath | [Packt](https://www.packtpub.com/product/implementing-robotic-process-automation/9781788473003) |
+| **Intelligent Automation** (Augustine Fou) | Combining AI and RPA for strategic enterprise automation | [Amazon](https://www.amazon.com/Intelligent-Automation-Revolutionizing-Workforce-Business/dp/111954321X) |
+| **Practical Process Automation** (Thomas Allweyer) | Build digital workflows with BPMN and Camunda | [Amazon](https://www.amazon.com/Practical-Process-Automation-Workflows-Camunda/dp/1492059898) |
+| **Robotic Process Automation and Cognitive Automation** | Guide through RPA implementation and AI integration | [Amazon](https://www.amazon.com/Robotic-Process-Automation-Cognitive-Intelligence/dp/9352134060) |
+| **Robotic Process Automation with UiPath** (Ricardo Alonso et al.) | Comprehensive development with UiPath Studio & orchestrator | [Packt](https://www.packtpub.com/product/robotic-process-automation-with-uipath/9781839219325) |
+| **Workflow Automation with Microsoft Power Automate** (Aaron Guilmette) | Automate Office 365 and business processes with Power Automate | [Amazon](https://www.amazon.com/Workflow-Automation-Microsoft-And-AI/dp/1119798013) |
+| **Zero-Code Process Automation** (John Whitington) | Design and management of no-code workflows and tools | [Amazon](https://www.amazon.com/Zero-Code-Process-Automation-Assemble-Automate/dp/1098220095) |
