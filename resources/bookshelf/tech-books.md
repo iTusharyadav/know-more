@@ -216,3 +216,18 @@
 | **Pragmatic Project Automation** (Dan Woods & Ara Pulido) | Covers build scripting and CI/CD techniques | [Amazon](https://www.amazon.com/Pragmatic-Project-Automation-Scripting-Techniques/dp/0134701588) |
 | **The DevOps Handbook** (Kim, Debois, Willis, Humble) | Covers automation, CI/CD, and continuous improvement culture | [Amazon](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) |
 | **Understanding and Using GitLab CI/CD** (A. Kloukinas) | Deep dive into GitLab’s CI/CD features and usage | [Amazon](https://www.amazon.com/Understanding-Using-GitLab-CI-CD-Practically/dp/183921531X) |
+## Bash / Shell Scripting  
+*Key resources for mastering command-line scripting, automation, and Unix shell environment.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Advanced Bash-Scripting Guide** (Mendel Cooper) | Comprehensive reference and cookbook-style bash manual | [The Linux Documentation Project (PDF & HTML)](https://tldp.org/LDP/abs/html/) |
+| **Bash Cookbook** (Carl Albing & JP Vossen) | Practical recipes for bash programming and automation | [O’Reilly](https://www.oreilly.com/library/view/bash-cookbook/0596526784/) |
+| **Classic Shell Scripting** (Arnold Robbins & Nelson H. F. Beebe) | Teaches essential Unix scripting techniques using sh | [No Starch](https://nostarch.com/classicshellscript) |
+| **Linux Command Line and Shell Scripting Bible** (Richard Blum & Christine Bresnahan) | Beginner-to-intermediate Linux shell scripting guide | [Amazon](https://www.amazon.com/Linux-Command-Shell-Scripting-Bible/dp/1119700911) |
+| **Mastering Linux Shell Scripting** (Ravi Kumar & Andrew Mallett) | Advanced scripting techniques for sysadmins and DevOps | [Packt](https://www.packtpub.com/product/mastering-linux-shell-scripting/9781788624837) |
+| **Pro Bash Programming** (Chris LeAmon) | In-depth techniques for robust bash scripts | [Apress](https://www.apress.com/gp/book/9781590593949) |
+| **Shell Scripting: Expert Recipes for Linux, Bash, and more** (Clif Flynt) | Script templates and effective development patterns | [Amazon](https://www.amazon.com/Shell-Scripting-Expert-Recipes-Linux/dp/1789138321) |
+| **Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming** (John Whitington) | Beginner-friendly step-by-step guide | [Amazon](https://www.amazon.com/Shell-Scripting-Command-Programming-Python/dp/1098052574) |
+| **The Linux Programming Interface** (Michael Kerrisk) | Thorough coverage of Unix/Linux system calls and scripting capabilities | [Amazon](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200) |
+| **Unix Power Tools** (Jerry Peek et al.) | Collection of tips, tricks, and scripts for Unix shell productivity | [O’Reilly](https://www.oreilly.com/library/view/unix-power-tools/9780596003302/) |
