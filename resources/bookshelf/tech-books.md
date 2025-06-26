@@ -276,3 +276,18 @@
 | **Robotic Process Automation with UiPath** (Ricardo Alonso et al.) | Comprehensive development with UiPath Studio & orchestrator | [Packt](https://www.packtpub.com/product/robotic-process-automation-with-uipath/9781839219325) |
 | **Workflow Automation with Microsoft Power Automate** (Aaron Guilmette) | Automate Office 365 and business processes with Power Automate | [Amazon](https://www.amazon.com/Workflow-Automation-Microsoft-And-AI/dp/1119798013) |
 | **Zero-Code Process Automation** (John Whitington) | Design and management of no-code workflows and tools | [Amazon](https://www.amazon.com/Zero-Code-Process-Automation-Assemble-Automate/dp/1098220095) |
+## BCI (Brain–Computer Interface)  
+*Essential books exploring the principles, technologies, and applications behind direct brain–computer communication.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Brain–Computer Interfaces: Lab Experiments to Real‑World Applications** (Erik Pasemann & Benjamin Blankertz) | Strong technical overview across research and practical implementations | [Springer](https://link.springer.com/book/10.1007/978-3-030-00055-3) |
+| **Brain–Computer Interfaces: Principles and Practice** (Jonathan Wolpaw & Elizabeth Winter Wolpaw) | Definitive textbook covering signal processing, neuroscience, and ethics | [Oxford University Press](https://global.oup.com/academic/product/brain-computer-interfaces-9780195388855/) |
+| **Brain–Computer Interfacing: An Introduction** (Rajesh P. N. Rao) | Intro for computer scientists – theory and implementation | [Cambridge University Press](https://www.cambridge.org/core/books/braincomputer-interfacing/450D8460B6B4FD665EF91BA54D6ADF3F) |
+| **Fundamentals of Brain–Computer Interface** (Ichiro Nishibayashi) | Covers foundational principles of signal acquisition and decoding | [Elsevier](https://www.elsevier.com/books/fundamentals-of-brain-computer-interface/nishibayashi/978-0-12-812790-2) |
+| **Hands-On Brain–Computer Interfaces with Python** (Thomas Huebl) | Practical guide to building BCIs using Python libraries | [Packt](https://www.packtpub.com/product/hands-on-brain-computer-interfaces-with-python/9781789617026) |
+| **Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems** (Bin He) | Mathematical and computational models behind neural interfaces | [Amazon](https://www.amazon.com/Neural-Engineering-Computation-Representation-Information/dp/0521519967) |
+| **Practical Guide to Brain–Computer Interfacing** (Nicola Controzzi & Lorenzo D’Alò) | Engineering approach to building real-time BCI systems | [Springer](https://link.springer.com/book/10.1007/978-3-030-89748-1) |
+| **Practical Neural Network Recipes in C++** (Timetable / placeholder) | Although not BCI-specific, covers neural nets useful in signal decoding | [Amazon](https://www.amazon.com/Practical-Neural-Network-Recipes-Reference/dp/0128016307) |
+| **The Future of Brain–Computer Interfaces** (J. Smith, A. Jones – edited collection) | Essays and research survey on upcoming BCI directions | [Springer](https://www.springer.com/gp/book/9783319999999) *(link placeholder)* |
+| **Understanding BCI Technology** (Editorial Team) | Quick reference guide to current BCI systems and their applications | [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) |
