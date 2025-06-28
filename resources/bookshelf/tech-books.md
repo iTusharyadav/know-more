@@ -291,3 +291,18 @@
 | **Practical Neural Network Recipes in C++** (Timetable / placeholder) | Although not BCI-specific, covers neural nets useful in signal decoding | [Amazon](https://www.amazon.com/Practical-Neural-Network-Recipes-Reference/dp/0128016307) |
 | **The Future of Brain–Computer Interfaces** (J. Smith, A. Jones – edited collection) | Essays and research survey on upcoming BCI directions | [Springer](https://www.springer.com/gp/book/9783319999999) *(link placeholder)* |
 | **Understanding BCI Technology** (Editorial Team) | Quick reference guide to current BCI systems and their applications | [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) |
+## CI/CD (Continuous Integration & Continuous Delivery)  
+*Essential books covering the philosophy, tools, and best practices for fully automated software delivery.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation** (Jez Humble & David Farley) | The foundational book on CI/CD principles and deployment pipelines | [O’Reilly](https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250) :contentReference[oaicite:1]{index=1} |
+| **Continuous Delivery with Windows and .NET** (Richard Campbell, et al.) | Focused CI/CD for Windows/.NET environments | [O’Reilly](https://www.oreilly.com/library/view/continuous-delivery-with/9781492042327) :contentReference[oaicite:2]{index=2} |
+| **DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations** (Gene Kim, Jez Humble, Patrick Debois, John Willis) | Covers CI/CD as part of the DevOps ecosystem | [Amazon](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) :contentReference[oaicite:3]{index=3} |
+| **Infrastructure as Code: Managing Servers in the Cloud** (Kief Morris) | Uses CI/CD flows to manage infrastructure like code | [Amazon](https://www.amazon.com/Infrastructure-As-Code-Manage-Servers/dp/1491924357) :contentReference[oaicite:4]{index=4} |
+| **Jenkins 2: Up & Running** (Brent Laster) | Practical guide to pipelines-as-code in Jenkins 2 | [O’Reilly](https://www.oreilly.com/library/view/jenkins-2-up/9781491979587) :contentReference[oaicite:5]{index=5} |
+| **Learning Continuous Integration with Jenkins** (Nikhil Pathania) | Step-by-step walkthroughs for Jenkins CI setup | [Packt](https://www.packtpub.com/product/learning-continuous-integration-with-jenkins/9781783551036) :contentReference[oaicite:6]{index=6} |
+| **Pipeline as Code: Building Cloud Native CI/CD Pipelines for Kubernetes, Docker, and Erlang** (Mitesh Soni) | CI/CD pipelines using Jenkins-X, YAML, and cloud-native tools | [Jenkins Books List](https://www.jenkins.io/books/) :contentReference[oaicite:7]{index=7} |
+| **Team Topologies: Organizing Business and Technology Teams for Fast Flow** (Matthew Skelton & Manuel Pais) | Organizational strategies to support CI/CD and DevOps | [Amazon](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819) :contentReference[oaicite:8]{index=8} |
+| **Terraform: Up & Running** (Yevgeniy Brikman) | Infrastructure as code with CI/CD-friendly deployment using Terraform | [O’Reilly](https://www.oreilly.com/library/view/terraform-up-and/9781492046904) :contentReference[oaicite:9]{index=9} |
+| **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** (Gene Kim, Kevin Behr & George Spafford) | Fiction narrative illustrating CI/CD implementation in action | [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) :contentReference[oaicite:10]{index=10} |
