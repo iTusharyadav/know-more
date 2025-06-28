@@ -306,3 +306,39 @@
 | **Team Topologies: Organizing Business and Technology Teams for Fast Flow** (Matthew Skelton & Manuel Pais) | Organizational strategies to support CI/CD and DevOps | [Amazon](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819) :contentReference[oaicite:8]{index=8} |
 | **Terraform: Up & Running** (Yevgeniy Brikman) | Infrastructure as code with CI/CD-friendly deployment using Terraform | [O’Reilly](https://www.oreilly.com/library/view/terraform-up-and/9781492046904) :contentReference[oaicite:9]{index=9} |
 | **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** (Gene Kim, Kevin Behr & George Spafford) | Fiction narrative illustrating CI/CD implementation in action | [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) :contentReference[oaicite:10]{index=10} |
+## Cloud Computing  
+*Comprehensive books on cloud architecture, services, strategy, and practical implementation.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Architecting the Cloud: Design Decisions for Cloud Computing Service Models** (Michael J. Kavis) | Vendor-neutral guide to SaaS, PaaS, and IaaS design tradeoffs | [Wiley (Hardcover)](https://www.amazon.com/Architecting-Cloud-Service-Models/dp/1118617614) :contentReference[oaicite:1]{index=1} |
+| **Accelerating Cloud Adoption** (Michael J. Kavis) | Lessons on organizational change and cloud transformation strategies | [O’Reilly](https://www.oreilly.com/library/view/accelerating-cloud-adoption/9781492055952/) :contentReference[oaicite:2]{index=2} |
+| **Cloud Native Patterns** (Cornelia Davis) | Patterns for building scalable microservice-based cloud apps | [Amazon](https://www.amazon.com/Cloud-Native-Patterns-Deploy-Applications/dp/1491976986) |
+| **Cloud Strategy** (Gregor Hohpe) | Frameworks and techniques for strategic cloud adoption | [Amazon](https://www.amazon.com/Cloud-Strategy-Architectures-Organizations-Transformation/dp/1492057697) |
+| **Cloudonomics** (Joe Weinman) | Business and economic models underpinning cloud decisions | [Amazon](https://www.amazon.com/Cloudonomics-Business-Revolution-Principles-Cloud/dp/1118229967) |
+| **Google Cloud Platform for Architects** (Vitthal Srinivasan) | Architectural guidance and best practices on GCP | [Amazon](https://www.amazon.com/Google-Cloud-Platform-Architects-Professional/dp/1788838606) |
+| **Kubernetes Up & Running** (Brendan Burns et al.) | Practical guide to deploying and managing containers in cloud environments | [O’Reilly](https://www.oreilly.com/library/view/kubernetes-up-and/9781491935675/) |
+| **Learning AWS** (Aurobindo Sarkar & Amit Shah) | Practical introduction to core AWS services and deployments | [Amazon](https://www.amazon.com/Learning-AWS-Aurobindo-Sarkar/dp/1788836340) |
+| **Terraform: Up & Running** (Yevgeniy Brikman) | Infrastructure as code and automation practices for any cloud | [O’Reilly](https://www.oreilly.com/library/view/terraform-up-and/9781492046904/) :contentReference[oaicite:3]{index=3} |
+| **Web Operations** (John Allspaw & Jesse Robbins) | Insights into operating resilient, scalable web services in the cloud | [O’Reilly](https://www.oreilly.com/library/view/web-operations/9781449335128/) |
+## Containerization  
+*Comprehensive resources covering container technologies, orchestration, and deployment strategies.*
+
+1
+2
+3
+4
+
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Container Security**<br>(Liz Rice) | Offers a comprehensive guide to securing containerized applications, covering best practices and real-world scenarios. | [O'Reilly](https://www.oreilly.com/library/view/container-security/9781492056705/) |
+| **Containerization with LXC**<br>(Konstantin Ivanov) | Provides practical guidance on deploying and managing containerized applications using Linux Containers (LXC). | [O'Reilly](https://www.oreilly.com/library/view/containerization-with-lxc/9781785888946/) |
+| **DevOps: A Journey from Microservice to Cloud Based Containerization**<br>(Hitesh Kumar Sharma et al.) | Introduces the DevOps culture and tools, explaining microservices, containers, Docker, Kubernetes, and their significance in software development. | [Routledge](https://www.routledge.com/DevOps-A-Journey-from-Microservice-to-Cloud-Based-Containerization/Sharma-Kumar-Pant-Ram/p/book/9788770228466) |
+| **Docker Deep Dive**<br>(Nigel Poulton) | Simplifies Docker concepts and provides an energetic approach to learning Docker basics. | [Amazon](https://www.amazon.in/Docker-Deep-Dive-Zero-Single/dp/B0C6Y4X8X7) |
+| **Docker in Action**<br>(Jeff Nickoloff & Stephen Kuenzli) | Offers practical techniques and examples for deploying and managing Docker containers. | [Amazon](https://www.amazon.in/Docker-Action-Jeff-Nickoloff/dp/1617294764) |
+| **Docker: Up & Running**<br>(Karl Matthias & Sean Kane) | Provides insights into shipping reliable containers in production environments. | [O'Reilly](https://www.oreilly.com/library/view/docker-up-and/9781492036738/) |
+| **Kubernetes Cookbook**<br>(Sébastien Goasguen & Michael Hausenblas) | Presents practical recipes for deploying, managing, and scaling applications using Kubernetes. | [O'Reilly](https://www.oreilly.com/library/view/kubernetes-cookbook/9781491979685/) |
+| **Learn Microservices with Spring Boot 3**<br>(Moisés Macero & Tarun Telang) | Guides readers through building Java-based microservices architecture using Spring Boot 3 and containerization. | [Amazon](https://www.amazon.in/Learn-Microservices-Spring-Boot-Containerization/dp/1484297563) |
+| **Mastering Docker - Fourth Edition**<br>(Russ McKendrick) | Enhances containerization and DevOps skills to deliver production-ready applications. | [Amazon](https://www.amazon.in/Mastering-Docker-containerization-production-ready-applications/dp/1839216573) |
+| **The Docker Book: Containerization is the New Virtualization**<br>(James Turnbull) | Introduces Docker and its components, guiding readers through installing, deploying, and managing Docker containers. | [Amazon](https://www.amazon.in/Docker-Book-Containerization-New-Virtualization/dp/9352138910) |
