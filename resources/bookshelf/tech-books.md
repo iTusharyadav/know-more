@@ -291,6 +291,7 @@
 | **Practical Neural Network Recipes in C++** (Timetable / placeholder) | Although not BCI-specific, covers neural nets useful in signal decoding | [Amazon](https://www.amazon.com/Practical-Neural-Network-Recipes-Reference/dp/0128016307) |
 | **The Future of Brain–Computer Interfaces** (J. Smith, A. Jones – edited collection) | Essays and research survey on upcoming BCI directions | [Springer](https://www.springer.com/gp/book/9783319999999) *(link placeholder)* |
 | **Understanding BCI Technology** (Editorial Team) | Quick reference guide to current BCI systems and their applications | [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) |
+
 ## CI/CD (Continuous Integration & Continuous Delivery)  
 *Essential books covering the philosophy, tools, and best practices for fully automated software delivery.*
 
@@ -306,6 +307,7 @@
 | **Team Topologies: Organizing Business and Technology Teams for Fast Flow** (Matthew Skelton & Manuel Pais) | Organizational strategies to support CI/CD and DevOps | [Amazon](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819) :contentReference[oaicite:8]{index=8} |
 | **Terraform: Up & Running** (Yevgeniy Brikman) | Infrastructure as code with CI/CD-friendly deployment using Terraform | [O’Reilly](https://www.oreilly.com/library/view/terraform-up-and/9781492046904) :contentReference[oaicite:9]{index=9} |
 | **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** (Gene Kim, Kevin Behr & George Spafford) | Fiction narrative illustrating CI/CD implementation in action | [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) :contentReference[oaicite:10]{index=10} |
+
 ## Cloud Computing  
 *Comprehensive books on cloud architecture, services, strategy, and practical implementation.*
 
@@ -321,14 +323,14 @@
 | **Learning AWS** (Aurobindo Sarkar & Amit Shah) | Practical introduction to core AWS services and deployments | [Amazon](https://www.amazon.com/Learning-AWS-Aurobindo-Sarkar/dp/1788836340) |
 | **Terraform: Up & Running** (Yevgeniy Brikman) | Infrastructure as code and automation practices for any cloud | [O’Reilly](https://www.oreilly.com/library/view/terraform-up-and/9781492046904/) :contentReference[oaicite:3]{index=3} |
 | **Web Operations** (John Allspaw & Jesse Robbins) | Insights into operating resilient, scalable web services in the cloud | [O’Reilly](https://www.oreilly.com/library/view/web-operations/9781449335128/) |
-## Containerization  
-*Comprehensive resources covering container technologies, orchestration, and deployment strategies.*
 
 1
 2
 3
 4
 
+## Containerization  
+*Comprehensive resources covering container technologies, orchestration, and deployment strategies.*
 
 | **Book** | **Description** | **Link** |
 |---------|------------------|---------|
@@ -342,3 +344,35 @@
 | **Learn Microservices with Spring Boot 3**<br>(Moisés Macero & Tarun Telang) | Guides readers through building Java-based microservices architecture using Spring Boot 3 and containerization. | [Amazon](https://www.amazon.in/Learn-Microservices-Spring-Boot-Containerization/dp/1484297563) |
 | **Mastering Docker - Fourth Edition**<br>(Russ McKendrick) | Enhances containerization and DevOps skills to deliver production-ready applications. | [Amazon](https://www.amazon.in/Mastering-Docker-containerization-production-ready-applications/dp/1839216573) |
 | **The Docker Book: Containerization is the New Virtualization**<br>(James Turnbull) | Introduces Docker and its components, guiding readers through installing, deploying, and managing Docker containers. | [Amazon](https://www.amazon.in/Docker-Book-Containerization-New-Virtualization/dp/9352138910) |
+
+## Computer Architecture  
+*Comprehensive resources covering computer architecture principles, design, and real-world applications.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Code: The Hidden Language of Computer Hardware and Software**<br>(Charles Petzold) | Explains how computers work at a hardware and software level, structured to move up each level in the hierarchy in which computers are constructed. | [Wikipedia](https://en.wikipedia.org/wiki/Code%3A_The_Hidden_Language_of_Computer_Hardware_and_Software) |
+| **Computer Architecture: A Quantitative Approach**<br>(John L. Hennessy & David A. Patterson) | Offers a comprehensive and rigorous exploration of computer architecture, suitable for advanced learners. | [Amazon](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X) |
+| **Computer Architecture: Concepts and Evolution**<br>(Gerrit A. Blaauw & Frederick P. Brooks) | Provides historical context and evolution of computer architecture concepts. | [Goodreads](https://www.goodreads.com/book/show/124460.Computer_Architecture) |
+| **Computer Architecture and Logic Design**<br>(Thomas C. Bartee) | Covers fundamental concepts in computer architecture and logic design. | [Goodreads](https://www.goodreads.com/book/show/124459.Computer_Architecture_and_Logic_Design) |
+| **Computer Organization and Design: The Hardware/Software Interface**<br>(David A. Patterson & John L. Hennessy) | Introduces the fundamentals of computer organization and design, focusing on the interface between hardware and software. | [Amazon](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269) |
+| **Digital Design and Computer Architecture**<br>(David Money Harris & Sarah L. Harris) | Combines digital logic design with computer architecture, providing a comprehensive introduction to both subjects. | [Amazon](https://www.amazon.com/Digital-Design-Computer-Architecture-Second/dp/0123944244) |
+| **Learning Computer Architecture with Raspberry Pi**<br>(Eben Upton & Jeffrey Duntemann) | Uses the Raspberry Pi to teach computer architecture concepts in a hands-on manner. | [Amazon](https://www.amazon.com/Learning-Computer-Architecture-Raspberry-Pi/dp/1119183936) |
+| **Modern Computer Architecture and Organization**<br>(Jim Ledin) | Explores modern computer architecture and organization, covering x86, ARM, and RISC-V architectures. | [Amazon](https://www.amazon.com/Modern-Computer-Architecture-Organization-smartphones/dp/1800201635) |
+| **Structured Computer Organization**<br>(Andrew S. Tanenbaum & Todd Austin) | Presents a layered approach to understanding computer organization, from digital logic to operating systems. | [Amazon](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525) |
+| **The Essentials of Computer Organization and Architecture**<br>(Linda Null & Julia Lobur) | Provides a comprehensive introduction to computer organization and architecture, suitable for beginners. | [Amazon](https://www.amazon.com/Essentials-Computer-Organization-Architecture/dp/1284123030) |
+
+## Computer Graphics  
+*Essential resources covering computer graphics principles, techniques, and applications.*
+
+| **Book** | **Description** | **Link** |
+|---------|------------------|---------|
+| **Computer Graphics: Principles and Practice**<br>(James D. Foley, Andries van Dam, Steven K. Feiner, John Hughes) | Widely regarded as the definitive reference in the field, this book offers comprehensive coverage of computer graphics principles and practices. | [Amazon India](https://www.amazon.in/Computer-Graphics-Foley-Feiner-Hughes/dp/0321399528) |
+| **Fundamentals of Computer Graphics**<br>(Peter Shirley, Steve Marschner) | Provides a solid foundation in computer graphics, balancing theory and practical application, suitable for beginners and intermediate learners. | [CRC Press](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Shirley-Marschner/p/book/9780367331483) |
+| **Real-Time Rendering**<br>(Tomas Akenine-Möller, Eric Haines, Naty Hoffman) | Focuses on real-time rendering techniques, essential for game developers and interactive application designers. | [Amazon India](https://www.amazon.in/Real-Time-Rendering-Fourth-Tomas-Akenine-Moller/dp/1138627003) |
+| **Physically Based Rendering: From Theory to Implementation**<br>(Matt Pharr, Wenzel Jakob, Greg Humphreys) | Offers an in-depth exploration of rendering algorithms and techniques, with practical implementation details. | [Amazon India](https://www.amazon.in/Physically-Based-Rendering-Theory-Implementation/dp/0128006455) |
+| **Introduction to Computer Graphics**<br>(David J. Eck) | A free, online textbook covering the fundamentals of computer graphics and programming, suitable for undergraduate courses. | [Official Site](https://math.hws.edu/graphicsbook/) |
+| **Computer Graphics: A Programming Approach**<br>(David F. Rogers) | Emphasizes the programming aspects of computer graphics, providing practical examples and exercises. | [Amazon India](https://www.amazon.in/Computer-Graphics-Programming-Approach-2e/dp/0070486778) |
+| **The Nature of Code**<br>(Daniel Shiffman) | Explores the simulation of natural systems using Processing, blending computer graphics with creative coding. | [Official Site](https://natureofcode.com/) |
+| **3D Math Primer for Graphics and Game Development**<br>(Fletcher Dunn, Ian Parberry) | Covers the essential mathematical concepts used in 3D graphics and game development, with practical examples. | [Amazon India](https://www.amazon.in/3D-Math-Primer-Graphics-Development/dp/1568817231) |
+| **OpenGL Programming Guide: The Official Guide to Learning OpenGL**<br>(Dave Shreiner, Graham Sellers, John Kessenich, Bill Licea-Kane) | Serves as the official guide to learning OpenGL, covering the core concepts and techniques. | [Amazon India](https://www.amazon.in/OpenGL-Programming-Guide-Official-Learning/dp/0321773039) |
+| **Computer Graphics**<br>(Samit Bhattacharya) | A textbook aimed at undergraduate students, providing a thorough understanding of core computer graphics concepts. | [Amazon India](https://www.amazon.in/COMPUTER-GRAPHICS-SAMIT-BHATTACHARYA/dp/0198096194) |
