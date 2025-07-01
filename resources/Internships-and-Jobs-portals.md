@@ -11,3 +11,12 @@
 | `Andela`            | Connects software engineers from emerging markets with global remote jobs.      | [Check Out](https://andela.com/) |
 | `AngelCityData`     | Job board and newsletter for data scientists and analysts.                      | [Check Out](https://angelcitydata.com/jobs/) |
 | `AllRemote`         | Remote job discovery platform for tech, marketing, sales and design roles.      | [Check Out](https://allremote.jobs/) |
+
+## Opportunity Board – Platforms & Apps (W)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `We Work Remotely` | A leading remote job board with over 6 million monthly visitors, offering a wide range of remote job listings across various categories, including programming, design, marketing, and customer support. | [Check Out](https://weworkremotely.com/) |
+| `Workana` | A freelance marketplace connecting businesses with remote talent, primarily in Latin America, across fields like IT, design, writing, and marketing. | [Check Out](https://www.workana.com/) |
+| `Working Nomads` | A platform that curates remote job listings from around the web, catering to digital nomads and remote workers seeking opportunities in tech, marketing, and more. | [Check Out](https://www.workingnomads.com/jobs) |
+| `WhatJobs` | An international job search platform operating in 77 countries, aggregating job listings across various industries and roles. | [Check Out](https://www.whatjobs.com/) |
