@@ -12,6 +12,15 @@
 | `AngelCityData`     | Job board and newsletter for data scientists and analysts.                      | [Check Out](https://angelcitydata.com/jobs/) |
 | `AllRemote`         | Remote job discovery platform for tech, marketing, sales and design roles.      | [Check Out](https://allremote.jobs/) |
 
+## Opportunity Board – Platforms & Apps (V)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `VentureLoop` | A job board specializing in listings from venture-backed startups, offering opportunities across various industries and roles. | [Check Out](https://www.ventureloop.com/ventureloop/job_search.php) |
+| `Virtual Vocations` | A remote job board featuring hand-screened telecommuting jobs across over 50 career categories, catering to professionals seeking flexible work arrangements. | [Check Out](https://www.virtualvocations.com/) |
+| `Vollna` | A freelance job monitoring platform that aggregates listings from top freelance sites like Upwork, providing real-time alerts and analytics to help freelancers find suitable projects efficiently. | [Check Out](https://www.vollna.com/) |
+
+
 ## Opportunity Board – Platforms & Apps (W)
 
 | **Platform** | **Description** | **Resources** |
