@@ -2,11 +2,11 @@
 
 | **Platform** | **Description** | **Resources** |
 |--------------|-----------------|---------------|
-| `Adzuna` | A global job search engine that aggregates listings from various sources, offering tools like CV evaluation and AI interview preparation. | [Website](https://www.adzuna.com/) |
-| `AngelList Talent (now Wellfound)` | A platform connecting job seekers with startup companies, offering job listings, salary transparency, and remote opportunities. | [Website](https://wellfound.com/) |
-| `Arc` | A remote job board focused on tech roles, providing a curated list of opportunities for developers and designers. | [Website](https://arc.dev/) |
-| `Authentic Jobs` | A job board catering to web professionals, including designers, developers, and creative pros, featuring full-time and freelance opportunities. | [Website](https://authenticjobs.com/) |
-| `Aquent` | A staffing agency specializing in placing digital, creative, and marketing professionals in freelance and permanent roles. | [Website](https://aquent.com/) |
+| `Adzuna` | A global job search engine that aggregates listings from various sources, offering tools like CV evaluation and AI interview preparation. | [Check Out](https://www.adzuna.com/) |
+| `AngelList Talent (now Wellfound)` | A platform connecting job seekers with startup companies, offering job listings, salary transparency, and remote opportunities. | [Check Out](https://wellfound.com/) |
+| `Arc` | A remote job board focused on tech roles, providing a curated list of opportunities for developers and designers. | [Check Out](https://arc.dev/) |
+| `Authentic Jobs` | A job board catering to web professionals, including designers, developers, and creative pros, featuring full-time and freelance opportunities. | [Check Out](https://authenticjobs.com/) |
+| `Aquent` | A staffing agency specializing in placing digital, creative, and marketing professionals in freelance and permanent roles. | [Check Out](https://aquent.com/) |
 
 ## Opportunity Board – Platforms & Apps (B)
 
@@ -77,7 +77,6 @@
 
 | **Platform** | **Description** | **Resources** |
 |--------------|-----------------|---------------|
-| `HackerRank` | A platform offering coding challenges and competitions to help developers hone their skills and connect with potential employers. | [Check Out](https://www.hackerrank.com/careers/) |
 | `Hired` | A job marketplace that matches tech professionals with companies based on skills and preferences, streamlining the hiring process. | [Check Out](https://www.hired.org/careers) |
 | `Hubstaff Talent` | A free resource for companies looking to find remote talent across the globe, offering a platform for freelancers and agencies. | [Check Out](https://hubstafftalent.net/) |
 | `HireAble` | Assists individuals with intellectual and developmental disabilities in identifying suitable employment opportunities and provides support throughout the job-seeking process. | [Check Out](https://www.hireable.org/job-seekers) |
