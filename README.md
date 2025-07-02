@@ -50,13 +50,13 @@ Here’s a table of various resources you can explore in this repository:
 
 | **Resource Type**       | **Description**                             | **File Link**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
-| Bookshelf                 | Study notes and summaries for various topics | [Link to Notes](https://github.com/iTusharyadav/know-more/tree/main/resources/bookshelf)         |
-| Documentation                | Recommended books for learning and reference | [Link to Books](https://github.com/iTusharyadav/know-more/tree/main/resources/documentation)         |
-| Goodies For Buddies              | Real-world projects and code examples       | [Link to Projects](https://github.com/iTusharyadav/know-more/blob/main/resources/goodies-for-buddies.md)   |
-| Opportunity Desk             | Reusable templates for documentation, code, etc. | [Link to Templates](https://github.com/iTusharyadav/know-more/tree/main/resources/opportunity-desk) |
-| Open Source Projects  | Open source projects to contribute as beginners  | [Link to Projects](https://github.com/iTusharyadav/know-more/blob/main/resources/open-source.md)   |\
-| Projects        | Additional helpful resources or links       | [Link to Other Resources](https://github.com/iTusharyadav/know-more/tree/main/resources/projects) |
-| `Other Resources`       | Additional helpful resources or links       | [Link to Other Resources](resources.md) |
+| Bookshelf                 | Recommended books for learning and reference  | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/bookshelf)         |
+| Documentation                | Official documentation for tech and non tech fields | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/documentation)         |
+| Goodies For Buddies              |  Compete, Win, Celebrate | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/goodies-for-buddies.md)   |
+| Opportunity Desk             | Reusable templates for documentation, code, etc. | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/opportunity-desk) |
+| Open Source Projects  | Open source projects to contribute as beginners  | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/open-source.md)   |\
+| Projects        | Real-world projects and code examples  | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/projects) |
+| Other Resources       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources) |
 
 ---
 
