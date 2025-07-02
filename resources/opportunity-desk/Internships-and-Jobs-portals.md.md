@@ -63,3 +63,55 @@
 | `Freelancehunt` | An online service facilitating cooperation between clients and freelancers for one-time and regular tasks in IT, marketing, design, and more. | [Check Out](https://freelancehunt.com/en) |
 | `Freelance.de` | A German freelancing platform connecting freelancers with companies for projects in IT, engineering, and other sectors. | [Check Out](https://www.freelance.de/) |
 | `Freelance.ru` | A Russian-language freelance marketplace offering a wide range of projects for freelancers in various fields. | [Check Out](https://freelance.ru/) |
+
+## Opportunity Board – Platforms & Apps (G)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Glassdoor` | A platform offering job listings, company reviews, salary information, and interview insights to help job seekers make informed decisions. | [Check Out](https://www.glassdoor.com/) |
+| `Guru` | A freelance marketplace connecting businesses with freelancers across various fields, offering flexible payment terms and a secure workroom. | [Check Out](https://www.guru.com/) |
+| `Gun.io` | A platform that connects companies with vetted software developers for freelance and full-time remote positions, focusing on quality and speed. | [Check Out](https://gun.io/) |
+| `Gigster` | Provides businesses with access to teams of freelancers for software development projects, offering end-to-end project management and delivery. | [Check Out](https://gigster.com/) |
+
+## Opportunity Board – Platforms & Apps (H)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `HackerRank` | A platform offering coding challenges and competitions to help developers hone their skills and connect with potential employers. | [Check Out](https://www.hackerrank.com/careers/) |
+| `Hired` | A job marketplace that matches tech professionals with companies based on skills and preferences, streamlining the hiring process. | [Check Out](https://www.hired.org/careers) |
+| `Hubstaff Talent` | A free resource for companies looking to find remote talent across the globe, offering a platform for freelancers and agencies. | [Check Out](https://hubstafftalent.net/) |
+| `HireAble` | Assists individuals with intellectual and developmental disabilities in identifying suitable employment opportunities and provides support throughout the job-seeking process. | [Check Out](https://www.hireable.org/job-seekers) |
+| `HireArt` | Connects job seekers with curated job opportunities, focusing on roles in operations, customer service, and other fields. | [Check Out](https://jobs.hireart.com/browse) |
+| `Himalayas` | A remote job board that helps professionals find remote jobs, research remote companies, and apply for positions across various industries. | [Check Out](https://himalayas.app/) |
+| `Hirable` | An AI-enabled career platform that assists users in writing resumes, practicing interviews, and navigating their career paths. | [Check Out](https://hirable.fyi/) |
+
+## Opportunity Board – Platforms & Apps (I)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `iHire` | A career platform connecting job seekers and employers across 57 industry-focused communities, offering job listings and hiring resources. | [Check Out](https://www.ihire.com/) |
+| `iFreelance` | A freelancing platform that allows professionals to showcase their skills and connect with clients for various projects. | [Check Out](https://www.freelanzing.com/index.php/freelancing/general/ifreelance) |
+| `Internshala` | India's leading platform for internships and fresher jobs, offering a wide range of opportunities across various fields. | [Check Out](https://internshala.com/) |
+| `Indeed` | A global job search engine aggregating job listings from thousands of websites, allowing users to search for jobs, post resumes, and research companies. | [Check Out](https://www.indeed.com/) |
+
+## Opportunity Board – Platforms & Apps (J)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Jobcase` | A social platform that combines job listings with community support, offering tools for job seekers to connect, share advice, and find employment opportunities. | [Check Out](https://www.jobcase.com/) |
+| `Jobspresso` | A remote job board featuring hand-picked opportunities in tech, marketing, customer support, and more, catering to professionals seeking remote work. | [Check Out](https://jobspresso.co/) |
+| `JobStreet` | A leading employment platform in Southeast Asia, providing job listings across various industries in countries like Malaysia, Singapore, Indonesia, the Philippines, and Vietnam. | [Check Out](https://www.jobstreet.com/) |
+
+## Opportunity Board – Platforms & Apps (K)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Kariyer.net` | Turkey's leading job search platform, offering a wide range of job listings including full-time, part-time, freelance, remote, and internship opportunities across various industries. | [Check Out](https://www.kariyer.net/) |
+
+## Opportunity Board – Platforms & Apps (L)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Ladders` | A U.S.-based job search platform specializing in high-paying positions, typically $100K+ annually, across various industries including technology, finance, and healthcare. | [Check Out](https://www.theladders.com/) |
+| `LinkUp` | A job search engine that aggregates job listings directly from employer websites, ensuring up-to-date and verified postings across multiple industries. | [Check Out](https://www.linkup.com/) |
+| `Locanto` | A global online classifieds platform offering job listings, among other services, allowing users to find local employment opportunities. | [Check Out](https://www.locanto.com/) |
