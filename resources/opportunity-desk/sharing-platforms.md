@@ -35,3 +35,12 @@
 | `Designspiration` | A hub for discovering and sharing design ideas, Designspiration allows users to search and save high-quality images and designs, serving as a source of inspiration for creatives across various disciplines. | [Check Out](https://www.designspiration.com/) |
 | `DesignTaxi` | An online publication that features the latest in design, art, photography, advertising, and creativity. DesignTaxi serves as a platform for creatives to stay updated on industry trends and showcase innovative work. | [Check Out](https://designtaxi.com/) |
 | `DesignBoom` | An international online magazine covering the fields of architecture, design, art, and technology. DesignBoom publishes articles, interviews, and projects, providing a platform for creatives to share their work and insights. | [Check Out](https://www.designboom.com/) |
+
+## Creative Sharing Platforms – (E)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Ello` | A community-driven platform for digital artists and designers to share their work, receive feedback, and collaborate. Ello emphasizes authentic engagement and has evolved into a thriving space for creatives. | [Check Out](https://ello.co/) |
+| `E-flux` | A publishing platform and archive for contemporary art, culture, and theory. E-flux offers news digests, exhibitions, journals, and projects, fostering critical discourse in the art community. | [Check Out](https://www.e-flux.com/) |
+| `Eyebeam` | A nonprofit organization that supports artists working with technology. Eyebeam offers residencies, fellowships, and public programs, promoting innovation at the intersection of art and technology. | [Check Out](https://www.eyebeam.org/) |
+| `eYeka` | A global co-creation platform where creatives can participate in brand-sponsored contests, contributing ideas and content for marketing campaigns and product development. | [Check Out](https://en.eyeka.com/) |
