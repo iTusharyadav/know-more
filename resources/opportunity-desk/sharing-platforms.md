@@ -15,3 +15,13 @@
 | `Behance` | A leading online platform owned by Adobe that allows creative professionals to showcase their work, discover others' projects, and connect with potential clients. Behance supports various media types, including images, videos, and animations, catering to fields like graphic design, illustration, photography, and more. | [Check Out](https://www.behance.net/) |
 | `Bloglovin'` | A platform that enables users to discover and follow their favorite blogs, providing real-time updates whenever new content is posted. It aggregates blog posts into a single feed, allowing for easy organization and discovery of content across various topics. | [Check Out](https://www.bloglovin.com/) |
 | `BuzzFeed Community` | A section of BuzzFeed where users can create and share their own content, including quizzes, lists, and articles. It offers a platform for individuals to express their creativity and reach a broad audience through BuzzFeed's established network. | [Check Out](https://www.buzzfeed.com/community) |
+
+## Creative Sharing Platforms – (C)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Cara` | An artist-first social platform designed to protect human-made art from AI misuse. Cara offers portfolio and community features, automatic "NoAI" tagging, and Glaze integration to deter AI scraping. | [Check Out](https://cara.app/) |
+| `Creative Commons` | A nonprofit organization providing free licenses and tools to enable sharing and reuse of creativity and knowledge. It supports a global movement for open access to creative works. | [Check Out](https://creativecommons.org/) |
+| `Cut Out + Keep` | A DIY and craft tutorial-sharing website where members can create and share step-by-step guides for various projects, including recipes, crafts, and handmade items. | [Check Out](https://cutoutandkeep.net/) |
+| `CultureInside` | A non-profit social networking site for artists, offering a platform to showcase art, connect with the international arts community, and participate in online and international exhibitions. | [Check Out](https://www.cultureinside.com/) |
+| `Creads` | A French online marketplace connecting businesses with freelance designers and creative professionals through a tendering process for various creative services. | [Check Out](https://www.creads.com/) |
