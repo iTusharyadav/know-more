@@ -25,3 +25,13 @@
 | `Cut Out + Keep` | A DIY and craft tutorial-sharing website where members can create and share step-by-step guides for various projects, including recipes, crafts, and handmade items. | [Check Out](https://cutoutandkeep.net/) |
 | `CultureInside` | A non-profit social networking site for artists, offering a platform to showcase art, connect with the international arts community, and participate in online and international exhibitions. | [Check Out](https://www.cultureinside.com/) |
 | `Creads` | A French online marketplace connecting businesses with freelance designers and creative professionals through a tendering process for various creative services. | [Check Out](https://www.creads.com/) |
+
+## Creative Sharing Platforms – (D)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `DeviantArt` | One of the largest online communities for artists and art enthusiasts, DeviantArt allows users to showcase, share, and discuss a wide range of art forms, including digital art, photography, traditional art, and literature. | [Check Out](https://www.deviantart.com/) |
+| `Dribbble` | A leading platform for designers to showcase their work, discover creative inspiration, and connect with potential clients. Dribbble serves as a portfolio platform and a community for graphic designers, illustrators, and other creatives. | [Check Out](https://dribbble.com/) |
+| `Designspiration` | A hub for discovering and sharing design ideas, Designspiration allows users to search and save high-quality images and designs, serving as a source of inspiration for creatives across various disciplines. | [Check Out](https://www.designspiration.com/) |
+| `DesignTaxi` | An online publication that features the latest in design, art, photography, advertising, and creativity. DesignTaxi serves as a platform for creatives to stay updated on industry trends and showcase innovative work. | [Check Out](https://designtaxi.com/) |
+| `DesignBoom` | An international online magazine covering the fields of architecture, design, art, and technology. DesignBoom publishes articles, interviews, and projects, providing a platform for creatives to share their work and insights. | [Check Out](https://www.designboom.com/) |
