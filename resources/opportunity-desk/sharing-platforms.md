@@ -44,3 +44,10 @@
 | `E-flux` | A publishing platform and archive for contemporary art, culture, and theory. E-flux offers news digests, exhibitions, journals, and projects, fostering critical discourse in the art community. | [Check Out](https://www.e-flux.com/) |
 | `Eyebeam` | A nonprofit organization that supports artists working with technology. Eyebeam offers residencies, fellowships, and public programs, promoting innovation at the intersection of art and technology. | [Check Out](https://www.eyebeam.org/) |
 | `eYeka` | A global co-creation platform where creatives can participate in brand-sponsored contests, contributing ideas and content for marketing campaigns and product development. | [Check Out](https://en.eyeka.com/) |
+
+## Creative Sharing Platforms – (F)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Flickr` | A renowned image and video hosting service that fosters a global community of photography enthusiasts. Flickr allows users to upload, organize, and share high-resolution photos, offering features like albums, tagging, and group pools. It's known for hosting the largest collection of Creative Commons-licensed imagery on the web. | [Check Out](https://www.flickr.com/) |
+| `Fubiz` | A French online media platform founded in 2005, Fubiz provides daily articles and features on contemporary creative culture, encompassing graphics, design, photography, and pop culture. It serves as a source of inspiration for creatives worldwide. | [Check Out](https://www.fubiz.net/en/) |
