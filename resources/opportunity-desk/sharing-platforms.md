@@ -103,3 +103,59 @@
 | `Koo` | An Indian microblogging and social networking service that allows users to express themselves in multiple Indian languages. Koo provides a platform for sharing thoughts, news, and updates, promoting regional language content. | [Check Out](https://www.kooapp.com) |
 | `Kroogi` | A social networking service where artists across various disciplines can share their projects, receive feedback, and accept voluntary contributions from supporters. Kroogi emphasizes community engagement and creative exchange. | [Check Out](http://kroogi.com) |
 | `Kumu` | A Filipino live-streaming and social networking platform that allows users to broadcast content, engage with audiences, and participate in community-driven activities. Kumu supports content creators in building and monetizing their communities. | [Check Out](https://www.kumu.ph) |
+
+## Creative Sharing Platforms – (L)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Le Book` | A global network and resource that offers exposure to companies and members of the creative community. Le Book operates offices in London, Paris, and New York City, producing annual publications and hosting events that connect professionals in advertising, fashion, and photography. | [Check Out](https://www.lebook.com) |
+| `LeftLion` | A monthly arts and culture magazine and website based in Nottingham, England. LeftLion covers local events, music, art, and literature, providing a platform for regional creatives to showcase their work and engage with the community. | [Check Out](https://www.leftlion.co.uk) |
+| `Literary Hub` | A daily literary website that publishes personal and critical essays, interviews, and book excerpts from various partners, including independent presses and literary magazines. Literary Hub aims to be a central site for smart, engaged writing about all things books. | [Check Out](https://www.lithub.com) |
+| `Literary Kicks` | A digital library and community focused on literature, particularly the Beat Generation. Founded in 1994, Literary Kicks offers articles, resources, and forums for literary discussions, expanding to cover a wide range of literary genres over time. | [Check Out](http://www.litkicks.com) |
+| `Locus Magazine` | A monthly magazine covering the science fiction and fantasy publishing field. Locus provides news, reviews, and listings of new books, serving as a key resource for writers and readers interested in speculative fiction. | [Check Out](https://locusmag.com) |
+| `The Luupe` | A global marketplace and community for professional photographers and creators, The Luupe connects diverse visual storytellers with brands seeking authentic content. It offers opportunities for licensing and commissioned projects, emphasizing diversity and inclusion in creative storytelling. | [Check Out](https://theluupe.com) |
+
+## Creative Sharing Platforms – (M)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Magma` | A browser-based collaborative art platform designed for digital artists to draw together in real-time. Magma offers tools to protect artists' work from unauthorized AI usage and emphasizes transparency in creative collaboration. | [Check Out](https://magmastudio.io/) |
+| `Medium` | A popular online publishing platform where writers and artists can share essays, stories, and insights. Medium allows creatives to reach a broad audience and engage with readers interested in diverse topics. | [Check Out](https://medium.com/) |
+| `Mixbook` | An online photo design tool that enables users to create customizable photo books, cards, and calendars. Mixbook leverages AI-powered recommendations to help users turn their photos into personal stories and keepsakes. | [Check Out](https://www.mixbook.com/) |
+| `Moondance` | An online international women's literary, culture, and art journal that began in 1996. Moondance publishes fiction, non-fiction, poetry, and art, focusing on the interests and lives of women worldwide. | [Check Out](http://www.moondance.org/) |
+| `Mastodon` | A decentralized microblogging platform that operates as an open-source alternative to Twitter. Mastodon allows users to join independent servers based on shared interests, fostering meaningful connections within focused communities. | [Check Out](https://mastodon.social/) |
+
+## Creative Sharing Platforms – (N)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Naver Blog` | A South Korean blogging platform operated by Naver, allowing users to create and share blog posts, photos, and multimedia content. It serves as a space for personal expression and information sharing. | [Check Out](https://blog.naver.com/) |
+| `Naver Cafe` | An online community service by Naver where users can create and participate in forums (cafes) centered around shared interests, facilitating discussions, content sharing, and collaboration. | [Check Out](https://section.cafe.naver.com/) |
+| `Naver Webtoon` | A digital comics platform offering a wide range of webtoons across various genres. It allows creators to publish their work and engage with a global audience. | [Check Out](https://www.webtoons.com/) |
+| `Newgrounds` | An entertainment website and community where users can share and discover user-generated content such as games, animations, art, and music, fostering creative collaboration and feedback. | [Check Out](https://www.newgrounds.com/) |
+| `Nice` | A Chinese photo-sharing mobile app that enables users to tag specific items within images, making it ideal for sharing fashion photos and identifying brands. | [Check Out](https://www.niceapp.com/) |
+| `Novlr` | A cloud-based writing platform designed for novelists and writers, offering tools for writing, editing, and organizing long-form content, with features to track progress and set goals. | [Check Out](https://www.novlr.org/) |
+
+## Creative Sharing Platforms – (O)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Olio` | A mobile app designed to reduce food and household waste by connecting neighbors to share surplus items. Users can give away or pick up free food and non-food items, fostering community sharing. | [Check Out](https://olioapp.com) |
+| `OnionShare` | An open-source tool that allows users to securely and anonymously share files, host websites, and chat over the Tor network. It emphasizes privacy and direct peer-to-peer sharing. | [Check Out](https://onionshare.org) |
+| `Olyn` | A streaming platform that enables filmmakers to distribute their work directly to audiences, retaining control over distribution, marketing, and monetization. It also rewards viewers for sharing content they enjoy. | [Check Out](https://olyn.tv) |
+| `Ourboox` | A free platform for creating and sharing multimedia e-books. Users can incorporate text, images, videos, and interactive elements, making it ideal for educators and storytellers. | [Check Out](https://www.ourboox.com) |
+| `Ourproject.org` | A collaborative platform hosting free cultural, educational, and artistic projects. It provides tools and web space for projects that share content under free licenses, promoting open knowledge. | [Check Out](https://ourproject.org) |
+
+## Creative Sharing Platforms – (P)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Padlet` | A visual collaboration platform that allows users to create and share digital boards for brainstorming, project planning, and creative expression. Widely used in education and creative teams for its intuitive interface. | [Check Out](https://padlet.com/) |
+| `Pandlr` | A Brazilian internet forum focused on pop culture and entertainment discussions, particularly popular among the LGBTQ community. Recognized for its influence on meme culture and digital anthropology studies. | [Check Out](https://pandlr.com/) |
+| `Patreon` | A membership platform that enables artists and creators to earn a sustainable income by providing exclusive content to their subscribers, known as patrons. Supports various creators, including writers, musicians, and podcasters. | [Check Out](https://www.patreon.com/) |
+| `Pixelfed` | An open-source, decentralized image-sharing platform that offers a chronological timeline without content manipulation algorithms. Part of the Fediverse, allowing interaction with other federated platforms. | [Check Out](https://pixelfed.org/) |
+| `Pixiv` | A Japanese online community for artists to showcase their illustrations, manga, and novels. Features an extensive tagging system and a rating mechanism, fostering feedback and discovery among creators. | [Check Out](https://www.pixiv.net/) |
+| `Plurk` | A social networking and microblogging service that allows users to post short messages and updates in a horizontal timeline format. Supports multimedia sharing and threaded conversations. | [Check Out](https://www.plurk.com/) |
+| `Playbook` | A modern creative file manager designed for designers and creative teams to store, tag, and organize files and folders efficiently. Offers a visually appealing interface and collaborative features. | [Check Out](https://www.playbook.com/) |
+| `Prezi` | A presentation software platform that enables users to create dynamic, non-linear presentations with zooming features. Widely used in education and business for engaging storytelling. | [Check Out](https://prezi.com/) |
+
