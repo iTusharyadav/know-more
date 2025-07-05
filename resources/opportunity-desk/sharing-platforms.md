@@ -51,3 +51,13 @@
 |--------------|-----------------|---------------|
 | `Flickr` | A renowned image and video hosting service that fosters a global community of photography enthusiasts. Flickr allows users to upload, organize, and share high-resolution photos, offering features like albums, tagging, and group pools. It's known for hosting the largest collection of Creative Commons-licensed imagery on the web. | [Check Out](https://www.flickr.com/) |
 | `Fubiz` | A French online media platform founded in 2005, Fubiz provides daily articles and features on contemporary creative culture, encompassing graphics, design, photography, and pop culture. It serves as a source of inspiration for creatives worldwide. | [Check Out](https://www.fubiz.net/en/) |
+
+## Creative Sharing Platforms – (G)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Guernica` | An online magazine of art and politics, Guernica publishes fiction, poetry, essays, and interviews that explore the intersection of art and politics, with a focus on global perspectives and marginalized voices. | [Check Out](https://www.guernicamag.com/) |
+| `GUD Magazine` | Greatest Uncommon Denominator Magazine is a literary publication featuring literary and genre fiction, poetry, essays, and art from around the world, offering a platform for diverse creative expressions. | [Check Out](https://www.gudmagazine.com/) |
+| `Granary Books` | An independent small press and rare books dealer based in New York City, Granary Books publishes works that explore the intersection of word, image, and page, supporting collaborations between writers and visual artists. | [Check Out](http://granarybooks.com/) |
+| `Girlamatic` | A webcomic platform that provided a space for female artists and readers to share and enjoy comics, offering a variety of themes and styles that blended cuteness with depth. | [Check Out](https://en.wikipedia.org/wiki/Girlamatic) |
+| `Gotham Writers' Workshop` | An adult-education writing school based in New York City, offering in-person and online courses in various writing genres, providing writers with opportunities to develop their craft and share their work. | [Check Out](https://www.writingclasses.com/) |
