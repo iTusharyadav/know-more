@@ -29,3 +29,11 @@
 | `CodeCombat` | An educational platform that teaches programming through interactive games. It's designed for beginners and is often used in educational settings to teach coding fundamentals. | [Check Out](https://codecombat.com/) |
 | `Code.org` | A non-profit organization that provides a platform for learning computer science fundamentals. It offers courses and tutorials for students of all ages. | [Check Out](https://code.org/) |
 
+## Coding Practice Platforms – (D)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Dodona` | An intelligent tutoring system that supports active learning in programming. Dodona offers real-time feedback and analytics to help students and educators in coding education. | [Check Out](https://dodona.ugent.be/) |
+| `DCLab` | A web-based system designed for digital logic experiment teaching. DCLab allows students to design circuits using VHDL or schematic diagrams and provides simulation functionalities. | [Check Out](https://arxiv.org/abs/1811.03010) |
+| `Dedalus` | An open-source framework for solving differential equations using spectral methods. While not a traditional coding platform, Dedalus is useful for those interested in scientific computing and numerical simulations. | [Check Out](http://dedalus-project.org/) |
+| `DevNet` | Cisco's developer program offering resources for learning and coding with Cisco technologies. DevNet provides learning labs, sandboxes, and a community for networking professionals. | [Check Out](https://developer.cisco.com/) |
