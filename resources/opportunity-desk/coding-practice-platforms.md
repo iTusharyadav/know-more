@@ -96,3 +96,40 @@
 |--------------|-----------------|---------------|
 | `Kaggle` | A platform for data science and machine learning enthusiasts, offering datasets, competitions, and courses to practice and enhance skills in data analysis and predictive modeling. | [Check Out](https://www.kaggle.com/) |
 | `Kattis` | An online judge system providing a vast collection of programming problems across various difficulty levels, used by individuals and universities for practice and competitions. | [Check Out](https://open.kattis.com/) |
+
+## Coding Practice Platforms – (L)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `LeetCode` | A leading platform for coding interview preparation, offering a vast collection of algorithmic problems across various difficulty levels. LeetCode supports multiple programming languages and hosts regular contests to help users improve their problem-solving skills. | [Check Out](https://leetcode.com/problemset/) |
+| `LoIDE` | A web-based Integrated Development Environment (IDE) designed for logic programming. LoIDE supports various logic-based languages and integrates with state-of-the-art solvers, facilitating the development and testing of logic programs. | [Check Out](https://arxiv.org/abs/1709.05341) |
+
+## Coding Practice Platforms – (M)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `MOSS (Measure of Software Similarity)` | An automated system developed by Stanford University to detect similarities in code submissions, primarily used to identify potential instances of plagiarism in programming assignments. | [Check Out](https://theory.stanford.edu/~aiken/moss/) |
+| `MOSS.py` | A Python wrapper for the MOSS system, facilitating the submission of code files for similarity analysis directly from the command line. | [Check Out](https://cs.duke.edu/csl/moss/moss.py) |
+| `MOSS GUI` | A graphical user interface for the MOSS system, designed to make it more accessible for users who prefer a visual interface over command-line operations. | [Check Out](https://www.youtube.com/watch?v=4fiF2YVpJ8A) |
+| `MOSS Tutorial` | A comprehensive guide detailing how to use the MOSS system effectively, including steps for submission and interpretation of results. | [Check Out](https://yangdanny97.github.io/blog/2019/05/03/MOSS) |
+
+## Coding Practice Platforms – (N)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Netguru Code College` | An educational initiative by Netguru offering workshops and resources to help individuals learn coding, particularly in Ruby on Rails, through practical projects and mentorship. | [Check Out](https://netguru.com/blog/netguru-code-college) |
+
+## Coding Practice Platforms – (O)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Optil.io` | A crowdsourced platform for algorithm evaluation and optimization. Optil.io provides a collaborative environment where users can solve algorithmic problems and receive immediate feedback through its Evaluation-as-a-Service architecture. | [Check Out](https://arxiv.org/abs/1807.06002) |
+
+## Coding Practice Platforms – (P)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Project Euler` | A series of challenging mathematical and computer programming problems that require more than just mathematical insights to solve. Ideal for those interested in computational mathematics and algorithmic problem-solving. | [Check Out](https://projecteuler.net/) |
+| `Py.CheckiO` | An interactive platform offering Python coding challenges and exercises. Users can improve their coding skills by solving missions and reviewing solutions from other users, fostering a collaborative learning environment. | [Check Out](https://py.checkio.org/) |
+| `Pexels` | While not a traditional coding practice platform, Pexels offers a vast collection of free stock photos and videos. Developers can use these resources for projects, websites, or applications, enhancing the visual appeal of their work. | [Check Out](https://www.pexels.com/) |
+
