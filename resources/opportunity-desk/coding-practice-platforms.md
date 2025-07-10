@@ -133,3 +133,48 @@
 | `Py.CheckiO` | An interactive platform offering Python coding challenges and exercises. Users can improve their coding skills by solving missions and reviewing solutions from other users, fostering a collaborative learning environment. | [Check Out](https://py.checkio.org/) |
 | `Pexels` | While not a traditional coding practice platform, Pexels offers a vast collection of free stock photos and videos. Developers can use these resources for projects, websites, or applications, enhancing the visual appeal of their work. | [Check Out](https://www.pexels.com/) |
 
+## Coding Practice Platforms – (Q)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Qodo` | An AI-powered code integrity platform that assists developers in reviewing, testing, and writing code. Qodo integrates AI across development workflows to enhance code quality and reliability. | [Check Out](https://www.qodo.ai/) |
+| `QATestLab Training Center` | An educational initiative offering free online courses in software testing fundamentals, automation, and game testing. Participants receive certificates upon course completion. | [Check Out](https://qatestlab.com/) |
+| `Q# (Q Sharp)` | A domain-specific programming language developed by Microsoft for expressing quantum algorithms. Q# is part of the Quantum Development Kit and is used in conjunction with classical languages like C# and Python. | [Check Out](https://learn.microsoft.com/en-us/azure/quantum/) |
+| `Qiskit` | An open-source quantum computing framework developed by IBM. Qiskit allows users to create and run quantum computing programs, providing tools for quantum circuit creation and simulation. | [Check Out](https://qiskit.org/) |
+| `Qinterpreter` | A tool that bridges the gap between various quantum computing platforms by translating programs across different quantum libraries. Qinterpreter facilitates the development and execution of quantum circuits in a unified framework. | [Check Out](https://arxiv.org/abs/2310.07173) |
+
+## Coding Practice Platforms – (R)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `RapidMiner` | A data science platform offering tools for data preparation, machine learning, deep learning, text mining, and predictive analytics. It provides an integrated environment for data analysis. | [Check Out](https://rapidminer.com) |
+| `Recurse Center` | An independent educational retreat for programmers, offering a self-directed, community-driven environment to improve coding skills. Participants work on open-source projects and collaborate with peers. | [Check Out](https://www.recurse.com) |
+| `Replit` | A browser-based IDE supporting multiple programming languages. Replit allows users to write, compile, and run code online, facilitating collaborative coding and learning. | [Check Out](https://replit.com) |
+| `Revature` | A technology talent development company that hires recent graduates, trains them in software development, and places them in tech roles. It offers paid training programs in various programming languages. | [Check Out](https://www.revature.com) |
+| `Rosetta Code` | A programming chrestomathy site presenting the same algorithms implemented across various programming languages, aiding in learning and comparison of language syntax and paradigms. | [Check Out](https://www.rosettacode.org) |
+| `RoboBlocky` | A web-based robot simulation environment for learning coding and math. It uses a visual programming interface to teach programming concepts through robotics simulations. | [Check Out](https://roboblocky.com) |
+
+## Coding Practice Platforms – (S)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Sphere Online Judge (SPOJ)` | An online judge system with over 20,000 problems and support for more than 45 programming languages. SPOJ allows users to submit solutions to algorithmic problems and participate in contests. | [Check Out](https://www.spoj.com/) |
+| `Stack Overflow` | A question-and-answer platform for programmers, where users can ask questions, share knowledge, and learn from others' coding challenges and solutions. | [Check Out](https://stackoverflow.com/) |
+| `Scotch.io` | A platform offering tutorials and articles on web development, JavaScript, and other programming topics, helping developers enhance their coding skills through practical examples. | [Check Out](https://scotch.io/) |
+| `SoloLearn` | An interactive learning platform that offers coding courses in various programming languages, featuring quizzes and a community for peer support. | [Check Out](https://www.sololearn.com/) |
+| `Saylor Academy` | A nonprofit initiative providing free online courses, including computer science and programming, allowing learners to study at their own pace. | [Check Out](https://www.saylor.org/) |
+
+## Coding Practice Platforms – (T)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Topcoder` | A pioneering competitive programming platform offering Single Round Matches (SRMs), Marathon Matches, and various challenges in algorithms, data science, and design. Topcoder provides a community-driven environment with opportunities to earn through challenges and enhance coding skills. | [Check Out](https://www.topcoder.com/community/competitive-programming/) |
+| `Turing.com` | A platform that connects developers with remote software engineering jobs. Turing.com offers coding challenges and assessments to vet developers' skills, providing practice opportunities to prepare for their rigorous selection process. | [Check Out](https://www.turing.com/) |
+
+## Coding Practice Platforms – (U)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Udemy` | An online learning platform offering a vast array of coding courses across various programming languages and technologies. While not exclusively a coding practice platform, Udemy provides numerous hands-on projects and exercises to enhance coding skills. | [Check Out](https://www.udemy.com/) |
+| `Udacity` | A platform providing nanodegree programs and courses in programming, data science, artificial intelligence, and more. Udacity offers practical projects and mentorship to help learners apply coding skills in real-world scenarios. | [Check Out](https://www.udacity.com/) |
+
