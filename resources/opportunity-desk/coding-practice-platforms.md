@@ -74,3 +74,25 @@
 | `HackerRank` | A widely-used platform offering coding challenges across various domains such as algorithms, data structures, AI, and databases. It supports multiple programming languages and is popular for interview preparation and competitive programming. | [Check Out](https://www.hackerrank.com/) |
 | `HackerEarth` | Provides a vast collection of programming problems, tutorials, and mock assessments. It's known for its community-driven approach and is used by developers to improve coding skills and prepare for interviews. | [Check Out](https://www.hackerearth.com/practice/) |
 | `Hyperskill` | An educational platform that offers project-based learning in programming. It guides users through building real-world applications while teaching theoretical concepts, making it suitable for learners aiming to apply coding skills practically. | [Check Out](https://hyperskill.org/) |
+
+## Coding Practice Platforms – (I)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Iltis` | An interactive, web-based system designed for teaching logic. Iltis supports learning in propositional logic, modal logic, and first-order logic, providing immediate feedback to students. | [Check Out](https://arxiv.org/abs/1804.03579) |
+
+## Coding Practice Platforms – (J)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `JDoodle` | An AI-powered, cloud-based online coding platform supporting over 88 programming languages. JDoodle allows users to write, compile, and execute code instantly, making it ideal for quick testing and learning. | [Check Out](https://www.jdoodle.com/) |
+| `JediCode` | A gamified competitive coding platform that integrates real-time leaderboards, synchronized challenges, and random matchmaking to create an engaging and dynamic coding environment. | [Check Out](https://arxiv.org/abs/2311.10244) |
+| `JGRASP` | A lightweight development environment designed to provide automatic generation of software visualizations, including control structure diagrams and data structure visualizations, to improve the comprehensibility of software. | [Check Out](http://www.jgrasp.org/) |
+| `JuMP` | An open-source modeling language for mathematical optimization embedded in Julia. JuMP allows users to express a wide range of optimization problems in a high-level, algebraic syntax. | [Check Out](https://jump.dev/) |
+
+## Coding Practice Platforms – (K)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Kaggle` | A platform for data science and machine learning enthusiasts, offering datasets, competitions, and courses to practice and enhance skills in data analysis and predictive modeling. | [Check Out](https://www.kaggle.com/) |
+| `Kattis` | An online judge system providing a vast collection of programming problems across various difficulty levels, used by individuals and universities for practice and competitions. | [Check Out](https://open.kattis.com/) |
