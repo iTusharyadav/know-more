@@ -178,3 +178,45 @@
 | `Udemy` | An online learning platform offering a vast array of coding courses across various programming languages and technologies. While not exclusively a coding practice platform, Udemy provides numerous hands-on projects and exercises to enhance coding skills. | [Check Out](https://www.udemy.com/) |
 | `Udacity` | A platform providing nanodegree programs and courses in programming, data science, artificial intelligence, and more. Udacity offers practical projects and mentorship to help learners apply coding skills in real-world scenarios. | [Check Out](https://www.udacity.com/) |
 
+## Coding Practice Platforms – (V)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Visual Studio Code` | A lightweight yet powerful source code editor developed by Microsoft. It supports various programming languages and offers features like debugging, syntax highlighting, intelligent code completion, snippets, and Git integration. | [Check Out](https://visualstudio.microsoft.com/) |
+| `VEX Robotics` | An educational robotics platform that offers students hands-on opportunities to learn coding and engineering concepts through building and programming robots. | [Check Out](https://en.wikipedia.org/wiki/VEX_Robotics) |
+| `Vivace` | A collaborative live coding language and platform designed for real-time audio and video synthesis, allowing multiple performers to code simultaneously in a web browser. | [Check Out](https://arxiv.org/abs/1502.01312) |
+| `VIPLE` | Visual IoT/Robotics Programming Language Environment developed at Arizona State University. It provides a visual programming interface for developing IoT and robotics applications, emphasizing computational thinking. | [Check Out](https://en.wikipedia.org/wiki/VIPLE) |
+| `Veamy` | An extensible object-oriented C++ library for the virtual element method (VEM), used in computational mechanics for solving partial differential equations on polygonal meshes. | [Check Out](https://arxiv.org/abs/1708.03438) |
+
+## Coding Practice Platforms – (W)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `WeBWorK` | An open-source online homework system for math and science courses. It allows students to solve problems with immediate feedback and is widely used in universities for assignments and practice. | [Check Out](https://arxiv.org/abs/2005.03826) |
+| `W3Schools` | A web development tutorial site offering coding examples and interactive practice in HTML, CSS, JavaScript, Python, SQL, and more. It features a live code editor for hands-on learning. | [Check Out](https://www.w3schools.com/) |
+| `Women Who Code` | An international nonprofit organization that provided services for women pursuing technology careers, including coding resources, mentorship, and networking opportunities. | [Check Out](https://en.wikipedia.org/wiki/Women_Who_Code) |
+| `World Programming System (WPS)` | A data analytics software platform supporting SAS language along with Python, R, and SQL. It offers tools for data processing and analysis, suitable for coding in data science contexts. | [Check Out](https://en.wikipedia.org/wiki/World_Programming_System) |
+
+## Coding Practice Platforms – (X)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Xcode` | Apple's official integrated development environment (IDE) for macOS, used for developing software for macOS, iOS, iPadOS, watchOS, and tvOS. Xcode provides tools for coding, testing, and debugging applications. | [Check Out](https://developer.apple.com/xcode/) |
+| `XKCD` | A webcomic created by Randall Munroe, often featuring humor about technology, programming, and science. While not a coding platform, XKCD offers insightful and entertaining perspectives on programming concepts. | [Check Out](https://xkcd.com/) |
+| `XAMPP` | A free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in PHP and Perl. It's used for testing and deploying web applications locally. | [Check Out](https://www.apachefriends.org/index.html) |
+
+## Coding Practice Platforms – (Y)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Yandex Coding School` | A free educational initiative by Yandex for students aged 14–17, offering courses in Python and object-oriented programming. The program includes self-paced tasks with automated grading and provides certificates upon completion. | [Check Out](https://codingschool.yandex.com/en) |
+| `Yandex Contest` | An online platform for organizing and participating in programming competitions. It supports individual and team contests with automatic solution checking and real-time leaderboards. | [Check Out](https://contest.yandex.com/) |
+| `Yukicoder` | A competitive programming platform originating from Japan, offering a wide range of algorithmic problems and regular contests. It caters to various skill levels and provides a community-driven environment for practice and improvement. | [Check Out](https://yukicoder.me/) |
+
+## Coding Practice Platforms – (Z)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `ZyBooks` | An interactive learning platform combining reading content with animations, learning questions, and coding challenges to engage students and improve comprehension. ZyBooks offers a variety of subjects, including programming, data structures, and algorithms. | [Check Out](https://www.zybooks.com/) |
+| `ZyLabs` | An extension of ZyBooks, ZyLabs provides a cloud-based coding environment supporting over 50 programming languages. It features auto-grading, real-time feedback, and collaborative tools, making it suitable for both instructors and students. | [Check Out](https://www.zybooks.com/zylabs/) |
+| `Zed Shaw's Learn Python the Hard Way` | A book and online resource by Zed Shaw that teaches Python programming through a series of exercises. It emphasizes hands-on learning by encouraging readers to type out code examples and debug them manually. | [Check Out](https://learnpythonthehardway.org/) |
