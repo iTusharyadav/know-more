@@ -27,3 +27,13 @@
 | `Coding Dojo` | A coding bootcamp that offers full-time and part-time programs in software development. Coding Dojo provides a comprehensive curriculum covering multiple programming stacks, including Python, Java, and MERN, with a focus on hands-on projects. | [Check Out](https://www.codingdojo.com/) |
 | `CareerFoundry` | An online bootcamp offering programs in UX/UI design, web development, data analytics, and more. CareerFoundry provides a flexible, mentor-led curriculum with career services and a job guarantee upon completion. | [Check Out](https://careerfoundry.com/) |
 | `Code Fellows` | A technical skills training academy offering full-time and part-time courses in software development and cybersecurity. Code Fellows provides a structured curriculum across multiple levels, from beginner to advanced, with career coaching and job placement support. | [Check Out](https://www.codefellows.org/) |
+
+## Courses & Bootcamps Platforms – (D)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `DataCamp` | An online learning platform specializing in data science and analytics. DataCamp offers interactive courses in Python, R, SQL, and more, focusing on hands-on coding exercises and real-world projects. | [Check Out](https://www.datacamp.com/) |
+| `Designlab` | An online bootcamp offering UX/UI design courses with mentorship from industry professionals. Designlab provides project-based learning and career support to help students transition into design roles. | [Check Out](https://designlab.com/) |
+| `DigitalCrafts` | A coding bootcamp offering full-time and part-time programs in web development and cybersecurity. DigitalCrafts provides a rigorous curriculum, career services, and a strong alumni network. | [Check Out](https://www.digitalcrafts.com/) |
+| `DevMountain` | A coding bootcamp offering immersive programs in web development, iOS development, and UX design. DevMountain provides both in-person and remote courses with a focus on hands-on learning. | [Check Out](https://devmountain.com/) |
+| `Divergence Academy` | A technical training provider offering bootcamps in data science, cybersecurity, and cloud computing. Divergence Academy focuses on preparing students for industry certifications and job readiness. | [Check Out](https://divergence.academy/) |
