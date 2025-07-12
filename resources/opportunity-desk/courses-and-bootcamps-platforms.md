@@ -17,3 +17,13 @@
 | `Byte Academy` | A coding bootcamp specializing in fintech, data science, and software development. Byte Academy offers full-time, part-time, and remote programs with a focus on industry-relevant skills and real-world projects. | [Check Out](https://byteacademy.co/) |
 | `Bottega` | An online coding school that offers full-time and part-time software development programs. Bottega provides a competency-based curriculum with personalized mentorship and career support. | [Check Out](https://bottega.tech/) |
 | `Boolean` | A full-time, online coding bootcamp that trains students to become full-stack web developers. Boolean offers live classes, hands-on projects, and career services to support students in their job search. | [Check Out](https://boolean.careers/) |
+
+## Courses & Bootcamps Platforms – (C)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Coursera` | An online learning platform offering courses, specializations, and degrees from top universities and companies. Coursera provides a wide range of programming and computer science courses, including coding bootcamps and professional certificates. | [Check Out](https://www.coursera.org/) |
+| `Codecademy` | An interactive platform that teaches coding in various programming languages. Codecademy offers free and paid courses, career paths, and live learning bootcamps with structured, instructor-led sessions. | [Check Out](https://www.codecademy.com/) |
+| `Coding Dojo` | A coding bootcamp that offers full-time and part-time programs in software development. Coding Dojo provides a comprehensive curriculum covering multiple programming stacks, including Python, Java, and MERN, with a focus on hands-on projects. | [Check Out](https://www.codingdojo.com/) |
+| `CareerFoundry` | An online bootcamp offering programs in UX/UI design, web development, data analytics, and more. CareerFoundry provides a flexible, mentor-led curriculum with career services and a job guarantee upon completion. | [Check Out](https://careerfoundry.com/) |
+| `Code Fellows` | A technical skills training academy offering full-time and part-time courses in software development and cybersecurity. Code Fellows provides a structured curriculum across multiple levels, from beginner to advanced, with career coaching and job placement support. | [Check Out](https://www.codefellows.org/) |
