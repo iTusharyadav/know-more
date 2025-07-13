@@ -57,3 +57,24 @@
 | `freeCodeCamp` | A free, open-source learning platform offering interactive coding lessons, certifications, and projects in web development, data science, and more. freeCodeCamp's curriculum is self-paced and community-driven. | [Check Out](https://www.freecodecamp.org/) |
 | `Function Camp` | A flexible online full-stack and mobile development course with deferred tuition, allowing students to pay once they're earning. Function Camp teaches modern web technologies and provides one-on-one support to help graduates secure developer jobs. | [Check Out](https://codelabsacademy.com/nb/bootcamps/details/function-camp/) |
 | `Founders and Coders` | A UK-based non-profit organization offering tuition-free, peer-led web development training. Their 16-week full-time coding bootcamp covers JavaScript, Node.js, relational databases, and aspects of UX design and project management. | [Check Out](https://www.foundersandcoders.com/) |
+
+## Courses & Bootcamps Platforms – (G)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `General Assembly` | A global tech education provider offering full-time and part-time bootcamps in software engineering, data science, UX/UI design, and more. General Assembly provides career coaching, flexible financing options, and a strong employer network to support students in launching tech careers. | [Check Out](https://generalassemb.ly/) |
+| `GreyCampus` | An online training platform offering courses in project management, data science, cybersecurity, and more. GreyCampus provides bootcamps and certification programs with live instructor-led sessions and self-paced learning options. | [Check Out](https://www.greycampus.com/) |
+| `GoIT` | A tech education company offering online courses and bootcamps in web development, QA testing, and UI/UX design. GoIT provides mentorship, career support, and real-world projects to help students transition into tech roles. | [Check Out](https://goit.global/) |
+| `Genius Academy` | An online learning platform offering courses in programming, data science, and digital marketing. Genius Academy provides interactive lessons, quizzes, and projects to enhance learning outcomes. | [Check Out](https://geniusacademy.com/) |
+| `Great Learning` | An online education platform offering courses and bootcamps in data science, artificial intelligence, cloud computing, and more. Great Learning partners with top universities and companies to provide industry-relevant programs with mentorship and career support. | [Check Out](https://www.greatlearning.in/) |
+
+## Courses & Bootcamps Platforms – (H)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Hack Reactor` | A renowned software engineering bootcamp offering immersive programs in JavaScript and full-stack development. Hack Reactor provides both beginner and intermediate courses, with a focus on career readiness and a strong alumni network. | [Check Out](https://www.hackreactor.com/) |
+| `HyperionDev` | An online coding bootcamp offering part-time and full-time programs in software engineering, data science, and web development. HyperionDev emphasizes project-based learning and personalized mentorship to help students become job-ready. | [Check Out](https://www.hyperiondev.com/) |
+| `Holberton School` | A computer science school founded in Silicon Valley, offering a two-year software engineering program. Holberton School focuses on project-based learning and has campuses worldwide, aiming to bridge the gap in tech education. | [Check Out](https://www.holbertonschool.com/) |
+| `Hackbright Academy` | An all-women coding bootcamp offering full-time and part-time software engineering programs. Hackbright Academy provides a supportive learning environment with mentorship and career services to help women transition into tech roles. | [Check Out](https://www.hackbrightacademy.com/) |
+| `Hackwagon Academy` | A Singapore-based coding bootcamp offering part-time courses in data science, full-stack web development, and front-end development. Hackwagon Academy focuses on hands-on learning with industry-relevant projects. | [Check Out](https://www.hackwagon.com/) |
+
