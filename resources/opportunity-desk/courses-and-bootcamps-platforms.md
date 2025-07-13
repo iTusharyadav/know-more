@@ -37,3 +37,13 @@
 | `DigitalCrafts` | A coding bootcamp offering full-time and part-time programs in web development and cybersecurity. DigitalCrafts provides a rigorous curriculum, career services, and a strong alumni network. | [Check Out](https://www.digitalcrafts.com/) |
 | `DevMountain` | A coding bootcamp offering immersive programs in web development, iOS development, and UX design. DevMountain provides both in-person and remote courses with a focus on hands-on learning. | [Check Out](https://devmountain.com/) |
 | `Divergence Academy` | A technical training provider offering bootcamps in data science, cybersecurity, and cloud computing. Divergence Academy focuses on preparing students for industry certifications and job readiness. | [Check Out](https://divergence.academy/) |
+
+## Courses & Bootcamps Platforms – (E)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `edX` | A global online learning platform offering university-level courses in a wide range of disciplines, including computer science, data science, and programming. edX provides both free and paid courses, as well as professional certificates and degrees. | [Check Out](https://www.edx.org/) |
+| `Educative` | An interactive learning platform designed for software developers. Educative offers text-based courses with embedded coding environments, covering topics like algorithms, system design, and programming languages. | [Check Out](https://www.educative.io/) |
+| `Epicodus` | A coding bootcamp offering full-time and part-time programs in web and mobile development. Epicodus focuses on hands-on learning and pair programming to prepare students for careers in tech. | [Check Out](https://www.epicodus.com/) |
+| `Eleven Fifty Academy` | A non-profit coding and cybersecurity bootcamp that provides immersive training programs. Eleven Fifty Academy offers courses in web development, software development, and cybersecurity, with a focus on career readiness. | [Check Out](https://elevenfifty.org/) |
+| `Evolve Security Academy` | A cybersecurity bootcamp offering hands-on training in information security. Evolve Security Academy provides both in-person and remote programs, covering topics like network security, ethical hacking, and security operations. | [Check Out](https://www.evolvesecurity.com/) |
