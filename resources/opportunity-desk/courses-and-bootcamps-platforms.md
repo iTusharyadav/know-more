@@ -47,3 +47,13 @@
 | `Epicodus` | A coding bootcamp offering full-time and part-time programs in web and mobile development. Epicodus focuses on hands-on learning and pair programming to prepare students for careers in tech. | [Check Out](https://www.epicodus.com/) |
 | `Eleven Fifty Academy` | A non-profit coding and cybersecurity bootcamp that provides immersive training programs. Eleven Fifty Academy offers courses in web development, software development, and cybersecurity, with a focus on career readiness. | [Check Out](https://elevenfifty.org/) |
 | `Evolve Security Academy` | A cybersecurity bootcamp offering hands-on training in information security. Evolve Security Academy provides both in-person and remote programs, covering topics like network security, ethical hacking, and security operations. | [Check Out](https://www.evolvesecurity.com/) |
+
+## Courses & Bootcamps Platforms – (F)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Flatiron School` | A coding bootcamp offering on-campus and online courses in software engineering, data science, cybersecurity, and UI/UX design. Flatiron School provides immersive programs with career services to help students transition into tech roles. | [Check Out](https://flatironschool.com/) |
+| `Fullstack Academy` | A top-ranked live online bootcamp offering programs in coding, cybersecurity, data analytics, and AI & machine learning. Fullstack Academy provides immersive training with a focus on real-world skills and career readiness. | [Check Out](https://www.fullstackacademy.com/) |
+| `freeCodeCamp` | A free, open-source learning platform offering interactive coding lessons, certifications, and projects in web development, data science, and more. freeCodeCamp's curriculum is self-paced and community-driven. | [Check Out](https://www.freecodecamp.org/) |
+| `Function Camp` | A flexible online full-stack and mobile development course with deferred tuition, allowing students to pay once they're earning. Function Camp teaches modern web technologies and provides one-on-one support to help graduates secure developer jobs. | [Check Out](https://codelabsacademy.com/nb/bootcamps/details/function-camp/) |
+| `Founders and Coders` | A UK-based non-profit organization offering tuition-free, peer-led web development training. Their 16-week full-time coding bootcamp covers JavaScript, Node.js, relational databases, and aspects of UX design and project management. | [Check Out](https://www.foundersandcoders.com/) |
