@@ -133,3 +133,20 @@
 | `Noble Desktop` | A New York-based tech training school offering live online and in-person courses in web development, data science, UX/UI design, and digital marketing. Noble Desktop emphasizes project-based learning and provides career support services. | [Check Out](https://www.nobledesktop.com/) |
 | `Nexford University` | A 100% online university offering competency-based undergraduate and graduate degrees in fields like Business, AI, Cybersecurity, and Digital Transformation. Nexford's programs are designed to be flexible and affordable, catering to global learners. | [Check Out](https://www.nexford.edu/) |
 
+## Courses & Bootcamps Platforms – (O)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `OpenClassrooms` | A France-based online education platform offering vocational training in IT, technology, entrepreneurship, and digital skills. OpenClassrooms provides courses through video resources, real-life projects, and individual mentoring sessions. Students can pursue internationally recognized degree programs. | [Check Out](https://openclassrooms.com/) |
+| `OpenLearning` | An Australian educational technology company offering a social online learning platform that delivers MOOCs, short courses, and online degrees. OpenLearning collaborates with universities and institutions to provide a wide range of courses. | [Check Out](https://www.openlearning.com/) |
+| `openHPI` | A platform hosted by the Hasso Plattner Institute in Germany, offering free massive open online courses (MOOCs) in computer science and IT systems engineering. Courses are available in English and German, covering both foundational and advanced topics. | [Check Out](https://open.hpi.de/) |
+| `Open edX` | An open-source learning management system that offers flexible options for building courses. Developed by edX, it is used by various academic and business organizations to create and deliver online learning experiences. | [Check Out](https://open.edx.org/) |
+| `One Month` | An online learning platform offering short-term courses in coding, design, and business. One Month focuses on project-based learning, enabling students to build real-world skills in a short time frame. | [Check Out](https://onemonth.com/) |
+
+## Courses & Bootcamps Platforms – (P)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Platzi` | A Latin American online education platform offering courses in programming, marketing, business, and design. Platzi provides video and interactive lessons taught by industry professionals, with courses available in Spanish, English, and Portuguese. | [Check Out](https://platzi.com/) |
+| `Pluralsight` | An American online education company offering a variety of video training courses for software developers, IT administrators, and creative professionals. Pluralsight provides a technology learning platform with over 7,000 courses and is used by many Fortune 500 companies. | [Check Out](https://www.pluralsight.com/) |
+| `Pitman Training Group` | A UK-based training company offering courses in bookkeeping, marketing, office skills, secretarial training, and web design. Pitman Training provides both online and paper-based tests for various educational qualifications. | [Check Out](https://www.pitman-training.com/) |
