@@ -187,3 +187,53 @@
 | `Turing College` | A Lithuanian edtech startup providing online training programs in data science, analytics, AI, and digital marketing. Turing College delivers self-paced, project-based learning primarily to adult learners and career changers. | [Check Out](https://www.turingcollege.com/) |
 | `TECH Global University` | A private online university offering a wide range of undergraduate, graduate, and postgraduate degrees. TECH Global University provides over 14,000 programs in various disciplines, including technology and business, serving students worldwide. | [Check Out](https://www.techtitute.com/us/) |
 
+## Courses & Bootcamps Platforms – (U)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Udacity` | An online education platform offering "Nanodegree" programs in fields like programming, data science, artificial intelligence, and cloud computing. Udacity's courses are developed with industry leaders and include real-world projects, mentorship, and career services. | [Check Out](https://www.udacity.com/) |
+| `Udemy` | A global marketplace for learning and teaching online, featuring over 250,000 courses across various subjects, including programming, data science, and personal development. Udemy allows instructors to create courses, and learners can access them on-demand. | [Check Out](https://www.udemy.com/) |
+| `University of the People` | A tuition-free, accredited online university offering degree programs in fields such as computer science, business administration, and health science. The institution aims to provide accessible higher education globally. | [Check Out](https://www.uopeople.edu/) |
+| `Unacademy` | An Indian online learning platform that offers educational content for competitive exams, school curricula, and skill development. Unacademy provides live classes, quizzes, and interactive sessions with educators. | [Check Out](https://unacademy.com/) |
+| `Udacity School of Programming` | A specialized branch of Udacity focusing on programming courses, including web development, Python, and full-stack development. The school offers structured learning paths with hands-on projects. | [Check Out](https://www.udacity.com/school/programming) |
+
+## Courses & Bootcamps Platforms – (V)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `V School` | An online and in-person tech bootcamp offering programs in Web Development, UX/UI Design, and Cybersecurity. V School provides one-on-one mentoring, real-world projects with companies like Meta and Adobe, and career support. Tuition starts at $14,900, with financing options including Income Share Agreements. | [Check Out](https://vschool.io/) |
+| `Verbling` | An online language learning platform that connects students with language teachers via video chat. Verbling offers lessons in over 40 languages, including English, Spanish, French, and Mandarin. | [Check Out](https://www.verbling.com/) |
+
+## Courses & Bootcamps Platforms – (W)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `WeCanCodeIT` | A coding bootcamp focusing on diversity and inclusion, offering full-stack software development programs both online and in-person. WeCanCodeIT provides career support and emphasizes collaborative learning. | [Check Out](https://wecancodeit.org/) |
+| `Wild Code School` | A European coding bootcamp offering training in web development, data analysis, and cybersecurity. Wild Code School combines online learning with in-person workshops across various campuses in Europe. | [Check Out](https://www.wildcodeschool.com/) |
+| `Woz U` | Founded by Apple co-founder Steve Wozniak, Woz U offers tech education programs in software development, data science, and cybersecurity. The platform provides online courses with a focus on practical skills and career readiness. | [Check Out](https://woz-u.com/) |
+| `World Tech Makers` | A global coding bootcamp offering full-stack web development programs. World Tech Makers provides immersive courses in various countries, focusing on hands-on projects and entrepreneurship. | [Check Out](https://www.worldtechmakers.com/) |
+| `Workforce Institute` | An educational institution offering training programs in IT, healthcare, and business. The Workforce Institute provides online and in-person courses aimed at workforce development and career advancement. | [Check Out](https://www.workforceinstitute.com/) |
+
+## Courses & Bootcamps Platforms – (X)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `XuetangX` | Launched in 2013 by Tsinghua University, XuetangX is China's first MOOC platform. It offers nearly 6,000 courses across 13 disciplines, collaborating with institutions like MIT and Peking University. The platform supports multiple languages and provides certificates and degree programs. | [Check Out](https://www.xuetangx.com/) |
+| `XBlock` | An open-source SDK developed by edX, XBlock allows developers to create interactive components for online courses. It's instrumental in building modular and engaging educational content within the Open edX platform. | [Check Out](https://github.com/edX/XBlock) |
+| `Xcos on Web` | A cloud-based simulation tool derived from Scilab Xcos, Xcos on Web is designed for modeling and simulating dynamic systems. It's particularly useful for engineering students focusing on electromechanics and control systems. | [Check Out](https://arxiv.org/abs/1808.04203) |
+
+## Courses & Bootcamps Platforms – (Y)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Young India Skills University (YISU)` | Established in 2024 in Hyderabad, India, YISU is a public-private partnership institution aimed at bridging the skill gap among youth. The university offers specialized courses in logistics, healthcare, pharmaceuticals, and BFSI sectors, collaborating with industry leaders like the Adani Group and GMR Hyderabad International Airport Limited. | [Check Out](https://yisu.in/) |
+| `Y Combinator's Startup School` | A free online program by Y Combinator designed to help startup founders through lessons on idea validation, product development, and fundraising. The course includes video lectures, weekly progress tracking, and access to a community of entrepreneurs. | [Check Out](https://www.startupschool.org/) |
+| `Yale Open Courses` | An initiative by Yale University offering free access to a selection of introductory courses taught by distinguished teachers and scholars. The courses span various disciplines and include video lectures, transcripts, and other materials. | [Check Out](https://oyc.yale.edu/) |
+
+## Courses & Bootcamps Platforms – (Z)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Zero To Mastery (ZTM) Academy` | Founded by Andrei Neagoie, ZTM offers comprehensive, up-to-date courses in web development, data science, machine learning, and more. The platform emphasizes real-world projects, career support, and a vibrant community. | [Check Out](https://zerotomastery.io/) |
+| `Zenva Academy` | Zenva provides over 300 courses focusing on game development, programming, and AI. Learners can build games and apps, earn completion certificates, and access both free and paid content. | [Check Out](https://academy.zenva.com/) |
+| `Zed Shaw’s Learn Code the Hard Way` | Zed Shaw's series offers a hands-on approach to learning programming languages like Python, C, and Ruby. The courses are designed for absolute beginners, emphasizing practice through exercises. | [Check Out](https://learncodethehardway.com/) |
