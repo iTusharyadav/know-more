@@ -150,3 +150,20 @@
 | `Platzi` | A Latin American online education platform offering courses in programming, marketing, business, and design. Platzi provides video and interactive lessons taught by industry professionals, with courses available in Spanish, English, and Portuguese. | [Check Out](https://platzi.com/) |
 | `Pluralsight` | An American online education company offering a variety of video training courses for software developers, IT administrators, and creative professionals. Pluralsight provides a technology learning platform with over 7,000 courses and is used by many Fortune 500 companies. | [Check Out](https://www.pluralsight.com/) |
 | `Pitman Training Group` | A UK-based training company offering courses in bookkeeping, marketing, office skills, secretarial training, and web design. Pitman Training provides both online and paper-based tests for various educational qualifications. | [Check Out](https://www.pitman-training.com/) |
+
+## Courses & Bootcamps Platforms – (Q)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Qwasar Silicon Valley` | An online coding bootcamp offering programs in Full Stack Development, Software Engineering, Data Science, AI/Machine Learning, and DevOps. Qwasar emphasizes project-based learning, technical interview preparation, and flexible learning options, including full-time, part-time, and self-paced formats. | [Check Out](https://www.qwasar.io/) |
+
+## Courses & Bootcamps Platforms – (R)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Rithm School` | A San Francisco-based coding bootcamp offering a 17-week full-time program in JavaScript and Python. Rithm School emphasized small class sizes (max 20 students), real-world projects, and intensive job preparation. Note: As of July 2024, Rithm School has ceased operations. | [Check Out](https://www.rithmschool.com/) |
+| `Reaktor Education` | In collaboration with the University of Helsinki, Reaktor offers "Elements of AI," a free online course designed to introduce the basics of artificial intelligence to a broad audience. The course requires no prior programming experience. | [Check Out](https://www.elementsofai.com/) |
+| `RefactorU` | A Boulder, Colorado-based bootcamp that provided a 10-week immersive program in full-stack JavaScript development. RefactorU was among the first accelerated web development bootcamps in North America. Note: RefactorU is no longer operating. | [Check Out](https://www.coursereport.com/schools/refactoru) |
+| `Rice University Online Learning` | Rice University offers a range of online courses and programs, including a Master of Computer Science degree, through platforms like edX and Coursera. These programs cover various topics in computer science and data analysis. | [Check Out](https://online.rice.edu/) |
+| `RMIT Online` | RMIT University provides a variety of online courses and degrees, including short courses in AI, data science, cybersecurity, and digital marketing. Programs are designed for flexibility and industry relevance. | [Check Out](https://www.rmit.edu.au/online/courses) |
+
