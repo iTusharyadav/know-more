@@ -167,3 +167,23 @@
 | `Rice University Online Learning` | Rice University offers a range of online courses and programs, including a Master of Computer Science degree, through platforms like edX and Coursera. These programs cover various topics in computer science and data analysis. | [Check Out](https://online.rice.edu/) |
 | `RMIT Online` | RMIT University provides a variety of online courses and degrees, including short courses in AI, data science, cybersecurity, and digital marketing. Programs are designed for flexibility and industry relevance. | [Check Out](https://www.rmit.edu.au/online/courses) |
 
+## Courses & Bootcamps Platforms – (S)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Skillshare` | An online learning community offering thousands of classes in creative fields such as design, illustration, photography, video, freelancing, and more. Skillshare provides project-based courses taught by industry professionals, with a focus on fostering creativity and practical skills. | [Check Out](https://www.skillshare.com/) |
+| `Springboard` | A comprehensive online learning platform offering mentor-led programs in data science, software engineering, UI/UX design, cybersecurity, and more. Springboard's courses are self-paced and include personalized mentorship, career coaching, and a job guarantee for certain programs. | [Check Out](https://www.springboard.com/) |
+| `Simplilearn` | A global online bootcamp providing training in digital skills such as data science, AI, machine learning, cloud computing, cybersecurity, and project management. Simplilearn offers a blend of self-paced learning, live virtual classrooms, and hands-on projects, often in collaboration with leading universities and companies. | [Check Out](https://www.simplilearn.com/) |
+| `SheCodes` | An online coding workshop designed specifically for women, offering beginner to advanced courses in front-end development, including HTML, CSS, JavaScript, and Python. SheCodes focuses on empowering women in tech through hands-on projects, community support, and career guidance. | [Check Out](https://www.shecodes.io/) |
+| `Scrimba` | An interactive learning platform for front-end development, featuring screencast-based courses in HTML, CSS, JavaScript, React, and more. Scrimba's unique format allows learners to pause and edit code directly within the screencast, enhancing engagement and understanding. | [Check Out](https://scrimba.com/) |
+
+## Courses & Bootcamps Platforms – (T)
+
+| **Platform** | **Description** | **Resources** |
+|--------------|-----------------|---------------|
+| `Thinkful` | An online interactive platform offering various coding bootcamps in areas like web development, mobile development, and design. Thinkful provides mentorship and career services to support students in their learning journey. | [Check Out](https://www.thinkful.com/) |
+| `Treehouse` | An online technology school offering beginner to advanced courses in web design, web development, mobile development, and game development. Treehouse's learning program includes videos combined with interactive quizzes and code challenges. | [Check Out](https://teamtreehouse.com/) |
+| `TripleTen` | An online coding bootcamp that offers programs in software engineering, data analytics, and data science. TripleTen emphasizes project-based learning, code reviews, and career support to help students transition into tech careers. | [Check Out](https://tripleten.com/) |
+| `Turing College` | A Lithuanian edtech startup providing online training programs in data science, analytics, AI, and digital marketing. Turing College delivers self-paced, project-based learning primarily to adult learners and career changers. | [Check Out](https://www.turingcollege.com/) |
+| `TECH Global University` | A private online university offering a wide range of undergraduate, graduate, and postgraduate degrees. TECH Global University provides over 14,000 programs in various disciplines, including technology and business, serving students worldwide. | [Check Out](https://www.techtitute.com/us/) |
+
