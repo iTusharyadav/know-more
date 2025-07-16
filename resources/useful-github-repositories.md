@@ -59,3 +59,23 @@
 | `front-end-checklist` | ✅ A comprehensive checklist for front-end development that covers everything from HTML to performance optimization. | [Check Out](https://github.com/thedaviddias/Front-End-Checklist) |
 | `fullstackopen` | 🌍 Open-source course on full-stack web development by the University of Helsinki. Covers React, Node.js, GraphQL, and TypeScript. | [Check Out](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) |
 
+## Useful GitHub Repositories – (G)
+
+| **Repository** | **Description** | **Link** |
+|----------------|-----------------|----------|
+| `gitignore` | 📄 A collection of useful `.gitignore` templates for a wide variety of programming languages and tools. | [Check Out](https://github.com/github/gitignore) |
+| `GitHub-Artificial-Intelligence-Community` | 🤖 A curated list of GitHub AI communities, open-source tools, papers, and resources. | [Check Out](https://github.com/Avik-Jain/GitHub-Artificial-Intelligence-Community) |
+| `github-profile-readme-generator` | 🧰 A tool that generates a beautiful GitHub profile README with customizable sections and visuals. | [Check Out](https://github.com/rahuldkjain/github-profile-readme-generator) |
+| `git-flight-rules` | ✈️ A guide for what to do when things go wrong with Git—written like flight rules for astronauts. | [Check Out](https://github.com/k88hudson/git-flight-rules) |
+| `go` | 🐹 The official Go programming language source code repository—maintained by Google. | [Check Out](https://github.com/golang/go) |
+
+## Useful GitHub Repositories – (H)
+
+| **Repository** | **Description** | **Link** |
+|----------------|-----------------|----------|
+| `how-web-works` | 🌐 A detailed explanation of how the web works, from DNS to HTTP to browsers and more. Great for beginners and intermediates. | [Check Out](https://github.com/vasanthk/how-web-works) |
+| `howtheytest` | 🧪 A curated collection of public resources about how top tech companies test their software. | [Check Out](https://github.com/abhivaikar/howtheytest) |
+| `HTML5-Boilerplate` | 🏗️ A professional front-end template that helps you build fast, robust, and adaptable web apps or sites. | [Check Out](https://github.com/h5bp/html5-boilerplate) |
+| `Headless-Commerce-Platforms` | 🛍️ A curated list of open-source and commercial headless eCommerce solutions. | [Check Out](https://github.com/mobify/headless-commerce) |
+| `Hands-On-Data-Science` | 📊 Practical notebooks and examples covering real-world data science concepts using Python and tools like Pandas, Scikit-learn, and more. | [Check Out](https://github.com/krishnaik06/Hands-On-Data-Science) |
+
