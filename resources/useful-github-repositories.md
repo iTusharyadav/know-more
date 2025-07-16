@@ -48,3 +48,14 @@
 | `engineering-blogs` | 🧠 A curated list of engineering blogs from major tech companies like Netflix, Uber, and Google—great for learning real-world system design. | [Check Out](https://github.com/kilimchoi/engineering-blogs) |
 | `es6-cheatsheet` | ✨ A concise ES6+ cheat sheet with examples—perfect for quick reference when working with modern JavaScript. | [Check Out](https://github.com/DrkSephy/es6-cheatsheet) |
 | `every-programmer-should-know` | 🧰 A collection of (mostly) technical things every software developer should know, from networking to algorithms and security. | [Check Out](https://github.com/mtdvio/every-programmer-should-know) |
+
+## Useful GitHub Repositories – (F)
+
+| **Repository** | **Description** | **Link** |
+|----------------|-----------------|----------|
+| `freeCodeCamp` | 🏕️ Learn to code for free with thousands of videos, articles, and interactive coding lessons. The GitHub repo includes curriculum and source code. | [Check Out](https://github.com/freeCodeCamp/freeCodeCamp) |
+| `free-programming-books` | 📘 Massive collection of free programming books in multiple languages. Includes books on algorithms, data structures, languages, and more. | [Check Out](https://github.com/EbookFoundation/free-programming-books) |
+| `frontend-dev-bookmarks` | 📚 A curated collection of useful front-end development resources, articles, tools, and libraries. | [Check Out](https://github.com/dypsilon/frontend-dev-bookmarks) |
+| `front-end-checklist` | ✅ A comprehensive checklist for front-end development that covers everything from HTML to performance optimization. | [Check Out](https://github.com/thedaviddias/Front-End-Checklist) |
+| `fullstackopen` | 🌍 Open-source course on full-stack web development by the University of Helsinki. Covers React, Node.js, GraphQL, and TypeScript. | [Check Out](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) |
+
