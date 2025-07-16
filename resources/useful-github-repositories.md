@@ -39,3 +39,12 @@
 | `docker-cheat-sheet` | 🐳 A handy cheat sheet and quick reference for Docker commands and best practices. | [Check Out](https://github.com/wsargent/docker-cheat-sheet) |
 | `deep-learning-papers-reading-roadmap` | 🧠 An annotated roadmap of deep learning papers, organized by topic. Perfect for students and researchers. | [Check Out](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) |
 | `d3` | 📈 D3.js is a powerful JavaScript library for producing dynamic, interactive data visualizations in web browsers. | [Check Out](https://github.com/d3/d3) |
+
+## Useful GitHub Repositories – (E)
+
+| **Repository** | **Description** | **Link** |
+|----------------|-----------------|----------|
+| `EbookFoundation/free-programming-books` | 📚 One of the most popular repositories on GitHub. A massive list of free programming books, sorted by language and topic. | [Check Out](https://github.com/EbookFoundation/free-programming-books) |
+| `engineering-blogs` | 🧠 A curated list of engineering blogs from major tech companies like Netflix, Uber, and Google—great for learning real-world system design. | [Check Out](https://github.com/kilimchoi/engineering-blogs) |
+| `es6-cheatsheet` | ✨ A concise ES6+ cheat sheet with examples—perfect for quick reference when working with modern JavaScript. | [Check Out](https://github.com/DrkSephy/es6-cheatsheet) |
+| `every-programmer-should-know` | 🧰 A collection of (mostly) technical things every software developer should know, from networking to algorithms and security. | [Check Out](https://github.com/mtdvio/every-programmer-should-know) |
