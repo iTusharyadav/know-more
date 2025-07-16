@@ -79,3 +79,22 @@
 | `Headless-Commerce-Platforms` | 🛍️ A curated list of open-source and commercial headless eCommerce solutions. | [Check Out](https://github.com/mobify/headless-commerce) |
 | `Hands-On-Data-Science` | 📊 Practical notebooks and examples covering real-world data science concepts using Python and tools like Pandas, Scikit-learn, and more. | [Check Out](https://github.com/krishnaik06/Hands-On-Data-Science) |
 
+## Useful GitHub Repositories – (I)
+
+| **Repository** | **Description** | **Link** |
+|----------------|-----------------|----------|
+| `Interview-Notebook` | 📓 A curated notebook covering coding interviews, data structures, algorithms, system design, OS, DBMS, and more. | [Check Out](https://github.com/kdn251/interviews) |
+| `interviewing.io` | 🎙️ Open-source code and materials from the interviewing.io platform, which helps users practice technical interviews anonymously. | [Check Out](https://github.com/interviewingio/interviewing.io) |
+| `interview` | 🧠 Everything you need to prepare for technical interviews, including questions, answers, patterns, and strategies. | [Check Out](https://github.com/Olshansk/interview) |
+| `interactive-coding-challenges` | 💡 80+ interactive algorithm challenges with solutions and explanations—great for whiteboard prep. | [Check Out](https://github.com/donnemartin/interactive-coding-challenges) |
+| `ImageAI` | 🤖 A powerful library built on top of TensorFlow/Keras for image prediction, object detection, and training models with ease. | [Check Out](https://github.com/OlafenwaMoses/ImageAI) |
+
+## Useful GitHub Repositories – (J)
+
+| **Repository** | **Description** | **Link** |
+|----------------|-----------------|----------|
+| `javascript-algorithms` | 📚 A comprehensive collection of JavaScript-based examples of many algorithms and data structures. Great for interview prep and learning. | [Check Out](https://github.com/trekhleb/javascript-algorithms) |
+| `JavaScript30` | 🎯 30-day vanilla JavaScript coding challenge by Wes Bos—build 30 projects in 30 days. | [Check Out](https://github.com/wesbos/JavaScript30) |
+| `Java-Interview-Preparation` | ☕ Curated Java interview questions and answers with code snippets and core concepts explained. | [Check Out](https://github.com/SudheerJonna/Java-Interview-Preparation) |
+| `java-design-patterns` | 🏗️ A collection of design patterns implemented in Java. Useful for architecture and best practices. | [Check Out](https://github.com/iluwatar/java-design-patterns) |
+| `JSON-Schema` | 📄 A vocabulary that allows you to annotate and validate JSON documents. Official repo for JSON Schema. | [Check Out](https://github.com/json-schema-org/json-schema-spec) |
