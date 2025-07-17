@@ -1,31 +1,14 @@
-## Opportunity Board – Platforms & Apps (A)
+## Startup Kits – Essentials for New Projects (A–Z)
 
-| **Platform**        | **Description**                                                                 | **Resources** |
-|---------------------|---------------------------------------------------------------------------------|---------------|
-| `Adzuna`            | Global job search engine offering listings, salary stats, and CV evaluation.   | [Check Out](https://www.adzuna.com/) |
-| `AngelList Talent` (Now Wellfound) | Connects job seekers with startups; features remote jobs and salary transparency. | [Check Out](https://wellfound.com/) |
-| `Arc`               | Curated remote job board for developers and tech professionals.                | [Check Out](https://arc.dev/) |
-| `Authentic Jobs`    | Job board for designers, developers, and creative professionals.                | [Check Out](https://authenticjobs.com/) |
-| `Aquent`            | Specializes in placing marketing, creative, and digital professionals in jobs.  | [Check Out](https://aquent.com/) |
-| `AngelHack`         | Global hackathon and job network that connects developers to companies.         | [Check Out](https://angelhack.com/) |
-| `Andela`            | Connects software engineers from emerging markets with global remote jobs.      | [Check Out](https://andela.com/) |
-| `AngelCityData`     | Job board and newsletter for data scientists and analysts.                      | [Check Out](https://angelcitydata.com/jobs/) |
-| `AllRemote`         | Remote job discovery platform for tech, marketing, sales and design roles.      | [Check Out](https://allremote.jobs/) |
-
-## Opportunity Board – Platforms & Apps (V)
-
-| **Platform** | **Description** | **Resources** |
-|--------------|-----------------|---------------|
-| `VentureLoop` | A job board specializing in listings from venture-backed startups, offering opportunities across various industries and roles. | [Check Out](https://www.ventureloop.com/ventureloop/job_search.php) |
-| `Virtual Vocations` | A remote job board featuring hand-screened telecommuting jobs across over 50 career categories, catering to professionals seeking flexible work arrangements. | [Check Out](https://www.virtualvocations.com/) |
-| `Vollna` | A freelance job monitoring platform that aggregates listings from top freelance sites like Upwork, providing real-time alerts and analytics to help freelancers find suitable projects efficiently. | [Check Out](https://www.vollna.com/) |
-
-
-## Opportunity Board – Platforms & Apps (W)
-
-| **Platform** | **Description** | **Resources** |
-|--------------|-----------------|---------------|
-| `We Work Remotely` | A leading remote job board with over 6 million monthly visitors, offering a wide range of remote job listings across various categories, including programming, design, marketing, and customer support. | [Check Out](https://weworkremotely.com/) |
-| `Workana` | A freelance marketplace connecting businesses with remote talent, primarily in Latin America, across fields like IT, design, writing, and marketing. | [Check Out](https://www.workana.com/) |
-| `Working Nomads` | A platform that curates remote job listings from around the web, catering to digital nomads and remote workers seeking opportunities in tech, marketing, and more. | [Check Out](https://www.workingnomads.com/jobs) |
-| `WhatJobs` | An international job search platform operating in 77 countries, aggregating job listings across various industries and roles. | [Check Out](https://www.whatjobs.com/) |
+| **Repository** | **Description** | **Link** |
+|----------------|-----------------|----------|
+| `awesome-opensource-boilerplates` | 📚 Curated collection of free, production-ready SaaS boilerplates and starter templates. | [Check Out](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) |
+| `awesome-saas-boilerplates` | 🧰 Comprehensive list of SaaS boilerplates categorized by tech stack and framework. | [Check Out](https://github.com/smirnov-am/awesome-saas-boilerplates) |
+| `cloudflare-starter-kit` | ☁️ Template for scaffolding Cloudflare Workers projects with TypeScript, Vite, and more. | [Check Out](https://github.com/kriasoft/cloudflare-starter-kit) |
+| `dotnet-starter-kit` | 🏗️ Production-grade .NET 9 starter kit with Clean Architecture and multi-tenancy support. | [Check Out](https://github.com/fullstackhero/dotnet-starter-kit) |
+| `essential-kit` | 🧱 Node.js boilerplate with MVC structure, MongoDB integration, and Pug templating. | [Check Out](https://github.com/ichtrojan/essential-kit) |
+| `hardhat-starter-kit` | 🔗 Boilerplate for testing, deploying, and shipping Chainlink Solidity code using Hardhat. | [Check Out](https://github.com/smartcontractkit/hardhat-starter-kit) |
+| `next-js-boilerplate` | ⚡️ Next.js 15 starter with App Router, Tailwind CSS 4, TypeScript, and developer-friendly tools. | [Check Out](https://github.com/ixartz/Next-js-Boilerplate) |
+| `saas-boilerplate` | 🚀 Fully customizable Next.js SaaS boilerplate with Tailwind CSS, Shadcn UI, and essential features. | [Check Out](https://github.com/ixartz/SaaS-Boilerplate) |
+| `saas-starter-kit` | 🧩 Enterprise-ready Next.js SaaS boilerplate with SSO, audit logs, and multi-tenant features. | [Check Out](https://github.com/boxyhq/saas-starter-kit) |
+| `starter-kit-essentials` | 🛠️ ApostropheCMS starter kit for initiating new projects with minimal setup. | [Check Out](https://github.com/apostrophecms/starter-kit-essentials) |
