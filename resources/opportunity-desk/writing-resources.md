@@ -122,3 +122,29 @@
 | `Obsidian` | A powerful Markdown-based knowledge base app. Great for technical writers and engineers organizing docs and notes. | [Check Out](https://obsidian.md/) |
 | `Outline` | A team knowledge base and wiki, useful for writing and organizing internal and public documentation. | [Check Out](https://www.getoutline.com/) |
 | `Overleaf` | A collaborative LaTeX editor, mainly used for academic and scientific writing, but useful for structured documentation. | [Check Out](https://www.overleaf.com/) |
+
+## Writing Resources – Blog Writing, Documentation, Technical Writing (P)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Penpot` | While primarily a design tool, Penpot is useful for documenting UI/UX processes alongside written content. | [Check Out](https://penpot.app/) |
+| `Prose.io` | A web-based content editor for GitHub designed for writing in Markdown, useful for managing Jekyll blogs and docs. | [Check Out](http://prose.io/) |
+| `Pandoc` | A universal document converter that supports converting Markdown to PDF, HTML, Word, and more for publishing. | [Check Out](https://pandoc.org/) |
+| `Postach.io` | Turns Evernote notes into blog posts — handy for technical writers who jot notes first. | [Check Out](https://postach.io/) |
+
+## Writing Resources – Blog Writing, Documentation, Technical Writing (Q)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Quarto` | An open-source scientific and technical publishing system built on Pandoc. Great for reproducible documents, blogs, and books. | [Check Out](https://quarto.org/) |
+| `Quill` | A rich text editor for the web that can be embedded in documentation platforms and CMSs. | [Check Out](https://quilljs.com/) |
+
+## Writing Resources – Blog Writing, Documentation, Technical Writing (R)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Read the Docs` | A platform for building, versioning, and hosting documentation. Integrates well with Sphinx and MkDocs. | [Check Out](https://readthedocs.org/) |
+| `reStructuredText (reST)` | A lightweight markup language often used with Python documentation and Sphinx. | [Check Out](https://docutils.sourceforge.io/rst.html) |
+| `Remark` | A Markdown processor powered by plugins for rendering documentation and presentations. | [Check Out](https://remark.js.org/) |
+| `RStudio` | IDE for R that supports technical and scientific writing via R Markdown and Quarto. | [Check Out](https://posit.co/products/open-source/rstudio/) |
+
