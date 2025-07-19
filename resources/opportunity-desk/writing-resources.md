@@ -148,3 +148,37 @@
 | `Remark` | A Markdown processor powered by plugins for rendering documentation and presentations. | [Check Out](https://remark.js.org/) |
 | `RStudio` | IDE for R that supports technical and scientific writing via R Markdown and Quarto. | [Check Out](https://posit.co/products/open-source/rstudio/) |
 
+## Writing Resources – Blog Writing, Documentation, Technical Writing (S)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Scribe` | Tool for auto-generating step-by-step guides by recording your screen interactions. Great for internal documentation. | [Check Out](https://scribehow.com/) |
+| `Sphinx` | Python documentation generator based on reStructuredText. Popular in the Python ecosystem. | [Check Out](https://www.sphinx-doc.org/) |
+| `StackEdit` | In-browser Markdown editor with offline support and integration with GitHub and Google Drive. | [Check Out](https://stackedit.io/) |
+| `Storybook` | Tool for documenting and testing UI components in isolation. Useful for design systems and frontend documentation. | [Check Out](https://storybook.js.org/) |
+
+## Writing Resources – Blog Writing, Documentation, Technical Writing (T)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Telegra.ph` | A minimalistic publishing tool by Telegram for quick and anonymous blog-style content writing. | [Check Out](https://telegra.ph/) |
+| `Technical Writing One` | A free course by Google on the fundamentals of technical writing. Great for engineers and beginners. | [Check Out](https://developers.google.com/tech-writing/one) |
+| `Typora` | A seamless Markdown editor with live preview, perfect for writing documentation and technical notes. | [Check Out](https://typora.io/) |
+| `Trello` | Though primarily a project management tool, it is used widely to draft, organize, and review documentation tasks. | [Check Out](https://trello.com/) |
+
+## Writing Resources – Blog Writing, Documentation, Technical Writing (U)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Ulysses` | A popular writing app for Mac and iOS with Markdown support, great for distraction-free writing and exporting to multiple formats. | [Check Out](https://ulysses.app/) |
+| `UpNote` | A clean and modern note-taking app for writers and bloggers, supports Markdown and cross-platform sync. | [Check Out](https://getupnote.com/) |
+| `Userdoc` | Platform for creating user-facing product documentation with rich media and integrations. | [Check Out](https://www.userdoc.io/) |
+
+## Writing Resources – Blog Writing, Documentation, Technical Writing (V)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Vercel Docs` | Clean, modern documentation templates and best practices, used by many dev tools hosted on Vercel. | [Check Out](https://vercel.com/docs) |
+| `Visual Studio Code (VS Code)` | With extensions like Markdown All in One and Docs Authoring Pack, VS Code becomes a powerful tool for technical writing. | [Check Out](https://code.visualstudio.com/) |
+| `Vimwiki` | A personal wiki for Vim users with support for notes, diaries, and documentation. Lightweight and efficient. | [Check Out](https://github.com/vimwiki/vimwiki) |
+
