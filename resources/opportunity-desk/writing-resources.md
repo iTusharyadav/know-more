@@ -182,3 +182,31 @@
 | `Visual Studio Code (VS Code)` | With extensions like Markdown All in One and Docs Authoring Pack, VS Code becomes a powerful tool for technical writing. | [Check Out](https://code.visualstudio.com/) |
 | `Vimwiki` | A personal wiki for Vim users with support for notes, diaries, and documentation. Lightweight and efficient. | [Check Out](https://github.com/vimwiki/vimwiki) |
 
+## Writing Resources – Blog Writing, Documentation, Technical Writing (W)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Wikidot` | A free and powerful wiki platform for collaborative technical writing and internal documentation. | [Check Out](https://www.wikidot.com/) |
+| `Write the Docs` | A global community of technical writers focused on documentation best practices, conferences, and resources. | [Check Out](https://www.writethedocs.org/) |
+| `Writage` | A Markdown plugin for Microsoft Word, allowing seamless technical writing in a familiar Word environment. | [Check Out](https://www.writage.com/) |
+| `WordPress` | Widely used CMS and blogging platform ideal for publishing technical blogs, tutorials, and documentation. | [Check Out](https://wordpress.org/) |
+
+## Writing Resources – Blog Writing, Documentation, Technical Writing (X)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Xournal++` | A handwriting and annotation tool often used for note-taking and drafting handwritten documentation or sketches. | [Check Out](https://github.com/xournalpp/xournalpp) |
+
+## Writing Resources – Blog Writing, Documentation, Technical Writing (Y)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `YAML` | A human-readable data-serialization standard used in many documentation files (e.g., config files, metadata). Learning YAML helps with technical documentation. | [Check Out](https://yaml.org/) |
+| `YWriter` | A word processor designed for writers that breaks your novel or documents into chapters and scenes. | [Check Out](https://www.spacejock.com/yWriter.html) |
+
+## Writing Resources – Blog Writing, Documentation, Technical Writing (Z)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Zettlr` | A powerful Markdown editor for academic and technical writing, supporting citation management, file organization, and LaTeX. | [Check Out](https://www.zettlr.com/) |
+| `Zotero` | Open-source reference manager useful for organizing research and sources in technical documentation and blog writing. | [Check Out](https://www.zotero.org/) |
