@@ -107,3 +107,18 @@
 | `Medium` | A popular platform for publishing technical blogs and articles. Offers a wide reader base and clean writing UI. | [Check Out](https://medium.com/) |
 | `MadCap Flare` | Advanced technical writing and documentation software used by professionals for structured authoring. | [Check Out](https://www.madcapsoftware.com/products/flare/) |
 
+## Writing Resources – Blog Writing, Documentation, Technical Writing (N)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Notion` | All-in-one workspace for notes, documents, and wikis. Widely used for collaborative technical writing and documentation. | [Check Out](https://www.notion.so/) |
+| `Nuclino` | A real-time collaborative platform for team documentation and knowledge management. | [Check Out](https://www.nuclino.com/) |
+| `Next.js Blog Starter` | A boilerplate for creating Markdown-based blogs using Next.js. Ideal for dev bloggers and documentation sites. | [Check Out](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) |
+
+## Writing Resources – Blog Writing, Documentation, Technical Writing (O)
+
+| **Resource** | **Description** | **Link** |
+|--------------|-----------------|----------|
+| `Obsidian` | A powerful Markdown-based knowledge base app. Great for technical writers and engineers organizing docs and notes. | [Check Out](https://obsidian.md/) |
+| `Outline` | A team knowledge base and wiki, useful for writing and organizing internal and public documentation. | [Check Out](https://www.getoutline.com/) |
+| `Overleaf` | A collaborative LaTeX editor, mainly used for academic and scientific writing, but useful for structured documentation. | [Check Out](https://www.overleaf.com/) |
