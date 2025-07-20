@@ -76,3 +76,21 @@
 | `Hover Zoom+`           | Enlarges images and videos from links simply by hovering over them.            | [Check Out](https://chrome.google.com/webstore/detail/hoverzoom+/gpjhkianbfdepimegohdhofnfdimgdco) |
 | `Highlight This`        | Automatically highlights words and phrases on any webpage as you browse.       | [Check Out](https://chrome.google.com/webstore/detail/highlight-this/highlight-this/pbeapblknklfoakbpofemndldliankoa) |
 
+## Plugin Pantry – Browser Extensions (I)
+
+| **Extension**          | **Description**                                                                 | **Link** |
+|------------------------|----------------------------------------------------------------------------------|----------|
+| `Imagus`               | Enlarges thumbnails and linked images/videos by hovering over them.             | [Check Out](https://chrome.google.com/webstore/detail/imagus/oeopbcgkkoapgobdbedcemjljbihmemj) |
+| `Infinity New Tab`     | Replaces your new tab page with a customizable dashboard with shortcuts and to-do lists. | [Check Out](https://chrome.google.com/webstore/detail/infinity-new-tab/aapbdbdomjkkjkaonfhkkikfgjllcleb) |
+| `Instapaper`           | Save web pages to read later, offline, in a distraction-free environment.       | [Check Out](https://www.instapaper.com/) |
+| `InvisibleHand`        | Finds the lowest prices on products while you’re browsing shopping websites.    | [Check Out](https://www.getinvisiblehand.com/) |
+| `I Don't Care About Cookies` | Removes annoying cookie consent popups from websites.                          | [Check Out](https://www.i-dont-care-about-cookies.eu/) |
+
+## Plugin Pantry – Browser Extensions (J)
+
+| **Extension**           | **Description**                                                                  | **Link** |
+|-------------------------|----------------------------------------------------------------------------------|----------|
+| `JSON Formatter`        | Beautifies and highlights JSON in your browser for easier viewing and debugging. | [Check Out](https://chrome.google.com/webstore/detail/json-formatter/cjbocoegjegihblfkbimglnfhgjniadj) |
+| `Just Read`             | Strips away clutter (ads, buttons, backgrounds) from web pages for a clean reading experience. | [Check Out](https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod) |
+| `J2TEAM Security`       | Enhances online privacy with phishing detection, Facebook privacy tools, and more. | [Check Out](https://chrome.google.com/webstore/detail/j2team-security/ndochbmmgconhbjfgphlfkbfpmaiemhe) |
+
