@@ -230,3 +230,17 @@
 |--------------------------|-------------------------------------------------------------------------------|----------|
 | `XPath Helper`           | Extract, edit, and evaluate XPath queries on any webpage.                    | [Check Out](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) |
 
+## Plugin Pantry – Browser Extensions (Y)
+
+| **Extension**           | **Description**                                                              | **Link** |
+|-------------------------|-------------------------------------------------------------------------------|----------|
+| `YouTube Enhancer`      | Customize your YouTube experience (ad-block, themes, video controls).         | [Check Out](https://chrome.google.com/webstore/detail/enhancer-for-youtube™/ponfpcnoihfmfllpaingbgckeeldkhle) |
+| `YouTube NonStop`       | Prevents the “Video paused. Continue watching?” pop-up from interrupting playback. | [Check Out](https://chrome.google.com/webstore/detail/youtube-nonstop/eokadhoigdcghhimohdbknlgkkhgoeaj) |
+| `YouTube Summary with ChatGPT` | Summarize YouTube videos using AI-powered transcript and GPT summary.     | [Check Out](https://chrome.google.com/webstore/detail/youtube-summary-with-chatg/cdonnmffkdaoajfknoeeecmchibpmkmg) |
+
+## Plugin Pantry – Browser Extensions (Z)
+
+| **Extension**           | **Description**                                                              | **Link** |
+|-------------------------|-------------------------------------------------------------------------------|----------|
+| `Zoom Scheduler`        | Quickly schedule Zoom meetings directly from your browser.                    | [Check Out](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle) |
+| `Zoom Text Only`        | Lets you zoom text size only, without affecting layout or images.             | [Check Out](https://chrome.google.com/webstore/detail/zoom-text-only/jeebbjdcfnjmgkhkijpfcckdlpppblga) |
