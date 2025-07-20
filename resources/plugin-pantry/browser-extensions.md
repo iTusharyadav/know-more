@@ -94,3 +94,42 @@
 | `Just Read`             | Strips away clutter (ads, buttons, backgrounds) from web pages for a clean reading experience. | [Check Out](https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod) |
 | `J2TEAM Security`       | Enhances online privacy with phishing detection, Facebook privacy tools, and more. | [Check Out](https://chrome.google.com/webstore/detail/j2team-security/ndochbmmgconhbjfgphlfkbfpmaiemhe) |
 
+## Plugin Pantry – Browser Extensions (K)
+
+| **Extension**        | **Description**                                                                 | **Link** |
+|----------------------|----------------------------------------------------------------------------------|----------|
+| `Kami`               | Annotate, highlight, and collaborate on PDFs and documents in real-time.         | [Check Out](https://www.kamiapp.com/) |
+| `Keyframe Caddy`     | Animation tool used in conjunction with Adobe Flash/Animate.                     | [Check Out](https://exchange.adobe.com/creativecloud.details.10006.keyframe-caddy.html) |
+| `Keepa`              | Amazon price tracker that shows price history charts and alerts.                 | [Check Out](https://keepa.com/) |
+
+## Plugin Pantry – Browser Extensions (L)
+
+| **Extension**           | **Description**                                                                 | **Link** |
+|-------------------------|----------------------------------------------------------------------------------|----------|
+| `LanguageTool`          | Grammar, style, and spell checker supporting multiple languages.                 | [Check Out](https://chrome.google.com/webstore/detail/languagetool/oldceeleldhonbafppcapldpdifcinji) |
+| `Lighthouse`            | Open-source tool from Google for auditing performance, accessibility, SEO, etc. | [Check Out](https://developer.chrome.com/docs/lighthouse/overview/) |
+| `LibKey Nomad`          | Gives access to academic papers available through your institution or open access. | [Check Out](https://chrome.google.com/webstore/detail/libkey-nomad/fobpobnpdkmjoldbflklogoaahpimmjb) |
+| `LINER`                 | Highlight and save the web's useful information. Great for research and curation. | [Check Out](https://www.getliner.com/) |
+| `LastPass`              | Password manager that saves and autofills your credentials.                     | [Check Out](https://www.lastpass.com/) |
+
+## Plugin Pantry – Browser Extensions (M)
+
+| **Extension**           | **Description**                                                                 | **Link** |
+|-------------------------|----------------------------------------------------------------------------------|----------|
+| `Mercury Reader`        | Removes ads and distractions for a clean, reader-friendly web experience.       | [Check Out](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi) |
+| `Momentum`              | Replaces the new tab page with a customizable dashboard including to-do, quotes, and focus goals. | [Check Out](https://momentumdash.com/) |
+| `Markdown Viewer`       | Renders Markdown files natively in the browser.                                 | [Check Out](https://chrome.google.com/webstore/detail/markdown-viewer/cnfnnefapdfkijdldkagclhbmakdnnna) |
+| `MetaMask`              | Crypto wallet and gateway to blockchain apps, especially for Ethereum dApps.    | [Check Out](https://metamask.io/) |
+| `Mailtrack`             | Email tracking for Gmail – know when your emails are opened.                    | [Check Out](https://mailtrack.io/) |
+| `Muzli`                 | Curated design inspiration and creative content right in your browser tab.      | [Check Out](https://chrome.google.com/webstore/detail/muzli-2-new-tab-design-in/ihgpcfpkpmdcghlkaeifkpgmhgecfhhi) |
+
+## Plugin Pantry – Browser Extensions (N)
+
+| **Extension**           | **Description**                                                                 | **Link** |
+|-------------------------|----------------------------------------------------------------------------------|----------|
+| `Noisli`                | Productivity tool that provides background sounds to help focus or relax.       | [Check Out](https://chrome.google.com/webstore/detail/noisli/dadgkoppfomkfhfjeigocgkkjemgiaci) |
+| `Nimbus Screenshot`     | Capture full-page or partial screenshots and record screen videos.              | [Check Out](https://nimbusweb.me/screenshot.php) |
+| `Night Eye`             | Enables dark mode on any website with customizable themes.                      | [Check Out](https://nighteye.app/) |
+| `NewsGuard`             | Rates the credibility of news and information websites.                         | [Check Out](https://www.newsguardtech.com/) |
+| `Note Anywhere`         | Leave sticky notes on any web page that stay even after closing the tab.        | [Check Out](https://chrome.google.com/webstore/detail/note-anywhere/bohahkiiknkelflnjjlipnaeapefmjbh) |
+
