@@ -133,3 +133,33 @@
 | `NewsGuard`             | Rates the credibility of news and information websites.                         | [Check Out](https://www.newsguardtech.com/) |
 | `Note Anywhere`         | Leave sticky notes on any web page that stay even after closing the tab.        | [Check Out](https://chrome.google.com/webstore/detail/note-anywhere/bohahkiiknkelflnjjlipnaeapefmjbh) |
 
+## Plugin Pantry – Browser Extensions (O)
+
+| **Extension**           | **Description**                                                                 | **Link** |
+|-------------------------|----------------------------------------------------------------------------------|----------|
+| `OneTab`                | Converts all open tabs into a list to save memory and reduce clutter.           | [Check Out](https://www.one-tab.com/) |
+| `Office Editing for Docs, Sheets & Slides` | View and edit Microsoft Office files directly in Google Drive.               | [Check Out](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) |
+| `Open Multiple URLs`    | Paste and open a list of URLs all at once.                                      | [Check Out](https://chrome.google.com/webstore/detail/open-multiple-urls/jnkmfdileelhofjcijamephohjechhna) |
+| `Octotree`              | Code tree for GitHub – lets you explore GitHub repos as if you're using an IDE. | [Check Out](https://www.octotree.io/) |
+| `Online Download Manager` | Manages, accelerates, and organizes downloads directly from the browser.      | [Check Out](https://chrome.google.com/webstore/detail/online-download-manager/nnjjahlikiabnchcpehcpkdeckfgnohf) |
+
+## Plugin Pantry – Browser Extensions (P)
+
+| **Extension**               | **Description**                                                                 | **Link** |
+|-----------------------------|----------------------------------------------------------------------------------|----------|
+| `Papercuts`                 | Turns web articles into clean, readable formats and saves them for later.       | [Check Out](https://papercuts.xyz/) |
+| `Page Ruler Redux`          | Draw a ruler to get pixel dimensions and positioning on web pages.              | [Check Out](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) |
+| `Pocket`                    | Save articles and web pages to read later, even offline.                        | [Check Out](https://getpocket.com/) |
+| `Print Friendly & PDF`      | Removes ads, navigation, and other junk before printing or saving as PDF.       | [Check Out](https://www.printfriendly.com/extensions/chrome) |
+| `Pesticide for Chrome`      | Adds outlines to all elements on a web page to better understand layout.        | [Check Out](https://chrome.google.com/webstore/detail/pesticide-for-chrome/mnbdcpjnejgdfcdnddnmjmnebopnbfdk) |
+| `Postman Interceptor`       | Intercepts requests from your browser to use with Postman.                      | [Check Out](https://chrome.google.com/webstore/detail/postman-interceptor/idgpnmonknjnojddfkpgkljpfnnfcklj) |
+| `Pushbullet`                | Easily share links, files, and notes between devices and friends.               | [Check Out](https://www.pushbullet.com/) |
+
+## Plugin Pantry – Browser Extensions (Q)
+
+| **Extension**     | **Description**                                                       | **Link** |
+|-------------------|------------------------------------------------------------------------|----------|
+| `Quick QR`        | Instantly generate a QR code for the current page or any text input.  | [Check Out](https://chrome.google.com/webstore/detail/quick-qr/jkgcpbpbmcdoidcflgkdceecglmpogeo) |
+| `Quick Tab`       | Fast tab switcher — search through your open tabs quickly.            | [Check Out](https://chrome.google.com/webstore/detail/quick-tab/bhjcpaobmfdpmmacflopimahlckimokj) |
+| `Qlearly`         | Tab and bookmark manager for productivity and efficient browsing.     | [Check Out](https://qlearly.com/) |
+
