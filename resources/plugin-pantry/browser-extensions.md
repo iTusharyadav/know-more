@@ -205,3 +205,28 @@
 | `uBlock Origin`          | Efficient and lightweight ad blocker with extensive filter options.              | [Check Out](https://ublockorigin.com/) |
 | `URL Render`             | Preview URLs inline in Google Docs and Notion (or any site).                     | [Check Out](https://chrome.google.com/webstore/detail/url-render/ahfdpmplddapljbbhbdcdfljgjmjkpap) |
 
+## Plugin Pantry – Browser Extensions (V)
+
+| **Extension**          | **Description**                                                                 | **Link** |
+|------------------------|----------------------------------------------------------------------------------|----------|
+| `Video Speed Controller` | Adjust the playback speed of HTML5 videos on any website with keyboard shortcuts. | [Check Out](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) |
+| `Volume Master`        | Boost and control audio volume for individual tabs.                            | [Check Out](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbcgdmkkomcnfjmfn) |
+| `VisBug`               | Chrome extension for design debugging and tweaking UI elements visually.        | [Check Out](https://visbug.web.app/) |
+| `View Page Archive`    | Quickly view the archived version of a webpage from multiple sources.           | [Check Out](https://chrome.google.com/webstore/detail/view-page-archive/jdjmbednkjepkkbdckhajkacnbdcgmco) |
+
+## Plugin Pantry – Browser Extensions (W)
+
+| **Extension**           | **Description**                                                                | **Link** |
+|-------------------------|---------------------------------------------------------------------------------|----------|
+| `Wappalyzer`            | Identify technologies used on websites (frameworks, CMS, analytics, etc.).     | [Check Out](https://www.wappalyzer.com/download) |
+| `Wayback Machine`       | Access archived versions of web pages via Internet Archive.                    | [Check Out](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) |
+| `WhatFont`              | Quickly identify fonts on any webpage by hovering over text.                   | [Check Out](https://www.whatfont.org/) |
+| `Web Developer`         | Adds a toolbar with various web development tools.                             | [Check Out](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) |
+| `Word Replacer II`      | Replace words/phrases on webpages with your custom text.                       | [Check Out](https://chrome.google.com/webstore/detail/word-replacer-ii/becfckpabficmiagjgjdddnmnknjnbif) |
+
+## Plugin Pantry – Browser Extensions (X)
+
+| **Extension**            | **Description**                                                              | **Link** |
+|--------------------------|-------------------------------------------------------------------------------|----------|
+| `XPath Helper`           | Extract, edit, and evaluate XPath queries on any webpage.                    | [Check Out](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) |
+
