@@ -163,3 +163,45 @@
 | `Quick Tab`       | Fast tab switcher — search through your open tabs quickly.            | [Check Out](https://chrome.google.com/webstore/detail/quick-tab/bhjcpaobmfdpmmacflopimahlckimokj) |
 | `Qlearly`         | Tab and bookmark manager for productivity and efficient browsing.     | [Check Out](https://qlearly.com/) |
 
+## Plugin Pantry – Browser Extensions (R)
+
+| **Extension**         | **Description**                                                                 | **Link** |
+|-----------------------|----------------------------------------------------------------------------------|----------|
+| `React Developer Tools` | Debug and inspect React component hierarchies directly in Chrome or Firefox.   | [Check Out](https://react.dev/learn/react-developer-tools) |
+| `Redux DevTools`        | Helps visualize and debug Redux store state changes over time.                 | [Check Out](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) |
+| `RightToCopy`           | Enables right-click, copy, and select on restricted websites.                  | [Check Out](https://chrome.google.com/webstore/detail/righttocopy/ibehncdbnjbhnjopglfbmdfhfhlnjhff) |
+| `Raindrop.io`           | All-in-one bookmark manager across devices with beautiful preview thumbnails.  | [Check Out](https://raindrop.io/) |
+| `Reader Mode`           | Strips pages of clutter for distraction-free reading.                          | [Check Out](https://readermode.io/) |
+
+## Plugin Pantry – Browser Extensions (S)
+
+| **Extension**       | **Description**                                                                 | **Link** |
+|---------------------|----------------------------------------------------------------------------------|----------|
+| `Save to Notion`    | Quickly save any webpage content to your Notion workspace.                      | [Check Out](https://chrome.google.com/webstore/detail/save-to-notion/aobjbgcadlknkmjokmihajgokhaeiccc) |
+| `Session Buddy`     | Manage browser tabs and bookmarks, recover tabs after a crash.                  | [Check Out](https://sessionbuddy.com/) |
+| `Scribe`            | Automatically generate step-by-step guides and tutorials while you work.        | [Check Out](https://scribehow.com/) |
+| `Stylus`            | Easily install themes and skins for websites via user stylesheets.              | [Check Out](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) |
+| `Similar Sites`     | Discover websites similar to the one you're currently browsing.                  | [Check Out](https://chrome.google.com/webstore/detail/similar-sites-find-simil/nhacfaaljpdjpnloamgfpjjnehehllof) |
+| `Search the current site` | Adds right-click menu to search the current domain with a search engine.         | [Check Out](https://chrome.google.com/webstore/detail/search-the-current-site/olbifcfhhiihicfaobbbjdbpjjnbflmg) |
+| `Scroll To Top Button` | Adds a floating button to quickly scroll back to the top of the page.          | [Check Out](https://chrome.google.com/webstore/detail/scroll-to-top-button/hhlhjgianpocpoppofmhcbgcfcdmcgpk) |
+
+## Plugin Pantry – Browser Extensions (T)
+
+| **Extension**         | **Description**                                                                 | **Link** |
+|-----------------------|----------------------------------------------------------------------------------|----------|
+| `Tab Wrangler`        | Automatically closes inactive tabs and saves them, keeping your browser tidy.   | [Check Out](https://chrome.google.com/webstore/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh) |
+| `Tab Suspender`       | Reduces memory usage by suspending unused tabs.                                 | [Check Out](https://chrome.google.com/webstore/detail/tab-suspender/tab-suspender) |
+| `Toby for Tabs`       | Organize tabs into collections and save sessions for later use.                 | [Check Out](https://www.gettoby.com/) |
+| `Take Webpage Screenshots Entirely` | Capture full-page screenshots and save as image or PDF.                     | [Check Out](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) |
+| `Tampermonkey`        | Allows running custom user scripts to modify web pages.                         | [Check Out](https://www.tampermonkey.net/) |
+| `Text Blaze`          | Insert text snippets anywhere using keyboard shortcuts.                         | [Check Out](https://blaze.today/) |
+
+## Plugin Pantry – Browser Extensions (U)
+
+| **Extension**            | **Description**                                                                  | **Link** |
+|--------------------------|-----------------------------------------------------------------------------------|----------|
+| `Unpaywall`              | Access free, legal full-text research papers from thousands of journals.         | [Check Out](https://unpaywall.org/products/extension) |
+| `User-Agent Switcher`    | Spoof and switch your browser’s user-agent string to test web compatibility.     | [Check Out](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/fbcohnmimjicjdomonkcbcpbpnhggkip) |
+| `uBlock Origin`          | Efficient and lightweight ad blocker with extensive filter options.              | [Check Out](https://ublockorigin.com/) |
+| `URL Render`             | Preview URLs inline in Google Docs and Notion (or any site).                     | [Check Out](https://chrome.google.com/webstore/detail/url-render/ahfdpmplddapljbbhbdcdfljgjmjkpap) |
+
