@@ -26,3 +26,11 @@
 | `CodeSnap`                  | Take beautiful screenshots of your code right from VS Code                      | [Check Out](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) |
 | `Cypress Snippets`          | Snippets for Cypress testing framework                                          | [Check Out](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.cypress-snippets) |
 
+## Plugin Pantry – VS Code Extensions (D)
+
+| **Extension**                | **Description**                                                                 | **Link** |
+|------------------------------|----------------------------------------------------------------------------------|----------|
+| `Docker`                     | Adds syntax highlighting, commands, and integration for Docker and Docker Compose | [Check Out](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) |
+| `DotENV`                     | Syntax highlighting for `.env` files                                            | [Check Out](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) |
+| `Debugger for Chrome`        | Debug your JavaScript code in Chrome directly from VS Code                      | [Check Out](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) |
+| `Draw.io Integration`        | Create and edit diagrams directly in VS Code using the Draw.io interface        | [Check Out](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) |
