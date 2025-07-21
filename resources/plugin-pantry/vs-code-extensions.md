@@ -16,3 +16,13 @@
 | `Beautify`                  | Beautify code in many programming languages (e.g., HTML, CSS, JavaScript)    | [Check Out](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) |
 | `Bookmarks`                 | Mark important positions in code to navigate quickly                         | [Check Out](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) |
 
+## Plugin Pantry – VS Code Extensions (C)
+
+| **Extension**               | **Description**                                                                 | **Link** |
+|-----------------------------|----------------------------------------------------------------------------------|----------|
+| `Code Spell Checker`        | Checks for common spelling errors in comments, strings, etc.                    | [Check Out](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) |
+| `Color Highlight`           | Highlights web colors in your code (e.g., hex, rgb, hsl)                        | [Check Out](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) |
+| `CSS Peek`                  | Allows you to jump to CSS definitions from HTML or JSX classes                  | [Check Out](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) |
+| `CodeSnap`                  | Take beautiful screenshots of your code right from VS Code                      | [Check Out](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) |
+| `Cypress Snippets`          | Snippets for Cypress testing framework                                          | [Check Out](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.cypress-snippets) |
+
