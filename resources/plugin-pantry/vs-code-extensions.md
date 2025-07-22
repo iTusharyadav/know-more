@@ -64,3 +64,13 @@
 | `Go`                       | Rich language support for the Go programming language                        | [Check Out](https://marketplace.visualstudio.com/items?itemName=golang.go) |
 | `Git Graph`                | Visualize and manage your Git repositories graphically                       | [Check Out](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) |
 
+## Plugin Pantry – VS Code Extensions (H)
+
+| **Extension**                | **Description**                                                           | **Link** |
+|------------------------------|---------------------------------------------------------------------------|----------|
+| `HTML CSS Support`           | IntelliSense for CSS class names in HTML                                 | [Check Out](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) |
+| `HTML Snippets`              | HTML boilerplate and commonly used tag shortcuts                         | [Check Out](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) |
+| `Highlight Matching Tag`     | Highlights the matching HTML/XML tag with customizable styling            | [Check Out](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) |
+| `Headwind`                   | Tailwind CSS class sorter                                                 | [Check Out](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind) |
+| `Helm Intellisense`          | Autocompletion and syntax checking for Helm chart templates               | [Check Out](https://marketplace.visualstudio.com/items?itemName=Tim-Koehler.helm-intellisense) |
+
