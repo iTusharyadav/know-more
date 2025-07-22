@@ -43,3 +43,14 @@
 | `Error Lens`            | Highlights errors, warnings, and other issues inline in the editor       | [Check Out](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) |
 | `EditorConfig`          | Helps maintain consistent coding styles between editors and IDEs         | [Check Out](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) |
 | `Emoji Snippets`        | Quickly insert emoji from a list of commonly used ones                   | [Check Out](https://marketplace.visualstudio.com/items?itemName=bierner.emoji) |
+
+## Plugin Pantry – VS Code Extensions (F)
+
+| **Extension**              | **Description**                                                           | **Link** |
+|----------------------------|----------------------------------------------------------------------------|----------|
+| `FastAPI Snippets`         | Snippets for building FastAPI apps quickly                                | [Check Out](https://marketplace.visualstudio.com/items?itemName=paolorotolo.fastapi-snippets) |
+| `File Utils`               | Powerful file management (create, duplicate, move, rename)                | [Check Out](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) |
+| `Flutter`                  | Official support for Flutter apps with Dart                               | [Check Out](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) |
+| `FontSize Shortcuts`       | Easily increase/decrease editor font size with keyboard shortcuts         | [Check Out](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) |
+| `French Language Pack`     | Translates VS Code UI to French                                            | [Check Out](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr) |
+
