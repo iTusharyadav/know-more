@@ -74,3 +74,12 @@
 | `Headwind`                   | Tailwind CSS class sorter                                                 | [Check Out](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind) |
 | `Helm Intellisense`          | Autocompletion and syntax checking for Helm chart templates               | [Check Out](https://marketplace.visualstudio.com/items?itemName=Tim-Koehler.helm-intellisense) |
 
+## Plugin Pantry – VS Code Extensions (I)
+
+| **Extension**               | **Description**                                                        | **Link** |
+|-----------------------------|------------------------------------------------------------------------|----------|
+| `Indent-Rainbow`            | Colorizes the indentation levels in your code                          | [Check Out](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) |
+| `Import Cost`               | Displays the size of imported packages inline                          | [Check Out](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) |
+| `Icons (VSCode Icons)`      | Adds icons to VS Code for a more visual file navigation experience     | [Check Out](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) |
+| `IntelliCode`               | AI-assisted IntelliSense for smarter code completions                  | [Check Out](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) |
+| `Image Preview`             | Preview images directly inside your editor                             | [Check Out](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) |
