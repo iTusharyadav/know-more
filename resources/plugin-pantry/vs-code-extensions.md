@@ -54,3 +54,13 @@
 | `FontSize Shortcuts`       | Easily increase/decrease editor font size with keyboard shortcuts         | [Check Out](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) |
 | `French Language Pack`     | Translates VS Code UI to French                                            | [Check Out](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr) |
 
+## Plugin Pantry – VS Code Extensions (G)
+
+| **Extension**              | **Description**                                                               | **Link** |
+|----------------------------|-------------------------------------------------------------------------------|----------|
+| `GitLens`                  | Supercharges the Git capabilities built into VS Code                         | [Check Out](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
+| `GitHub Copilot`           | AI pair programmer that helps you write code faster                          | [Check Out](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) |
+| `GraphQL`                  | Syntax highlighting, validation, and IntelliSense for GraphQL                | [Check Out](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql) |
+| `Go`                       | Rich language support for the Go programming language                        | [Check Out](https://marketplace.visualstudio.com/items?itemName=golang.go) |
+| `Git Graph`                | Visualize and manage your Git repositories graphically                       | [Check Out](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) |
+
