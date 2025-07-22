@@ -34,3 +34,12 @@
 | `DotENV`                     | Syntax highlighting for `.env` files                                            | [Check Out](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) |
 | `Debugger for Chrome`        | Debug your JavaScript code in Chrome directly from VS Code                      | [Check Out](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) |
 | `Draw.io Integration`        | Create and edit diagrams directly in VS Code using the Draw.io interface        | [Check Out](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) |
+
+## Plugin Pantry – VS Code Extensions (E)
+
+| **Extension**           | **Description**                                                         | **Link** |
+|-------------------------|--------------------------------------------------------------------------|----------|
+| `ESLint`                | Integrates ESLint JavaScript/TypeScript linter into VS Code              | [Check Out](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) |
+| `Error Lens`            | Highlights errors, warnings, and other issues inline in the editor       | [Check Out](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) |
+| `EditorConfig`          | Helps maintain consistent coding styles between editors and IDEs         | [Check Out](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) |
+| `Emoji Snippets`        | Quickly insert emoji from a list of commonly used ones                   | [Check Out](https://marketplace.visualstudio.com/items?itemName=bierner.emoji) |
