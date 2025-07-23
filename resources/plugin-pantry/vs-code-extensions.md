@@ -83,3 +83,14 @@
 | `Icons (VSCode Icons)`      | Adds icons to VS Code for a more visual file navigation experience     | [Check Out](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) |
 | `IntelliCode`               | AI-assisted IntelliSense for smarter code completions                  | [Check Out](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) |
 | `Image Preview`             | Preview images directly inside your editor                             | [Check Out](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) |
+
+## Plugin Pantry – VS Code Extensions (J)
+
+| **Extension**           | **Description**                                                        | **Link** |
+|--------------------------|------------------------------------------------------------------------|----------|
+| `Java Extension Pack`    | Popular extensions for Java development (language support, debugging) | [Check Out](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) |
+| `Jupyter`                | Support for running Jupyter Notebooks inside VS Code                   | [Check Out](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) |
+| `Jest`                   | Testing framework integration for JavaScript/TypeScript using Jest     | [Check Out](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) |
+| `JavaScript Booster`     | Improve code structure and refactor JS with ease                       | [Check Out](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster) |
+| `Jinja`                  | Syntax highlighting for Jinja templating engine                        | [Check Out](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja) |
+
