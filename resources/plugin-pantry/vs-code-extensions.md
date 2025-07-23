@@ -111,3 +111,13 @@
 | `Lua`                 | Language support and snippets for Lua programming                              | [Check Out](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) |
 | `LTeX`                | LanguageTool grammar/spell checker in VS Code for Markdown, LaTeX, etc.         | [Check Out](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) |
 
+## Plugin Pantry – VS Code Extensions (M)
+
+| **Extension**             | **Description**                                                                       | **Link** |
+|----------------------------|-----------------------------------------------------------------------------------------|----------|
+| `Markdown All in One`     | All-in-one support for Markdown (preview, TOC, shortcuts, etc.)                        | [Check Out](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) |
+| `Material Icon Theme`     | File icons theme inspired by Material Design                                           | [Check Out](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |
+| `MongoDB for VS Code`     | Connect and interact with MongoDB within VS Code                                      | [Check Out](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) |
+| `Markdown Preview Enhanced` | Powerful Markdown preview with math, diagrams, and more                             | [Check Out](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) |
+| `Makefile Tools`          | Help writing, navigating, and running Makefile commands                               | [Check Out](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools) |
+
