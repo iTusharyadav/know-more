@@ -101,3 +101,13 @@
 | `Kubernetes`         | Tools for authoring, deploying, and debugging Kubernetes manifests       | [Check Out](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) |
 | `Karma Test Explorer`| Run and debug Karma tests from the Test Explorer                        | [Check Out](https://marketplace.visualstudio.com/items?itemName=HolgerBenl.vscode-karma-test-adapter) |
 
+## Plugin Pantry – VS Code Extensions (L)
+
+| **Extension**        | **Description**                                                                 | **Link** |
+|-----------------------|---------------------------------------------------------------------------------|----------|
+| `Live Server`         | Launch a local development server with live reload for static & dynamic pages  | [Check Out](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
+| `Live Share`          | Real-time collaborative development with team members                           | [Check Out](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) |
+| `LaTeX Workshop`      | LaTeX editing support with PDF preview and compilation                         | [Check Out](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) |
+| `Lua`                 | Language support and snippets for Lua programming                              | [Check Out](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) |
+| `LTeX`                | LanguageTool grammar/spell checker in VS Code for Markdown, LaTeX, etc.         | [Check Out](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) |
+
