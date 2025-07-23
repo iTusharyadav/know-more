@@ -94,3 +94,10 @@
 | `JavaScript Booster`     | Improve code structure and refactor JS with ease                       | [Check Out](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster) |
 | `Jinja`                  | Syntax highlighting for Jinja templating engine                        | [Check Out](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja) |
 
+## Plugin Pantry – VS Code Extensions (K)
+
+| **Extension**       | **Description**                                                          | **Link** |
+|----------------------|--------------------------------------------------------------------------|----------|
+| `Kubernetes`         | Tools for authoring, deploying, and debugging Kubernetes manifests       | [Check Out](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) |
+| `Karma Test Explorer`| Run and debug Karma tests from the Test Explorer                        | [Check Out](https://marketplace.visualstudio.com/items?itemName=HolgerBenl.vscode-karma-test-adapter) |
+
