@@ -146,3 +146,84 @@
 | `Prettier`             | Code formatter for consistent styling across many languages                    | [Check Out](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
 | `Project Manager`      | Easily switch between projects                                                  | [Check Out](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) |
 
+## Plugin Pantry – VS Code Extensions (Q)
+
+| **Extension**       | **Description**                                                             | **Link** |
+|--------------------|-----------------------------------------------------------------------------|----------|
+| `Quokka.js`         | Live scratchpad for JavaScript and TypeScript with real-time feedback       | [Check Out](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) |
+
+## Plugin Pantry – VS Code Extensions (R)
+
+| **Extension**         | **Description**                                                                 | **Link** |
+|----------------------|----------------------------------------------------------------------------------|----------|
+| `React Developer Tools` | Adds debugging tools for React apps                                           | [Check Out](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) |
+| `REST Client`         | Send HTTP requests and view responses directly in VS Code                       | [Check Out](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) |
+| `Rainbow Brackets`    | Adds rainbow colors to matching brackets for better readability                 | [Check Out](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) |
+| `Regex Previewer`     | Preview and debug your regular expressions in real time                         | [Check Out](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) |
+
+## Plugin Pantry – VS Code Extensions (S)
+
+| **Extension**            | **Description**                                                               | **Link** |
+|-------------------------|--------------------------------------------------------------------------------|----------|
+| `SCSS IntelliSense`      | Advanced autocomplete and linting for SCSS                                    | [Check Out](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) |
+| `Sass`                   | Syntax highlighting, formatting, and linting support for Sass                 | [Check Out](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) |
+| `Settings Sync`          | Syncs VS Code settings, extensions, and snippets using GitHub Gist            | [Check Out](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) |
+| `SVG Viewer`             | Preview SVG files directly in the editor                                      | [Check Out](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) |
+| `SQLTools`               | Database management and querying tool                                         | [Check Out](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) |
+
+## Plugin Pantry – VS Code Extensions (T)
+
+| **Extension**         | **Description**                                                                | **Link** |
+|----------------------|----------------------------------------------------------------------------------|----------|
+| `TabNine`             | AI-powered autocompletion extension for faster coding                           | [Check Out](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) |
+| `Tailwind CSS IntelliSense` | Intelligent autocompletion, syntax highlighting, and linting for Tailwind CSS | [Check Out](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) |
+| `Thunder Client`      | Lightweight REST API client for testing APIs inside VS Code                     | [Check Out](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) |
+| `TODO Highlight`      | Highlights TODOs, FIXMEs, and custom tags in code comments                      | [Check Out](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) |
+| `TSLint`              | Linter for TypeScript (deprecated in favor of ESLint, but still used in some setups) | [Check Out](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) |
+
+## Plugin Pantry – VS Code Extensions (U)
+
+| **Extension**           | **Description**                                                           | **Link** |
+|------------------------|---------------------------------------------------------------------------|----------|
+| `UUID Generator`        | Quickly generate UUIDs directly within VS Code                            | [Check Out](https://marketplace.visualstudio.com/items?itemName=JannikHV.vscode-uuid-generator) |
+| `Unicode Latex`         | Converts Unicode characters to LaTeX-like expressions for quick typing    | [Check Out](https://marketplace.visualstudio.com/items?itemName=james-yu.unicode-latex) |
+| `Update Dependencies`   | Helps identify and update outdated dependencies in `package.json`         | [Check Out](https://marketplace.visualstudio.com/items?itemName=henoc.update-dependencies) |
+
+## Plugin Pantry – VS Code Extensions (V)
+
+| **Extension**          | **Description**                                                             | **Link** |
+|------------------------|------------------------------------------------------------------------------|----------|
+| `vscode-icons`          | Adds file-specific icons to your VS Code workspace                         | [Check Out](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) |
+| `Vetur`                 | Vue tooling for VS Code, including syntax highlighting, snippets, etc.     | [Check Out](https://marketplace.visualstudio.com/items?itemName=octref.vetur) |
+| `Version Lens`          | Shows the latest version for each package dependency in your `package.json`| [Check Out](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) |
+| `Visual Studio IntelliCode` | AI-assisted code completions tailored to your patterns              | [Check Out](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) |
+
+## Plugin Pantry – VS Code Extensions (W)
+
+| **Extension**             | **Description**                                                                 | **Link** |
+|---------------------------|----------------------------------------------------------------------------------|----------|
+| `Wallaby.js`              | Intelligent test runner for JavaScript that shows test results in real-time     | [Check Out](https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode) |
+| `WakaTime`                | Metrics, insights, and time tracking automatically generated while you code     | [Check Out](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) |
+| `Webpack`                 | Syntax highlighting and IntelliSense for `webpack.config.js`                   | [Check Out](https://marketplace.visualstudio.com/items?itemName=chuckjonas.webpack) |
+| `Word Count`              | Displays word and character count in the VS Code status bar                    | [Check Out](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount) |
+
+## Plugin Pantry – VS Code Extensions (X)
+
+| **Extension**       | **Description**                                                       | **Link** |
+|---------------------|--------------------------------------------------------------------------|----------|
+| `XML Tools`         | XML formatting, tag auto-close, and XPath evaluation for XML files     | [Check Out](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) |
+| `Xcode for VS Code` | Helps bridge iOS/macOS development by integrating Xcode with VS Code   | [Check Out](https://marketplace.visualstudio.com/items?itemName=ms-vscode.xcode) |
+
+## Plugin Pantry – VS Code Extensions (Y)
+
+| **Extension**      | **Description**                                                             | **Link** |
+|--------------------|------------------------------------------------------------------------------|----------|
+| `YAML`             | Language support for YAML, including validation, snippets, and formatting    | [Check Out](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) |
+| `YOLOv5 Snippets`  | Snippets and code completions for working with YOLOv5 object detection       | [Check Out](https://marketplace.visualstudio.com/items?itemName=dr8sniper.yolov5-snippets) |
+
+## Plugin Pantry – VS Code Extensions (Z)
+
+| **Extension**        | **Description**                                                                | **Link** |
+|----------------------|--------------------------------------------------------------------------------|----------|
+| `Zig Language`       | Provides Zig language support including syntax highlighting and snippets       | [Check Out](https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig) |
+| `Zenn Editor`        | A Markdown previewer and editor optimized for writing on [Zenn.dev](https://zenn.dev) | [Check Out](https://marketplace.visualstudio.com/items?itemName=zenn-dev.zenn-editor) |
