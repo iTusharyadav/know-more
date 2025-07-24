@@ -121,3 +121,28 @@
 | `Markdown Preview Enhanced` | Powerful Markdown preview with math, diagrams, and more                             | [Check Out](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) |
 | `Makefile Tools`          | Help writing, navigating, and running Makefile commands                               | [Check Out](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools) |
 
+## Plugin Pantry – VS Code Extensions (N)
+
+| **Extension**     | **Description**                                                       | **Link** |
+|------------------|-----------------------------------------------------------------------|----------|
+| `NPM Intellisense` | Auto-completion for npm modules in import statements                | [Check Out](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) |
+| `Night Owl`        | VS Code theme optimized for night time coding                        | [Check Out](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) |
+| `npm Dependency Links` | Makes `package.json` dependencies clickable to open on npm       | [Check Out](https://marketplace.visualstudio.com/items?itemName=alexiv.vscode-npm-dependency-links) |
+
+## Plugin Pantry – VS Code Extensions (O)
+
+| **Extension**           | **Description**                                                                  | **Link** |
+|------------------------|----------------------------------------------------------------------------------|----------|
+| `One Dark Pro`          | Atom’s iconic One Dark theme for VS Code                                         | [Check Out](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) |
+| `Open in Browser`       | Allows you to open HTML files in your browser directly from VS Code              | [Check Out](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) |
+| `Output Colorizer`      | Adds color to the output/debug/terminal windows to make logs more readable       | [Check Out](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) |
+
+## Plugin Pantry – VS Code Extensions (P)
+
+| **Extension**          | **Description**                                                                 | **Link** |
+|-----------------------|----------------------------------------------------------------------------------|----------|
+| `Path Intellisense`    | Autocompletes filenames in your workspace                                       | [Check Out](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) |
+| `Peacock`              | Subtly change the VS Code workspace color (useful for multi-project contexts)  | [Check Out](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) |
+| `Prettier`             | Code formatter for consistent styling across many languages                    | [Check Out](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
+| `Project Manager`      | Easily switch between projects                                                  | [Check Out](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) |
+
