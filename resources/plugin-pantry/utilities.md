@@ -73,3 +73,10 @@
 | `Hoxx VPN Proxy`  | Free VPN extension for anonymous browsing and access               | [Check Out](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh) |
 | `Hunter – Email Finder` | Find email addresses associated with websites or domains   | [Check Out](https://chrome.google.com/webstore/detail/email-finder-by-hunter/ioalpmibngobedobkmbhgmadaphocjdn) |
 
+## Plugin Pantry – Utilities (I)
+
+| **Utility**         | **Description**                                                     | **Link** |
+|---------------------|---------------------------------------------------------------------|----------|
+| `Imagus`            | Hover to enlarge thumbnails and images across many websites        | [Check Out](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) |
+| `Infinity New Tab`  | Customizable new tab page with productivity tools and bookmarks     | [Check Out](https://chrome.google.com/webstore/detail/infinity-new-tab-produti/nfbcopdbffgkjojpjamoelgfkkgafkdh) |
+| `IP Address and Domain Info` | Shows IP, geolocation, ISP, DNS info of a site you're visiting | [Check Out](https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/gikopjekmlajgoknekbigcfeacacejkj) |
