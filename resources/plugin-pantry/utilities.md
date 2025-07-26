@@ -66,3 +66,10 @@
 | `Google Dictionary` | View definitions of words as you browse the web                  | [Check Out](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) |
 | `Google Translate` | Instantly translates words and phrases as you browse              | [Check Out](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) |
 
+## Plugin Pantry – Utilities (H)
+
+| **Utility**       | **Description**                                                    | **Link** |
+|-------------------|--------------------------------------------------------------------|----------|
+| `Hoxx VPN Proxy`  | Free VPN extension for anonymous browsing and access               | [Check Out](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh) |
+| `Hunter – Email Finder` | Find email addresses associated with websites or domains   | [Check Out](https://chrome.google.com/webstore/detail/email-finder-by-hunter/ioalpmibngobedobkmbhgmadaphocjdn) |
+
