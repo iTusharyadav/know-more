@@ -80,3 +80,99 @@
 | `Imagus`            | Hover to enlarge thumbnails and images across many websites        | [Check Out](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) |
 | `Infinity New Tab`  | Customizable new tab page with productivity tools and bookmarks     | [Check Out](https://chrome.google.com/webstore/detail/infinity-new-tab-produti/nfbcopdbffgkjojpjamoelgfkkgafkdh) |
 | `IP Address and Domain Info` | Shows IP, geolocation, ISP, DNS info of a site you're visiting | [Check Out](https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/gikopjekmlajgoknekbigcfeacacejkj) |
+
+## Plugin Pantry – Utilities (J)
+
+| **Utility**         | **Description**                                                        | **Link** |
+|---------------------|------------------------------------------------------------------------|----------|
+| `JSON Viewer`       | Beautify and format JSON content directly in your browser              | [Check Out](https://chrome.google.com/webstore/detail/json-viewer/aimiinbnnkboelefkjlenlgimcabobli) |
+| `Just Read`         | Removes ads and distractions from articles for a clean reading view    | [Check Out](https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod) |
+
+## Plugin Pantry – Utilities (K)
+
+| **Utility**     | **Description**                                                        | **Link** |
+|------------------|------------------------------------------------------------------------|----------|
+| `Keepa`          | Amazon price tracker that shows price history charts for products      | [Check Out](https://chrome.google.com/webstore/detail/keepa-%E2%80%93-amazon-price-trac/neebplgakaahbhdphmkckjjcegoiijjo) |
+| `Keywords Everywhere` | Shows search volume, CPC, and competition data on search engines   | [Check Out](https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp) |
+
+## Plugin Pantry – Utilities (L)
+
+| **Utility**        | **Description**                                                                 | **Link** |
+|--------------------|---------------------------------------------------------------------------------|----------|
+| `Lighthouse`        | Open-source tool by Google for auditing web performance, accessibility, and SEO | [Check Out](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) |
+| `LanguageTool`      | Grammar and style checker for multiple languages                               | [Check Out](https://chrome.google.com/webstore/detail/languagetool-writing-ass/kfnbfpmcilhfgmmlnjjkhgohmlfhhmof) |
+| `Library Sniffer`   | Detects JavaScript libraries running on websites                                | [Check Out](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) |
+
+## Plugin Pantry – Utilities (M)
+
+| **Utility**         | **Description**                                                              | **Link** |
+|---------------------|------------------------------------------------------------------------------|----------|
+| `Markdown Viewer`   | View markdown files directly in your browser                                 | [Check Out](https://chrome.google.com/webstore/detail/markdown-viewer/cnknphkblfijcdmenogjcdgcbacahhjd) |
+| `Momentum`          | Replaces new tab with a personal dashboard featuring to-dos and inspiration | [Check Out](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) |
+| `Meta SEO Inspector`| Analyzes metadata and SEO attributes of web pages                            | [Check Out](https://chrome.google.com/webstore/detail/meta-seo-inspector/bjogjfinolnhfhkbipphpdlldadpnmhc) |
+
+## Plugin Pantry – Utilities (N)
+
+| **Utility**             | **Description**                                                        | **Link** |
+|-------------------------|------------------------------------------------------------------------|----------|
+| `Nimbus Screenshot`     | Capture full web page screenshots, record screencasts, and annotate   | [Check Out](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj) |
+| `NoScript`              | Allow active content only from trusted domains                         | [Check Out](https://noscript.net/) |
+| `Notion Web Clipper`    | Save any webpage into Notion for later reference                       | [Check Out](https://www.notion.so/web-clipper) |
+| `News Feed Eradicator`  | Replace social media feeds with inspirational quotes                   | [Check Out](https://chrome.google.com/webstore/detail/news-feed-eradicator/nahfplnccblhhbngffifbffbdbbdodam) |
+
+## Plugin Pantry – Utilities (O)
+
+| **Utility**       | **Description**                                                                 | **Link** |
+|-------------------|---------------------------------------------------------------------------------|----------|
+| `Octotree`         | GitHub code tree extension for easy file navigation                            | [Check Out](https://www.octotree.io/) |
+| `OneTab`           | Convert all your tabs into a list to save memory and declutter Chrome          | [Check Out](https://www.one-tab.com/) |
+| `Omni`             | Launcher for Chrome to search tabs, bookmarks, history, and commands           | [Check Out](https://chrome.google.com/webstore/detail/omni-search-tabs-history/pbdmjmcbdhhhcicgokcceadeemdcmnbf) |
+| `Open Multiple URLs` | Open many URLs at once in new tabs by pasting them in                        | [Check Out](https://chrome.google.com/webstore/detail/open-multiple-urls/jopjeaiilkcibeohjdmejhoifenbnmlh) |
+
+## Plugin Pantry – Utilities (P)
+
+| **Utility**         | **Description**                                                               | **Link** |
+|---------------------|-------------------------------------------------------------------------------|----------|
+| `Page Ruler Redux`  | Draw a ruler to get pixel dimensions and positioning on web pages             | [Check Out](https://chrome.google.com/webstore/detail/page-ruler-redux/hgohhkiodkdpmkgljaigbikjjbinhimh) |
+| `Password Alert`    | Alerts you if you type your Google password into a non-Google site            | [Check Out](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep) |
+| `Planyway`          | Calendar, timeline, and resource planning for Trello                          | [Check Out](https://chrome.google.com/webstore/detail/planyway-calendar-for-tr/ncoibcjnofhmlhohjmelmpeomcmkglmo) |
+| `Poper Blocker`     | Blocks popups and overlays more effectively                                   | [Check Out](https://chrome.google.com/webstore/detail/poper-blocker-best-popup/lcjdmblmddgcfpdhhdnmgbekcdgjhppi) |
+| `Postman Interceptor` | Sync Postman with browser cookies for advanced API testing                 | [Check Out](https://chrome.google.com/webstore/detail/postman-interceptor/idgpnmonknjnojddfkpgkljpfnnfcklj) |
+
+## Plugin Pantry – Utilities (Q)
+
+| **Utility**              | **Description**                                                                 | **Link** |
+|--------------------------|---------------------------------------------------------------------------------|----------|
+| `Quick JavaScript Switcher` | Easily enable/disable JavaScript on websites from the toolbar                  | [Check Out](https://chrome.google.com/webstore/detail/quick-javascript-switcher/jgbbilmfbammlbbhmmgaagdkbkepnijn) |
+| `Qlearly`                | Bookmark manager with a tabbed and visual interface                            | [Check Out](https://chrome.google.com/webstore/detail/qlearly-tab-manager/ijllcpnolfcooahcekpamkbidhejabll) |
+
+## Plugin Pantry – Utilities (R)
+
+| **Utility**              | **Description**                                                              | **Link** |
+|--------------------------|------------------------------------------------------------------------------|----------|
+| `React Developer Tools`  | Debug React apps with component hierarchy inspection and performance monitor | [Check Out](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) |
+| `Redirect Path`          | Flags HTTP status codes (301, 302, 404, etc.) and redirect chains            | [Check Out](https://chrome.google.com/webstore/detail/redirect-path/nnffjcfgpdjlpdfgbnfmnaibdcgglgke) |
+| `RescueTime`             | Tracks time spent on websites and apps for productivity insights             | [Check Out](https://www.rescuetime.com/) |
+| `Return YouTube Dislike` | Brings back dislike count on YouTube videos                                  | [Check Out](https://returnyoutubedislike.com/) |
+| `Reader Mode`            | Removes clutter from webpages for a clean reading experience                 | [Check Out](https://chrome.google.com/webstore/detail/reader-mode/llimhhconnjiflfimocjggfjdlmlhblm) |
+
+## Plugin Pantry – Utilities (S)
+
+| **Utility**           | **Description**                                                              | **Link** |
+|-----------------------|------------------------------------------------------------------------------|----------|
+| `Session Buddy`       | Manage and save Chrome sessions, tabs, and windows                          | [Check Out](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) |
+| `SimpleExtManager`    | Quickly enable/disable Chrome extensions                                     | [Check Out](https://chrome.google.com/webstore/detail/simpleextmanager/hnbmfgmbjnpdjkgojcjacpbndhjpkkcj) |
+| `Screencastify`       | Easy screen recorder for Chrome, useful for tutorials and bug reports        | [Check Out](https://www.screencastify.com/) |
+| `Save to Pocket`      | Save web content to view later from any device                               | [Check Out](https://chrome.google.com/webstore/detail/save-to-pocket/mlcahbknnmogmndcmbmfiehfppfofdgp) |
+| `Stylus`              | Customize website appearance with user CSS                                   | [Check Out](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) |
+
+## Plugin Pantry – Utilities (T)
+
+| **Utility**          | **Description**                                                        | **Link** |
+|----------------------|------------------------------------------------------------------------|----------|
+| `Tab Wrangler`        | Automatically closes inactive tabs but saves them for later access     | [Check Out](https://chrome.google.com/webstore/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh) |
+| `The Great Suspender` | Suspends unused tabs to free up system memory                          | [Check Out](https://chrome.google.com/webstore/detail/the-great-suspender-original/ahmkjjgdligadogjedmnogbpbcpofeeo) |
+| `Todoist`             | Task manager and to-do list extension for Chrome and browser workflow  | [Check Out](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh) |
+| `Tab Resize`          | Split and organize tabs into preset layouts                            | [Check Out](https://chrome.google.com/webstore/detail/tab-resize-split-screen-la/ogfjfdchcjcnhdgcbmfmclhhdpocjelm) |
+| `Tabli`               | Tab manager for saving and restoring browser tab groups                | [Check Out](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) |
+
