@@ -190,3 +190,17 @@
 | `Video Speed Controller` | Lets you speed up, slow down, rewind, and advance HTML5 videos with keyboard shortcuts | [Check Out](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) |
 | `VisBug`            | Open-source design tool that lets you tweak layouts and styles directly in the browser | [Check Out](https://chrome.google.com/webstore/detail/visbug/abkfbakhjpmblaafnpgphajgdfmblhbl) |
 
+## Plugin Pantry – Utilities (W)
+
+| **Utility**         | **Description**                                                        | **Link** |
+|---------------------|------------------------------------------------------------------------|----------|
+| `WhatFont`          | Identify fonts on any webpage instantly just by hovering              | [Check Out](https://chrome.google.com/webstore/detail/whatfont/dgmanlpmmkibanfdgjocnabmcaclkmod) |
+| `Wappalyzer`        | Uncover technologies used on websites (CMS, eCommerce, frameworks, etc.) | [Check Out](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) |
+| `Window Resizer`    | Resize browser windows to emulate various screen resolutions           | [Check Out](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) |
+
+## Plugin Pantry – Utilities (X)
+
+| **Utility**      | **Description**                                                   | **Link** |
+|------------------|-------------------------------------------------------------------|----------|
+| `XPath Helper`   | Easily extract, edit, and evaluate XPath queries on any webpage  | [Check Out](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) |
+
