@@ -204,3 +204,14 @@
 |------------------|-------------------------------------------------------------------|----------|
 | `XPath Helper`   | Easily extract, edit, and evaluate XPath queries on any webpage  | [Check Out](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) |
 
+## Plugin Pantry – Utilities (Y)
+
+| **Utility**        | **Description**                                                          | **Link** |
+|--------------------|--------------------------------------------------------------------------|----------|
+| `YouTube Enhancer` | Browser extension to enhance YouTube with features like adblock, themes, keyboard controls, etc. | [Check Out](https://chrome.google.com/webstore/detail/enhancer-for-youtube™/ponfpcnoihfmfllpaingbgckeeldkhle) |
+
+## Plugin Pantry – Utilities (Z)
+
+| **Utility**     | **Description**                                                | **Link** |
+|------------------|----------------------------------------------------------------|----------|
+| `Zoom Scheduler` | Chrome extension to quickly schedule Zoom meetings via Google Calendar. | [Check Out](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle) |
