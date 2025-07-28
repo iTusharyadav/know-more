@@ -176,3 +176,10 @@
 | `Tab Resize`          | Split and organize tabs into preset layouts                            | [Check Out](https://chrome.google.com/webstore/detail/tab-resize-split-screen-la/ogfjfdchcjcnhdgcbmfmclhhdpocjelm) |
 | `Tabli`               | Tab manager for saving and restoring browser tab groups                | [Check Out](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) |
 
+## Plugin Pantry – Utilities (U)
+
+| **Utility**       | **Description**                                                         | **Link** |
+|-------------------|-------------------------------------------------------------------------|----------|
+| `uBlock Origin`   | Efficient, lightweight ad blocker with broad filtering capabilities     | [Check Out](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) |
+| `User JavaScript and CSS` | Customize websites with your own JavaScript or CSS                  | [Check Out](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) |
+
