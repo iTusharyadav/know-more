@@ -183,3 +183,10 @@
 | `uBlock Origin`   | Efficient, lightweight ad blocker with broad filtering capabilities     | [Check Out](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) |
 | `User JavaScript and CSS` | Customize websites with your own JavaScript or CSS                  | [Check Out](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) |
 
+## Plugin Pantry – Utilities (V)
+
+| **Utility**         | **Description**                                                        | **Link** |
+|---------------------|------------------------------------------------------------------------|----------|
+| `Video Speed Controller` | Lets you speed up, slow down, rewind, and advance HTML5 videos with keyboard shortcuts | [Check Out](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) |
+| `VisBug`            | Open-source design tool that lets you tweak layouts and styles directly in the browser | [Check Out](https://chrome.google.com/webstore/detail/visbug/abkfbakhjpmblaafnpgphajgdfmblhbl) |
+
