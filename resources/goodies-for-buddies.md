@@ -1,3 +1,15 @@
+| **Platform**                   | **Description**                                                                                          | **Official Link**                                                                      |
+|-------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| `Appwrite Hacktoberfest`      | Annual Appwrite Hacktoberfest program where participants can win swag like T-shirts and stickers.        | [Check Out](https://hacktoberfest.appwrite.io/)                                       |
+| `Auth0 Ambassador Program`    | Auth0’s official ambassador program offering exclusive swag, event support, and more for contributors.   | [Check Out](https://auth0.com/ambassador-program)                                     |
+| `AWS Community Builders`      | AWS’s official builder program — accepted members receive swag kits (hoodies, mugs, stickers, etc.).     | [Check Out](https://aws.amazon.com/developer/community/community-builders/)           |
+| `AWS Community Builders Swag` | Blog post showing examples of official AWS swag given to community builders.                            | [Check Out](https://builder.aws.com/content/2rRiSDzQ4LqUvdjf7NaaDu2FR5T/aws-community-builders-program-unlock-opportunities) |
+
+| **Platform**           | **Description**                                                                                   | **Official Link**                                                                          |
+|------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| `Bagisto Rewards`      | Contribute 4+ PRs to the Bagisto project to earn official swag: T-shirts, stickers, notebooks, pen. | [Check Out](https://bagisto.com/en/community/#contribute)                                 |
+| `Balsamiq Open Source` | When you contribute to Balsamiq’s open-source repos (via pull requests), you can receive a swag pack. | [Check Out](https://github.com/balsamiq)                                                  |
+
 | **Platform**                | **Description**                                                                                          | **Official Link**                                                               |
 |-----------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | `Cisco DevNet Create`       | Cisco’s DevNet conference where attendees receive exclusive swag like T-shirts, stickers, and gear.      | [Check Out](https://developer.cisco.com/devnetcreate/) :contentReference[oaicite:1]{index=1}         |
