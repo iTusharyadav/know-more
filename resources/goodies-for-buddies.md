@@ -27,3 +27,8 @@
 | `Elastic Online Store`      | Elastic’s official store where core stickers are free (just pay shipping); T-shirts and other swag appear during special promotions or events. | [Check Out](https://www.elastic.co/blog/announcing-the-grand-opening-of-the-online-elastic-store) |
 | `Kubestronaut Program`      | CNCF’s official recognition program—selected cloud-native community leaders receive exclusive swag and goodies. | [Check Out](https://www.cncf.io/training/kubestronaut/) :contentReference[oaicite:1]{index=1}         |
 
+| **Platform**                           | **Description**                                                                                   | **Official Link**                                                                                             |
+|----------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| `Google Cloud Arcade`                  | Complete labs and quizzes in the Arcade game to earn points redeemable for swag like T-shirts, mugs, backpacks, and more. | [Check Out](https://cloud.google.com/blog/topics/training-certifications/the-arcade-with-google-cloud-game-helps-boost-cloud-skills) :contentReference[oaicite:1]{index=1} |
+| `Google Cloud Research Innovators`     | Selected researchers receive program swag along with credits, early feature access, and community perks. | [Check Out](https://cloud.google.com/edu/researchers/innovators) :contentReference[oaicite:2]{index=2} |
+
