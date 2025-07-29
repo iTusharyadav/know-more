@@ -17,3 +17,13 @@
 | `CockroachDB Events Swag Ops` | Participate in CockroachDB webinars and events (like 22.1 launch or AWS Summit) to earn limited-edition swag for early signups or demos. | [Check Out](https://www.cockroachlabs.com/cockroachdb-22-1-launch/) :contentReference[oaicite:3]{index=3} |
 | `DocuSign Community Founders Pack` | Enter DocuSign community challenges or meet developer program milestones to win exclusive “Community Founders” swag packs. | [Check Out](https://community.docusign.com/community-announcements-5/enter-to-win-a-docusign-community-founders-swag-pack-3611) :contentReference[oaicite:4]{index=4} |
 
+| **Platform**              | **Description**                                                                                                 | **Official Link**                                                                      |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| `DigitalOcean Swag Store` | Official DO swag shop where event participants and select community members can redeem swag items (shirts, stickers, etc.). | [Check Out](https://store.digitalocean.com/doswag/products) :contentReference[oaicite:1]{index=1}         |
+| `DigitalOcean Hatch Kit`  | DigitalOcean’s Hatch program for startups includes a welcome kit with DO-branded items and partner swag.       | [Check Out](https://www.digitalocean.com/hatch/welcome-kit) :contentReference[oaicite:2]{index=2}        |
+
+| **Platform**                | **Description**                                                                                               | **Official Link**                                                                    |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| `Elastic Online Store`      | Elastic’s official store where core stickers are free (just pay shipping); T-shirts and other swag appear during special promotions or events. | [Check Out](https://www.elastic.co/blog/announcing-the-grand-opening-of-the-online-elastic-store) |
+| `Kubestronaut Program`      | CNCF’s official recognition program—selected cloud-native community leaders receive exclusive swag and goodies. | [Check Out](https://www.cncf.io/training/kubestronaut/) :contentReference[oaicite:1]{index=1}         |
+
