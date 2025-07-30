@@ -45,3 +45,14 @@
 | `Jenkins Area Meetups (JAM)`   | Jenkins Area Meetups are driven by local organizers but receive support from the Jenkins project via swag (stickers, etc), promotion, and help bootstrapping and operating the meetup group. | [Check Out](https://www.jenkins.io/projects/jam/) |
 | `JupyterCon`                   | JupyterCon Online will bring a comprehensive program focused on learning together, forever. Speakers will receive detailed written guides to prepare their media, and a speaker kit (quality mic, halo lamp, branded t-shirt and swag!). | [Check Out](https://discourse.jupyter.org/t/jupytercon-online-oct-5-17-2020-proposal-deadline-extended-to-july-22/5011) |
 
+| **Platform**                          | **Description**                                                                                             | **Official Link**                                                                                             |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| `KubeCon + CloudNativeCon`            | CNCF’s flagship conference where attendees receive swag like T-shirts, stickers, and unique items.          | [Check Out](https://www.cncf.io/news/2024/11/18/siliconangle-savvy-swag-the-coolest-goodies-from-kubecon-cloudnativecon-na/) |
+| `Kubernetes Community Days (KCD)`     | Local CNCF-backed events offering swag such as T-shirts and stickers to attendees and speakers.             | [Check Out](https://github.com/cncf/kubernetes-community-days/blob/main/planning/about-organizing.md) |
+| `Kong Contributor Program`            | Contribute to Kong's open-source projects to earn points redeemable for exclusive swag in their store.      | [Check Out](https://konghq.com/community/open-source-contribution) |
+
+| **Platform**                      | **Description**                                                                                                  | **Official Link**                                                                 |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| `Loft Labs Hacktoberfest`         | Contribute to Loft Labs' open-source projects during Hacktoberfest to earn exclusive swag like T-shirts and stickers. | [Check Out](https://loft.sh/blog/loft-hacktoberfest-2021/) |
+| `LoginRadius Hacktoberfest`       | Participate in LoginRadius' Hacktoberfest by submitting PRs to their repositories and receive T-shirts and other goodies. | [Check Out](https://www.loginradius.com/blog/engineering/hacktoberfest-2021-loginradius/) |
+
