@@ -13,4 +13,11 @@
 | `awesome-selfhosted`                    | Open source apps you can self-host instead of SaaS solutions.                  | [Check Out](https://github.com/awesome-selfhosted/awesome-selfhosted) |
 | `awesome-vscode`                        | Curated list of delightful VS Code packages and resources.                     | [Check Out](https://github.com/viatsko/awesome-vscode) |
 
+## Hall of Fame – Inspiring Repositories (B)
+
+| **Repository**         | **Description**                                                              | **Link** |
+|------------------------|------------------------------------------------------------------------------|----------|
+| `Build Your Own X`     | Learn how to build your own database, OS, search engine, and more.           | [Check Out](https://github.com/codecrafters-io/build-your-own-x) |
+| `Baseten/examples`     | Example machine learning apps built with Baseten and deployed as web apps.   | [Check Out](https://github.com/baseten/examples) |
+| `Best websites a programmer should visit` | Curated list of websites useful for developers.                 | [Check Out](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) |
 
