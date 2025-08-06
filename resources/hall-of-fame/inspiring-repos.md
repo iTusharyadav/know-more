@@ -47,3 +47,66 @@
 | `Excalidraw`             | Virtual whiteboard for hand-drawn-like diagrams, loved by designers and devs.    | [Check Out](https://github.com/excalidraw/excalidraw) |
 | `Echarts`                | Powerful, interactive charting and visualization library for browser environments. | [Check Out](https://github.com/apache/echarts) |
 
+## Hall of Fame – Inspiring Repositories (F)
+
+| **Repository**           | **Description**                                                                 | **Link** |
+|--------------------------|----------------------------------------------------------------------------------|----------|
+| `FreeCodeCamp`           | Learn to code for free with thousands of videos, articles, and interactive lessons. | [Check Out](https://github.com/freeCodeCamp/freeCodeCamp) |
+| `Front-End Checklist`    | Comprehensive list of requirements for modern websites and applications.         | [Check Out](https://github.com/thedaviddias/Front-End-Checklist) |
+| `Front-End-Developer-Interview-Questions` | Collection of front-end job interview questions.             | [Check Out](https://github.com/h5bp/Front-end-Developer-Interview-Questions) |
+
+## Hall of Fame – Inspiring Repositories (G)
+
+| **Repository**     | **Description**                                                                  | **Link** |
+|--------------------|-----------------------------------------------------------------------------------|----------|
+| `GitHub Readme Stats` | Dynamically generated stats for your GitHub profile in README.               | [Check Out](https://github.com/anuraghazra/github-readme-stats) |
+| `Gatsby`           | Fast, modern site generator for React.                                           | [Check Out](https://github.com/gatsbyjs/gatsby) |
+| `Gitignore`        | Collection of useful .gitignore templates for different technologies.            | [Check Out](https://github.com/github/gitignore) |
+| `Gogs`             | Painless, self-hosted Git service.                                               | [Check Out](https://github.com/gogs/gogs) |
+
+## Hall of Fame – Inspiring Repositories (H)
+
+| **Repository**           | **Description**                                                               | **Link** |
+|--------------------------|-------------------------------------------------------------------------------|----------|
+| `Headless UI`            | Completely unstyled, accessible UI components by Tailwind Labs.              | [Check Out](https://github.com/tailwindlabs/headlessui) |
+| `Homebrew`               | The missing package manager for macOS (or Linux).                             | [Check Out](https://github.com/Homebrew/brew) |
+| `HTMX`                   | High power tools for HTML — build modern apps without JS frameworks.         | [Check Out](https://github.com/bigskysoftware/htmx) |
+| `Hyper`                  | A terminal built on web technologies.                                         | [Check Out](https://github.com/vercel/hyper) |
+
+## Hall of Fame – Inspiring Repositories (I)
+
+| **Repository**         | **Description**                                                                 | **Link** |
+|------------------------|---------------------------------------------------------------------------------|----------|
+| `ImageMagick`          | Powerful image manipulation tool used in many graphic software applications.    | [Check Out](https://github.com/ImageMagick/ImageMagick) |
+| `Immer`                | Create the next immutable state by mutating the current one — the easy way.     | [Check Out](https://github.com/immerjs/immer) |
+| `Ink`                  | React for CLI — build command-line apps using React.                            | [Check Out](https://github.com/vadimdemedes/ink) |
+| `Inquirer.js`          | A collection of common interactive command line user interfaces.                | [Check Out](https://github.com/SBoudrias/Inquirer.js) |
+| `IPFS`                 | A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.| [Check Out](https://github.com/ipfs/ipfs) |
+
+## Hall of Fame – Inspiring Repositories (J)
+
+| **Repository**         | **Description**                                                                 | **Link** |
+|------------------------|---------------------------------------------------------------------------------|----------|
+| `Jekyll`               | Simple, blog-aware, static site generator used with GitHub Pages.              | [Check Out](https://github.com/jekyll/jekyll) |
+| `JavaScript Algorithms`| Collection of algorithms and data structures implemented in JavaScript.        | [Check Out](https://github.com/trekhleb/javascript-algorithms) |
+| `Jitsi Meet`           | Secure, scalable, open-source video conferencing.                              | [Check Out](https://github.com/jitsi/jitsi-meet) |
+| `Joplin`               | Open source note taking and to-do app with sync capabilities.                  | [Check Out](https://github.com/laurent22/joplin) |
+
+## Hall of Fame – Inspiring Repositories (K)
+
+| **Repository**         | **Description**                                                                 | **Link** |
+|------------------------|---------------------------------------------------------------------------------|----------|
+| `Kap`                  | An open-source screen recorder built with web technology.                       | [Check Out](https://github.com/wulkano/kap) |
+| `KeystoneJS`           | Headless CMS and GraphQL API for Node.js projects.                              | [Check Out](https://github.com/keystonejs/keystone) |
+| `Knex.js`              | SQL query builder for Node.js supporting multiple databases.                    | [Check Out](https://github.com/knex/knex) |
+| `Krita`                | Free and open-source digital painting application.                              | [Check Out](https://github.com/KDE/krita) |
+
+## Hall of Fame – Inspiring Repositories (L)
+
+| **Repository**         | **Description**                                                                 | **Link** |
+|------------------------|---------------------------------------------------------------------------------|----------|
+| `Laravel`              | A PHP framework for web artisans, elegant and expressive.                      | [Check Out](https://github.com/laravel/laravel) |
+| `Leetcode Patterns`    | A curated list of Leetcode problems grouped by patterns.                       | [Check Out](https://github.com/SeanPrashad/leetcode-patterns) |
+| `Lottie`               | Render After Effects animations natively on mobile and web.                    | [Check Out](https://github.com/airbnb/lottie-web) |
+| `Leaflet`              | Lightweight and powerful open-source JavaScript library for interactive maps. | [Check Out](https://github.com/Leaflet/Leaflet) |
+
