@@ -21,3 +21,29 @@
 | `Baseten/examples`     | Example machine learning apps built with Baseten and deployed as web apps.   | [Check Out](https://github.com/baseten/examples) |
 | `Best websites a programmer should visit` | Curated list of websites useful for developers.                 | [Check Out](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) |
 
+## Hall of Fame – Inspiring Repositories (C)
+
+| **Repository**         | **Description**                                                                 | **Link** |
+|------------------------|----------------------------------------------------------------------------------|----------|
+| `Coding Interview University` | Comprehensive self-taught guide to become a software engineer.           | [Check Out](https://github.com/jwasham/coding-interview-university) |
+| `Clean Code JavaScript`       | JavaScript adaptation of "Clean Code" with solid examples.               | [Check Out](https://github.com/ryanmcdermott/clean-code-javascript) |
+| `CSS Protips`                | Tips to improve your CSS skills, compiled in a helpful repo.               | [Check Out](https://github.com/AllThingsSmitty/css-protips) |
+| `Code Hike`                  | Tools for creating beautiful code walkthroughs and explanations.          | [Check Out](https://github.com/codehike/codehike) |
+
+## Hall of Fame – Inspiring Repositories (D)
+
+| **Repository**            | **Description**                                                                   | **Link** |
+|---------------------------|------------------------------------------------------------------------------------|----------|
+| `Developer Roadmap`       | Community-driven roadmaps, guides, and resources to become a developer.           | [Check Out](https://github.com/kamranahmedse/developer-roadmap) |
+| `Design Resources for Developers` | Curated list of design tools, resources, and plugins for developers.     | [Check Out](https://github.com/bradtraversy/design-resources-for-developers) |
+| `Deep Learning Papers Reading Roadmap` | Suggested reading order of deep learning research papers.         | [Check Out](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) |
+| `DevDocs`                 | API documentation browser with offline support and fast UX.                       | [Check Out](https://github.com/freeCodeCamp/devdocs) |
+
+## Hall of Fame – Inspiring Repositories (E)
+
+| **Repository**           | **Description**                                                                  | **Link** |
+|--------------------------|-----------------------------------------------------------------------------------|----------|
+| `Ebook Foundation / free-programming-books` | Massive list of free programming books in various languages.     | [Check Out](https://github.com/EbookFoundation/free-programming-books) |
+| `Excalidraw`             | Virtual whiteboard for hand-drawn-like diagrams, loved by designers and devs.    | [Check Out](https://github.com/excalidraw/excalidraw) |
+| `Echarts`                | Powerful, interactive charting and visualization library for browser environments. | [Check Out](https://github.com/apache/echarts) |
+
