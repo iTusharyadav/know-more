@@ -147,3 +147,36 @@
 | `Postwoman`        | Now called Hoppscotch – an open-source API request builder like Postman.        | [Check Out](https://github.com/hoppscotch/hoppscotch) |
 | `Puppeteer`        | Headless Chrome Node.js API by the Chrome DevTools team.                        | [Check Out](https://github.com/puppeteer/puppeteer) |
 
+## Hall of Fame – Inspiring Repositories (Q)
+
+| **Repository** | **Description**                                                  | **Link** |
+|----------------|-------------------------------------------------------------------|----------|
+| `Qwik`         | The HTML-first framework. Resumable by design.                    | [Check Out](https://github.com/BuilderIO/qwik) |
+| `Quasar`       | High-performance Vue.js framework for building responsive apps.  | [Check Out](https://github.com/quasarframework/quasar) |
+
+## Hall of Fame – Inspiring Repositories (R)
+
+| **Repository**      | **Description**                                                                 | **Link** |
+|---------------------|----------------------------------------------------------------------------------|----------|
+| `React`             | A declarative, efficient, and flexible JavaScript library for building UIs.     | [Check Out](https://github.com/facebook/react) |
+| `React Native`      | Build native apps using React.                                                   | [Check Out](https://github.com/facebook/react-native) |
+| `React Hook Form`   | Performant, flexible and extensible forms with easy-to-use validation.           | [Check Out](https://github.com/react-hook-form/react-hook-form) |
+| `Remix`             | Full stack web framework built for performance and scalability.                  | [Check Out](https://github.com/remix-run/remix) |
+| `Redux`             | Predictable state container for JavaScript apps.                                 | [Check Out](https://github.com/reduxjs/redux) |
+| `Refine`            | React-based framework for building data-intensive applications rapidly.          | [Check Out](https://github.com/refinedev/refine) |
+| `Rocket.Chat`       | The communications platform that puts data privacy first.                        | [Check Out](https://github.com/RocketChat/Rocket.Chat) |
+
+## Hall of Fame – Inspiring Repositories (S)
+
+| **Repository**      | **Description**                                                                 | **Link** |
+|---------------------|----------------------------------------------------------------------------------|----------|
+| `SageMath`           | Open-source mathematics software system with a Python-based interface.          | [Check Out](https://github.com/sagemath/sage) |
+| `Serverless`         | Framework to build and deploy serverless applications on AWS and more.          | [Check Out](https://github.com/serverless/serverless) |
+| `Svelte`             | Cybernetically enhanced web apps framework with zero runtime.                   | [Check Out](https://github.com/sveltejs/svelte) |
+| `Storybook`          | UI component explorer for frontend developers.                                  | [Check Out](https://github.com/storybookjs/storybook) |
+| `Strapi`             | Open-source headless CMS built with Node.js.                                    | [Check Out](https://github.com/strapi/strapi) |
+| `Supabase`           | The open-source Firebase alternative.                                           | [Check Out](https://github.com/supabase/supabase) |
+| `styled-components`  | Visual primitives for styling React apps using tagged template literals.        | [Check Out](https://github.com/styled-components/styled-components) |
+| `Sass`               | CSS with superpowers — a mature, stable, and powerful CSS extension language.   | [Check Out](https://github.com/sass/sass) |
+| `shadcn/ui`          | Beautifully designed components built with Radix UI and Tailwind CSS.           | [Check Out](https://github.com/shadcn-ui/ui) |
+
