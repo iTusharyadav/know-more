@@ -138,3 +138,12 @@
 | `Outline`          | The fastest wiki and knowledge base for growing teams, built using Node.js.     | [Check Out](https://github.com/outline/outline) |
 | `OpenSea Creature` | A demo NFT project built on top of OpenSea’s infrastructure.                    | [Check Out](https://github.com/ProjectOpenSea/opensea-creatures) |
 
+## Hall of Fame – Inspiring Repositories (P)
+
+| **Repository**     | **Description**                                                                 | **Link** |
+|--------------------|----------------------------------------------------------------------------------|----------|
+| `Pico.css`         | Minimal CSS framework for semantic HTML.                                        | [Check Out](https://github.com/picocss/pico) |
+| `Payload CMS`      | Headless CMS built with TypeScript, Node.js and React.                          | [Check Out](https://github.com/payloadcms/payload) |
+| `Postwoman`        | Now called Hoppscotch – an open-source API request builder like Postman.        | [Check Out](https://github.com/hoppscotch/hoppscotch) |
+| `Puppeteer`        | Headless Chrome Node.js API by the Chrome DevTools team.                        | [Check Out](https://github.com/puppeteer/puppeteer) |
+
