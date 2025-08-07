@@ -128,3 +128,13 @@
 | `N8n`              | Workflow automation tool – like Zapier, but open source.                        | [Check Out](https://github.com/n8n-io/n8n) |
 | `Node.js`          | JavaScript runtime built on Chrome's V8 JavaScript engine.                      | [Check Out](https://github.com/nodejs/node) |
 | `Notion Enhancer`  | A customization suite for Notion that adds extra features and tweaks.           | [Check Out](https://github.com/notion-enhancer/notion-enhancer) |
+
+## Hall of Fame – Inspiring Repositories (O)
+
+| **Repository**     | **Description**                                                                 | **Link** |
+|--------------------|----------------------------------------------------------------------------------|----------|
+| `OpenCV`           | Open Source Computer Vision Library.                                            | [Check Out](https://github.com/opencv/opencv) |
+| `Oh My Zsh`        | A delightful, open source, community-driven framework for managing your Zsh config. | [Check Out](https://github.com/ohmyzsh/ohmyzsh) |
+| `Outline`          | The fastest wiki and knowledge base for growing teams, built using Node.js.     | [Check Out](https://github.com/outline/outline) |
+| `OpenSea Creature` | A demo NFT project built on top of OpenSea’s infrastructure.                    | [Check Out](https://github.com/ProjectOpenSea/opensea-creatures) |
+
