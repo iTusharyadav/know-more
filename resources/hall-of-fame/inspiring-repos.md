@@ -110,3 +110,21 @@
 | `Lottie`               | Render After Effects animations natively on mobile and web.                    | [Check Out](https://github.com/airbnb/lottie-web) |
 | `Leaflet`              | Lightweight and powerful open-source JavaScript library for interactive maps. | [Check Out](https://github.com/Leaflet/Leaflet) |
 
+## Hall of Fame – Inspiring Repositories (M)
+
+| **Repository**       | **Description**                                                                 | **Link** |
+|----------------------|----------------------------------------------------------------------------------|----------|
+| `Material UI`        | React components for faster and easier web development.                         | [Check Out](https://github.com/mui/material-ui) |
+| `Metabase`           | Simple, powerful analytics and business intelligence platform.                  | [Check Out](https://github.com/metabase/metabase) |
+| `Markdown Here`      | Style your markdown before sending emails in Gmail and others.                  | [Check Out](https://github.com/adam-p/markdown-here) |
+| `Mermaid`            | Generation of diagrams and flowcharts from text in a markdown-like syntax.     | [Check Out](https://github.com/mermaid-js/mermaid) |
+| `Magic`              | Passwordless authentication with a few lines of code.                           | [Check Out](https://github.com/magiclabs/magic-js) |
+
+## Hall of Fame – Inspiring Repositories (N)
+
+| **Repository**     | **Description**                                                                 | **Link** |
+|--------------------|----------------------------------------------------------------------------------|----------|
+| `Next.js`          | The React framework for production, by Vercel.                                  | [Check Out](https://github.com/vercel/next.js) |
+| `N8n`              | Workflow automation tool – like Zapier, but open source.                        | [Check Out](https://github.com/n8n-io/n8n) |
+| `Node.js`          | JavaScript runtime built on Chrome's V8 JavaScript engine.                      | [Check Out](https://github.com/nodejs/node) |
+| `Notion Enhancer`  | A customization suite for Notion that adds extra features and tweaks.           | [Check Out](https://github.com/notion-enhancer/notion-enhancer) |
