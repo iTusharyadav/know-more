@@ -180,3 +180,63 @@
 | `Sass`               | CSS with superpowers — a mature, stable, and powerful CSS extension language.   | [Check Out](https://github.com/sass/sass) |
 | `shadcn/ui`          | Beautifully designed components built with Radix UI and Tailwind CSS.           | [Check Out](https://github.com/shadcn-ui/ui) |
 
+## Hall of Fame – Inspiring Repositories (T)
+
+| **Repository**      | **Description**                                                                 | **Link** |
+|---------------------|----------------------------------------------------------------------------------|----------|
+| `tailwindcss`        | A utility-first CSS framework for rapid UI development.                         | [Check Out](https://github.com/tailwindlabs/tailwindcss) |
+| `t3-stack`           | A modern stack using Next.js, tRPC, Tailwind CSS, and TypeScript.               | [Check Out](https://github.com/t3-oss/create-t3-app) |
+| `The Algorithms`     | Open-source implementation of algorithms in multiple programming languages.     | [Check Out](https://github.com/TheAlgorithms) |
+| `ToolJet`            | Open-source low-code framework to build internal tools.                         | [Check Out](https://github.com/ToolJet/ToolJet) |
+| `TurboRepo`          | High-performance build system for JavaScript and TypeScript monorepos.          | [Check Out](https://github.com/vercel/turbo) |
+| `TypeScript`         | Superset of JavaScript that adds static typing.                                 | [Check Out](https://github.com/microsoft/TypeScript) |
+
+## Hall of Fame – Inspiring Repositories (U)
+
+| **Repository**   | **Description**                                                               | **Link** |
+|------------------|--------------------------------------------------------------------------------|----------|
+| `Uptime Kuma`     | Self-hosted monitoring tool like "Uptime Robot" with fancy UI and more.        | [Check Out](https://github.com/louislam/uptime-kuma) |
+| `UnoCSS`          | Instant on-demand Atomic CSS engine with flexible utilities and presets.       | [Check Out](https://github.com/unocss/unocss) |
+| `Upptime`         | GitHub-powered open-source uptime monitor and status page.                     | [Check Out](https://github.com/upptime/upptime) |
+
+## Hall of Fame – Inspiring Repositories (V)
+
+| **Repository**   | **Description**                                                          | **Link** |
+|------------------|---------------------------------------------------------------------------|----------|
+| `Vite`            | Next generation frontend tooling – extremely fast build tool by Evan You. | [Check Out](https://github.com/vitejs/vite) |
+| `Vitest`          | Blazing fast unit test framework powered by Vite.                         | [Check Out](https://github.com/vitest-dev/vitest) |
+| `Vanta.js`        | Animated 3D backgrounds for websites using WebGL.                         | [Check Out](https://github.com/tengbao/vanta) |
+| `Vanilla Extract` | Zero-runtime Stylesheets in TypeScript.                                  | [Check Out](https://github.com/seek-oss/vanilla-extract) |
+| `Vercel`          | Deployment platform for frontend frameworks and static sites.             | [Check Out](https://github.com/vercel/vercel) |
+
+## Hall of Fame – Inspiring Repositories (W)
+
+| **Repository** | **Description**                                                                 | **Link** |
+|----------------|----------------------------------------------------------------------------------|----------|
+| `Web-Dev-For-Beginners` | A complete curriculum to teach web development to absolute beginners.        | [Check Out](https://github.com/microsoft/Web-Dev-For-Beginners) |
+| `Wired Elements`        | Beautiful hand-drawn web components for rough and sketchy UI designs.     | [Check Out](https://github.com/rough-stuff/wired-elements) |
+| `WindiCSS`              | Next-generation utility-first CSS framework (faster alternative to Tailwind). | [Check Out](https://github.com/windicss/windicss) |
+| `Wasp`                  | Build full-stack web apps with less boilerplate using React & Node.js.    | [Check Out](https://github.com/wasp-lang/wasp) |
+| `Webpack`               | A static module bundler for modern JavaScript applications.               | [Check Out](https://github.com/webpack/webpack) |
+
+## Hall of Fame – Inspiring Repositories (X)
+
+| **Repository** | **Description**                                                                 | **Link** |
+|----------------|----------------------------------------------------------------------------------|----------|
+| `Xterm.js`      | Full-featured terminal for the web, used by Visual Studio Code.                 | [Check Out](https://github.com/xtermjs/xterm.js) |
+| `XState`        | JavaScript/TypeScript library for state machines and statecharts.               | [Check Out](https://github.com/statelyai/xstate) |
+
+## Hall of Fame – Inspiring Repositories (Y)
+
+| **Repository** | **Description**                                                              | **Link** |
+|----------------|-------------------------------------------------------------------------------|----------|
+| `Yjs`          | High-performance CRDT for building collaborative apps that sync in real-time. | [Check Out](https://github.com/yjs/yjs) |
+| `Yarn`         | Fast, reliable, and secure dependency management for JavaScript projects.     | [Check Out](https://github.com/yarnpkg/yarn) |
+
+## Hall of Fame – Inspiring Repositories (Z)
+
+| **Repository** | **Description**                                                            | **Link** |
+|----------------|----------------------------------------------------------------------------|----------|
+| `Zod`          | TypeScript-first schema validation with static type inference.             | [Check Out](https://github.com/colinhacks/zod) |
+| `Zettelkasten` | A markdown-based personal knowledge management and note-taking system.     | [Check Out](https://github.com/Zettelkasten-Method/knowledge-management) |
+| `Zdog`         | 3D JavaScript engine for rendering playful vector graphics.                | [Check Out](https://github.com/metafizzy/zdog) |
