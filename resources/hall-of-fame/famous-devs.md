@@ -98,3 +98,127 @@
 | Laurie Voss        | Co-founder of npm, Inc.                                        | [Twitter](https://twitter.com/seldo) |
 | Lars Bak           | Lead developer of the V8 JavaScript engine.                    | [Wikipedia](https://en.wikipedia.org/wiki/Lars_Bak) |
 
+## Hall of Fame – Famous Devs (M)
+
+| **Name**           | **Known For**                                                   | **Link** |
+|--------------------|-----------------------------------------------------------------|----------|
+| Margaret Hamilton  | Led the team that developed the onboard flight software for Apollo missions. | [Wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) |
+| Mark Zuckerberg    | Co-founder of Facebook.                                         | [Wikipedia](https://en.wikipedia.org/wiki/Mark_Zuckerberg) |
+| Marissa Mayer      | Former CEO of Yahoo; early Google employee.                     | [Wikipedia](https://en.wikipedia.org/wiki/Marissa_Mayer) |
+| Max Howell         | Creator of Homebrew package manager.                            | [Twitter](https://twitter.com/mxcl) |
+
+## Hall of Fame – Famous Devs (N)
+
+| **Name**         | **Known For**                                               | **Link** |
+|------------------|-------------------------------------------------------------|----------|
+| Nandan Nilekani  | Co-founder of Infosys; led Aadhaar project in India.        | [Wikipedia](https://en.wikipedia.org/wiki/Nandan_Nilekani) |
+| Nathan Myhrvold  | Former CTO of Microsoft; founder of Intellectual Ventures.  | [Wikipedia](https://en.wikipedia.org/wiki/Nathan_Myhrvold) |
+| Niklaus Wirth    | Creator of Pascal, Modula, and Oberon programming languages.| [Wikipedia](https://en.wikipedia.org/wiki/Niklaus_Wirth) |
+| Nolan Bushnell   | Founder of Atari and Chuck E. Cheese.                        | [Wikipedia](https://en.wikipedia.org/wiki/Nolan_Bushnell) |
+
+## Hall of Fame – Famous Devs (O)
+
+| **Name**         | **Known For**                                               | **Link** |
+|------------------|-------------------------------------------------------------|----------|
+| Oded Shankar     | Notable open-source contributor; kernel development work.   | [GitHub](https://github.com/odedshankar) |
+| Oleg Kiselyov    | Influential in functional programming and Haskell research. | [Homepage](http://okmij.org/ftp/) |
+| Omar Rizwan      | Creator of Screenhole, innovative browser experiments.      | [Website](https://omar.website) |
+| Orkut Büyükkökten| Creator of the social network Orkut (Google).                | [Wikipedia](https://en.wikipedia.org/wiki/Orkut_B%C3%BCy%C3%BCkk%C3%B6kten) |
+
+## Hall of Fame – Famous Devs (P)
+
+| **Name**            | **Known For**                                                              | **Link** |
+|---------------------|----------------------------------------------------------------------------|----------|
+| Pamela Fox          | Developer advocate, educator, worked at Khan Academy & Microsoft.         | [Website](https://www.pamelafox.org) |
+| Paul Irish          | Front-end developer advocate, creator of HTML5 Boilerplate.                | [Twitter](https://twitter.com/paul_irish) |
+| Paul Graham         | Co-founder of Y Combinator, influential essays on startups & programming.  | [Website](http://paulgraham.com) |
+| Pieter Levels       | Indie maker, creator of Nomad List & Remote OK.                            | [Website](https://levels.io) |
+| PJ Hyett            | Co-founder of GitHub.                                                      | [Wikipedia](https://en.wikipedia.org/wiki/PJ_Hyett) |
+| Prashanth Chandrasekar| CEO of Stack Overflow.                                                    | [LinkedIn](https://www.linkedin.com/in/prashanthc) |
+
+## Hall of Fame – Famous Devs (Q)
+
+| **Name**           | **Known For**                                               | **Link** |
+|--------------------|-------------------------------------------------------------|----------|
+| Quincy Larson      | Founder of freeCodeCamp, educator, open-source advocate.    | [Twitter](https://twitter.com/ossia) |
+
+## Hall of Fame – Famous Devs (R)
+
+| **Name**           | **Known For**                                                       | **Link** |
+|--------------------|---------------------------------------------------------------------|----------|
+| Rasmus Lerdorf     | Creator of PHP programming language.                                | [Wikipedia](https://en.wikipedia.org/wiki/Rasmus_Lerdorf) |
+| Raymond Chen       | Longtime Microsoft developer and author of "The Old New Thing" blog.| [Blog](https://devblogs.microsoft.com/oldnewthing/) |
+| Robert C. Martin   | "Uncle Bob", author of *Clean Code* and software craftsmanship pioneer.| [Website](https://cleancoder.com) |
+| Rob Pike           | Co-creator of Go programming language, Unix contributor.            | [Wikipedia](https://en.wikipedia.org/wiki/Rob_Pike) |
+| Ryan Dahl          | Creator of Node.js and Deno.                                        | [Twitter](https://twitter.com/ry) |
+
+## Hall of Fame – Famous Devs (S)
+
+| **Name**           | **Known For**                                                           | **Link** |
+|--------------------|-------------------------------------------------------------------------|----------|
+| Sal Khan           | Founder of Khan Academy, free online education platform.                | [Website](https://www.khanacademy.org) |
+| Sergey Brin        | Co-founder of Google.                                                    | [Wikipedia](https://en.wikipedia.org/wiki/Sergey_Brin) |
+| Sheryl Sandberg    | Former COO of Facebook (Meta), tech executive, author.                   | [Wikipedia](https://en.wikipedia.org/wiki/Sheryl_Sandberg) |
+| Simon Peyton Jones | Major contributor to Haskell and functional programming research.        | [Wikipedia](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) |
+| Steve Wozniak      | Co-founder of Apple Inc., inventor of Apple I and II computers.          | [Wikipedia](https://en.wikipedia.org/wiki/Steve_Wozniak) |
+| Sundar Pichai      | CEO of Alphabet (Google's parent company).                               | [Wikipedia](https://en.wikipedia.org/wiki/Sundar_Pichai) |
+
+## Hall of Fame – Famous Devs (T)
+
+| **Name**           | **Known For**                                                          | **Link** |
+|--------------------|------------------------------------------------------------------------|----------|
+| Tim Berners-Lee    | Inventor of the World Wide Web.                                         | [Wikipedia](https://en.wikipedia.org/wiki/Tim_Berners-Lee) |
+| Tim Cook           | CEO of Apple Inc.                                                       | [Wikipedia](https://en.wikipedia.org/wiki/Tim_Cook) |
+| Tom Preston-Werner | Co-founder of GitHub, creator of Jekyll and Semantic Versioning.        | [Wikipedia](https://en.wikipedia.org/wiki/Tom_Preston-Werner) |
+| Tony Fadell        | Creator of the iPod, co-creator of the iPhone, founder of Nest Labs.    | [Wikipedia](https://en.wikipedia.org/wiki/Tony_Fadell) |
+| Tristan Harris     | Former Google design ethicist, co-founder of the Center for Humane Tech.| [Website](https://www.humanetech.com) |
+
+## Hall of Fame – Famous Devs (U)
+
+| **Name**              | **Known For**                                                             | **Link** |
+|-----------------------|---------------------------------------------------------------------------|----------|
+| Udi Dahan             | Software architect, founder of Particular Software (NServiceBus).        | [Website](https://udidahan.com) |
+| Ujjwal Sharma         | Node.js core collaborator, TC39 delegate, and open-source contributor.   | [GitHub](https://github.com/ryzokuken) |
+| Umair Haque           | Influential thinker on technology, economics, and social innovation.     | [Twitter](https://twitter.com/umairh) |
+
+## Hall of Fame – Famous Devs (V)
+
+| **Name**              | **Known For**                                                             | **Link** |
+|-----------------------|---------------------------------------------------------------------------|----------|
+| Vadim Makeev          | Web standards advocate, front-end developer, founder of Web Standards.   | [Website](https://pepelsbey.net) |
+| Val Head              | Expert in UI animation, author, and speaker on web motion design.        | [Website](https://valhead.com) |
+| Vercel Team (Guillermo Rauch) | Creator of Vercel & Next.js, leader in serverless and front-end hosting. | [Website](https://rauchg.com) |
+| Vitaly Friedman       | Co-founder and editor-in-chief of Smashing Magazine.                      | [Website](https://www.smashingmagazine.com/author/vitaly-friedman/) |
+
+## Hall of Fame – Famous Devs (W)
+
+| **Name**            | **Known For**                                                             | **Link** |
+|---------------------|---------------------------------------------------------------------------|----------|
+| Ward Cunningham     | Inventor of the wiki concept, pioneer in software patterns.               | [Website](http://wiki.c2.com) |
+| Wes Bos             | Full-stack developer, creator of popular JavaScript and CSS courses.      | [Website](https://wesbos.com) |
+| Whitney Hess        | UX coach, writer, and speaker focused on empathy in tech.                 | [Website](https://whitneyhess.com) |
+| Will Larson         | Author of *An Elegant Puzzle*, engineering leadership expert.             | [Website](https://lethain.com) |
+
+## Hall of Fame – Famous Devs (X)
+
+| **Name**           | **Known For**                                                 | **Link** |
+|--------------------|---------------------------------------------------------------|----------|
+| Xiaowei R. Wang    | Creative technologist, writer, and artist in civic tech.      | [Website](https://xiaoweiwang.com) |
+| Xin Zhang          | AI researcher and open-source contributor.                    | [GitHub](https://github.com/xinzhang) |
+| Xu Hao             | Lead engineer at Ant Group, works on scalable architecture.   | [Profile](https://github.com/xuhao) |
+
+## Hall of Fame – Famous Devs (Y)
+
+| **Name**          | **Known For**                                                      | **Link** |
+|-------------------|--------------------------------------------------------------------|----------|
+| Yan Zhu           | Privacy engineer, formerly at Brave, known for web security work. | [Website](https://crypto.stanford.edu/~yanzhu) |
+| Yehuda Katz       | Co-creator of Ember.js, contributor to Ruby on Rails and jQuery.  | [GitHub](https://github.com/wycats) |
+| Yukihiro Matsumoto| Creator of the Ruby programming language ("Matz").                 | [Wikipedia](https://en.wikipedia.org/wiki/Yukihiro_Matsumoto) |
+
+## Hall of Fame – Famous Devs (Z)
+
+| **Name**         | **Known For**                                                | **Link** |
+|------------------|--------------------------------------------------------------|----------|
+| Zach Holman      | Early GitHub employee, speaker, and author on developer culture. | [Website](https://zachholman.com) |
+| Zach Leatherman  | Creator of Eleventy (11ty) static site generator.            | [GitHub](https://github.com/zachleat) |
+| Zed Shaw         | Author of the “Learn Code the Hard Way” book series.         | [Website](https://zedshaw.com) |
