@@ -20,3 +20,25 @@
 | Ashley Williams | Rust core team alumna, OSS educator.                               | [GitHub](https://github.com/ashleygwilliams) |
 | Atwood, Jeff    | Co-founder of Stack Overflow, Coding Horror blog author.           | [Blog](https://blog.codinghorror.com/) |
 | Avdi Grimm      | Ruby and software craftsmanship advocate.                          | [Website](https://avdi.codes) |
+
+## Hall of Fame – OSS Legends (B)
+
+| **Name**          | **Known For**                                                       | **Link** |
+|-------------------|---------------------------------------------------------------------|----------|
+| Barbara Liskov    | Pioneer in programming languages, creator of the Liskov Substitution Principle. | [Wikipedia](https://en.wikipedia.org/wiki/Barbara_Liskov) |
+| Ben Balter        | GitHub’s government evangelist, advocate for open government code.  | [GitHub](https://github.com/benbalter) |
+| Ben Eater         | Creator of educational computer hardware projects on YouTube.       | [YouTube](https://www.youtube.com/c/BenEater) |
+| Ben Laurie        | OpenSSL core developer, creator of Apache-SSL.                      | [Wikipedia](https://en.wikipedia.org/wiki/Ben_Laurie) |
+| Ben Noordhuis     | Contributor to Node.js, libuv, and other C++ projects.              | [GitHub](https://github.com/bnoordhuis) |
+| Benjamin Peterson | Long-time Python core developer, maintainer of Python 2.x.          | [GitHub](https://github.com/benjaminp) |
+| Bert Belder       | Co-founder of StrongLoop, Node.js contributor.                      | [GitHub](https://github.com/bnoordhuis) |
+| Bertrand Meyer    | Creator of Eiffel programming language, OOP pioneer.                | [Wikipedia](https://en.wikipedia.org/wiki/Bertrand_Meyer) |
+| Bjarne Stroustrup | Creator of the C++ programming language.                            | [Website](https://www.stroustrup.com/) |
+| Blake Ross        | Co-creator of Mozilla Firefox.                                      | [Wikipedia](https://en.wikipedia.org/wiki/Blake_Ross) |
+| Brad Fitzpatrick  | Creator of LiveJournal, memcached, and Go contributor.              | [GitHub](https://github.com/bradfitz) |
+| Brandon Eich      | Creator of JavaScript, co-founder of Mozilla.                       | [Wikipedia](https://en.wikipedia.org/wiki/Brendan_Eich) |
+| Brian Behlendorf  | Founder of Apache HTTP Server Project, first ASF president.         | [Wikipedia](https://en.wikipedia.org/wiki/Brian_Behlendorf) |
+| Brian Kernighan   | Co-creator of Unix, co-author of “The C Programming Language.”      | [Wikipedia](https://en.wikipedia.org/wiki/Brian_Kernighan) |
+| Bryan Cantrill    | Co-creator of DTrace, founder of Oxide Computer Company.            | [GitHub](https://github.com/bcantrill) |
+| Bryce Adelstein Lelbach | C++ standards committee member, HPC advocate.                 | [GitHub](https://github.com/blelbach) |
+
