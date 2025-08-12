@@ -92,3 +92,33 @@
 | Deborah Estrin         | Pioneer in mobile health and embedded networked sensing.            | [Wikipedia](https://en.wikipedia.org/wiki/Deborah_Estrin) |
 | Demis Hassabis         | Co-founder of DeepMind, AI researcher.                              | [Wikipedia](https://en.wikipedia.org/wiki/Demis_Hassabis) |
 
+## Hall of Fame – OSS Legends (E)
+
+| **Name**               | **Known For**                                                       | **Link** |
+|------------------------|---------------------------------------------------------------------|----------|
+| Eben Moglen            | Legal scholar, advocate for free software, founder of SFLC.         | [Wikipedia](https://en.wikipedia.org/wiki/Eben_Moglen) |
+| Eben Upton             | Founder of Raspberry Pi Foundation.                                 | [Wikipedia](https://en.wikipedia.org/wiki/Eben_Upton) |
+| Eddie Kohler           | Developer of Click modular router, professor at Harvard.            | [Website](https://www.eecs.harvard.edu/~kohler/) |
+| Edsger W. Dijkstra     | Pioneer in algorithms, structured programming, and graph theory.    | [Wikipedia](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) |
+| Edward Felten          | Computer security expert, cryptography researcher.                  | [Website](https://www.cs.princeton.edu/~felten/) |
+| Edward Yourdon         | Software engineering methodologist, author.                         | [Wikipedia](https://en.wikipedia.org/wiki/Edward_Yourdon) |
+| Elaine Weyuker         | Software testing researcher, IEEE fellow.                           | [Wikipedia](https://en.wikipedia.org/wiki/Elaine_J._Weyuker) |
+| Eliezer Yudkowsky      | AI safety researcher, co-founder of MIRI.                            | [Wikipedia](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) |
+| Elizabeth Feinler      | Ran the ARPANET directory services before DNS existed.               | [Wikipedia](https://en.wikipedia.org/wiki/Elizabeth_J._Feinler) |
+| Ellen Ullman           | Author and software engineer known for tech culture commentary.      | [Wikipedia](https://en.wikipedia.org/wiki/Ellen_Ullman) |
+| Elliot Soloway         | Educational technology researcher, AI in education pioneer.          | [Website](https://soloway.engin.umich.edu/) |
+| Elon Musk              | Co-founder of OpenAI, PayPal, Tesla, SpaceX; tech entrepreneur.      | [Wikipedia](https://en.wikipedia.org/wiki/Elon_Musk) |
+| Emil Eifrem            | Creator of Neo4j graph database.                                     | [Twitter](https://twitter.com/emileifrem) |
+| Emil Wallner           | Developer advocate, ML and creative coding educator.                 | [Website](https://emilwallner.com/) |
+| Emily Bache            | Test-driven development (TDD) coach, author.                         | [Website](https://coding-is-like-cooking.info/) |
+| Emma Haruka Iwao       | Broke π calculation world record using Google Cloud.                  | [Wikipedia](https://en.wikipedia.org/wiki/Emma_Haruka_Iwao) |
+| Enrico Zini            | Debian developer, free software contributor.                         | [GitHub](https://github.com/enrico) |
+| Eric Allman            | Creator of Sendmail, email pioneer.                                  | [Wikipedia](https://en.wikipedia.org/wiki/Eric_Allman) |
+| Eric Brewer            | Formulated the CAP theorem, Google VP of infrastructure.             | [Wikipedia](https://en.wikipedia.org/wiki/Eric_Brewer) |
+| Eric Evans             | Author of "Domain-Driven Design".                                    | [Website](https://domainlanguage.com/) |
+| Eric S. Raymond        | Author of "The Cathedral and the Bazaar", open source advocate.      | [Wikipedia](https://en.wikipedia.org/wiki/Eric_S._Raymond) |
+| Eric Sink              | Founder of SourceGear, software business author.                     | [Website](https://ericsink.com/) |
+| Erik Meijer            | Creator of LINQ, functional programming advocate.                    | [Wikipedia](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)) |
+| Erlang OTP Team        | Creators of Erlang language and OTP platform.                        | [Website](https://www.erlang.org/) |
+| Esther Dyson           | Technology investor, internet policy influencer.                     | [Wikipedia](https://en.wikipedia.org/wiki/Esther_Dyson) |
+
