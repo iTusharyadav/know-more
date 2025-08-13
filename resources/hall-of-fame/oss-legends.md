@@ -218,3 +218,84 @@
 | Guy Kawasaki            | Former Apple evangelist, tech author.                                  | [Wikipedia](https://en.wikipedia.org/wiki/Guy_Kawasaki) |
 | Gwynne Raskind          | Python and Django contributor.                                         | [GitHub](https://github.com/gwynne) |
 
+## Hall of Fame – OSS Legends (H)
+
+| **Name**               | **Known For**                                                           | **Link** |
+|------------------------|-------------------------------------------------------------------------|----------|
+| Hadi Hariri            | Developer advocate at JetBrains, Kotlin evangelist.                     | [Website](https://hadihariri.com/) |
+| Haikel Guemar          | OpenStack and cloud infrastructure contributor.                         | [GitHub](https://github.com/hguemar) |
+| Hakim El Hattab         | Creator of Reveal.js and other JavaScript libraries.                    | [Website](https://hakim.se/) |
+| Hal Abelson            | Co-creator of Logo and MIT App Inventor.                                 | [Wikipedia](https://en.wikipedia.org/wiki/Hal_Abelson) |
+| Hal Finney             | Early Bitcoin developer and cryptography pioneer.                        | [Wikipedia](https://en.wikipedia.org/wiki/Hal_Finney) |
+| Hamid Shojaee          | Founder of Axosoft, creator of GitKraken.                                | [Website](https://hamidshojaee.com/) |
+| Hamish Macdonald       | GIMP contributor and open source artist.                                 | [GitHub](https://github.com/hamish-2019) |
+| Hanan Cohen            | Internet accessibility and digital rights activist.                      | [Website](https://www.hcohen.me/) |
+| Hannes Mehnert         | OCaml TLS stack contributor.                                             | [GitHub](https://github.com/hannesm) |
+| Hans Reiser            | Creator of ReiserFS filesystem.                                          | [Wikipedia](https://en.wikipedia.org/wiki/Hans_Reiser) |
+| Hans Wennborg          | LLVM and Clang maintainer.                                               | [GitHub](https://github.com/hanswennborg) |
+| Hans Zimmermann        | Qt and KDE contributor.                                                  | [KDE Profile](https://invent.kde.org/) |
+| Hans-Joachim Baader    | Debian and Linux news contributor.                                       | [Website](https://www.pro-linux.de/) |
+| Hao Chen               | Creator of Secure Coding in C/C++ and static analysis tools.             | [Website](https://www.securecoding.com/) |
+| Harald Welte           | Founder of Openmoko, GPL enforcement activist.                           | [Wikipedia](https://en.wikipedia.org/wiki/Harald_Welte) |
+| Harisankar P S         | Open source data engineer and Python developer.                          | [GitHub](https://github.com/harisankarps) |
+| Harmen Stoppels        | Mono and .NET Core contributor.                                          | [GitHub](https://github.com/harmenstoppels) |
+| Haroon Meer            | Founder of Thinkst, creator of Canary security tools.                    | [Website](https://thinkst.com/) |
+| Haroon Q.              | Open source security researcher.                                         | [GitHub](https://github.com/haroonq) |
+| Harri Hursti           | Cybersecurity expert, known for Hursti Hack.                             | [Wikipedia](https://en.wikipedia.org/wiki/Harri_Hursti) |
+| Harry Roberts          | CSS architecture expert, creator of ITCSS.                               | [Website](https://csswizardry.com/) |
+| Hartmut Kaiser         | C++ and HPX library developer.                                           | [GitHub](https://github.com/STEllAR-GROUP) |
+| Hasan Al-Lawati        | Open source web developer and accessibility advocate.                    | [GitHub](https://github.com/hasanlawati) |
+| Hashim Warren          | Developer advocate at Netlify.                                           | [Website](https://hashimwarren.com/) |
+| Hashim Yaqoob          | Machine learning and Python contributor.                                 | [GitHub](https://github.com/hashimyaqoob) |
+| Haskell Curry          | Logician and namesake of Haskell programming language.                   | [Wikipedia](https://en.wikipedia.org/wiki/Haskell_Curry) |
+| Håvard Kvålen           | GNOME and GTK developer.                                                 | [GNOME Profile](https://gitlab.gnome.org/) |
+| Haya Al-Dajani         | Open source designer and accessibility contributor.                      | [GitHub](https://github.com/hayad) |
+| Hayden James           | Linux performance and server optimization expert.                        | [Website](https://haydenjames.io/) |
+| Hazel Weakly           | Software engineer and OSS contributor.                                   | [GitHub](https://github.com/hweakly) |
+| Hazael Jones           | Game developer and Blender contributor.                                  | [GitHub](https://github.com/hazaeljones) |
+| Heather Arthur         | Creator of node-request and other npm packages.                          | [GitHub](https://github.com/heather) |
+| Heather Leson          | Digital humanitarian, OpenStreetMap contributor.                         | [Website](https://heatherleson.com/) |
+| Heidi Howard           | Researcher in distributed systems and consensus algorithms.              | [Website](https://heidihoward.uk/) |
+| Heiko Behrens          | Eclipse and Android development tools contributor.                       | [GitHub](https://github.com/heikobehrens) |
+| Helge Hess             | OpenGroupware.org and WebDAV tools developer.                            | [GitHub](https://github.com/helgehess) |
+| Helgi Þorbjörnsson     | Open source PHP developer and ops engineer.                              | [GitHub](https://github.com/helgi) |
+| Hélio Pereira          | Open source Python and web developer.                                    | [GitHub](https://github.com/heliopereira) |
+| Hendrik Mans           | Developer tools creator, founder of Buildkite.                           | [Website](https://hendrikmans.com/) |
+| Henrique Bastos        | Creator of Python decoupling patterns.                                   | [GitHub](https://github.com/henriquebastos) |
+| Henry Berg             | Open source contributor and technical writer.                            | [GitHub](https://github.com/henryberg) |
+| Henry Lieberman        | AI researcher and MIT Media Lab contributor.                             | [Wikipedia](https://en.wikipedia.org/wiki/Henry_Lieberman) |
+| Henry Spencer          | Regex library creator and early Usenet contributor.                      | [Wikipedia](https://en.wikipedia.org/wiki/Henry_Spencer) |
+| Herb Sutter            | C++ standards committee chair.                                           | [Website](https://herbsutter.com/) |
+| Herbert Xu             | Linux kernel networking maintainer.                                      | [GitHub](https://github.com/herbert) |
+| Herman Venter          | Developer of .NET CLI and architecture.                                  | [Microsoft Profile](https://learn.microsoft.com/) |
+| Hermann Maurer         | Hyperwave and early web tech innovator.                                  | [Wikipedia](https://en.wikipedia.org/wiki/Hermann_Maurer) |
+| Hervé Leclerc          | Open source cloud and Kubernetes advocate.                               | [GitHub](https://github.com/hleclerc) |
+| Hideo Kojima           | Game developer, creator of Metal Gear (not pure OSS but influential).    | [Wikipedia](https://en.wikipedia.org/wiki/Hideo_Kojima) |
+| Hideki Yamane          | Debian Developer, Japanese localization.                                 | [Debian Profile](https://qa.debian.org/developer.php?login=henrich@debian.org) |
+| Hilary Mason           | Data scientist, founder of Fast Forward Labs.                            | [Website](https://hilarymason.com/) |
+| Hiroshi Lockheimer     | Android and Chrome OS lead at Google.                                    | [Wikipedia](https://en.wikipedia.org/wiki/Hiroshi_Lockheimer) |
+| Hiroshi Miura          | Jenkins core maintainer.                                                 | [GitHub](https://github.com/hiromu) |
+| Hiroshi Ohtake         | Ruby on Rails contributor.                                               | [GitHub](https://github.com/hiroshi) |
+| Hiroyuki Ikezoe        | GNOME accessibility contributor.                                         | [GNOME Profile](https://gitlab.gnome.org/) |
+| Hisashi Miyashita      | NetBSD developer.                                                        | [NetBSD Profile](https://www.netbsd.org/) |
+| Hitoshi Harada         | PostgreSQL core developer.                                               | [GitHub](https://github.com/umitanuki) |
+| Hitoshi Oka            | Linux kernel driver contributor.                                         | [GitHub](https://github.com/hokazono) |
+| Hjalmar Wijk           | Rust and embedded systems developer.                                     | [GitHub](https://github.com/hwijk) |
+| Hleb Valoshka          | Debian and open source security contributor.                             | [GitHub](https://github.com/valos) |
+| Holger Krekel          | Creator of Pytest and tox.                                               | [GitHub](https://github.com/hpk42) |
+| Holger Levsen          | Debian reproducible builds maintainer.                                   | [GitHub](https://github.com/holger) |
+| Holger Mueller         | Cloud analyst and OSS advocate.                                          | [Website](https://constellationr.com/) |
+| Homer Strong           | Python data tools contributor.                                           | [GitHub](https://github.com/hstrong) |
+| Hong Phuc Dang         | Founder of FOSSASIA.                                                      | [Website](https://fossasia.org/) |
+| Hongli Lai             | Creator of Phusion Passenger web server.                                 | [GitHub](https://github.com/FooBarWidget) |
+| Hossein Derakhshan     | Internet freedom activist.                                               | [Wikipedia](https://en.wikipedia.org/wiki/Hossein_Derakhshan) |
+| Howard Chu             | OpenLDAP Chief Architect.                                                | [GitHub](https://github.com/hyc) |
+| Howard Tayler           | Webcomic creator, developer tools supporter.                             | [Website](https://www.schlockmercenary.com/) |
+| Huang Xin              | Linux kernel and filesystem contributor.                                 | [GitHub](https://github.com/huangxin) |
+| Hugo Barra             | Ex-Google Android VP, tech entrepreneur.                                 | [Wikipedia](https://en.wikipedia.org/wiki/Hugo_Barra) |
+| Hugo Cisneros          | Machine learning and OSS contributor.                                    | [GitHub](https://github.com/hugcis) |
+| Hugo Duncan            | Clojure developer and contributor.                                       | [GitHub](https://github.com/hugoduncan) |
+| Hugo Giraudel          | CSS and Sass expert, open source educator.                               | [Website](https://www.hugogiraudel.com/) |
+| Hui Chen               | Open source Java and Spring developer.                                   | [GitHub](https://github.com/huichen) |
+| Håkon Wium Lie          | Creator of CSS.                                                          | [Wikipedia](https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie) |
+
