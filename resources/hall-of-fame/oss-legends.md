@@ -158,3 +158,63 @@
 | Frederik Braun         | Web security and privacy engineer at Mozilla.                       | [GitHub](https://github.com/fbraun) |
 | Freeman Dyson          | Mathematician, physicist, tech visionary.                            | [Wikipedia](https://en.wikipedia.org/wiki/Freeman_Dyson) |
 
+## Hall of Fame – OSS Legends (G)
+
+| **Name**               | **Known For**                                                           | **Link** |
+|------------------------|-------------------------------------------------------------------------|----------|
+| Gabriel Weinberg        | Founder of DuckDuckGo, privacy advocate.                               | [Website](https://duckduckgo.com/) |
+| Gaël Duval              | Founder of Mandrake Linux and /e/ Foundation.                          | [Wikipedia](https://en.wikipedia.org/wiki/Ga%C3%ABl_Duval) |
+| Gabor Szabo             | Perl community contributor, open source educator.                      | [Website](https://szabgab.com/) |
+| Garrett Camp            | Co-founder of Uber, StumbleUpon.                                       | [Wikipedia](https://en.wikipedia.org/wiki/Garrett_Camp) |
+| Gary Bernhardt          | Creator of Destroy All Software screencasts.                           | [Website](https://www.destroyallsoftware.com/) |
+| Gary Kildall            | Creator of CP/M, early operating system pioneer.                       | [Wikipedia](https://en.wikipedia.org/wiki/Gary_Kildall) |
+| Gaston Hillar           | Author and developer, parallel programming advocate.                   | [LinkedIn](https://www.linkedin.com/in/gastonhillar/) |
+| Gavin Andresen          | Former Bitcoin lead developer.                                         | [Wikipedia](https://en.wikipedia.org/wiki/Gavin_Andresen) |
+| Gaurav Munjal           | Co-founder & CEO of Unacademy.                                         | [Twitter](https://twitter.com/gauravmunjal) |
+| Gavan Fantom            | RISC OS open source contributor.                                       | [Website](https://github.com/gavan) |
+| Gene Kim                | Author of "The Phoenix Project", DevOps leader.                        | [Website](https://itrevolution.com/gene-kim/) |
+| Geoffrey Hinton         | Deep learning pioneer, Turing Award winner.                            | [Wikipedia](https://en.wikipedia.org/wiki/Geoffrey_Hinton) |
+| George Hotz             | Hacker, founder of comma.ai, iPhone & PS3 hacking fame.                | [Wikipedia](https://en.wikipedia.org/wiki/George_Hotz) |
+| George Neville-Neil     | FreeBSD developer, networking and time synchronization expert.         | [Website](https://www.neville-neilconsulting.com/) |
+| George Rhoten           | Apache Commons and open source contributor.                            | [GitHub](https://github.com/grhoten) |
+| Georg Greve             | Founder of Free Software Foundation Europe.                            | [Wikipedia](https://en.wikipedia.org/wiki/Georg_Greve) |
+| Georg Sauthoff          | GNU Parallel and Linux performance contributor.                        | [GitHub](https://github.com/gsauthof) |
+| Georgios Karamanis      | Data visualization and ggplot2 contributor.                            | [GitHub](https://github.com/gkaramanis) |
+| Gerard Beekmans         | Founder of Linux From Scratch.                                          | [Wikipedia](https://en.wikipedia.org/wiki/Gerard_Beekmans) |
+| Gerry Sussman           | Co-creator of Scheme programming language.                             | [Wikipedia](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) |
+| Gervase Markham         | Longtime Mozilla contributor and community leader.                     | [Wikipedia](https://en.wikipedia.org/wiki/Gervase_Markham_(software_engineer)) |
+| Ghassan Karwchan        | Open source accessibility advocate.                                    | [GitHub](https://github.com/karwchan) |
+| Gianluca Arbezzano      | Maintainer of Docker, Kubernetes, and monitoring tools.                | [GitHub](https://github.com/gianarb) |
+| Gianugo Rabellino       | Open source evangelist, Apache Software Foundation.                    | [LinkedIn](https://www.linkedin.com/in/gianugo/) |
+| Gilbert Fernandes       | BSD contributor and systems administrator.                             | [GitHub](https://github.com/gilbert) |
+| Gilad Bracha            | Creator of Newspeak language, contributor to Java and Dart.            | [Wikipedia](https://en.wikipedia.org/wiki/Gilad_Bracha) |
+| Gilles Van Assche       | Co-inventor of Keccak (SHA-3).                                          | [Wikipedia](https://en.wikipedia.org/wiki/Gilles_Van_Assche) |
+| Gina Häußge             | Creator of OctoPrint.                                                   | [Website](https://octoprint.org/) |
+| Gina Trapani            | Founder of Lifehacker, open source contributor.                        | [Wikipedia](https://en.wikipedia.org/wiki/Gina_Trapani) |
+| Ginevra Castellano      | Robotics and AI researcher.                                             | [Website](https://www.ginevracastellano.com/) |
+| GitHub                  | Largest open source hosting platform.                                  | [Website](https://github.com/) |
+| Giulio Cesare Giacobbe  | Developer of open source mathematical software.                        | [Website](https://giuliocesare.com/) |
+| Giulio Destri           | FOSS activist and contributor to educational software.                 | [GitHub](https://github.com/gdestri) |
+| Giulia Guidi            | AI fairness and bias researcher.                                       | [Website](https://giiulia.github.io/) |
+| Gleb Bahmutov           | Cypress.io core developer, JavaScript tooling.                         | [GitHub](https://github.com/bahmutov) |
+| Glyn Moody              | Author and advocate for open source and free culture.                  | [Website](https://opendotdotdot.blogspot.com/) |
+| Grace Hopper            | Inventor of the first compiler, computer programming pioneer.          | [Wikipedia](https://en.wikipedia.org/wiki/Grace_Hopper) |
+| Grady Booch             | Co-creator of UML, software engineering leader.                        | [Wikipedia](https://en.wikipedia.org/wiki/Grady_Booch) |
+| Graham Glass            | Founder of ObjectSpace, educational software creator.                  | [Website](https://grahamglass.blog/) |
+| Graham Nelson           | Creator of Inform programming language for interactive fiction.        | [Wikipedia](https://en.wikipedia.org/wiki/Graham_Nelson) |
+| Greg Brockman           | Co-founder & President of OpenAI.                                      | [Wikipedia](https://en.wikipedia.org/wiki/Greg_Brockman) |
+| Greg Hudson             | Subversion and Kerberos developer.                                     | [Website](https://web.mit.edu/ghudson/) |
+| Greg Kroah-Hartman      | Linux kernel maintainer.                                               | [Wikipedia](https://en.wikipedia.org/wiki/Greg_Kroah-Hartman) |
+| Greg Stein              | Apache Software Foundation leader, Subversion developer.               | [Wikipedia](https://en.wikipedia.org/wiki/Greg_Stein) |
+| Greg Ward               | Python and open source contributor.                                    | [Website](https://www.gerg.ca/) |
+| Gregg Pollack           | Founder of Code School, educator.                                      | [LinkedIn](https://www.linkedin.com/in/greggpollack/) |
+| Gregory Chudnovsky      | Mathematician, large integer computations.                             | [Wikipedia](https://en.wikipedia.org/wiki/Chudnovsky_brothers) |
+| Gregory Kogan           | Open source contributor and developer.                                 | [GitHub](https://github.com/gkogan) |
+| Grégoire Pineau         | Symfony core team member.                                              | [GitHub](https://github.com/lyrixx) |
+| Guido van Rossum        | Creator of Python programming language.                                | [Wikipedia](https://en.wikipedia.org/wiki/Guido_van_Rossum) |
+| Guo Moruo               | Early Chinese tech and literature figure.                              | [Wikipedia](https://en.wikipedia.org/wiki/Guo_Moruo) |
+| Gustaf Alströmer        | Y Combinator partner, ex-Growth at Airbnb.                             | [Twitter](https://twitter.com/gustaf) |
+| Gustavo Niemeyer        | Creator of Go's gopkg.in, Ubuntu developer.                            | [GitHub](https://github.com/niemeyer) |
+| Guy Kawasaki            | Former Apple evangelist, tech author.                                  | [Wikipedia](https://en.wikipedia.org/wiki/Guy_Kawasaki) |
+| Gwynne Raskind          | Python and Django contributor.                                         | [GitHub](https://github.com/gwynne) |
+
