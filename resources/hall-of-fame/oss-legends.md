@@ -299,3 +299,64 @@
 | Hui Chen               | Open source Java and Spring developer.                                   | [GitHub](https://github.com/huichen) |
 | Håkon Wium Lie          | Creator of CSS.                                                          | [Wikipedia](https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie) |
 
+## Hall of Fame – OSS Legends (I)
+
+| **Name**               | **Known For**                                                           | **Link** |
+|------------------------|-------------------------------------------------------------------------|----------|
+| Ian Bicking            | Creator of virtualenv, pip, and Paste for Python.                        | [GitHub](https://github.com/ianb) |
+| Ian Darwin             | Author of "Java Cookbook", Unix contributor.                             | [Website](https://darwinsys.com/) |
+| Ian Goodfellow         | Inventor of GANs (Generative Adversarial Networks).                       | [Wikipedia](https://en.wikipedia.org/wiki/Ian_Goodfellow) |
+| Ian Hickson            | HTML5 specification editor.                                              | [Wikipedia](https://en.wikipedia.org/wiki/Ian_Hickson) |
+| Ian Lance Taylor       | GCC and Go compiler contributor.                                         | [GitHub](https://github.com/ianlancetaylor) |
+| Ian Murdock            | Founder of the Debian Project.                                           | [Wikipedia](https://en.wikipedia.org/wiki/Ian_Murdock) |
+| Ian Piumarta           | Smalltalk VM developer.                                                  | [GitHub](https://github.com/ianp) |
+| Ian Ward               | IPython contributor.                                                     | [GitHub](https://github.com/ian-r-ward) |
+| Ibrahim Haddad         | VP of Linux Foundation, open source strategist.                          | [LinkedIn](https://www.linkedin.com/in/ibrahimhaddad/) |
+| Ibrahim Shaikh         | Linux systems contributor.                                               | [GitHub](https://github.com/ibrahimshaikh) |
+| Ida Aalen              | Accessibility and UX advocate.                                           | [Website](https://idaaalen.no/) |
+| Ida Holz               | Uruguayan internet pioneer.                                              | [Wikipedia](https://en.wikipedia.org/wiki/Ida_Holz) |
+| Ideawu                 | Creator of SSDB (Redis alternative).                                     | [GitHub](https://github.com/ideawu) |
+| Idris Ibrahim          | Developer advocate and OSS promoter.                                     | [GitHub](https://github.com/idrisibrahim) |
+| Ievgenii Meshcheriakov | Debian developer.                                                         | [Debian Profile](https://qa.debian.org/developer.php?login=yevhene@debian.org) |
+| Ignas Mikalajunas      | Kubernetes and cloud infrastructure contributor.                         | [GitHub](https://github.com/ignas-mikalajunas) |
+| Ignasi Barrera         | Apache jclouds PMC chair.                                                 | [GitHub](https://github.com/ignasi35) |
+| Igor Minar             | Angular core team lead.                                                  | [GitHub](https://github.com/IgorMinar) |
+| Igor Sysoev            | Creator of Nginx.                                                         | [Wikipedia](https://en.wikipedia.org/wiki/Igor_Sysoev) |
+| Igor Wiedler           | PHP and Symfony contributor.                                             | [GitHub](https://github.com/igorw) |
+| Ilya Grigorik          | Web performance expert, author of "High Performance Browser Networking". | [Website](https://www.igvita.com/) |
+| Ilya Kantor            | Author of "JavaScript.info".                                              | [Website](https://javascript.info/) |
+| Ilya Sher              | MongoDB contributor.                                                      | [GitHub](https://github.com/ilyasher) |
+| Imad Sousou            | Intel open source technology director.                                   | [LinkedIn](https://www.linkedin.com/in/imadsousou/) |
+| Imran Nazar            | JavaScript game developer and author.                                    | [Website](https://imrannazar.com/) |
+| Ingo Molnar            | Linux kernel scheduler maintainer.                                       | [GitHub](https://github.com/mingo) |
+| Ingy döt Net           | Creator of YAML and Inline:: modules in Perl.                            | [GitHub](https://github.com/ingydotnet) |
+| Inigo Quilez           | ShaderToy creator, graphics programming educator.                        | [Website](https://iquilezles.org/) |
+| Inneke Van Nieuwenhuyze| Accessibility and open source designer.                                   | [GitHub](https://github.com/inneke) |
+| Ioana Chiorean         | Mozilla community manager and OSS advocate.                              | [Website](https://ioanachiorean.com/) |
+| Ioannis Filippidis     | Creator of formal verification tools.                                    | [GitHub](https://github.com/ifs) |
+| Ion Stoica             | Apache Spark co-creator, UC Berkeley professor.                          | [Wikipedia](https://en.wikipedia.org/wiki/Ion_Stoica) |
+| Ionut-Cristian Florescu| Linux kernel developer.                                                   | [GitHub](https://github.com/icflorescu) |
+| Ionut-Cristian Petrescu| GNOME developer.                                                          | [GitHub](https://github.com/ipetrescu) |
+| Ionut Pana             | OSS contributor to web frameworks.                                       | [GitHub](https://github.com/ionutp) |
+| Iooss Guillot          | Python and scientific computing contributor.                             | [GitHub](https://github.com/Iooss) |
+| Irene Ros              | Data visualization expert, co-founder of DataMade.                       | [Website](https://ireneros.com/) |
+| Irina Shestak          | Java OSS developer.                                                       | [GitHub](https://github.com/irinashestak) |
+| Irina Truong           | Python OSS contributor.                                                  | [GitHub](https://github.com/irinatruong) |
+| Irwan Fathurrahman     | Indonesian open source advocate.                                          | [GitHub](https://github.com/irwanf) |
+| Isaac Schlueter        | Creator of npm.                                                           | [GitHub](https://github.com/isaacs) |
+| Isabel Drost-Fromm     | Apache Software Foundation member.                                        | [Website](https://isabel-drost.de/) |
+| Isabelle Guyon         | Machine learning researcher, co-creator of LIBSVM.                       | [Website](http://www.isabelle-guyon.net/) |
+| Ismael Beghi           | Java OSS contributor.                                                     | [GitHub](https://github.com/ismeal) |
+| Israel Herraiz         | Software analytics researcher.                                            | [GitHub](https://github.com/israelh) |
+| István Albert          | Bioinformatics open source developer.                                    | [GitHub](https://github.com/ialbert) |
+| István Kiss            | OSS security contributor.                                                 | [GitHub](https://github.com/ikiss) |
+| Iuri de Silvio         | Game engine OSS developer.                                                | [GitHub](https://github.com/iuridev) |
+| Ivan Enderlin          | Creator of Hoa (PHP framework).                                           | [GitHub](https://github.com/hoaproject) |
+| Ivan Porto Carrero     | OSS contributor in .NET ecosystem.                                        | [GitHub](https://github.com/couchbaselabs) |
+| Ivan Sagalaev          | Creator of highlight.js.                                                  | [GitHub](https://github.com/isagalaev) |
+| Ivan Zuzak             | GitHub developer and open source writer.                                  | [GitHub](https://github.com/ivanzuzak) |
+| Ivo Balbaert           | Author of programming language books, OSS advocate.                       | [Website](https://ivobalbaert.com/) |
+| Ivo Wetzel             | Game development and web tools contributor.                              | [GitHub](https://github.com/ivo-welzel) |
+| Iwona Majkowska        | OSS UI/UX contributor.                                                    | [GitHub](https://github.com/iwona) |
+| Izabela Maliszewska    | Accessibility and educational software advocate.                         | [GitHub](https://github.com/izabelam) |
+| IzzySoft               | Creator of F-Droid client.                                                | [GitHub](https://github.com/IzzySoft) |
