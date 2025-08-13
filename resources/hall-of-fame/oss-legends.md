@@ -122,3 +122,39 @@
 | Erlang OTP Team        | Creators of Erlang language and OTP platform.                        | [Website](https://www.erlang.org/) |
 | Esther Dyson           | Technology investor, internet policy influencer.                     | [Wikipedia](https://en.wikipedia.org/wiki/Esther_Dyson) |
 
+## Hall of Fame – OSS Legends (F)
+
+| **Name**               | **Known For**                                                       | **Link** |
+|------------------------|---------------------------------------------------------------------|----------|
+| Fabrice Bellard        | Creator of FFmpeg, QEMU, TinyCC, and many other notable projects.   | [Website](https://bellard.org/) |
+| Fabio Zanfagnini       | Founder of Rockin’1000, tech entrepreneur.                          | [LinkedIn](https://www.linkedin.com/in/fabiozanfagnini/) |
+| Fadi Chehadé           | Former CEO of ICANN, internet governance leader.                    | [Wikipedia](https://en.wikipedia.org/wiki/Fadi_Chehad%C3%A9) |
+| Falko Timme            | Open source sysadmin and hosting automation expert.                 | [Website](https://www.falkotimme.com/) |
+| Fang Yu                | Co-founder of DataVisor, expert in big data security.               | [Website](https://datavisor.com/) |
+| Farhan Thawar          | VP Engineering at Shopify, open source contributor.                 | [LinkedIn](https://www.linkedin.com/in/fthawar/) |
+| Farnam Jahanian        | Internet research, computing systems scientist.                     | [Wikipedia](https://en.wikipedia.org/wiki/Farnam_Jahanian) |
+| Federico Mena-Quintero | Co-founder of GNOME project.                                         | [Wikipedia](https://en.wikipedia.org/wiki/Federico_Mena) |
+| Federico Viticci       | Creator of MacStories, tech writer.                                 | [Website](https://www.macstories.net/) |
+| Fei-Fei Li             | AI and computer vision pioneer, ImageNet creator.                   | [Wikipedia](https://en.wikipedia.org/wiki/Fei-Fei_Li) |
+| Felix Geisendörfer     | Node.js core contributor, co-founder of Transloadit.                | [GitHub](https://github.com/felixge) |
+| Felix Rieseberg        | Maintainer of Electron, JavaScript developer.                       | [GitHub](https://github.com/felixrieseberg) |
+| Feng Zhang             | CRISPR pioneer, computational biology innovator.                    | [Wikipedia](https://en.wikipedia.org/wiki/Feng_Zhang) |
+| Fernando Pérez         | Creator of IPython and Jupyter.                                     | [Wikipedia](https://en.wikipedia.org/wiki/Fernando_P%C3%A9rez_(software_developer)) |
+| Fergus Henderson      | Developer of Mercury programming language.                           | [Website](https://www.mercurylang.org/) |
+| Fermin Serna           | Security researcher, ex-Google Project Zero member.                 | [Twitter](https://twitter.com/fermtool) |
+| Filippo Valsorda       | Go security maintainer, cryptography expert.                        | [Website](https://filippo.io/) |
+| Fiona Scott Morton     | Tech economics and competition researcher.                          | [Wikipedia](https://en.wikipedia.org/wiki/Fiona_Scott_Morton) |
+| Florian Effenberger    | Executive Director of The Document Foundation (LibreOffice).        | [Wikipedia](https://en.wikipedia.org/wiki/Florian_Effenberger) |
+| Florian Schmidt        | Linux kernel and open source developer.                             | [GitHub](https://github.com/florian-schmidt) |
+| Forrest Brazeal        | Cloud computing educator, AWS Serverless Hero.                      | [Website](https://forrestbrazeal.com/) |
+| Frank Hecker           | Mozilla Foundation, open source advocate.                           | [Wikipedia](https://en.wikipedia.org/wiki/Frank_Hecker) |
+| Frank Karlitschek      | Founder of Nextcloud.                                                | [Wikipedia](https://en.wikipedia.org/wiki/Frank_Karlitschek) |
+| Franck Nijhof          | Home Assistant core contributor.                                    | [GitHub](https://github.com/frenck) |
+| Frans Kaashoek         | MIT professor, operating systems researcher.                        | [Wikipedia](https://en.wikipedia.org/wiki/Frans_Kaashoek) |
+| Fravia+                | Reverse engineering pioneer and educator.                           | [Wikipedia](https://en.wikipedia.org/wiki/Fravia) |
+| Fred Brooks            | Author of "The Mythical Man-Month", software engineering legend.    | [Wikipedia](https://en.wikipedia.org/wiki/Fred_Brooks) |
+| Fred Fish              | Amiga freeware distribution pioneer.                                | [Wikipedia](https://en.wikipedia.org/wiki/Fred_Fish) |
+| Frederic Weisbecker    | Linux kernel developer.                                              | [GitHub](https://git.kernel.org/pub/scm/linux/kernel/git/frederic/linux-dynticks.git) |
+| Frederik Braun         | Web security and privacy engineer at Mozilla.                       | [GitHub](https://github.com/fbraun) |
+| Freeman Dyson          | Mathematician, physicist, tech visionary.                            | [Wikipedia](https://en.wikipedia.org/wiki/Freeman_Dyson) |
+
