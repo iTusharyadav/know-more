@@ -360,3 +360,74 @@
 | Iwona Majkowska        | OSS UI/UX contributor.                                                    | [GitHub](https://github.com/iwona) |
 | Izabela Maliszewska    | Accessibility and educational software advocate.                         | [GitHub](https://github.com/izabelam) |
 | IzzySoft               | Creator of F-Droid client.                                                | [GitHub](https://github.com/IzzySoft) |
+
+## Hall of Fame – OSS Legends (J)
+
+| **Name**               | **Known For**                                                           | **Link** |
+|------------------------|-------------------------------------------------------------------------|----------|
+| J. David Eisenberg     | SVG and HTML5 educator, author.                                          | [Website](https://catcode.com/) |
+| J. B. Rainsberger      | Software craftsmanship advocate, testing expert.                        | [Website](https://jbrains.ca/) |
+| Jacek Caban            | Core developer of the KHTML rendering engine.                            | [GitHub](https://github.com/jcaban) |
+| Jack Moffitt           | Xiph.org developer, creator of Icecast.                                  | [Website](https://metajack.im/) |
+| Jack O'Connor          | Developer of Rust cryptography libraries.                                | [GitHub](https://github.com/jackoelv) |
+| Jackie Luo             | Open source community contributor, diversity advocate.                   | [Website](https://jackieluo.com/) |
+| Jacob Appelbaum        | Tor Project developer, security researcher.                              | [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Appelbaum) |
+| Jacob Kaplan-Moss      | Co-creator of Django.                                                     | [GitHub](https://github.com/jacobian) |
+| Jacob Thornton         | Co-creator of Bootstrap.                                                 | [GitHub](https://github.com/fat) |
+| Jacopo Cappellato      | Apache OFBiz PMC Chair.                                                   | [GitHub](https://github.com/jacopoc) |
+| Jae Kwon               | Creator of Tendermint and Cosmos.                                        | [GitHub](https://github.com/jaekwon) |
+| Jagmeet Singh          | OSS contributor to Linux drivers.                                        | [GitHub](https://github.com/jagmeet) |
+| Jake Archibald         | Google Chrome developer advocate, service worker expert.                 | [Website](https://jakearchibald.com/) |
+| Jake Edge              | Linux Weekly News (LWN) editor.                                          | [LWN](https://lwn.net/) |
+| Jake Ginnivan          | OSS contributor in .NET ecosystem.                                       | [GitHub](https://github.com/JakeGinnivan) |
+| Jakub Jankiewicz        | Creator of Term.js and open source web tools.                            | [GitHub](https://github.com/jcubic) |
+| Jakub Kozłowski        | Kubernetes and cloud infrastructure developer.                           | [GitHub](https://github.com/quarkslab) |
+| Jakub Pawlowicz        | Creator of clean-css.                                                     | [GitHub](https://github.com/jakubpawlowicz) |
+| Jalal Hejazi           | Linux kernel contributor.                                                | [GitHub](https://github.com/jalalhejazi) |
+| James Bennet           | Django core developer.                                                   | [GitHub](https://github.com/ubernostrum) |
+| James Clark            | Creator of expat XML parser and DSSSL.                                   | [Wikipedia](https://en.wikipedia.org/wiki/James_Clark_(programmer)) |
+| James Gosling          | Creator of the Java programming language.                                | [Wikipedia](https://en.wikipedia.org/wiki/James_Gosling) |
+| James Halliday         | Creator of Browserify.                                                    | [GitHub](https://github.com/substack) |
+| James Kyle             | Babel core team member.                                                  | [GitHub](https://github.com/thejameskyle) |
+| James M Snell          | Node.js TSC member.                                                       | [GitHub](https://github.com/jasnell) |
+| James Turnbull         | Author of open source DevOps books.                                      | [Website](https://jamesturnbull.net/) |
+| Jamie Zawinski         | Early Netscape developer, creator of XScreenSaver.                       | [Website](https://www.jwz.org/) |
+| Jan Lehnardt           | CouchDB PMC Chair.                                                        | [GitHub](https://github.com/janl) |
+| Jan-Christoph Borchardt| Nextcloud and UX advocate.                                               | [GitHub](https://github.com/jancborchardt) |
+| Jan-Klaas Kollhof      | Creator of JSOLait (JavaScript library).                                 | [GitHub](https://github.com/jkk) |
+| Jan Kučera             | OSS contributor to Fedora.                                               | [GitHub](https://github.com/jankucera) |
+| Jan Minar              | Security researcher, Debian developer.                                   | [Debian](https://qa.debian.org/developer.php?login=minar@debian.org) |
+| Jan Peuker             | Scientific Python developer.                                             | [GitHub](https://github.com/janpeuker) |
+| Jana Beck              | Accessibility and OSS documentation contributor.                         | [GitHub](https://github.com/janabeck) |
+| Jane Silber            | Former CEO of Canonical (Ubuntu).                                        | [Wikipedia](https://en.wikipedia.org/wiki/Jane_Silber) |
+| Janis Lesinskis        | OSS math and scientific tools developer.                                 | [GitHub](https://github.com/jlesinskis) |
+| Janne Vanhala          | OSS IoT tools contributor.                                               | [GitHub](https://github.com/janne) |
+| Jannis Leidel          | Python Packaging Authority member.                                       | [GitHub](https://github.com/jezdez) |
+| Jano Suchal            | Civic tech open source contributor.                                      | [GitHub](https://github.com/janosuchal) |
+| Janos Gyerik           | CLI tools and automation scripts creator.                                | [GitHub](https://github.com/janosgyerik) |
+| Janus Troelsen         | OSS contributor to Mono.                                                 | [GitHub](https://github.com/janus) |
+| Jared Hanson           | Creator of Passport.js.                                                  | [GitHub](https://github.com/jaredhanson) |
+| Jared Hirsch           | Mozilla developer.                                                       | [GitHub](https://github.com/jaredhirsch) |
+| Jarkko Hietaniemi      | Perl core contributor.                                                   | [GitHub](https://github.com/jhi) |
+| Jarl Ostensen          | OSS DevOps tools contributor.                                            | [GitHub](https://github.com/jarlostensen) |
+| Jason Buberel          | Product manager for Kubernetes OSS.                                      | [GitHub](https://github.com/jbuberel) |
+| Jason Davies           | D3.js contributor, creator of word cloud generator.                      | [GitHub](https://github.com/jasondavies) |
+| Jason Fried            | Co-founder of Basecamp, OSS supporter.                                   | [Website](https://basecamp.com/) |
+| Jason Mayes            | TensorFlow.js lead at Google.                                            | [Website](https://www.jasonmayes.com/) |
+| Jason Miller           | Creator of Preact.                                                       | [GitHub](https://github.com/developit) |
+| Jason Orendorff        | SpiderMonkey JavaScript engine contributor.                              | [GitHub](https://github.com/jorendorff) |
+| Jason Robinson         | Hubzilla and Friendica contributor.                                      | [GitHub](https://github.com/diasporg) |
+| Jason Warner           | GitHub CTO, OSS strategy leader.                                         | [Website](https://jasonwarner.net/) |
+| Jasper St. Pierre      | GNOME and Wayland contributor.                                           | [GitHub](https://github.com/magcius) |
+| Jassi Brar             | Linux wireless driver developer.                                         | [GitHub](https://github.com/jassib) |
+| Jatin Katyal           | OSS contributor to AI and web tools.                                     | [GitHub](https://github.com/jatinkatyal13) |
+| Jatinder Mann          | Microsoft Edge developer, web standards contributor.                     | [GitHub](https://github.com/jatinder) |
+| Jay Kreps              | Co-creator of Apache Kafka.                                              | [GitHub](https://github.com/jaykreps) |
+| Jay Pipes              | OpenStack developer, MySQL expert.                                       | [GitHub](https://github.com/jaypipes) |
+| Jay Parlar             | OSS contributor to C++ tools.                                            | [GitHub](https://github.com/jayparlar) |
+| Jay Phelps             | RxJS core team member.                                                   | [GitHub](https://github.com/jayphelps) |
+| Jay Soffian            | Git expert, contributor to Git core.                                     | [GitHub](https://github.com/jsoffian) |
+| Jay Taylor             | OSS contributor to CLI utilities.                                        | [GitHub](https://github.com/jaytaylor) |
+| Jay Yu                 | Apache Phoenix co-creator.                                               | [GitHub](https://github.com/jayyu) |
+| Jayden Seric           | Creator of GraphQL multipart request spec.                               | [GitHub](https://github.com/jaydenseric) |
+
