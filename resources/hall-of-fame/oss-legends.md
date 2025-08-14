@@ -580,3 +580,102 @@
 | Liang He                | OSS Kubernetes and cloud tools contributor.                             | [GitHub](https://github.com/liang-he) |
 | Liang Zhang             | OSS contributor to machine learning tools.                              | [GitHub](https://github.com/liangzhang) |
 
+## Hall of Fame – OSS Legends (M)
+
+| **Name**               | **Known For**                                                           | **Link** |
+|------------------------|-------------------------------------------------------------------------|----------|
+| Maciej Fijalkowski     | PyPy core developer.                                                     | [GitHub](https://github.com/fijal) |
+| Maciej Małecki         | Node.js contributor, creator of open-source modules.                     | [GitHub](https://github.com/mmalecki) |
+| Mackenzie Child        | Ruby on Rails tutorials and OSS projects.                                | [GitHub](https://github.com/mackenziechild) |
+| Macneil Shonle         | OSS Java developer tooling.                                              | [GitHub](https://github.com/mshonle) |
+| Madhav Sathe           | OSS contributor to data visualization tools.                             | [GitHub](https://github.com/madhavs) |
+| Madhusudhan Srinivasa  | Go programming language contributor.                                     | [GitHub](https://github.com/madhuakula) |
+| Madison May            | Creator of Large Language Model tooling (LLM).                           | [GitHub](https://github.com/madisonmay) |
+| Maël Nison             | Creator of Yarn 2 package manager.                                       | [GitHub](https://github.com/arcanis) |
+| Magda Stepien          | OSS documentation and dev advocacy.                                      | [GitHub](https://github.com/magdastepien) |
+| Magnus Hagander        | PostgreSQL core team member.                                             | [GitHub](https://github.com/mhagander) |
+| Magnus Holm             | Creator of Sinatra Ruby web framework.                                  | [GitHub](https://github.com/judofyr) |
+| Magnus Madsen          | OSS compiler and language tools developer.                               | [GitHub](https://github.com/magnusmadsen) |
+| Mahmoud Hashemi        | Creator of boltons Python utilities library.                             | [GitHub](https://github.com/mahmoud) |
+| Mai Giménez             | OSS contributor to Flutter UI components.                               | [GitHub](https://github.com/mai-gimenez) |
+| Maik Ellerbrock         | OSS developer tools for CI/CD.                                           | [GitHub](https://github.com/ellerbrock) |
+| Mainul Haque            | OSS AI and data science contributor.                                    | [GitHub](https://github.com/mainul) |
+| Majid Hajian            | Flutter GDE and OSS contributor.                                        | [GitHub](https://github.com/mhadaily) |
+| Maksim Lin              | OSS Python and education tooling.                                       | [GitHub](https://github.com/maksimlin) |
+| Maksym Krikun           | OSS computer vision libraries contributor.                              | [GitHub](https://github.com/mkrikun) |
+| Malcolm Groves          | OSS tools for Android development.                                      | [GitHub](https://github.com/malcolm-groves) |
+| Malcolm Tredinnick      | Django core contributor.                                                | [GitHub](https://github.com/malcolmt) |
+| Malte Ubl               | Creator of AMP project.                                                 | [GitHub](https://github.com/cramforce) |
+| Manfred Touron          | OSS networking and infrastructure tools.                                | [GitHub](https://github.com/moul) |
+| Mani Gandham            | OSS serverless tooling contributor.                                     | [GitHub](https://github.com/manigandham) |
+| Manik Taneja            | OSS deep learning libraries contributor.                                | [GitHub](https://github.com/maniktaneja) |
+| Manish Goregaokar       | Rust compiler team member.                                              | [GitHub](https://github.com/manishearth) |
+| Manuel Bernhardt        | OSS Scala and Akka contributor.                                         | [GitHub](https://github.com/manuelbernhardt) |
+| Manuel Kiessling        | Author of “Node Beginner Book”.                                         | [GitHub](https://github.com/manuelkiessling) |
+| Manuel Lemos            | Creator of PHP Classes repository.                                      | [GitHub](https://github.com/manuel-lemos) |
+| Manuel Rivero           | OSS mathematical computing tools.                                      | [GitHub](https://github.com/manurivero) |
+| Mao Wenli               | OSS contributor to distributed systems.                                | [GitHub](https://github.com/maowenli) |
+| Marc Abramowitz         | OSS Apache Airflow contributor.                                         | [GitHub](https://github.com/msabramo) |
+| Marc Andreessen         | Early web browser developer (Mosaic, Netscape).                         | [Wikipedia](https://en.wikipedia.org/wiki/Marc_Andreessen) |
+| Marc Feeley             | Creator of Gambit Scheme.                                               | [GitHub](https://github.com/marcfeeley) |
+| Marc Gravell            | Creator of protobuf-net for .NET.                                       | [GitHub](https://github.com/mgravell) |
+| Marc Lehmann            | Creator of libev, rxvt-unicode.                                         | [GitHub](https://github.com/mlehmann) |
+| Marc Newlin             | OSS wireless security tools creator.                                    | [GitHub](https://github.com/marcnewlin) |
+| Marc Shapiro            | OSS distributed systems researcher.                                     | [GitHub](https://github.com/marcshapiro) |
+| Marc-Antoine Ruel       | Chromium and OSS developer tools.                                       | [GitHub](https://github.com/maruel) |
+| Marcel Cutts            | OSS JavaScript developer tools contributor.                             | [GitHub](https://github.com/marcelcutts) |
+| Marcel Laverdet         | Creator of SES (Secure ECMAScript).                                     | [GitHub](https://github.com/marcel) |
+| Marcelo Magallon        | Debian and open-source packages maintainer.                             | [GitHub](https://github.com/magallon) |
+| Marcelo Snape           | OSS security testing tools contributor.                                 | [GitHub](https://github.com/marcelosnape) |
+| Marco Arment            | Creator of Instapaper and Overcast.                                     | [GitHub](https://github.com/marcoarment) |
+| Marco Bonzanini         | OSS data mining libraries contributor.                                  | [GitHub](https://github.com/marcobonzanini) |
+| Marco Canini            | OSS distributed networking tools.                                       | [GitHub](https://github.com/marcocanini) |
+| Marco Falchi            | OSS multimedia computing libraries.                                     | [GitHub](https://github.com/marcofalchi) |
+| Marco Faustinelli       | OSS mobile app libraries contributor.                                   | [GitHub](https://github.com/faustinelli) |
+| Marco Gorelli           | Creator of nbQA for Python notebooks.                                   | [GitHub](https://github.com/mgorelli) |
+| Marco Iacoboni          | OSS neuroimaging libraries.                                             | [GitHub](https://github.com/marcoiacoboni) |
+| Marco Pivetta           | OSS PHP libraries contributor.                                          | [GitHub](https://github.com/Ocramius) |
+| Marco Rogers            | Ember.js core team, JavaScript OSS contributor.                         | [GitHub](https://github.com/purp) |
+| Marco Tulio             | OSS contributor to AI tooling.                                          | [GitHub](https://github.com/marco-tulio) |
+| Marcos Lara             | OSS audio processing tools developer.                                   | [GitHub](https://github.com/marcoslara) |
+| Marcos Oliveira         | OSS web components contributor.                                         | [GitHub](https://github.com/marcosoliveira) |
+| Marcos Placona          | OSS developer relations advocate.                                       | [GitHub](https://github.com/mplacona) |
+| Marcus Bointon          | Creator of PHPMailer.                                                   | [GitHub](https://github.com/Synchro) |
+| Marcus Felling          | OSS contributor to testing frameworks.                                  | [GitHub](https://github.com/marcusfelling) |
+| Marcus Kazmierczak      | OSS contributor to WordPress core.                                      | [GitHub](https://github.com/mkaz) |
+| Marcus Olsson           | OSS contributor to Grafana plugins.                                     | [GitHub](https://github.com/marcusolsson) |
+| Marcus Smith            | Creator of virtualenvwrapper.                                           | [GitHub](https://github.com/dotdee) |
+| Marcus Wendt            | OSS creative coding tools contributor.                                  | [GitHub](https://github.com/marcuswendt) |
+| Marek Majkowski         | Cloudflare OSS networking tools.                                        | [GitHub](https://github.com/majek) |
+| Marek Vavrusa           | OSS DNS and networking systems.                                         | [GitHub](https://github.com/mvavrusa) |
+| Margaret Burnett        | OSS software engineering research, end-user programming.                | [Wikipedia](https://en.wikipedia.org/wiki/Margaret_Burnett) |
+| Maria Naggaga           | OSS .NET developer advocate.                                            | [GitHub](https://github.com/marinagg) |
+| Marian Crăciunescu      | OSS Android development tools.                                          | [GitHub](https://github.com/mariancra) |
+| Mariano Guerra          | Creator of peer-to-peer OSS platforms.                                  | [GitHub](https://github.com/marianoguerra) |
+| Marijn Haverbeke        | Creator of CodeMirror, TernJS.                                          | [GitHub](https://github.com/marijnh) |
+| Marius Eriksen          | OSS Scala, Twitter Finagle contributor.                                 | [GitHub](https://github.com/mariusae) |
+| Marius Gundersen        | OSS creator of reactive programming tools.                              | [GitHub](https://github.com/mariusgundersen) |
+| Marius Volkhart         | OSS contributor to Gradle plugins.                                      | [GitHub](https://github.com/mariusvolkhart) |
+| Mark Callaghan          | MySQL and RocksDB core contributor.                                     | [GitHub](https://github.com/mdcallag) |
+| Mark Erikson            | Redux maintainer.                                                       | [GitHub](https://github.com/markerikson) |
+| Mark Nottingham         | HTTP standards editor.                                                  | [GitHub](https://github.com/mnot) |
+| Mark Pilgrim            | Author of “Dive Into Python.”                                           | [GitHub](https://github.com/diveintomark) |
+| Mark Russinovich        | Creator of Sysinternals tools.                                          | [Wikipedia](https://en.wikipedia.org/wiki/Mark_Russinovich) |
+| Mark Seemann            | OSS contributor to functional programming in .NET.                      | [GitHub](https://github.com/ploeh) |
+| Mark Shannon            | Python core developer.                                                  | [GitHub](https://github.com/markshannon) |
+| Mark Story              | Creator of CakePHP.                                                     | [GitHub](https://github.com/markstory) |
+| Mark Thomas             | Apache Tomcat maintainer.                                               | [GitHub](https://github.com/markt-asf) |
+| Mark Torgerson          | OSS AI tooling contributor.                                             | [GitHub](https://github.com/marktorg) |
+| Marko Arsić             | OSS contributor to mobile UI frameworks.                                | [GitHub](https://github.com/markoarsic) |
+| Marko Bonaci            | OSS contributor to Apache Beam.                                         | [GitHub](https://github.com/markobonaci) |
+| Marko Lukša             | Kubernetes in Action author.                                            | [GitHub](https://github.com/markoluksa) |
+| Marko Saric             | OSS privacy-first analytics tools creator.                              | [GitHub](https://github.com/markosaric) |
+| Markus F.               | OSS 3D graphics tooling contributor.                                    | [GitHub](https://github.com/markusf) |
+| Markus Friedl           | OpenSSH contributor.                                                    | [GitHub](https://github.com/friedl) |
+| Markus Kuhn             | Unicode and text processing standards contributor.                      | [GitHub](https://github.com/markuskuhn) |
+| Markus Unterwaditzer    | OSS Python libraries contributor.                                       | [GitHub](https://github.com/untitaker) |
+| Markus Winand           | OSS database performance expert.                                        | [GitHub](https://github.com/MarkusWinand) |
+| Marlon Richert          | OSS Zsh shell tools contributor.                                        | [GitHub](https://github.com/marlonrichert) |
+| Maroš Kollár            | OSS scientific computing tools.                                         | [GitHub](https://github.com/maros) |
+| Marouane             | OSS web components contributor.                                         | [GitHub](https://github.com/marouane) |
+
