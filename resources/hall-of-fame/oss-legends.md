@@ -503,3 +503,80 @@
 | Kevlin Henney          | OSS advocate, software craftsmanship author.                             | [Website](https://kevlin.uk/) |
 | Keyvan Nayyeri         | .NET OSS contributor and author.                                         | [GitHub](https://github.com/keyvan) |
 
+## Hall of Fame – OSS Legends (L)
+
+| **Name**               | **Known For**                                                           | **Link** |
+|------------------------|-------------------------------------------------------------------------|----------|
+| L. David Baron          | Mozilla CSS and layout engine developer.                                | [GitHub](https://github.com/dbaron) |
+| Lachlan Evenson         | Kubernetes OSS contributor, CNCF ambassador.                            | [GitHub](https://github.com/lachie83) |
+| Lachlan Miller          | Creator of open source Vue.js learning resources.                       | [GitHub](https://github.com/lmiller1990) |
+| Lachlan Patrick          | OSS contributor to FPGA and hardware tooling.                           | [GitHub](https://github.com/lachlansz) |
+| Lajos Koszti            | Game development OSS tools creator.                                     | [GitHub](https://github.com/lkoszti) |
+| Lakshmi Narasimhan      | OSS data engineering tools developer.                                   | [GitHub](https://github.com/lakshminp) |
+| Lam Duong               | OSS UI components and design systems contributor.                       | [GitHub](https://github.com/lamduong) |
+| Lambert Leong           | OSS contributor for bioinformatics tools.                               | [GitHub](https://github.com/lamberleong) |
+| Lance Stout             | Creator of SleekXMPP and other Python libraries.                        | [GitHub](https://github.com/lancestout) |
+| Lance Ulmer             | OSS tools for developer workflows.                                      | [GitHub](https://github.com/lulmer) |
+| Landon Schropp          | Ember.js core contributor.                                              | [GitHub](https://github.com/landonschropp) |
+| Lars Knoll              | Qt Project chief maintainer.                                            | [GitHub](https://github.com/larsknoll) |
+| Lars Vogel              | Eclipse IDE contributor, vogella.com founder.                           | [GitHub](https://github.com/vogellacompany) |
+| Lars Wirzenius          | Co-founder of Debian project.                                           | [Wikipedia](https://en.wikipedia.org/wiki/Lars_Wirzenius) |
+| Larry Hastings          | Python core developer.                                                  | [GitHub](https://github.com/larryhastings) |
+| Larry Wall              | Creator of Perl programming language.                                   | [Wikipedia](https://en.wikipedia.org/wiki/Larry_Wall) |
+| Laszlo Pandy            | GStreamer and multimedia OSS contributor.                               | [GitHub](https://github.com/lpandy) |
+| Laurent Borel           | OSS contributor to JavaScript engines.                                  | [GitHub](https://github.com/lborel) |
+| Laurent Gautier         | Creator of rpy2 (Python to R bridge).                                   | [GitHub](https://github.com/lgautier) |
+| Laurent Sansonetti      | Creator of MacRuby and RubyMotion.                                      | [GitHub](https://github.com/lrz) |
+| Laurent Van Winckel     | OSS contributor to 3D graphics and OpenGL tooling.                       | [GitHub](https://github.com/lvanwinckel) |
+| Laurie Voss             | npm co-founder.                                                         | [GitHub](https://github.com/seldo) |
+| Laurin Brandner         | OSS Swift and iOS developer tools contributor.                          | [GitHub](https://github.com/LaurinBrandner) |
+| Lav Kumar               | OSS DevOps tooling contributor.                                         | [GitHub](https://github.com/lavkumarv) |
+| Lavon Woods             | OSS contributor for security tools.                                     | [GitHub](https://github.com/lavonwoods) |
+| Lawrence Jones          | Creator of Go-based observability tools.                                | [GitHub](https://github.com/lawrencejones) |
+| Lawrence Woodman        | Retro computing OSS tools creator.                                      | [GitHub](https://github.com/lawrencewoodman) |
+| Laxman Prasad            | OSS developer in web and server-side tooling.                           | [GitHub](https://github.com/laxmancodes) |
+| Lea Verou               | Creator of CSS3 patterns, web standards advocate.                       | [GitHub](https://github.com/LeaVerou) |
+| Leandro Ostera          | Crystal language core contributor.                                      | [GitHub](https://github.com/ostera) |
+| Leandro Toledo          | Creator of microcontrollers OSS tools.                                  | [GitHub](https://github.com/leandrotoledo) |
+| Lee Byron               | Co-creator of GraphQL.                                                  | [GitHub](https://github.com/leebyron) |
+| Lee Reilly              | GitHub Developer Program manager and OSS promoter.                      | [GitHub](https://github.com/leereilly) |
+| Lee Robinson            | OSS contributor for Next.js and Vercel projects.                        | [GitHub](https://github.com/leerob) |
+| Lee Salzman             | Mozilla graphics and rendering contributor.                             | [GitHub](https://github.com/lsalzman) |
+| Lefteris Karapetsas     | Creator of Rotki and Ethereum OSS tools.                                 | [GitHub](https://github.com/LefterisJP) |
+| Lei Ma                  | OSS contributor for Go networking libraries.                            | [GitHub](https://github.com/leimao) |
+| Lei Xu                  | Open vSwitch contributor.                                               | [GitHub](https://github.com/leixu) |
+| Leif Warner             | OSS Lisp and functional programming tools contributor.                  | [GitHub](https://github.com/leifw) |
+| Leif Walsh              | OSS contributor to PostgreSQL tooling.                                  | [GitHub](https://github.com/leifwalsh) |
+| Leinonen, Jari-Pekka    | OSS real-time systems contributor.                                      | [GitHub](https://github.com/jpleino) |
+| Lena Reinhard           | OSS advocate, speaker, and documentation contributor.                   | [GitHub](https://github.com/lenareinhard) |
+| Lenard Lindstrom        | Pygame maintainer.                                                       | [GitHub](https://github.com/illume) |
+| Lenart J. Kučera        | OSS contributor to automation tools.                                    | [GitHub](https://github.com/lenartk) |
+| Lennart Poettering      | Creator of systemd.                                                      | [GitHub](https://github.com/poljar) |
+| Lennart Spitzner        | OSS network security tools contributor.                                 | [GitHub](https://github.com/lspitzner) |
+| Leo Iannacone           | Debian and Ubuntu OSS maintainer.                                       | [GitHub](https://github.com/leo-unc) |
+| Leo Liu                 | OSS video codec contributor (FFmpeg, etc.).                             | [GitHub](https://github.com/leoliu) |
+| Leon Bambrick           | LINQPad creator.                                                         | [GitHub](https://github.com/sevenseacat) |
+| Leon Bamsey             | OSS AI and ML tooling contributor.                                      | [GitHub](https://github.com/leonbamsey) |
+| Leon Sorokin            | Creator of uPlot charting library.                                      | [GitHub](https://github.com/leeoniya) |
+| Leonard Richardson      | Author of Beautiful Soup.                                               | [GitHub](https://github.com/leonardr) |
+| Leonard Sporn           | OSS compiler tooling contributor.                                       | [GitHub](https://github.com/leonardsporn) |
+| Leonardo Giordani       | Author of “Clean Architectures in Python.”                               | [GitHub](https://github.com/Leo-G) |
+| Leonardo Losoviz        | OSS WordPress plugin developer.                                         | [GitHub](https://github.com/leoloso) |
+| Leonardo Nascimento     | OSS contributor to Rust libraries.                                      | [GitHub](https://github.com/leonardonasc) |
+| Les Hazlewood           | Creator of Apache Shiro.                                                | [GitHub](https://github.com/lhazlewood) |
+| Leslie Hawthorn         | OSS community manager and advocate.                                     | [GitHub](https://github.com/lhawthorn) |
+| Leslie Lamport          | Creator of LaTeX, TLA+.                                                 | [Wikipedia](https://en.wikipedia.org/wiki/Leslie_Lamport) |
+| Lester Hightower        | OSS network monitoring tools developer.                                 | [GitHub](https://github.com/lhightower) |
+| Leticia Portella        | Python OSS contributor and speaker.                                     | [GitHub](https://github.com/leticiaportella) |
+| Levi Gross              | OSS IoT tooling contributor.                                            | [GitHub](https://github.com/levigross) |
+| Levi Weintraub          | OSS ML and NLP tooling developer.                                       | [GitHub](https://github.com/leviweintraub) |
+| Levi Yitzchok           | OSS infrastructure contributor.                                         | [GitHub](https://github.com/leviyitz) |
+| Lewis Cowles            | OSS contributor to web security tools.                                  | [GitHub](https://github.com/Lewiscowles1986) |
+| Lewis Marshall          | OSS data science library contributor.                                   | [GitHub](https://github.com/lewismarshal) |
+| Liam Collod             | OSS Linux desktop customization tools.                                  | [GitHub](https://github.com/liamcollod) |
+| Liam Sharp              | OSS 3D graphics and game development contributor.                       | [GitHub](https://github.com/liamsharp) |
+| Liam Tung               | OSS documentation and developer advocacy.                               | [GitHub](https://github.com/liamtung) |
+| Liang Chen              | OSS contributor to deep learning frameworks.                            | [GitHub](https://github.com/liang2) |
+| Liang He                | OSS Kubernetes and cloud tools contributor.                             | [GitHub](https://github.com/liang-he) |
+| Liang Zhang             | OSS contributor to machine learning tools.                              | [GitHub](https://github.com/liangzhang) |
+
