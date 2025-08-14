@@ -431,3 +431,75 @@
 | Jay Yu                 | Apache Phoenix co-creator.                                               | [GitHub](https://github.com/jayyu) |
 | Jayden Seric           | Creator of GraphQL multipart request spec.                               | [GitHub](https://github.com/jaydenseric) |
 
+## Hall of Fame – OSS Legends (K)
+
+| **Name**               | **Known For**                                                           | **Link** |
+|------------------------|-------------------------------------------------------------------------|----------|
+| K. S. Ernest (Kyrylo)   | Open source data visualization tools developer.                         | [GitHub](https://github.com/ks-ernest) |
+| Kamil Kisiel           | Creator of python-dateutil parser enhancements.                          | [GitHub](https://github.com/kkisiel) |
+| Kamil Potrec           | OSS contributor in security research.                                    | [GitHub](https://github.com/kamilpotrec) |
+| Kamil Shakirov         | Maintainer of open source CAD tools.                                     | [GitHub](https://github.com/k-shakirov) |
+| Kamil Trzciński        | GitLab Runner core developer.                                            | [GitHub](https://github.com/ayufan) |
+| Kamran Ahmed           | Creator of developer-roadmap.                                            | [GitHub](https://github.com/kamranahmedse) |
+| Kane Valentine         | OSS game developer and tools creator.                                    | [GitHub](https://github.com/kanevalentine) |
+| Kangax (Juriy Zaytsev) | Creator of compatibility tables for JS and CSS.                          | [GitHub](https://github.com/kangax) |
+| Kanit Wongsuphasawat   | Co-creator of Vega-Lite and data visualization libraries.                 | [GitHub](https://github.com/kanitw) |
+| Kapil Thangavelu       | Creator of Cloud Custodian.                                              | [GitHub](https://github.com/kapilt) |
+| Kara Erickson          | Angular team member at Google.                                           | [GitHub](https://github.com/karaforthewin) |
+| Karen Etheridge        | Perl 5 core contributor.                                                 | [GitHub](https://github.com/ether) |
+| Karol Majek            | Python and embedded OSS contributor.                                     | [GitHub](https://github.com/karolmajek) |
+| Karol Trzeszczkowski   | Creator of Photon open source digital synthesizer.                       | [GitHub](https://github.com/koraltrzeszczkowski) |
+| Karpathy, Andrej       | Creator of micrograd, neural networks educator.                          | [GitHub](https://github.com/karpathy) |
+| Karthik Ram            | Creator of ROpenSci, advocate for reproducible science.                  | [GitHub](https://github.com/karthik) |
+| Kartik Agaram          | Creator of pen plotting open source tools.                               | [GitHub](https://github.com/akkartik) |
+| Kaspar von Erffa       | OSS contributor to compiler tooling.                                     | [GitHub](https://github.com/ksvenerff) |
+| Kasper Lund            | Google engineer, co-creator of Dart.                                     | [GitHub](https://github.com/klund) |
+| Kasra Rahjerdi         | Android ROMs and OSS mobile tools developer.                             | [GitHub](https://github.com/koush) |
+| Kat Marchán            | Former npm CLI lead.                                                     | [GitHub](https://github.com/zkat) |
+| Kate Chapman           | Humanitarian OpenStreetMap Team director.                                | [Website](https://hotosm.org/) |
+| Katherine Cox-Buday    | Go core library contributor.                                             | [GitHub](https://github.com/katherine) |
+| Katharina Fey          | Rust core team contributor.                                              | [GitHub](https://github.com/spacekookie) |
+| Kathy Reid             | Mycroft AI community manager.                                            | [GitHub](https://github.com/kathyreid) |
+| Katja Mordaunt          | OSS education and coding tools contributor.                              | [GitHub](https://github.com/katjam) |
+| Katriel Cohn-Gordon    | Security researcher, Signal protocol contributor.                        | [GitHub](https://github.com/kcohg) |
+| Katsumi Takahashi      | OSS developer for Java EE tools.                                         | [GitHub](https://github.com/katsumi) |
+| Katsuyuki Ohmuro       | Creator of Ruby web frameworks.                                          | [GitHub](https://github.com/ohmuro) |
+| Kauê Navarro           | OSS contributor for game development tools.                              | [GitHub](https://github.com/kauenavarro) |
+| Kaushik Ghose          | NLP and AI OSS contributor.                                              | [GitHub](https://github.com/kaushikghose) |
+| Kazu Yamamoto          | Creator of Haskell network libraries.                                    | [GitHub](https://github.com/kazu-yamamoto) |
+| Kazuki Okamoto         | OSS contributor to Kubernetes ecosystem.                                 | [GitHub](https://github.com/k-okamoto) |
+| Kazuki Yamaguchi       | Ruby OpenSSL maintainer.                                                 | [GitHub](https://github.com/rhe) |
+| Keane Stuart           | OSS developer for CI/CD tooling.                                         | [GitHub](https://github.com/keanestuart) |
+| Keir Fraser            | Creator of FlashFloppy and Amiga OSS tools.                              | [GitHub](https://github.com/keirf) |
+| Keith Packard          | X.org developer, freedesktop.org founder.                                | [Wikipedia](https://en.wikipedia.org/wiki/Keith_Packard) |
+| Keith Peters           | Creator of open source animation libraries.                              | [GitHub](https://github.com/bit101) |
+| Keith Rarick            | Creator of godep (Go dependency tool).                                   | [GitHub](https://github.com/kr) |
+| Keith Smiley           | OSS contributor in iOS and developer tooling.                            | [GitHub](https://github.com/keith) |
+| Keith Winstein         | Creator of Mosh (mobile shell).                                          | [GitHub](https://github.com/keithw) |
+| Kelcey Damage          | OSS infrastructure and cloud tooling contributor.                        | [GitHub](https://github.com/kelceydamage) |
+| Kelsey Hightower       | Kubernetes evangelist, OSS educator.                                     | [GitHub](https://github.com/kelseyhightower) |
+| Kemal Akkoyun          | Prometheus exporter developer.                                           | [GitHub](https://github.com/kakkoyun) |
+| Ken Coar               | Apache Software Foundation co-founder.                                   | [Wikipedia](https://en.wikipedia.org/wiki/Ken_Coar) |
+| Ken Thompson           | Co-creator of UNIX.                                                      | [Wikipedia](https://en.wikipedia.org/wiki/Ken_Thompson) |
+| Kenan Basaran          | OSS contributor to Blender tools.                                        | [GitHub](https://github.com/kenanbasaran) |
+| Kendrick Tan           | Crypto OSS contributor, Ethereum tooling.                                | [GitHub](https://github.com/kendricktan) |
+| Kenneth Reitz          | Creator of Requests (Python HTTP library).                               | [GitHub](https://github.com/kennethreitz) |
+| Kenneth Skovhus        | OSS testing tools creator.                                               | [GitHub](https://github.com/kskovhus) |
+| Kenneth Ward           | Linux and OSS firmware developer.                                        | [GitHub](https://github.com/kenward) |
+| Kenta Murata           | Ruby committer, author of NArray.                                        | [GitHub](https://github.com/mrkn) |
+| Kent Beck              | Agile Manifesto co-author, JUnit creator.                                | [Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck) |
+| Kent C. Dodds          | OSS educator, creator of testing-library.                                | [GitHub](https://github.com/kentcdodds) |
+| Kent Overstreet        | Creator of bcachefs filesystem.                                          | [GitHub](https://github.com/koverstreet) |
+| Kenton Varda           | Creator of Cap’n Proto serialization format.                             | [GitHub](https://github.com/kentonv) |
+| Kerem Kat              | OSS designer and UI component creator.                                   | [GitHub](https://github.com/keremkat) |
+| Kerry Liu              | OSS contributor for computer vision tools.                               | [GitHub](https://github.com/kerryliu) |
+| Kevin Burke            | Creator of go-bindata and Twilio OSS libraries.                          | [GitHub](https://github.com/kevinburke) |
+| Kevin Dangoor          | Co-creator of Dojo Toolkit, Mozilla dev tools lead.                      | [GitHub](https://github.com/dangoor) |
+| Kevin Krammer          | KDE core developer.                                                      | [GitHub](https://github.com/kkrammer) |
+| Kevin Lynagh           | OSS data visualization tool creator.                                     | [GitHub](https://github.com/lynaghk) |
+| Kevin Sawicki          | GitHub Atom editor core developer.                                       | [GitHub](https://github.com/kevinsawicki) |
+| Kevin Sookocheff       | OSS contributor to cloud native tools.                                   | [GitHub](https://github.com/ksookocheff) |
+| Kevin Van den Brande   | Creator of BrowserSync.                                                  | [GitHub](https://github.com/shakyShane) |
+| Kevlin Henney          | OSS advocate, software craftsmanship author.                             | [Website](https://kevlin.uk/) |
+| Keyvan Nayyeri         | .NET OSS contributor and author.                                         | [GitHub](https://github.com/keyvan) |
+
