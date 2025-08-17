@@ -831,3 +831,19 @@
 | OpenWrt | Linux OS for network devices | [GitHub](https://github.com/openwrt/openwrt) |
 | Oppia | Interactive learning and educational activities platform | [GitHub](https://github.com/oppia/oppia) |
 
+| Name | Known For | Link |
+|------|-----------|------|
+| Paul Irish | Google Chrome DevRel, Modernizr, Yeoman contributor, web performance advocate | [GitHub](https://github.com/paulirish) |
+| Paul Phillips | Creator of Scala IDE for Eclipse, major Scala contributor | [GitHub](https://github.com/paulp) |
+| Paul Stodghill | Contributor to distributed systems and academic OSS | [GitHub](https://github.com/pstodghill) |
+| Pavel Durov | Founder of Telegram, OSS cryptographic contributions | [GitHub](https://github.com/durov) |
+| Peter Bourgon | Creator of Go kit (microservices toolkit), OSS in Go ecosystem | [GitHub](https://github.com/peterbourgon) |
+| Peter Norvig | Director of Research at Google, AI pioneer, open research software | [GitHub](https://github.com/norvig) |
+| Peter Seibel | Author of *Practical Common Lisp*, contributor to OSS Lisp tools | [GitHub](https://github.com/gigamonkey) |
+| Peter van Hardenberg | Postgres and distributed systems advocate, ex-Heroku OSS projects | [GitHub](https://github.com/pvh) |
+| Pieter Hintjens | Creator of ZeroMQ, advocate of open protocols, author of *Culture and Empire* | [GitHub](https://github.com/hintjens) |
+| Pieter Wuille | Bitcoin Core developer, co-founder of Blockstream, SegWit and Miniscript creator | [GitHub](https://github.com/sipa) |
+| Piotr Esden-Tempski | Founder of 1BitSquared, OSS FPGA tools, electronics projects | [GitHub](https://github.com/esden) |
+| Piotr Wozniak | Creator of SuperMemo, pioneer of spaced repetition algorithms | [GitHub](https://github.com/supermemo) |
+| Preetam Jinka | Creator of hosted metrics & observability OSS tools, time-series DB projects | [GitHub](https://github.com/preetam) |
+
