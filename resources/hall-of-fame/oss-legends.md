@@ -847,3 +847,11 @@
 | Piotr Wozniak | Creator of SuperMemo, pioneer of spaced repetition algorithms | [GitHub](https://github.com/supermemo) |
 | Preetam Jinka | Creator of hosted metrics & observability OSS tools, time-series DB projects | [GitHub](https://github.com/preetam) |
 
+| Name | Known For | Link |
+|------|-----------|------|
+| Quake Developers (John Carmack & id Software team) | Released Quake source code under GPL, pioneering game engine OSS | [GitHub](https://github.com/id-Software) |
+| Quentin Adam | CEO of Clever Cloud, speaker & contributor to OSS around cloud-native tech | [GitHub](https://github.com/waxzce) |
+| Quinn Slack | Co-founder & CEO of Sourcegraph, OSS code search and dev productivity tools | [GitHub](https://github.com/sqs) |
+| Quinton Pike | Contributor to decentralized systems, OSS cryptography libraries | [GitHub](https://github.com/qpike) |
+| Quoc Le | Google Brain researcher, early TensorFlow contributor, deep learning OSS | [GitHub](https://github.com/quocleix) |
+
