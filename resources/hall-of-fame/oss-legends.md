@@ -821,3 +821,13 @@
 | Nikolai Tschacher        | OSS privacy-preserving web tools.                                     | [GitHub](https://github.com/nikolaischacher) |
 | Nikolaus Rath            | OSS Linux FUSE
 
+| Name | Known For | Link |
+|------|-----------|------|
+| OBS Studio | Video recording and live streaming software | [GitHub](https://github.com/obsproject/obs-studio) |
+| Oh My Zsh | Framework for managing Zsh configuration | [GitHub](https://github.com/ohmyzsh/ohmyzsh) |
+| OpenCV | Computer vision and machine learning library | [GitHub](https://github.com/opencv/opencv) |
+| OpenSSL | Cryptography and SSL/TLS toolkit | [GitHub](https://github.com/openssl/openssl) |
+| OpenStreetMap iD | Browser-based map editor for OpenStreetMap | [GitHub](https://github.com/openstreetmap/iD) |
+| OpenWrt | Linux OS for network devices | [GitHub](https://github.com/openwrt/openwrt) |
+| Oppia | Interactive learning and educational activities platform | [GitHub](https://github.com/oppia/oppia) |
+
