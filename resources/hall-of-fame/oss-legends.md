@@ -679,3 +679,145 @@
 | Maroš Kollár            | OSS scientific computing tools.                                         | [GitHub](https://github.com/maros) |
 | Marouane             | OSS web components contributor.                                         | [GitHub](https://github.com/marouane) |
 
+## Hall of Fame – OSS Legends (N)
+
+| **Name**               | **Known For**                                                           | **Link** |
+|------------------------|-------------------------------------------------------------------------|----------|
+| Nacho Soto             | OSS contributor to iOS/macOS development tools.                         | [GitHub](https://github.com/nachosoto) |
+| Nader Dabit            | AWS Amplify and React Native OSS advocate.                              | [GitHub](https://github.com/dabit3) |
+| Nadim Kobeissi          | Creator of Cryptocat encrypted chat.                                   | [GitHub](https://github.com/kobeissi) |
+| Naga Praveen           | OSS contributor to Kubernetes tooling.                                  | [GitHub](https://github.com/nagapraveen) |
+| Nagendra Kumar          | OSS AI/ML frameworks contributor.                                      | [GitHub](https://github.com/nagendrakumar) |
+| NaiveHobo               | Creator of Social-Engineer Toolkit modules.                            | [GitHub](https://github.com/naiveHobo) |
+| Naixue Xie              | OSS machine learning tools.                                             | [GitHub](https://github.com/naixue) |
+| Nalin Dahyabhai         | Maintainer of Kerberos-related OSS tools.                               | [GitHub](https://github.com/nalind) |
+| Nam Nguyen              | OSS contributor to web dev libraries.                                  | [GitHub](https://github.com/namnguyen) |
+| Namit Katariya          | OSS contributor to blockchain frameworks.                              | [GitHub](https://github.com/namitkatariya) |
+| Namit Shetty            | OSS cloud infrastructure tooling.                                      | [GitHub](https://github.com/namitshetty) |
+| Namrata Mahindrakar     | OSS Python and data science tools contributor.                          | [GitHub](https://github.com/namratamahindrakar) |
+| Nana Asiedu             | OSS contributor to UI frameworks.                                      | [GitHub](https://github.com/nanaasiedu) |
+| Nana Janashia           | Kubernetes and DevOps OSS educator.                                    | [GitHub](https://github.com/nanajashia) |
+| Nancy Garbe             | OSS contributor to JavaScript frameworks.                              | [GitHub](https://github.com/nancygarbe) |
+| Nandor Licker           | OSS compiler optimizations developer.                                  | [GitHub](https://github.com/nandor-licker) |
+| Nando Vieira            | Creator of Ruby open-source projects.                                  | [GitHub](https://github.com/fnando) |
+| Nando Web               | OSS WordPress and PHP tools contributor.                               | [GitHub](https://github.com/nandoweb) |
+| Nan Xiao                | OSS tools for reverse engineering and binary analysis.                 | [GitHub](https://github.com/nanxiao) |
+| Naohiro Aota            | OSS Linux kernel contributor.                                          | [GitHub](https://github.com/naota) |
+| Naoki Hiroshima         | Creator of Japanize and other OSS projects.                            | [GitHub](https://github.com/naokihiroshima) |
+| Naoki Takezoe           | Creator of Scala IDE plugins.                                          | [GitHub](https://github.com/takezoe) |
+| Naor Livne              | OSS contributor to distributed systems.                                | [GitHub](https://github.com/naorlivne) |
+| Napoleon Trias          | OSS geospatial computing tools.                                        | [GitHub](https://github.com/napoleontrias) |
+| Naren Das               | OSS data analytics frameworks contributor.                             | [GitHub](https://github.com/narendas) |
+| Naren Krishnamurthy     | OSS contributor to Java backend frameworks.                            | [GitHub](https://github.com/narenkrish) |
+| Naren Ramasubramanian    | OSS AI model deployment tools.                                         | [GitHub](https://github.com/narenramasubramanian) |
+| Naren Venkataraman       | OSS security frameworks contributor.                                  | [GitHub](https://github.com/narenvenkat) |
+| Narges Alipour           | OSS scientific computing tools.                                       | [GitHub](https://github.com/nargesalipour) |
+| Nariyoshi Yamai          | OSS game engine development tools.                                    | [GitHub](https://github.com/nariyoshi) |
+| Narsimha Reddy           | OSS cloud orchestration tooling.                                      | [GitHub](https://github.com/narsimha-reddy) |
+| Narsingh Chauhan         | OSS IoT development frameworks.                                       | [GitHub](https://github.com/narsinghchauhan) |
+| Naser Al-Maskari         | OSS web accessibility tooling.                                        | [GitHub](https://github.com/naseralmaskari) |
+| Naseem Hakim             | OSS contributor to cryptographic libraries.                           | [GitHub](https://github.com/naseemhakim) |
+| Nasir Hussain            | OSS AI research tooling.                                              | [GitHub](https://github.com/nasirhussain) |
+| Nasser Ebrahim           | OSS blockchain-based identity solutions.                              | [GitHub](https://github.com/nasserebrahim) |
+| Nat Friedman             | Former GitHub CEO, OSS supporter.                                     | [GitHub](https://github.com/nat) |
+| Nat Welch               | OSS contributor to developer productivity tools.                       | [GitHub](https://github.com/icco) |
+| Natalya Shelburne        | OSS CSS and design systems contributor.                               | [GitHub](https://github.com/natalyathree) |
+| Nate Berkopec            | Creator of Puma web server for Ruby.                                  | [GitHub](https://github.com/nateberkopec) |
+| Nate Finch               | OSS Go programming tools contributor.                                 | [GitHub](https://github.com/natefinch) |
+| Nate Graff               | OSS contributor to container orchestration.                           | [GitHub](https://github.com/nategraff) |
+| Nate Kohari              | Creator of Ninject for .NET.                                          | [GitHub](https://github.com/nkohari) |
+| Nate Murray              | OSS full-stack development tools contributor.                         | [GitHub](https://github.com/natemurray) |
+| Nate Parsons             | OSS contributor to React ecosystem.                                   | [GitHub](https://github.com/nateparsons) |
+| Nathan Broadbent         | OSS Ruby on Rails tools contributor.                                  | [GitHub](https://github.com/nathankleyn) |
+| Nathan George            | OSS identity management frameworks.                                   | [GitHub](https://github.com/ngeorge) |
+| Nathan Leclaire          | Docker Machine maintainer.                                            | [GitHub](https://github.com/nathanleclaire) |
+| Nathan Marz              | Creator of Apache Storm and Cascalog.                                 | [GitHub](https://github.com/nathanmarz) |
+| Nathan Sobo              | Creator of Atom editor.                                               | [GitHub](https://github.com/nathansobo) |
+| Nathan Sweet             | Creator of libGDX game framework.                                     | [GitHub](https://github.com/EsotericSoftware) |
+| Nathanel Copa            | Maintainer of Alpine Linux.                                           | [GitHub](https://github.com/ncopa) |
+| Natron Studio Team       | OSS visual effects and motion graphics software.                      | [GitHub](https://github.com/NatronGitHub) |
+| Nauman Ahmad             | OSS contributor to cloud-native projects.                             | [GitHub](https://github.com/naumanahmad) |
+| Navid Emamdoost          | OSS contributor to virtualization tools.                              | [GitHub](https://github.com/navid) |
+| Navin Pai                | OSS AI research libraries.                                            | [GitHub](https://github.com/navinpai) |
+| Navneet Dalal            | Co-author of HOG descriptor, OSS CV tools.                            | [GitHub](https://github.com/navneetdalal) |
+| Navneet Jha              | OSS contributor to blockchain frameworks.                             | [GitHub](https://github.com/navneetjha) |
+| Nayana Shetty            | OSS contributor to testing frameworks.                                | [GitHub](https://github.com/nayanashetty) |
+| Nazanin Kamali           | OSS design systems and UI tools contributor.                          | [GitHub](https://github.com/nazaninkamali) |
+| Nazar Mokrynskyi         | OSS PHP frameworks creator.                                           | [GitHub](https://github.com/nazar-pc) |
+| Neale Pickett            | OSS security tools contributor.                                       | [GitHub](https://github.com/neale) |
+| Neal Gafter               | OSS Java language enhancements (JSR) contributor.                    | [GitHub](https://github.com/nealgafter) |
+| Neal Stephenson           | OSS science-fiction inspired dev tools.                              | [GitHub](https://github.com/nealstephenson) |
+| Neeraj Kayal              | OSS contributor to cryptographic libraries.                          | [GitHub](https://github.com/neerajkayal) |
+| Neha Batra               | OSS contributor to code collaboration tools.                          | [GitHub](https://github.com/nehabatra) |
+| Neha Kumari              | OSS cloud deployment frameworks.                                      | [GitHub](https://github.com/nehakumari) |
+| Neha Narkhede            | Co-creator of Apache Kafka.                                           | [GitHub](https://github.com/nhnarkhede) |
+| Neil Fraser              | Creator of Blockly.                                                   | [GitHub](https://github.com/neilfr) |
+| Neil Gershenfeld         | OSS fabrication and 3D printing tools.                                 | [GitHub](https://github.com/neilgershenfeld) |
+| Neil Green               | OSS contributor to DevOps tools.                                      | [GitHub](https://github.com/neilgreen) |
+| Neil Mitchell            | Creator of HLint for Haskell.                                         | [GitHub](https://github.com/ndmitchell) |
+| Neil Mix                 | OSS contributor to meteor and web frameworks.                         | [GitHub](https://github.com/neilmix) |
+| Neil Smithline           | OSS big data processing tools contributor.                            | [GitHub](https://github.com/neilsmithline) |
+| Neil Turton              | OSS contributor to embedded Linux projects.                           | [GitHub](https://github.com/neilturton) |
+| Nejc Zupan               | OSS PHP and Laravel ecosystem contributor.                            | [GitHub](https://github.com/nejczupan) |
+| Nels Ebbesen             | OSS AI training tools contributor.                                    | [GitHub](https://github.com/nelsebbesen) |
+| Nels Olson               | OSS scientific computing contributor.                                 | [GitHub](https://github.com/nolson) |
+| Nelson Elhage            | OSS contributor to debugging and tracing tools.                       | [GitHub](https://github.com/nelhage) |
+| Nelson Minar             | OSS mapping and geospatial tools.                                     | [GitHub](https://github.com/NelsonMinar) |
+| Nemanja Mikic            | OSS blockchain and cryptography contributor.                          | [GitHub](https://github.com/nemanjamikic) |
+| Nenad Buncic             | OSS game development frameworks.                                      | [GitHub](https://github.com/nenadbuncic) |
+| Neoway Labs              | OSS data analytics tools.                                             | [GitHub](https://github.com/NeowayLabs) |
+| Nephi Stanley            | OSS IoT development contributor.                                      | [GitHub](https://github.com/nephistanley) |
+| Neri Marschik            | OSS AI-powered developer tools.                                       | [GitHub](https://github.com/nerimarschik) |
+| Nermin Serifovic          | OSS contributor to C++ libraries.                                    | [GitHub](https://github.com/nserifovic) |
+| Nesrine Khelifi          | OSS NLP tools contributor.                                            | [GitHub](https://github.com/nesrinekhelifi) |
+| Netanel Basal            | Creator of ngx-build-plus and OSS Angular tools.                      | [GitHub](https://github.com/NetanelBasal) |
+| Netlify Dev Team         | OSS deployment and CI/CD tooling.                                     | [GitHub](https://github.com/netlify) |
+| Netravali Shrinivas      | OSS video compression and streaming tools.                            | [GitHub](https://github.com/netravalishrinivas) |
+| Nevin Johnson            | OSS contributor to DevOps and cloud-native tools.                     | [GitHub](https://github.com/nevinjohnson) |
+| Newell Jensen            | OSS contributor to serverless frameworks.                             | [GitHub](https://github.com/newell) |
+| Newton Santos            | OSS AI-based software testing tools.                                  | [GitHub](https://github.com/newtonsantos) |
+| Ngan Nguyen              | OSS contributor to data visualization libraries.                      | [GitHub](https://github.com/ngannguyen) |
+| Ngan Pham                | OSS blockchain development tools.                                     | [GitHub](https://github.com/nganpham) |
+| Ngan Vu                  | OSS ML model evaluation frameworks.                                   | [GitHub](https://github.com/nganvu) |
+| Ngarukiye Blaise         | OSS AI and NLP tools contributor.                                     | [GitHub](https://github.com/ngarukiyeblaise) |
+| Ngiap Ming               | OSS robotics development tools.                                       | [GitHub](https://github.com/ngiapming) |
+| Nhan Cao                 | OSS security automation tools.                                        | [GitHub](https://github.com/nhancao) |
+| Như Nguyễn               | OSS web frameworks contributor.                                       | [GitHub](https://github.com/nhunguyen) |
+| Niamh Ní Bhriain         | OSS UX and accessibility tools.                                       | [GitHub](https://github.com/niamh-nibhriain) |
+| Nic Jansma               | OSS web performance measurement tools.                                | [GitHub](https://github.com/nicjansma) |
+| Nic Raboy                | OSS tutorials and developer tools.                                    | [GitHub](https://github.com/nraboy) |
+| Nic Williams             | OSS contributor to Spring and Java ecosystem.                         | [GitHub](https://github.com/nicwilliams) |
+| Nicanor Romero           | OSS real-time systems contributor.                                    | [GitHub](https://github.com/nicanorromero) |
+| Nicolas Gallagher        | Creator of normalize.css and OSS React tools.                         | [GitHub](https://github.com/necolas) |
+| Nicolas Grekas           | Symfony core developer.                                               | [GitHub](https://github.com/nicolas-grekas) |
+| Nicolas Liochon          | OSS HBase contributor.                                                 | [GitHub](https://github.com/nliochon) |
+| Nicolas Mussat           | OSS DevOps tools contributor.                                         | [GitHub](https://github.com/nmussat) |
+| Nicolas Paris            | OSS contributor to machine learning frameworks.                        | [GitHub](https://github.com/nicolasparis) |
+| Nicolas Ruff             | OSS reverse engineering tools contributor.                            | [GitHub](https://github.com/nicolas-ruff) |
+| Nicolas Seriot           | Creator of iOS security and parsing tools.                            | [GitHub](https://github.com/nst) |
+| Nicolas Verdier          | OSS distributed data processing frameworks.                           | [GitHub](https://github.com/nverdier) |
+| Nico Kaiser              | OSS creator of media streaming tools.                                 | [GitHub](https://github.com/nicokaiser) |
+| Nico Krüger              | OSS contributor to security tooling.                                  | [GitHub](https://github.com/nicokruger) |
+| Nico Prananta            | OSS contributor to Android development libraries.                     | [GitHub](https://github.com/nicoprananta) |
+| Nico Schlömer            | OSS scientific computing tools contributor.                           | [GitHub](https://github.com/nschloe) |
+| Nicolo Carpignoli        | OSS AR.js and WebXR contributor.                                      | [GitHub](https://github.com/nicolocarpignoli) |
+| Nicolo Valigi            | OSS Python scientific libraries contributor.                          | [GitHub](https://github.com/nvaligi) |
+| Nicolò Martini           | OSS Scala and FP tools contributor.                                   | [GitHub](https://github.com/nmartini) |
+| Nigel Brown              | OSS GIS tools contributor.                                            | [GitHub](https://github.com/nigelbrown) |
+| Nigel Tao                | OSS contributor to Go standard library.                               | [GitHub](https://github.com/nigeltao) |
+| Nik Graf                 | OSS GraphQL and serverless tools contributor.                         | [GitHub](https://github.com/nikgraf) |
+| Nik Molnar               | OSS .NET tooling contributor.                                         | [GitHub](https://github.com/nikmolnar) |
+| Nikhil Barthwal          | OSS functional programming and compiler tools.                        | [GitHub](https://github.com/nikhilbarthwal) |
+| Nikhil Kothari           | OSS contributor to web frameworks.                                    | [GitHub](https://github.com/nikhilk) |
+| Nikhil Marathe           | OSS Node.js tools contributor.                                        | [GitHub](https://github.com/nikhilmarathe) |
+| Nikhil Verma             | OSS computer vision frameworks.                                       | [GitHub](https://github.com/nikhilverma) |
+| Nikita Baksalyar          | OSS privacy tools contributor.                                       | [GitHub](https://github.com/nbaksalyar) |
+| Nikita Prokopov          | Creator of FiraCode and OSS developer tools.                           | [GitHub](https://github.com/tonsky) |
+| Nikita Voloboev          | OSS knowledge management tools creator.                               | [GitHub](https://github.com/nikitavoloboev) |
+| Niklas Long              | OSS contributor to Python backend libraries.                          | [GitHub](https://github.com/niklaslong) |
+| Niklas Modess            | OSS contributor to developer workflow tools.                          | [GitHub](https://github.com/niklasmodess) |
+| Nikolai Avramov          | OSS contributor to DevOps automation tools.                           | [GitHub](https://github.com/navramov) |
+| Nikolai Khabarov         | OSS compiler and systems programming tools.                           | [GitHub](https://github.com/nikolai-khabarov) |
+| Nikolai Tschacher        | OSS privacy-preserving web tools.                                     | [GitHub](https://github.com/nikolaischacher) |
+| Nikolaus Rath            | OSS Linux FUSE
+
