@@ -881,3 +881,15 @@
 | Steve Klabnik | Prominent Rust community member, OSS author & advocate | [GitHub](https://github.com/steveklabnik) |
 | Surma (Surma.dev) | Web developer advocate, OSS contributor (Workbox, PWAs) | [GitHub](https://github.com/surma) |
 
+| Name | Known For | Link |
+|------|-----------|------|
+| Taylor Otwell | Creator of Laravel (PHP framework) | [GitHub](https://github.com/taylorotwell) |
+| Theo Browne | Creator of tRPC, OSS + content creator (Ping.gg founder) | [GitHub](https://github.com/theo) |
+| Thomas Dohmke | CEO of GitHub, OSS contributor (previously HockeyApp) | [GitHub](https://github.com/dohmke) |
+| Thomas Leonard | Creator of 0install, contributions to Linux packaging & Nix ecosystem | [GitHub](https://github.com/talex5) |
+| Thomas Watson | OSS contributor, Node.js core, Elastic APM | [GitHub](https://github.com/watson) |
+| TJ Holowaychuk | Creator of Express.js, Mocha, Stylus, Commander.js | [GitHub](https://github.com/tj) |
+| Tom Preston-Werner | Co-founder of GitHub, creator of Jekyll & Semantic Versioning | [GitHub](https://github.com/mojombo) |
+| Trevor Parscal | Wikimedia Foundation developer, MediaWiki contributor | [GitHub](https://github.com/trevorparscal) |
+| Tristan Rice | OSS contributor, known for work in security and infrastructure projects | [GitHub](https://github.com/tristanrice) |
+
