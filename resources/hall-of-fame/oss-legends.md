@@ -893,3 +893,12 @@
 | Trevor Parscal | Wikimedia Foundation developer, MediaWiki contributor | [GitHub](https://github.com/trevorparscal) |
 | Tristan Rice | OSS contributor, known for work in security and infrastructure projects | [GitHub](https://github.com/tristanrice) |
 
+| Name | Known For | Link |
+|------|-----------|------|
+| Udi Dahan | Expert in distributed systems, founder of Particular Software (NServiceBus) | [GitHub](https://github.com/udidahan) |
+| Ulrich Drepper | Creator of glibc, major contributions to Linux toolchain | [GitHub](https://github.com/drepper) |
+| Ulf Adams | Creator of Ryu (fast float-to-string conversion, used in V8, Rust, etc.) | [GitHub](https://github.com/ulfjack) |
+| Umar Hansa | Web developer, OSS contributor, Chrome DevTools educator | [GitHub](https://github.com/umaar) |
+| Ujjwal Sharma | Node.js TSC member, V8 contributor, OSS security researcher | [GitHub](https://github.com/ryzokuken) |
+| Uncle Bob (Robert C. Martin) | Author of *Clean Code*, OSS advocate, influential in Agile & SOLID principles | [GitHub](https://github.com/unclebob) |
+
