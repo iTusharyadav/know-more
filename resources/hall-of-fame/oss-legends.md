@@ -868,3 +868,16 @@
 | Rob Pike | Co-creator of Go language, Plan 9, Unix contributor | [GitHub](https://github.com/robpike) |
 | Ryan Dahl | Creator of Node.js, now working on Deno | [GitHub](https://github.com/ry) |
 
+| Name | Known For | Link |
+|------|-----------|------|
+| Sam Altman | CEO of OpenAI, OSS supporter, Y Combinator alum | [GitHub](https://github.com/sama) |
+| Sam Stephenson | Creator of Prototype.js, contributions to Rails ecosystem | [GitHub](https://github.com/sstephenson) |
+| Sam Tobin-Hochstadt | Core developer of Racket, Typed Racket, and programming languages research | [GitHub](https://github.com/samth) |
+| Scott Chacon | Co-founder of GitHub, author of Pro Git | [GitHub](https://github.com/schacon) |
+| Simon Willison | Co-creator of Django, Datasette, open data advocate | [GitHub](https://github.com/simonw) |
+| Sindre Sorhus | Creator of thousands of OSS npm packages (AVA, Got, Chalk) | [GitHub](https://github.com/sindresorhus) |
+| Solomon Hykes | Founder of Docker, revolutionized containers | [GitHub](https://github.com/shykes) |
+| Steve Francia | Creator of Hugo (static site generator), Go project lead | [GitHub](https://github.com/spf13) |
+| Steve Klabnik | Prominent Rust community member, OSS author & advocate | [GitHub](https://github.com/steveklabnik) |
+| Surma (Surma.dev) | Web developer advocate, OSS contributor (Workbox, PWAs) | [GitHub](https://github.com/surma) |
+
