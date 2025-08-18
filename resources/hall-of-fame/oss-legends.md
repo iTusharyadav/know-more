@@ -855,3 +855,16 @@
 | Quinton Pike | Contributor to decentralized systems, OSS cryptography libraries | [GitHub](https://github.com/qpike) |
 | Quoc Le | Google Brain researcher, early TensorFlow contributor, deep learning OSS | [GitHub](https://github.com/quocleix) |
 
+| Name | Known For | Link |
+|------|-----------|------|
+| Rasmus Lerdorf | Creator of PHP, one of the most used languages on the web | [GitHub](https://github.com/rasmus) |
+| Raymond Chen | Long-time Microsoft engineer, writes “The Old New Thing,” contributor to Windows OSS docs | [GitHub](https://github.com/oldnewthing) |
+| Raymond Hettinger | Python core developer, known for itertools, collections, and language advocacy | [GitHub](https://github.com/rhettinger) |
+| Remy Sharp | Creator of HTML5 Boilerplate, OSS web dev tools & community contributions | [GitHub](https://github.com/remy) |
+| Richard Stallman (RMS) | Founder of GNU Project, FSF, free software movement pioneer | [GitHub](https://github.com/rms-open-letter) |
+| Rich Hickey | Creator of Clojure (functional Lisp dialect on JVM) | [GitHub](https://github.com/richhickey) |
+| Rich Harris | Creator of Svelte and Rollup.js | [GitHub](https://github.com/Rich-Harris) |
+| Robert Griesemer | Co-creator of Go programming language | [GitHub](https://github.com/griesemer) |
+| Rob Pike | Co-creator of Go language, Plan 9, Unix contributor | [GitHub](https://github.com/robpike) |
+| Ryan Dahl | Creator of Node.js, now working on Deno | [GitHub](https://github.com/ry) |
+
