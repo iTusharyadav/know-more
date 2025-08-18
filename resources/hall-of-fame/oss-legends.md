@@ -902,3 +902,14 @@
 | Ujjwal Sharma | Node.js TSC member, V8 contributor, OSS security researcher | [GitHub](https://github.com/ryzokuken) |
 | Uncle Bob (Robert C. Martin) | Author of *Clean Code*, OSS advocate, influential in Agile & SOLID principles | [GitHub](https://github.com/unclebob) |
 
+| Name | Known For | Link |
+|------|-----------|------|
+| Vadim Makeev | Web standards advocate, founder of Web Standards project in Russia | [GitHub](https://github.com/pepelsbey) |
+| Val Head | Web animation expert, author, educator, contributor to CSS/animations resources | [GitHub](https://github.com/valhead) |
+| Valeri Karpov | Creator of Mongoose.js (popular MongoDB ODM for Node.js) | [GitHub](https://github.com/vkarpov15) |
+| Valentin Haenel | Contributor to scientific Python stack, including Numba and Dask | [GitHub](https://github.com/esc) |
+| Vercel Team (Guillermo Rauch) | Founder of Vercel, creator of Next.js | [GitHub](https://github.com/rauchg) |
+| Vincent Driessen | Creator of Git Flow branching model | [GitHub](https://github.com/nvie) |
+| Vitalik Buterin | Creator of Ethereum, blockchain OSS pioneer | [GitHub](https://github.com/vbuterin) |
+| Vladimir Vukićević | Creator of WebGL, Mozilla/Web standards contributor | [GitHub](https://github.com/vvuk) |
+
