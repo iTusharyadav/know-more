@@ -932,3 +932,25 @@
 | Xuefeng Chen | OSS contributions in networking, cloud-native, and Linux kernel | [GitHub](https://github.com/cxfksword) |
 | Xuedong Huang | Key contributor to Microsoft’s speech recognition research, OSS AI advocate | [GitHub](https://github.com/xuedong) |
 
+| Name | Known For | Link |
+|------|-----------|------|
+| Yan Zhu | Security engineer, privacy advocate, major contributor to HTTPS Everywhere | [GitHub](https://github.com/diracdeltas) |
+| Yangqing Jia | Creator of Caffe (deep learning framework), contributor to PyTorch & AI systems | [GitHub](https://github.com/Yangqing) |
+| Yegor Bugayenko | Creator of Zerocracy, Elegant Objects principles, OSS advocate | [GitHub](https://github.com/yegor256) |
+| Yehuda Katz | Co-creator of Ember.js, key contributor to jQuery and Rails | [GitHub](https://github.com/wycats) |
+| Yoav Weiss | Web performance and standards engineer, contributor to W3C | [GitHub](https://github.com/yoavweiss) |
+| Yonatan Zunger | Open web advocate, former Google engineer, contributor to OSS projects | [GitHub](https://github.com/yonatanzunger) |
+| Yoshi Takaoka | Contributor to Kubernetes and cloud-native OSS projects | [GitHub](https://github.com/ytakaoka) |
+| Yusuke Kamiyamane | Designer of Fugue Icons (popular OSS icon set) | [GitHub](https://github.com/yusukekamiyamane) |
+| Yusuke Suzuki | Major contributor to JavaScriptCore, WebKit, and OSS JavaScript engines | [GitHub](https://github.com/Constellation) |
+
+| Name | Known For | Link |
+|------|-----------|------|
+| Zach Holman | Early GitHub engineer, created many OSS tools, speaker on dev culture | [GitHub](https://github.com/holman) |
+| Zach Leatherman | Creator of Eleventy (11ty), static site generator | [GitHub](https://github.com/zachleat) |
+| Zed Shaw | Author of *Learn Python the Hard Way*, OSS advocate | [GitHub](https://github.com/zedshaw) |
+| Zeev Suraski | Co-creator of PHP (with Andi Gutmans), Zend Engine | [GitHub](https://github.com/zeevs) |
+| Zeno Rocha | Creator of Draculatheme, clipboard.js, OSS evangelist | [GitHub](https://github.com/zenorocha) |
+| Zeeshan Ali | Contributor to GNOME and Linux desktop projects | [GitHub](https://github.com/zeenix) |
+| Zhongyi Tong | Contributor to deep learning OSS frameworks and Chinese NLP tools | [GitHub](https://github.com/tonyzhongyi) |
+| Zoran Jovanovic | Contributor to Java OSS libraries and distributed systems | [GitHub](https://github.com/zoran123) |
