@@ -913,3 +913,22 @@
 | Vitalik Buterin | Creator of Ethereum, blockchain OSS pioneer | [GitHub](https://github.com/vbuterin) |
 | Vladimir Vukićević | Creator of WebGL, Mozilla/Web standards contributor | [GitHub](https://github.com/vvuk) |
 
+| Name | Known For | Link |
+|------|-----------|------|
+| Waldek Mastykarz | OSS contributor, Microsoft 365 & SharePoint community leader | [GitHub](https://github.com/waldekmastykarz) |
+| Ward Cunningham | Creator of the first Wiki, pioneer of software design patterns | [GitHub](https://github.com/WardCunningham) |
+| Wei Dai | Creator of b-money (early crypto concept), contributions to cryptography | [GitHub](https://github.com/weidai11) |
+| Wes Bos | Creator of popular JavaScript/React/Node courses, OSS contributor | [GitHub](https://github.com/wesbos) |
+| Weston Ruter | Google engineer, contributor to WordPress Core | [GitHub](https://github.com/westonruter) |
+| Whitney Griffith | Open-source advocate, contributor to web accessibility and frontend tools | [GitHub](https://github.com/whitneygriffith) |
+| William Stein | Creator of SageMath (open-source mathematics software system) | [GitHub](https://github.com/williamstein) |
+
+| Name | Known For | Link |
+|------|-----------|------|
+| Xiaohui Chen | Contributor to machine learning frameworks and open-source AI projects | [GitHub](https://github.com/xiaohui-chen) |
+| Xiaojie Chen | OSS contributor in deep learning & reinforcement learning libraries | [GitHub](https://github.com/xiaojiechen) |
+| Xing Liu | Maintainer of open-source tools in data science and distributed systems | [GitHub](https://github.com/xliu) |
+| Xuanyi Chew | Contributor to PyTorch ecosystem and deep learning resources | [GitHub](https://github.com/xuanyix) |
+| Xuefeng Chen | OSS contributions in networking, cloud-native, and Linux kernel | [GitHub](https://github.com/cxfksword) |
+| Xuedong Huang | Key contributor to Microsoft’s speech recognition research, OSS AI advocate | [GitHub](https://github.com/xuedong) |
+
