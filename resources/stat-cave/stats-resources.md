@@ -34,3 +34,15 @@
 | Computational Statistics Handbook with MATLAB | Classic resource covering algorithms and statistical computing | [Website](https://people.sc.fsu.edu/~jburkardt/pdf/stats_matlab.pdf) |
 | Crash Course Statistics (YouTube) | Engaging YouTube playlist covering descriptive stats to inferential analysis | [YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvHR8kC) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| DataCamp: Statistics Fundamentals | Interactive platform with hands-on coding for learning stats | [Website](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1) |
+| Data Analysis with R (Coursera - Johns Hopkins) | Popular course on R-based statistical analysis | [Website](https://www.coursera.org/learn/data-analysis-r) |
+| Datatab (Online Statistics Tool) | Easy-to-use online statistical calculator & tests | [Website](https://datatab.net/) |
+| Descriptive Statistics Crash Course (YouTube) | Quick guide to mean, median, mode, variance, and more | [YouTube](https://www.youtube.com/watch?v=xxpc-HPKN28) |
+| Discovering Statistics Using IBM SPSS (Andy Field) | Best-selling textbook (fun & practical intro to stats with SPSS) | [Website](https://us.sagepub.com/en-us/nam/discovering-statistics-using-ibm-spss-statistics/book268018) |
+| Doing Bayesian Data Analysis (John Kruschke) | One of the most famous books on Bayesian statistics | [Website](https://sites.google.com/site/doingbayesiandataanalysis/) |
+| Draftsman’s Plot (Tutorial) | Guide to visualizing multivariate stats data (scatterplot matrix) | [Article](https://statisticsbyjim.com/graphs/draftsman-plot-scatterplot-matrix/) |
+
