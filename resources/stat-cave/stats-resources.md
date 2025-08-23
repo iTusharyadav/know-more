@@ -46,3 +46,15 @@
 | Doing Bayesian Data Analysis (John Kruschke) | One of the most famous books on Bayesian statistics | [Website](https://sites.google.com/site/doingbayesiandataanalysis/) |
 | Draftsman’s Plot (Tutorial) | Guide to visualizing multivariate stats data (scatterplot matrix) | [Article](https://statisticsbyjim.com/graphs/draftsman-plot-scatterplot-matrix/) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Econometrics Academy | Free online econometrics & statistics courses with lectures and notes | [Website](https://sites.google.com/site/econometricsacademy/) |
+| Elements of Statistical Learning (Hastie, Tibshirani, Friedman) | Classic reference book on statistical learning and machine learning | [PDF](https://hastie.su.domains/ElemStatLearn/) |
+| Encyclopedia of Mathematics (Stats Section) | Massive reference covering probability and statistics concepts | [Website](https://encyclopediaofmath.org/wiki/Probability_and_statistics) |
+| Essential Statistics for Data Science (Towards Data Science) | Beginner-friendly article series explaining stats for DS | [Article](https://towardsdatascience.com/essential-statistics-for-data-science-3f48466f7554) |
+| Exploratory Data Analysis (John Tukey) | Landmark book introducing EDA concepts | [Website](https://www.amazon.com/Exploratory-Data-Analysis-John-Tukey/dp/0201076160) |
+| Excel Statistics Tutorials (XLSTAT/YouTube) | Practical tutorials for running stats in Excel | [Website](https://www.xlstat.com/en/solutions/statistics-in-excel) |
+| Experimental Design Resources (Penn State STAT 503) | University-level course notes on experimental design | [Website](https://online.stat.psu.edu/stat503/) |
+
