@@ -70,3 +70,16 @@
 | F Distribution Calculator (Statology) | Online tool to compute F distribution probabilities and critical values | [Website](https://www.statology.org/f-distribution-calculator/) |
 | Forecasting: Principles and Practice (Hyndman & Athanasopoulos) | Free online book on forecasting & time series | [Website](https://otexts.com/fpp3/) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Gapminder | Interactive global statistics visualizations on health, income, and development | [Website](https://www.gapminder.org/) |
+| Geary’s C | Statistical measure for spatial autocorrelation (alternative to Moran’s I) | [Article](https://en.wikipedia.org/wiki/Geary%27s_C) |
+| Generalized Linear Models (GLM) | Extension of linear regression for non-normal data (canonical framework in stats) | [Article](https://en.wikipedia.org/wiki/Generalized_linear_model) |
+| GeoDa | Free software tool for spatial data analysis and statistics | [Website](https://geodacenter.github.io/) |
+| GitHub - gretl | Open-source software for econometrics & time-series analysis | [GitHub](https://github.com/gretl-project/gretl) |
+| Google Dataset Search | Google’s search engine for discovering public datasets | [Website](https://datasetsearch.research.google.com/) |
+| GraphPad Prism | Widely used commercial tool for statistical analysis in biomedical sciences | [Website](https://www.graphpad.com/scientific-software/prism/) |
+| GRETL Manual (Econometrics) | Free comprehensive documentation for econometric statistics | [Website](http://gretl.sourceforge.net/gretl-help/gretl-guide.pdf) |
+
