@@ -83,3 +83,15 @@
 | GraphPad Prism | Widely used commercial tool for statistical analysis in biomedical sciences | [Website](https://www.graphpad.com/scientific-software/prism/) |
 | GRETL Manual (Econometrics) | Free comprehensive documentation for econometric statistics | [Website](http://gretl.sourceforge.net/gretl-help/gretl-guide.pdf) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Handbook of Biological Statistics | Free online stats book covering biological data analysis | [Website](http://www.biostathandbook.com/) |
+| Harvard Dataverse | Open repository for research data across disciplines | [Website](https://dataverse.harvard.edu/) |
+| Hierarchical Linear Modeling (HLM) | Statistical technique for nested/clustered data (multilevel models) | [Article](https://en.wikipedia.org/wiki/Hierarchical_linear_model) |
+| Histogram | Classic visualization for distribution analysis in statistics | [Article](https://en.wikipedia.org/wiki/Histogram) |
+| Hotelling’s T² Test | Multivariate statistical test (generalization of Student’s t-test) | [Article](https://en.wikipedia.org/wiki/Hotelling%27s_T-squared_distribution) |
+| Hypothesis Testing | Core concept in inferential statistics (null vs. alternative hypothesis) | [Article](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) |
+| Hypothes.is | Open-source annotation tool for collaborative research and statistical notes | [Website](https://web.hypothes.is/) |
+
