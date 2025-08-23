@@ -58,3 +58,15 @@
 | Excel Statistics Tutorials (XLSTAT/YouTube) | Practical tutorials for running stats in Excel | [Website](https://www.xlstat.com/en/solutions/statistics-in-excel) |
 | Experimental Design Resources (Penn State STAT 503) | University-level course notes on experimental design | [Website](https://online.stat.psu.edu/stat503/) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| FastStat | Quick-reference online statistical calculator for common tests | [Website](https://www.statpac.com/online-calculator/) |
+| FiveThirtyEight | Data-driven journalism with deep statistical analysis of politics, sports, and society | [Website](https://fivethirtyeight.com/) |
+| FlowingData (Nathan Yau) | Blog on data visualization, statistics, and analysis | [Website](https://flowingdata.com/) |
+| Fundamentals of Biostatistics (Bernard Rosner) | Widely used textbook for medical & biological statistics | [Website](https://www.amazon.com/Fundamentals-Biostatistics-Bernard-Rosner/dp/130526892X) |
+| Fundamentals of Statistics (MIT OCW 18.650) | Free MIT OpenCourseWare stats course | [Website](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) |
+| F Distribution Calculator (Statology) | Online tool to compute F distribution probabilities and critical values | [Website](https://www.statology.org/f-distribution-calculator/) |
+| Forecasting: Principles and Practice (Hyndman & Athanasopoulos) | Free online book on forecasting & time series | [Website](https://otexts.com/fpp3/) |
+
