@@ -95,3 +95,14 @@
 | Hypothesis Testing | Core concept in inferential statistics (null vs. alternative hypothesis) | [Article](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) |
 | Hypothes.is | Open-source annotation tool for collaborative research and statistical notes | [Website](https://web.hypothes.is/) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Inferential Statistics | Branch of stats for making predictions & generalizations from sample data | [Article](https://en.wikipedia.org/wiki/Statistical_inference) |
+| Information Theory | Mathematical framework for quantifying information & uncertainty | [Article](https://en.wikipedia.org/wiki/Information_theory) |
+| International Statistical Institute (ISI) | Global professional association for statistics | [Website](https://www.isi-web.org/) |
+| IPUMS (Integrated Public Use Microdata Series) | Census and survey data from around the world for research & analysis | [Website](https://ipums.org/) |
+| Iterative Proportional Fitting (IPF) | Algorithm for adjusting contingency tables to known margins | [Article](https://en.wikipedia.org/wiki/Iterative_proportional_fitting) |
+| ISLR (An Introduction to Statistical Learning) | Popular free textbook on statistical learning & applied machine learning | [Book](https://www.statlearning.com/) |
+
