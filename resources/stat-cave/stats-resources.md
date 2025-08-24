@@ -106,3 +106,14 @@
 | Iterative Proportional Fitting (IPF) | Algorithm for adjusting contingency tables to known margins | [Article](https://en.wikipedia.org/wiki/Iterative_proportional_fitting) |
 | ISLR (An Introduction to Statistical Learning) | Popular free textbook on statistical learning & applied machine learning | [Book](https://www.statlearning.com/) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Jackknife Resampling | Statistical technique for variance and bias estimation | [Article](https://en.wikipedia.org/wiki/Jackknife_resampling) |
+| JASP (Just Another Statistical Program) | Open-source software for Bayesian and frequentist statistics | [Website](https://jasp-stats.org/) |
+| JEL (Journal of Economic Literature) Codes | Classification system for economics research papers | [Article](https://en.wikipedia.org/wiki/JEL_classification_codes) |
+| Journal of Statistical Software | Peer-reviewed open-access journal on statistical computing & software | [Website](https://www.jstatsoft.org/) |
+| JMP (by SAS) | Interactive software for statistics and data visualization | [Website](https://www.jmp.com/) |
+| Joint Probability Distribution | Probability distribution describing multiple random variables simultaneously | [Article](https://en.wikipedia.org/wiki/Joint_probability_distribution) |
+
