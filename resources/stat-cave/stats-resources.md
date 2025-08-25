@@ -128,3 +128,14 @@
 | Kruskal–Wallis Test | Non-parametric statistical test for comparing multiple groups | [Article](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance) |
 | Kolmogorov–Smirnov Test | Test for comparing probability distributions | [Article](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Law of Large Numbers (LLN) | Fundamental theorem stating sample means converge to population mean as sample size grows | [Article](https://en.wikipedia.org/wiki/Law_of_large_numbers) |
+| Likelihood Function | Core concept in statistical inference for estimating parameters | [Article](https://en.wikipedia.org/wiki/Likelihood_function) |
+| Linear Discriminant Analysis (LDA) | Classification technique using linear decision boundaries | [Article](https://en.wikipedia.org/wiki/Linear_discriminant_analysis) |
+| Linear Regression | Method to model relationship between dependent & independent variables | [Article](https://en.wikipedia.org/wiki/Linear_regression) |
+| Logistic Regression | Statistical model for binary outcomes | [Article](https://en.wikipedia.org/wiki/Logistic_regression) |
+| Log-Likelihood | Measure of model fit in maximum likelihood estimation | [Article](https://en.wikipedia.org/wiki/Likelihood_function#Log-likelihood) |
+
