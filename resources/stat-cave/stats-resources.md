@@ -153,3 +153,14 @@
 | Multinomial Distribution | Probability distribution for outcomes with more than two categories | [Article](https://en.wikipedia.org/wiki/Multinomial_distribution) |
 | Multiple Linear Regression | Extension of linear regression with multiple predictors | [Article](https://en.wikipedia.org/wiki/Linear_regression#Multiple_linear_regression) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Naive Bayes Classifier | Probabilistic classifier based on Bayes' theorem with independence assumptions | [Article](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) |
+| Normal Distribution | Bell-shaped probability distribution, fundamental in statistics | [Article](https://en.wikipedia.org/wiki/Normal_distribution) |
+| Null Hypothesis | Default assumption that there is no effect or difference | [Article](https://en.wikipedia.org/wiki/Null_hypothesis) |
+| Null Hypothesis Significance Testing (NHST) | Framework for testing whether to reject null hypothesis | [Article](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) |
+| Non-parametric Statistics | Methods not assuming underlying distribution | [Article](https://en.wikipedia.org/wiki/Nonparametric_statistics) |
+| Neyman–Pearson Lemma | Foundation for hypothesis testing, defines most powerful tests | [Article](https://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma) |
+
