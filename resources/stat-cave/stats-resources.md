@@ -139,3 +139,17 @@
 | Logistic Regression | Statistical model for binary outcomes | [Article](https://en.wikipedia.org/wiki/Logistic_regression) |
 | Log-Likelihood | Measure of model fit in maximum likelihood estimation | [Article](https://en.wikipedia.org/wiki/Likelihood_function#Log-likelihood) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Markov Chains | Models systems that transition between states with certain probabilities | [Article](https://en.wikipedia.org/wiki/Markov_chain) |
+| Maximum Likelihood Estimation (MLE) | Method to estimate parameters by maximizing likelihood | [Article](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation) |
+| Mean Absolute Error (MAE) | Metric measuring average absolute prediction errors | [Article](https://en.wikipedia.org/wiki/Mean_absolute_error) |
+| Mean Squared Error (MSE) | Metric penalizing squared prediction errors | [Article](https://en.wikipedia.org/wiki/Mean_squared_error) |
+| Median | Middle value separating higher half from lower half of dataset | [Article](https://en.wikipedia.org/wiki/Median) |
+| Monte Carlo Method | Computational algorithms relying on repeated random sampling | [Article](https://en.wikipedia.org/wiki/Monte_Carlo_method) |
+| Multicollinearity | Situation where independent variables are highly correlated | [Article](https://en.wikipedia.org/wiki/Multicollinearity) |
+| Multinomial Distribution | Probability distribution for outcomes with more than two categories | [Article](https://en.wikipedia.org/wiki/Multinomial_distribution) |
+| Multiple Linear Regression | Extension of linear regression with multiple predictors | [Article](https://en.wikipedia.org/wiki/Linear_regression#Multiple_linear_regression) |
+
