@@ -117,3 +117,14 @@
 | JMP (by SAS) | Interactive software for statistics and data visualization | [Website](https://www.jmp.com/) |
 | Joint Probability Distribution | Probability distribution describing multiple random variables simultaneously | [Article](https://en.wikipedia.org/wiki/Joint_probability_distribution) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Kaplan–Meier Estimator | Non-parametric statistic to estimate survival function | [Article](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator) |
+| K-Means Clustering | Popular unsupervised machine learning algorithm | [Article](https://en.wikipedia.org/wiki/K-means_clustering) |
+| K-Nearest Neighbors (KNN) | Simple supervised classification & regression algorithm | [Article](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) |
+| Kernel Density Estimation (KDE) | Non-parametric way to estimate probability density function | [Article](https://en.wikipedia.org/wiki/Kernel_density_estimation) |
+| Kruskal–Wallis Test | Non-parametric statistical test for comparing multiple groups | [Article](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance) |
+| Kolmogorov–Smirnov Test | Test for comparing probability distributions | [Article](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test) |
+
