@@ -188,3 +188,15 @@
 | Probability Density Function (PDF) | Describes probability distribution of continuous random variable | [Article](https://en.wikipedia.org/wiki/Probability_density_function) |
 | Probit Model | Regression model for binary outcomes using cumulative normal distribution | [Article](https://en.wikipedia.org/wiki/Probit_model) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Q-Q Plot (Quantile-Quantile Plot) | Graphical method to compare two probability distributions by plotting quantiles | [Article](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot) |
+| Quadratic Regression | Polynomial regression where relationship is modeled as a quadratic function | [Article](https://en.wikipedia.org/wiki/Polynomial_regression) |
+| Quartiles | Divide data set into four equal parts | [Article](https://en.wikipedia.org/wiki/Quartile) |
+| Quasi-Experimental Design | Research design lacking random assignment but used for causal inference | [Article](https://en.wikipedia.org/wiki/Quasi-experiment) |
+| Quasi-Poisson Regression | Handles overdispersed count data by extending Poisson regression | [Article](https://data.library.virginia.edu/quasi-poisson-regression/) |
+| Quantile Regression | Estimates conditional quantiles (median, percentiles) of response variable | [Article](https://en.wikipedia.org/wiki/Quantile_regression) |
+| Quetelet Index (BMI) | Early statistical measure of body mass index developed by Adolphe Quetelet | [Article](https://en.wikipedia.org/wiki/Body_mass_index) |
+
