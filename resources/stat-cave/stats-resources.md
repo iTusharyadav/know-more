@@ -164,3 +164,27 @@
 | Non-parametric Statistics | Methods not assuming underlying distribution | [Article](https://en.wikipedia.org/wiki/Nonparametric_statistics) |
 | Neyman–Pearson Lemma | Foundation for hypothesis testing, defines most powerful tests | [Article](https://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Odds Ratio | Measure of association between exposure and outcome | [Article](https://en.wikipedia.org/wiki/Odds_ratio) |
+| Ordinary Least Squares (OLS) | Method for estimating linear regression parameters | [Article](https://en.wikipedia.org/wiki/Ordinary_least_squares) |
+| Outlier Detection | Identifying data points that differ significantly from others | [Article](https://en.wikipedia.org/wiki/Outlier) |
+| Overdispersion | When variance exceeds mean, common in count data | [Article](https://en.wikipedia.org/wiki/Overdispersion) |
+| Overfitting | Model fits training data too closely, reducing generalization | [Article](https://en.wikipedia.org/wiki/Overfitting) |
+
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| p-value | Probability of obtaining results at least as extreme as observed, assuming null hypothesis is true | [Article](https://en.wikipedia.org/wiki/P-value) |
+| Paired t-test | Compares means of two related groups | [Article](https://en.wikipedia.org/wiki/Paired_difference_test) |
+| Pearson Correlation | Measures linear relationship between two variables | [Article](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) |
+| Permutation Test | Non-parametric method for hypothesis testing using resampling | [Article](https://en.wikipedia.org/wiki/Resampling_(statistics)#Permutation_tests) |
+| Poisson Distribution | Models count data and rare events | [Article](https://en.wikipedia.org/wiki/Poisson_distribution) |
+| Power Analysis | Determines sample size required to detect effect | [Article](https://en.wikipedia.org/wiki/Statistical_power) |
+| Principal Component Analysis (PCA) | Dimensionality reduction method that transforms correlated variables | [Article](https://en.wikipedia.org/wiki/Principal_component_analysis) |
+| Probability Density Function (PDF) | Describes probability distribution of continuous random variable | [Article](https://en.wikipedia.org/wiki/Probability_density_function) |
+| Probit Model | Regression model for binary outcomes using cumulative normal distribution | [Article](https://en.wikipedia.org/wiki/Probit_model) |
+
