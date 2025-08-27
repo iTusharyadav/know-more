@@ -215,3 +215,18 @@
 | Robust Statistics | Statistical techniques resistant to violations of assumptions/outliers | [Article](https://en.wikipedia.org/wiki/Robust_statistics) |
 | RDocumentation | Comprehensive documentation for R packages and functions | [Website](https://www.rdocumentation.org/) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| SAS (Statistical Analysis System) | Software suite for advanced analytics, business intelligence, and statistics | [Website](https://www.sas.com/) |
+| Scikit-learn | Python library for machine learning, including statistical modeling & preprocessing | [Website](https://scikit-learn.org/) |
+| scipy.stats | Python module for probability distributions, statistical functions, and tests | [Docs](https://docs.scipy.org/doc/scipy/reference/stats.html) |
+| Shapiro-Wilk Test | Test for normality of data distribution | [Article](https://en.wikipedia.org/wiki/Shapiro–Wilk_test) |
+| Spearman’s Rank Correlation | Non-parametric measure of rank correlation | [Article](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient) |
+| SPSS (Statistical Package for the Social Sciences) | Widely used software for social science statistical analysis | [Website](https://www.ibm.com/spss) |
+| Stata | Powerful software for data analysis, manipulation, and visualization | [Website](https://www.stata.com/) |
+| Statistical Learning (Book) | Widely acclaimed textbook introducing statistical learning concepts | [Book](https://www.statlearning.com/) |
+| StatsModels | Python library for econometrics, statistical modeling, and hypothesis testing | [Website](https://www.statsmodels.org/) |
+| Survival Analysis | Statistical method for analyzing time-to-event data | [Article](https://en.wikipedia.org/wiki/Survival_analysis) |
+
