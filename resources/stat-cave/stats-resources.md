@@ -200,3 +200,18 @@
 | Quantile Regression | Estimates conditional quantiles (median, percentiles) of response variable | [Article](https://en.wikipedia.org/wiki/Quantile_regression) |
 | Quetelet Index (BMI) | Early statistical measure of body mass index developed by Adolphe Quetelet | [Article](https://en.wikipedia.org/wiki/Body_mass_index) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| R Project for Statistical Computing | Open-source language and environment for statistical computing & graphics | [Website](https://www.r-project.org/) |
+| R-Bloggers | Blog aggregator covering tutorials, packages, and case studies in R | [Website](https://www.r-bloggers.com/) |
+| RStudio (Posit) | IDE for R with tools for data science, visualization, and reproducibility | [Website](https://posit.co/) |
+| Random Forest | Ensemble learning method for classification & regression using decision trees | [Article](https://en.wikipedia.org/wiki/Random_forest) |
+| Randomization Test | Statistical significance test using data permutations | [Article](https://en.wikipedia.org/wiki/Resampling_(statistics)#Randomization_tests) |
+| Rasch Model | Probabilistic model for analyzing categorical data from assessments | [Article](https://en.wikipedia.org/wiki/Rasch_model) |
+| Regression Analysis | Core statistical method for modeling relationships between variables | [Article](https://en.wikipedia.org/wiki/Regression_analysis) |
+| Residual Analysis | Diagnostic tool for checking model assumptions in regression | [Article](https://en.wikipedia.org/wiki/Errors_and_residuals) |
+| Robust Statistics | Statistical techniques resistant to violations of assumptions/outliers | [Article](https://en.wikipedia.org/wiki/Robust_statistics) |
+| RDocumentation | Comprehensive documentation for R packages and functions | [Website](https://www.rdocumentation.org/) |
+
