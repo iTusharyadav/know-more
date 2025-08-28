@@ -264,3 +264,41 @@
 | Venn Diagram | Diagram showing logical/statistical set relationships | [Article](https://en.wikipedia.org/wiki/Venn_diagram) |
 | Visualization (Data Viz) | Methods for graphically representing statistical data | [Resource](https://datavizcatalogue.com/) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Wald Test | Statistical test used to check the significance of coefficients in models | [Article](https://en.wikipedia.org/wiki/Wald_test) |
+| Weighted Average | Average where each value contributes proportionally based on weight | [Article](https://en.wikipedia.org/wiki/Weighted_arithmetic_mean) |
+| Weibull Distribution | Continuous probability distribution often used in reliability analysis | [Article](https://en.wikipedia.org/wiki/Weibull_distribution) |
+| Wilcoxon Test | Non-parametric test for comparing two paired samples | [Article](https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test) |
+| Word Cloud | Visualization method for representing frequency of words in text data | [Tool](https://www.wordclouds.com/) |
+| World Bank Data | Global economic, social, and statistical datasets | [Website](https://data.worldbank.org/) |
+
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| X-Bar Chart | Control chart used in statistical quality control to monitor mean values | [Article](https://en.wikipedia.org/wiki/X-bar_chart) |
+| XGBoost | Scalable, optimized gradient boosting library widely used in ML & statistics | [GitHub](https://github.com/dmlc/xgboost) |
+| XML Statistics | Using XML data for statistical reporting & data interchange | [Article](https://en.wikipedia.org/wiki/XML) |
+| XOR Problem | Classic example in statistics & ML showing linear classifiers’ limitations | [Article](https://en.wikipedia.org/wiki/Exclusive_or#Machine_learning) |
+
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Y-Intercept | The point where a regression line crosses the Y-axis in statistics | [Article](https://en.wikipedia.org/wiki/Y-intercept) |
+| Yates’ Correction | A statistical correction applied to chi-square tests for small sample sizes | [Article](https://en.wikipedia.org/wiki/Yates%27s_correction_for_continuity) |
+| Yahoo Finance Data | Free financial market data useful for statistical analysis and forecasting | [Website](https://finance.yahoo.com/) |
+| Yellowbrick | Python library extending scikit-learn with statistical visualization tools | [GitHub](https://github.com/DistrictDataLabs/yellowbrick) |
+
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Z-Score | A statistical measure that describes a value’s relation to the mean in terms of standard deviations | [Article](https://en.wikipedia.org/wiki/Standard_score) |
+| Zero-Inflated Models | Statistical models used when data has excess zeros (e.g., count data) | [Article](https://en.wikipedia.org/wiki/Zero-inflated_model) |
+| Z-Test | A hypothesis test for comparing sample and population means when variance is known | [Article](https://en.wikipedia.org/wiki/Z-test) |
+| Z-Scores Table | Standard normal distribution lookup table for probability values | [Resource](https://www.socscistatistics.com/pvalues/normaldistribution.aspx) |
+| zStatistics YouTube | Educational YouTube channel with tutorials on statistical concepts and tests | [YouTube](https://www.youtube.com/@zStatistics) |
