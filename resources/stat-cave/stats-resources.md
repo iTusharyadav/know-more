@@ -230,3 +230,37 @@
 | StatsModels | Python library for econometrics, statistical modeling, and hypothesis testing | [Website](https://www.statsmodels.org/) |
 | Survival Analysis | Statistical method for analyzing time-to-event data | [Article](https://en.wikipedia.org/wiki/Survival_analysis) |
 
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| T-distribution (Student’s t) | Probability distribution used in hypothesis testing and confidence intervals | [Article](https://en.wikipedia.org/wiki/Student%27s_t-distribution) |
+| T-test | Statistical test used to compare means between groups | [Article](https://en.wikipedia.org/wiki/Student%27s_t-test) |
+| Tableau | Popular data visualization tool widely used for statistical dashboards | [Website](https://www.tableau.com/) |
+| TensorFlow Probability | Library for probabilistic reasoning and statistical analysis in TensorFlow | [Website](https://www.tensorflow.org/probability) |
+| Time Series Analysis | Statistical methods for analyzing temporal (time-dependent) data | [Article](https://en.wikipedia.org/wiki/Time_series) |
+| Tukey’s HSD Test | Post-hoc test for comparing group means after ANOVA | [Article](https://en.wikipedia.org/wiki/Tukey%27s_range_test) |
+| Two-way ANOVA | Statistical test for evaluating influence of two independent variables on a dependent variable | [Article](https://en.wikipedia.org/wiki/Two-way_analysis_of_variance) |
+
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| UCI Machine Learning Repository | Classic dataset repository for statistical and ML research | [Website](https://archive.ics.uci.edu/) |
+| Uniform Distribution | A probability distribution where all outcomes are equally likely | [Article](https://en.wikipedia.org/wiki/Uniform_distribution_(continuous)) |
+| Univariate Analysis | Statistical analysis involving a single variable | [Article](https://en.wikipedia.org/wiki/Univariate) |
+| Uncertainty Quantification (UQ) | Framework for measuring and reducing uncertainty in statistical models | [Article](https://en.wikipedia.org/wiki/Uncertainty_quantification) |
+| Unsupervised Learning | Statistical/ML methods for clustering and dimensionality reduction without labels | [Article](https://en.wikipedia.org/wiki/Unsupervised_learning) |
+| Upper Confidence Bound (UCB) | Statistical method for exploration-exploitation trade-off in bandit problems | [Article](https://en.wikipedia.org/wiki/Upper_confidence_bound) |
+
+### Stat-Cave → Stats Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Variance | Measure of dispersion indicating how far values spread from the mean | [Article](https://en.wikipedia.org/wiki/Variance) |
+| Variational Inference | Statistical technique for approximating complex probability distributions | [Article](https://en.wikipedia.org/wiki/Variational_Bayesian_methods) |
+| Variable Selection | Process of selecting important predictors in regression and statistical modeling | [Article](https://en.wikipedia.org/wiki/Variable_selection) |
+| Vector Autoregression (VAR) | Econometric model capturing linear interdependencies among time series | [Article](https://en.wikipedia.org/wiki/Vector_autoregression) |
+| Venn Diagram | Diagram showing logical/statistical set relationships | [Article](https://en.wikipedia.org/wiki/Venn_diagram) |
+| Visualization (Data Viz) | Methods for graphically representing statistical data | [Resource](https://datavizcatalogue.com/) |
+
