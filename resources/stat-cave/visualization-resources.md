@@ -16,3 +16,12 @@
 | Brunel Visualization | High-level language for interactive data visualizations, integrates with Jupyter and IBM tools | [Website](http://brunel.mybluemix.net/) |
 | Baseline | Open-source visualization framework for creating custom visual data designs | [GitHub](https://github.com/uwdata/baseline) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Chart.js | Simple yet flexible JavaScript charting library for designers & developers | [GitHub](https://github.com/chartjs/Chart.js) |
+| C3.js | D3-based reusable chart library with simple configuration | [GitHub](https://github.com/c3js/c3) |
+| Circos | Visualization tool for circular data layouts, widely used in genomics | [Website](http://circos.ca/) |
+| Cube | OLAP (Online Analytical Processing) visualization tool built on D3.js for time series data | [GitHub](https://github.com/square/cube) |
+
