@@ -62,3 +62,11 @@
 | Grafana | Open-source analytics & interactive visualization web app for time-series data | [Website](https://grafana.com/) |
 | Google Data Studio (Looker Studio) | Free online tool for building interactive dashboards and reports | [Website](https://lookerstudio.google.com/) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Highcharts | Interactive JavaScript charts library for data visualization | [Website](https://www.highcharts.com/) |
+| Holoviews | Python library for creating interactive plots easily with Bokeh/Matplotlib | [Website](https://holoviews.org/) |
+| Huey | Visualization-friendly task queue, often used for lightweight data workflows | [Website](https://huey.readthedocs.io/) |
+
