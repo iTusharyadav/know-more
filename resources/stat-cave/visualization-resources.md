@@ -43,3 +43,11 @@
 | Ember Charts | Charting library built with Ember.js and D3.js | [GitHub](https://github.com/austinsmorris/ember-charts) |
 | Escher | Web tool for building and sharing data-rich biological pathway visualizations | [GitHub](https://github.com/zakandrewking/escher) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Flourish | Online platform for creating interactive visualizations and storytelling with data | [Website](https://flourish.studio/) |
+| Fiji (ImageJ) | Open-source platform for biological-image analysis and visualization | [Website](https://imagej.net/software/fiji/) |
+| Facets | Visualization tool for understanding machine learning datasets (by Google PAIR) | [GitHub](https://github.com/PAIR-code/facets) |
+| FusionCharts | JavaScript charting library for web and mobile dashboards | [Website](https://www.fusioncharts.com/) |
