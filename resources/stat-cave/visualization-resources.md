@@ -51,3 +51,14 @@
 | Fiji (ImageJ) | Open-source platform for biological-image analysis and visualization | [Website](https://imagej.net/software/fiji/) |
 | Facets | Visualization tool for understanding machine learning datasets (by Google PAIR) | [GitHub](https://github.com/PAIR-code/facets) |
 | FusionCharts | JavaScript charting library for web and mobile dashboards | [Website](https://www.fusioncharts.com/) |
+
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Gephi | Open-source software for network analysis and visualization | [Website](https://gephi.org/) |
+| GGPlot2 | Powerful data visualization package for R, part of the tidyverse | [Website](https://ggplot2.tidyverse.org/) |
+| Google Charts | Free charting tools that run in the browser using JavaScript | [Website](https://developers.google.com/chart) |
+| Grafana | Open-source analytics & interactive visualization web app for time-series data | [Website](https://grafana.com/) |
+| Google Data Studio (Looker Studio) | Free online tool for building interactive dashboards and reports | [Website](https://lookerstudio.google.com/) |
+
