@@ -70,3 +70,19 @@
 | Holoviews | Python library for creating interactive plots easily with Bokeh/Matplotlib | [Website](https://holoviews.org/) |
 | Huey | Visualization-friendly task queue, often used for lightweight data workflows | [Website](https://huey.readthedocs.io/) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| InfoVis Toolkit | JavaScript library for advanced data visualization (graphs, trees, charts) | [GitHub](https://github.com/philogb/jit) |
+| InfluxDB UI | Native visualization for time-series data stored in InfluxDB | [Website](https://www.influxdata.com/) |
+| iCharts | Interactive data visualization and charting platform | [Website](https://www.icharts.net/) |
+
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| JavaScript InfoVis Toolkit | A well-known JS toolkit for creating interactive info visualizations | [GitHub](https://github.com/philogb/jit) |
+| JMP | Data visualization & exploratory data analysis software from SAS | [Website](https://www.jmp.com/) |
+| Juicebox | Platform for building interactive data stories and dashboards | [Website](https://www.juiceanalytics.com/) |
+
