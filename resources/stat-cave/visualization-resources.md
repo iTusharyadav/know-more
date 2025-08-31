@@ -94,3 +94,22 @@
 | KnitR | R package for dynamic report generation with embedded visualizations | [GitHub](https://github.com/yihui/knitr) |
 | Knight Lab Tools | A suite of storytelling & visualization tools (TimelineJS, StoryMapJS, etc.) | [Website](https://knightlab.northwestern.edu/tools/) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Leaflet | Leading open-source JavaScript library for interactive maps | [Website](https://leafletjs.com/) |
+| Lightning Chart | High-performance charting library for big-data visualization | [Website](https://www.arction.com/lightningchart-js/) |
+| Looker Studio (formerly Google Data Studio) | Free dashboarding & visualization tool by Google | [Website](https://lookerstudio.google.com/) |
+| Lyra | Interactive environment for building Vega visualizations without code | [GitHub](https://github.com/vega/lyra) |
+
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Matplotlib | The foundational plotting library for Python | [Website](https://matplotlib.org/) |
+| Microsoft Power BI | Business intelligence and data visualization platform | [Website](https://powerbi.microsoft.com/) |
+| Microcharts | Lightweight cross-platform charts for .NET and Xamarin | [GitHub](https://github.com/microcharts-dotnet/Microcharts) |
+| Mixpanel Dashboards | Analytics & visualization for product usage and user behavior | [Website](https://mixpanel.com/) |
+| mpld3 | Brings interactive D3 visualizations to matplotlib plots | [GitHub](https://github.com/mpld3/mpld3) |
+
