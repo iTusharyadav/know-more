@@ -113,3 +113,12 @@
 | Mixpanel Dashboards | Analytics & visualization for product usage and user behavior | [Website](https://mixpanel.com/) |
 | mpld3 | Brings interactive D3 visualizations to matplotlib plots | [GitHub](https://github.com/mpld3/mpld3) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| NVD3 | Reusable charts built on top of D3.js | [GitHub](https://github.com/novus/nvd3) |
+| NetworkX | Python library for graph and network visualization | [Website](https://networkx.org/) |
+| Nebula Graph Studio | Visualization tool for Nebula Graph databases | [Website](https://nebula-graph.io/) |
+| Ninja Charts | WordPress plugin for interactive data visualization | [Website](https://wpmanageninja.com/ninja-charts/) |
+
