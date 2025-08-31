@@ -86,3 +86,11 @@
 | JMP | Data visualization & exploratory data analysis software from SAS | [Website](https://www.jmp.com/) |
 | Juicebox | Platform for building interactive data stories and dashboards | [Website](https://www.juiceanalytics.com/) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Kibana | Open-source analytics & visualization platform for Elasticsearch | [Website](https://www.elastic.co/kibana) |
+| KnitR | R package for dynamic report generation with embedded visualizations | [GitHub](https://github.com/yihui/knitr) |
+| Knight Lab Tools | A suite of storytelling & visualization tools (TimelineJS, StoryMapJS, etc.) | [Website](https://knightlab.northwestern.edu/tools/) |
+
