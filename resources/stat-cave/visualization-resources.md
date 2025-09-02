@@ -159,3 +159,23 @@
 | Redash | Open-source data visualization and dashboard tool for queries | [Website](https://redash.io/) |
 | Root | A framework for interactive scientific visualizations, popular in physics and data science | [Website](https://root.cern/) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Seaborn | Python data visualization library based on matplotlib, provides high-level interface for attractive statistical graphics | [Website](https://seaborn.pydata.org/) |
+| Sigma.js | JavaScript library dedicated to graph drawing (network visualization) | [GitHub](https://github.com/jacomyal/sigma.js) |
+| Superset (Apache) | Modern data exploration and visualization platform | [GitHub](https://github.com/apache/superset) |
+| Spotfire | Commercial analytics & visualization platform for interactive dashboards | [Website](https://www.tibco.com/products/tibco-spotfire) |
+| SandDance | Data visualization tool from Microsoft for exploring and presenting data | [GitHub](https://github.com/microsoft/SandDance) |
+
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Tableau | Popular commercial platform for creating interactive data visualizations and dashboards | [Website](https://www.tableau.com/) |
+| Three.js | JavaScript 3D library for rendering 3D visualizations in the browser | [GitHub](https://github.com/mrdoob/three.js) |
+| Timeplot | JavaScript library for visualizing time series data interactively | [Website](http://www.simile-widgets.org/timeplot/) |
+| Taucharts | Open-source JavaScript charting library for data exploration | [GitHub](https://github.com/TargetProcess/taucharts) |
+| TensorBoard | Visualization toolkit for TensorFlow, useful for metrics and model performance graphs | [Website](https://www.tensorflow.org/tensorboard) |
+
