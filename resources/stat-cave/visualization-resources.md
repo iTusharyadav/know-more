@@ -141,3 +141,21 @@
 | Plotly | Interactive graphing library for Python, R, and JavaScript | [Website](https://plotly.com/) |
 | Protovis | Visualization toolkit for creating custom interactive graphics | [Website](http://mbostock.github.io/protovis/) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| QGIS | Open-source Geographic Information System for spatial data visualization | [Website](https://qgis.org/) |
+| Quadrigram | Drag-and-drop platform for data visualization and storytelling | [Website](https://www.quadrigram.com/) |
+| Quicksight (Amazon) | Cloud-powered business analytics service for interactive visualizations | [Website](https://aws.amazon.com/quicksight/) |
+
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| R Graph Gallery | Collection of charts made with R and ggplot2, with reproducible code | [Website](https://r-graph-gallery.com/) |
+| RAWGraphs | Open-source data visualization framework, easy to use and highly customizable | [Website](https://rawgraphs.io/) |
+| Recharts | React-based charting library built on D3.js for easy integration | [GitHub](https://github.com/recharts/recharts) |
+| Redash | Open-source data visualization and dashboard tool for queries | [Website](https://redash.io/) |
+| Root | A framework for interactive scientific visualizations, popular in physics and data science | [Website](https://root.cern/) |
+
