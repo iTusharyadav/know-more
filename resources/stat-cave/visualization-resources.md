@@ -122,3 +122,22 @@
 | Nebula Graph Studio | Visualization tool for Nebula Graph databases | [Website](https://nebula-graph.io/) |
 | Ninja Charts | WordPress plugin for interactive data visualization | [Website](https://wpmanageninja.com/ninja-charts/) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Observable | Interactive coding + visualization platform for data and notebooks | [Website](https://observablehq.com/) |
+| OpenCharts | Open-source charting library for customizable visualizations | [GitHub](https://github.com/open-charts/open-charts) |
+| OpenHeatMap | Tool for creating heat maps from spreadsheets and datasets | [Website](http://www.openheatmap.com/) |
+| Orange3 | Open-source data mining, machine learning, and interactive data visualization toolkit | [GitHub](https://github.com/biolab/orange3) |
+
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Palladio | A tool for visualizing complex historical data with maps and networks | [Website](https://hdlab.stanford.edu/palladio/) |
+| ParaView | Open-source data analysis and visualization application for large datasets | [Website](https://www.paraview.org/) |
+| PicoCharts | Lightweight and simple charting library for small visualizations | [GitHub](https://github.com/d3fc/picocss-charts) |
+| Plotly | Interactive graphing library for Python, R, and JavaScript | [Website](https://plotly.com/) |
+| Protovis | Visualization toolkit for creating custom interactive graphics | [Website](http://mbostock.github.io/protovis/) |
+
