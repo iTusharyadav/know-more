@@ -179,3 +179,22 @@
 | Taucharts | Open-source JavaScript charting library for data exploration | [GitHub](https://github.com/TargetProcess/taucharts) |
 | TensorBoard | Visualization toolkit for TensorFlow, useful for metrics and model performance graphs | [Website](https://www.tensorflow.org/tensorboard) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Uncharted | Open-source data visualization platform for big data and streaming analytics | [Website](https://uncharted.software/) |
+| Unicode-Plot | Terminal-based plotting library for Julia that creates Unicode visualizations | [GitHub](https://github.com/Evizero/UnicodePlots.jl) |
+| UbiGraph | Tool for visualizing dynamic graphs in 3D | [Website](https://www.ubietylab.net/ubigraph/) |
+| UPlot | Ultra-fast, lightweight chart library for time series visualization | [GitHub](https://github.com/leeoniya/uPlot) |
+
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Vega | Declarative language for creating, saving, and sharing interactive visualizations | [Website](https://vega.github.io/vega/) |
+| Vega-Lite | High-level grammar of interactive graphics built on top of Vega | [Website](https://vega.github.io/vega-lite/) |
+| Vis.js | Dynamic, browser-based visualization library for data and networks | [GitHub](https://github.com/visjs/vis-network) |
+| Victory | React-based modular charting and data visualization library | [Website](https://formidable.com/open-source/victory/) |
+| VTK (Visualization Toolkit) | Open-source software system for 3D computer graphics, image processing, and visualization | [Website](https://vtk.org/) |
+
