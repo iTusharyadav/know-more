@@ -208,3 +208,13 @@
 | WolframAlpha | Computational engine with visualization capabilities for data and math | [Website](https://www.wolframalpha.com/) |
 | Wrattler | Reproducible, interactive notebooks with reactive data visualizations | [GitHub](https://github.com/wrattler/wrattler) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| X6 | JavaScript library for visualizing and editing graphs & diagrams | [GitHub](https://github.com/antvis/X6) |
+| XChart | Lightweight Java library for plotting data (line, bar, pie, etc.) | [GitHub](https://github.com/knowm/XChart) |
+| XML/SVG Visualization | Techniques and libraries for rendering XML & SVG data visually | [W3C](https://www.w3.org/Graphics/SVG/) |
+| Xplain | Interactive tool for statistical analysis & visualization (educational) | [Website](https://xplain.stanford.edu/) |
+| X3DOM | Framework for integrating 3D content into web pages using WebGL | [Website](https://www.x3dom.org/) |
+
