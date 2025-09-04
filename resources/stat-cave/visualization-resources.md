@@ -198,3 +198,13 @@
 | Victory | React-based modular charting and data visualization library | [Website](https://formidable.com/open-source/victory/) |
 | VTK (Visualization Toolkit) | Open-source software system for 3D computer graphics, image processing, and visualization | [Website](https://vtk.org/) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| WebGL | JavaScript API for rendering interactive 2D and 3D graphics in browsers | [MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) |
+| WebDataRocks | Free JavaScript pivot table for data analysis & visualization | [Website](https://www.webdatarocks.com/) |
+| Windy | Interactive weather visualization map (wind, temperature, etc.) | [Website](https://www.windy.com/) |
+| WolframAlpha | Computational engine with visualization capabilities for data and math | [Website](https://www.wolframalpha.com/) |
+| Wrattler | Reproducible, interactive notebooks with reactive data visualizations | [GitHub](https://github.com/wrattler/wrattler) |
+
