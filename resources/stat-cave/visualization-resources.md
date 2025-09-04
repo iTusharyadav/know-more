@@ -218,3 +218,13 @@
 | Xplain | Interactive tool for statistical analysis & visualization (educational) | [Website](https://xplain.stanford.edu/) |
 | X3DOM | Framework for integrating 3D content into web pages using WebGL | [Website](https://www.x3dom.org/) |
 
+### Stat-Cave → Visualization Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Yellowbrick | Visualization library for machine learning in Python, built on top of scikit-learn | [GitHub](https://github.com/DistrictDataLabs/yellowbrick) |
+| Yelp Dataset Visualization | Tools & projects for exploring Yelp's open dataset with charts & visualizations | [Yelp Dataset](https://www.yelp.com/dataset) |
+| YASGUI (Yet Another SPARQL GUI) | Query & visualize RDF/SPARQL data interactively in charts/tables | [Website](https://yasgui.triply.cc/) |
+| YCharts | Financial and economic data visualization platform for professionals | [Website](https://ycharts.com/) |
+| YFiles | Commercial graph visualization SDK for Java, .NET, and web applications | [Website](https://www.yworks.com/products/yfiles) |
+
