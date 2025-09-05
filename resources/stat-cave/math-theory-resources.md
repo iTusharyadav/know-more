@@ -33,3 +33,13 @@
 | Cryptography I (Stanford, Dan Boneh) | A well-known introduction to modern cryptography concepts | [Course](https://www.coursera.org/learn/crypto) |
 | Cut the Knot | Classic math website with interactive visualizations and explanations of math concepts | [Website](https://www.cut-the-knot.org/) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Deep Learning Math Foundations | Resource explaining the core math behind deep learning (linear algebra, probability, optimization) | [GitHub](https://github.com/SkalskiP/awesome-machine-learning-math) |
+| Desmos | Free online graphing calculator with support for functions, statistics, and advanced visualizations | [Website](https://www.desmos.com/) |
+| Differential Equations Notes (Paul’s Online Math Notes) | Accessible lecture notes on solving different types of differential equations | [Website](https://tutorial.math.lamar.edu/classes/de/de.aspx) |
+| Discrete Mathematics (MIT OpenCourseWare) | Classic introductory course covering combinatorics, graph theory, logic, and proofs | [Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/) |
+| Dover Books on Mathematics | Affordable collection of classic math texts (algebra, topology, number theory, etc.) | [Website](https://store.doverpublications.com/0486795722.html) |
+
