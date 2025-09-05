@@ -9,3 +9,15 @@
 | Art of Problem Solving (AoPS) | Online community and textbooks focused on problem solving and competition mathematics | [Website](https://artofproblemsolving.com/) |
 | Automorphic Forms and Representations (Bump) | Classic resource on number theory and advanced algebra | [Book PDF](https://math.stanford.edu/~bump/automorphic.html) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Basics of Algebra, Topology, and Number Theory (Homotopy.io Notes) | A free text that introduces algebra, topology, and number theory | [PDF](https://arxiv.org/pdf/math/0007190.pdf) |
+| Bayesian Methods for Hackers | Practical, hands-on introduction to Bayesian inference with Python | [GitHub](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) |
+| Berkeley Math Circle | Problem sets, lectures, and notes for high school and undergraduate math enrichment | [Website](https://mathcircle.berkeley.edu/) |
+| BetterExplained (Math Intuition Blog) | Blog that explains math concepts intuitively, with focus on deep understanding | [Website](https://betterexplained.com/) |
+| Bourbaki’s Elements of Mathematics | Influential series of books on foundational mathematics by Nicolas Bourbaki | [Info](https://en.wikipedia.org/wiki/Éléments_de_mathématique) |
+| Brilliant.org | Online learning platform for interactive courses in math, logic, and science | [Website](https://brilliant.org/) |
+| Brown University Mathematics Lectures | Open-access lecture notes and textbooks across multiple math subjects | [Website](https://math.brown.edu/) |
+
