@@ -21,3 +21,15 @@
 | Brilliant.org | Online learning platform for interactive courses in math, logic, and science | [Website](https://brilliant.org/) |
 | Brown University Mathematics Lectures | Open-access lecture notes and textbooks across multiple math subjects | [Website](https://math.brown.edu/) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Calculus Made Easy (Silvanus P. Thompson) | A classic, beginner-friendly introduction to calculus concepts | [Full Text](https://www.gutenberg.org/ebooks/33283) |
+| Category Theory for Programmers (Bartosz Milewski) | Popular book connecting abstract math with programming | [GitHub](https://github.com/hmemcpy/milewski-ctfp-pdf) |
+| Chaos and Dynamical Systems (University of Houston) | Lecture notes on chaos theory, fractals, and nonlinear dynamics | [Website](https://www.math.uh.edu/~josic/teaching/courses/math4315/) |
+| Clay Mathematics Institute | Famous for the Millennium Prize Problems in mathematics | [Website](https://www.claymath.org/millennium-problems) |
+| Coursera Math Courses | Wide selection of university-level courses in linear algebra, probability, number theory, and more | [Website](https://www.coursera.org/browse/math-and-logic) |
+| Cryptography I (Stanford, Dan Boneh) | A well-known introduction to modern cryptography concepts | [Course](https://www.coursera.org/learn/crypto) |
+| Cut the Knot | Classic math website with interactive visualizations and explanations of math concepts | [Website](https://www.cut-the-knot.org/) |
+
