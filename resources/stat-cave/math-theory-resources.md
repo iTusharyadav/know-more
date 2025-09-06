@@ -53,3 +53,13 @@
 | Expii | Interactive, crowdsourced explanations of mathematical concepts across all levels | [Website](https://www.expii.com/) |
 | Essentials of Mathematical Statistics | Free eBook covering probability, distributions, and core statistics theory | [Textbook](https://open.umn.edu/opentextbooks/textbooks/essentials-of-statistics) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Fields Medal Lectures | Collection of lectures from Fields Medal winners explaining groundbreaking math work | [IMU](https://www.mathunion.org/imu-awards/fields-medal) |
+| Fourier Analysis (MIT OCW) | Comprehensive introduction to Fourier series and transforms | [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-103-fourier-analysis-fall-2004/) |
+| Foundations of Mathematics (Stanford Encyclopedia of Philosophy) | Deep dive into the logical and philosophical underpinnings of mathematics | [Stanford Encyclopedia](https://plato.stanford.edu/entries/mathematics-foundations/) |
+| Free Probability Theory | Modern extension of probability theory useful in operator algebras and random matrices | [Wikipedia](https://en.wikipedia.org/wiki/Free_probability) |
+| Fractals and Chaos Theory | Interactive resources to understand fractals, chaos, and dynamical systems | [Fractal Foundation](https://fractalfoundation.org/) |
+
