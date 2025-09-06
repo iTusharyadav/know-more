@@ -73,3 +73,13 @@
 | Geometry Processing Resources | Collection of algorithms and math behind computational geometry | [Geometry Processing](https://geometryprocessing.org/) |
 | Graph Theory Tutorials | Learning graph algorithms, connectivity, and network theory with math rigor | [Brilliant](https://brilliant.org/practice/graph-theory/) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Harmonic Analysis (MathWorld) | Resource on Fourier series, transforms, and harmonic functions | [MathWorld](https://mathworld.wolfram.com/HarmonicAnalysis.html) |
+| Hilbert Spaces | Foundational math for functional analysis and quantum mechanics | [Wikipedia](https://en.wikipedia.org/wiki/Hilbert_space) |
+| Homological Algebra (nLab) | Framework for studying chain complexes and cohomology | [nLab](https://ncatlab.org/nlab/show/homological+algebra) |
+| Homotopy Theory | Theory of continuous deformations in topology | [Wikipedia](https://en.wikipedia.org/wiki/Homotopy_theory) |
+| Hyperbolic Geometry | Study of non-Euclidean geometry with constant negative curvature | [Khan Academy](https://www.khanacademy.org/math/geometry-home/non-euclidean-geometry/hyperbolic-geometry/a/what-is-hyperbolic-geometry) |
+
