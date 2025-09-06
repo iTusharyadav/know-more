@@ -63,3 +63,13 @@
 | Free Probability Theory | Modern extension of probability theory useful in operator algebras and random matrices | [Wikipedia](https://en.wikipedia.org/wiki/Free_probability) |
 | Fractals and Chaos Theory | Interactive resources to understand fractals, chaos, and dynamical systems | [Fractal Foundation](https://fractalfoundation.org/) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Galois Theory (nLab) | Abstract algebra resource explaining solvability of polynomials and group theory | [nLab](https://ncatlab.org/nlab/show/Galois+theory) |
+| Game Theory Introduction (Stanford) | Comprehensive coverage of strategic decision-making in mathematics and economics | [Stanford Encyclopedia](https://plato.stanford.edu/entries/game-theory/) |
+| Geometric Group Theory | Study of infinite groups through geometric methods | [Wikipedia](https://en.wikipedia.org/wiki/Geometric_group_theory) |
+| Geometry Processing Resources | Collection of algorithms and math behind computational geometry | [Geometry Processing](https://geometryprocessing.org/) |
+| Graph Theory Tutorials | Learning graph algorithms, connectivity, and network theory with math rigor | [Brilliant](https://brilliant.org/practice/graph-theory/) |
+
