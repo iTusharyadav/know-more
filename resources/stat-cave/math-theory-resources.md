@@ -43,3 +43,13 @@
 | Discrete Mathematics (MIT OpenCourseWare) | Classic introductory course covering combinatorics, graph theory, logic, and proofs | [Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/) |
 | Dover Books on Mathematics | Affordable collection of classic math texts (algebra, topology, number theory, etc.) | [Website](https://store.doverpublications.com/0486795722.html) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Eigenvalues & Eigenvectors (Khan Academy) | Intuitive introduction to eigenvalues and eigenvectors with worked examples | [Khan Academy](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/introduction-to-eigenvalues-and-eigenvectors) |
+| Encyclopedia of Mathematics | Massive online encyclopedia covering advanced mathematics topics | [Website](https://encyclopediaofmath.org/wiki/Main_Page) |
+| Euclidean Geometry (Art of Problem Solving) | Problem-solving resources for classical Euclidean geometry | [AoPS](https://artofproblemsolving.com/school/course/intro-geometry) |
+| Expii | Interactive, crowdsourced explanations of mathematical concepts across all levels | [Website](https://www.expii.com/) |
+| Essentials of Mathematical Statistics | Free eBook covering probability, distributions, and core statistics theory | [Textbook](https://open.umn.edu/opentextbooks/textbooks/essentials-of-statistics) |
+
