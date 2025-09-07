@@ -83,3 +83,13 @@
 | Homotopy Theory | Theory of continuous deformations in topology | [Wikipedia](https://en.wikipedia.org/wiki/Homotopy_theory) |
 | Hyperbolic Geometry | Study of non-Euclidean geometry with constant negative curvature | [Khan Academy](https://www.khanacademy.org/math/geometry-home/non-euclidean-geometry/hyperbolic-geometry/a/what-is-hyperbolic-geometry) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Ideal Theory | Branch of abstract algebra dealing with ideals in rings | [Wikipedia](https://en.wikipedia.org/wiki/Ideal_(ring_theory)) |
+| Information Theory | Mathematical study of information, entropy, and communication | [Stanford Encyclopedia](https://plato.stanford.edu/entries/information-theory/) |
+| Integral Transforms | Tools like Laplace and Fourier transforms for solving equations | [MathWorld](https://mathworld.wolfram.com/IntegralTransform.html) |
+| Interval Arithmetic | Method for handling ranges of numbers in numerical analysis | [Wikipedia](https://en.wikipedia.org/wiki/Interval_arithmetic) |
+| Iterative Methods | Algorithms for approximating solutions of equations | [SIAM](https://epubs.siam.org/doi/book/10.1137/1.9781611974852) |
+
