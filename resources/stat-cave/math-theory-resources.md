@@ -93,3 +93,13 @@
 | Interval Arithmetic | Method for handling ranges of numbers in numerical analysis | [Wikipedia](https://en.wikipedia.org/wiki/Interval_arithmetic) |
 | Iterative Methods | Algorithms for approximating solutions of equations | [SIAM](https://epubs.siam.org/doi/book/10.1137/1.9781611974852) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Jacobian Matrix | Matrix of all first-order partial derivatives, key in multivariable calculus | [Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant) |
+| Jensen’s Inequality | Fundamental inequality in convex analysis and probability | [Wikipedia](https://en.wikipedia.org/wiki/Jensen%27s_inequality) |
+| Jordan Canonical Form | Matrix theory result for classifying linear transformations | [Wikipedia](https://en.wikipedia.org/wiki/Jordan_normal_form) |
+| Jordan Curve Theorem | Topology theorem stating that simple closed curves divide the plane | [Wikipedia](https://en.wikipedia.org/wiki/Jordan_curve_theorem) |
+| Julia Sets | Fractals arising in complex dynamics and chaos theory | [Wikipedia](https://en.wikipedia.org/wiki/Julia_set) |
+
