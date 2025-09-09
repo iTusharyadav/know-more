@@ -103,3 +103,13 @@
 | Jordan Curve Theorem | Topology theorem stating that simple closed curves divide the plane | [Wikipedia](https://en.wikipedia.org/wiki/Jordan_curve_theorem) |
 | Julia Sets | Fractals arising in complex dynamics and chaos theory | [Wikipedia](https://en.wikipedia.org/wiki/Julia_set) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Kalman Filter | Algorithm for recursive estimation in control theory and signal processing | [Wikipedia](https://en.wikipedia.org/wiki/Kalman_filter) |
+| Karush–Kuhn–Tucker (KKT) Conditions | Necessary conditions for solutions in nonlinear optimization | [Wikipedia](https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions) |
+| Kolmogorov Complexity | Measure of the computational resources needed to specify an object | [Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov_complexity) |
+| Kolmogorov’s Zero–One Law | Probability theory result about tail events | [Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%27s_zero%E2%80%93one_law) |
+| Krylov Subspace Methods | Iterative methods for solving large linear systems | [Wikipedia](https://en.wikipedia.org/wiki/Krylov_subspace) |
+
