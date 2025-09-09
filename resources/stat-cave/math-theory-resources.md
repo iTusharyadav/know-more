@@ -128,3 +128,18 @@
 | Liouville’s Theorem | Result in Hamiltonian mechanics about phase space conservation | [Wikipedia](https://en.wikipedia.org/wiki/Liouville%27s_theorem_(Hamiltonian)) |
 | Logistic Function | S-curve function widely used in statistics and ML | [Wikipedia](https://en.wikipedia.org/wiki/Logistic_function) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Markov Chains | Stochastic processes with memoryless property | [Wikipedia](https://en.wikipedia.org/wiki/Markov_chain) |
+| Markov Decision Processes (MDP) | Mathematical framework for decision making in stochastic environments | [Wikipedia](https://en.wikipedia.org/wiki/Markov_decision_process) |
+| Martingales | Sequence of random variables modeling fair games | [Wikipedia](https://en.wikipedia.org/wiki/Martingale_(probability_theory)) |
+| Matrix Theory | Study of matrices, eigenvalues, eigenvectors, and transformations | [Wikipedia](https://en.wikipedia.org/wiki/Matrix_(mathematics)) |
+| Measure Theory | Branch of mathematics extending notions of length and area | [Wikipedia](https://en.wikipedia.org/wiki/Measure_(mathematics)) |
+| Metric Spaces | Mathematical spaces with a notion of distance | [Wikipedia](https://en.wikipedia.org/wiki/Metric_space) |
+| Minkowski Space | Geometric setting for special relativity | [Wikipedia](https://en.wikipedia.org/wiki/Minkowski_space) |
+| Monte Carlo Methods | Randomized computational techniques for approximation | [Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method) |
+| Multivariable Calculus | Extension of calculus to functions of several variables | [Wikipedia](https://en.wikipedia.org/wiki/Multivariable_calculus) |
+| Multivariate Statistics | Statistics for analyzing data with multiple variables | [Wikipedia](https://en.wikipedia.org/wiki/Multivariate_statistics) |
+
