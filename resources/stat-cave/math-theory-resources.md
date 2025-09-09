@@ -113,3 +113,18 @@
 | Kolmogorov’s Zero–One Law | Probability theory result about tail events | [Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%27s_zero%E2%80%93one_law) |
 | Krylov Subspace Methods | Iterative methods for solving large linear systems | [Wikipedia](https://en.wikipedia.org/wiki/Krylov_subspace) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Lagrange Multipliers | Method for finding extrema of functions subject to constraints | [Wikipedia](https://en.wikipedia.org/wiki/Lagrange_multiplier) |
+| Lagrangian Mechanics | Mathematical formulation of classical mechanics | [Wikipedia](https://en.wikipedia.org/wiki/Lagrangian_mechanics) |
+| Laplace Transform | Integral transform used to solve differential equations | [Wikipedia](https://en.wikipedia.org/wiki/Laplace_transform) |
+| Law of Large Numbers | Theorem describing convergence of averages of random variables | [Wikipedia](https://en.wikipedia.org/wiki/Law_of_large_numbers) |
+| Lebesgue Integration | Advanced integration theory extending Riemann integrals | [Wikipedia](https://en.wikipedia.org/wiki/Lebesgue_integration) |
+| Legendre Polynomials | Orthogonal polynomials used in approximation theory and physics | [Wikipedia](https://en.wikipedia.org/wiki/Legendre_polynomials) |
+| Linear Algebra | Mathematical study of vectors, matrices, and linear transformations | [Wikipedia](https://en.wikipedia.org/wiki/Linear_algebra) |
+| Linear Programming | Optimization technique for linear objective and constraints | [Wikipedia](https://en.wikipedia.org/wiki/Linear_programming) |
+| Liouville’s Theorem | Result in Hamiltonian mechanics about phase space conservation | [Wikipedia](https://en.wikipedia.org/wiki/Liouville%27s_theorem_(Hamiltonian)) |
+| Logistic Function | S-curve function widely used in statistics and ML | [Wikipedia](https://en.wikipedia.org/wiki/Logistic_function) |
+
