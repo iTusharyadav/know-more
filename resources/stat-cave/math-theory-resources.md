@@ -143,3 +143,18 @@
 | Multivariable Calculus | Extension of calculus to functions of several variables | [Wikipedia](https://en.wikipedia.org/wiki/Multivariable_calculus) |
 | Multivariate Statistics | Statistics for analyzing data with multiple variables | [Wikipedia](https://en.wikipedia.org/wiki/Multivariate_statistics) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Nash Equilibrium | Solution concept in game theory where no player can benefit by changing strategy alone | [Wikipedia](https://en.wikipedia.org/wiki/Nash_equilibrium) |
+| Natural Numbers | Basic counting numbers starting from 1 (sometimes 0) | [Wikipedia](https://en.wikipedia.org/wiki/Natural_number) |
+| Naive Set Theory | Informal foundation of set theory without formal axioms | [Wikipedia](https://en.wikipedia.org/wiki/Naive_set_theory) |
+| Newton’s Method | Iterative method for finding roots of real-valued functions | [Wikipedia](https://en.wikipedia.org/wiki/Newton%27s_method) |
+| Non-Euclidean Geometry | Geometry based on relaxing or altering Euclid’s parallel postulate | [Wikipedia](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) |
+| Normal Distribution | Most common probability distribution (bell curve) | [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution) |
+| Normed Vector Space | Vector space with a function that assigns lengths (norms) to vectors | [Wikipedia](https://en.wikipedia.org/wiki/Normed_vector_space) |
+| Number Theory | Branch of mathematics dealing with properties of integers | [Wikipedia](https://en.wikipedia.org/wiki/Number_theory) |
+| Numerical Analysis | Study of algorithms for approximating solutions to mathematical problems | [Wikipedia](https://en.wikipedia.org/wiki/Numerical_analysis) |
+| Numerical Linear Algebra | Algorithms for numerical solutions involving matrices and linear systems | [Wikipedia](https://en.wikipedia.org/wiki/Numerical_linear_algebra) |
+
