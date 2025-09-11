@@ -52,10 +52,17 @@ Here’s a table of various resources you can explore in this repository:
 |-------------------------|---------------------------------------------|-----------------------------------|
 | Bookshelf                 | Recommended books for learning and reference  | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/bookshelf)         |
 | Documentation                | Official documentation for tech and non tech fields | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/documentation)         |
+| Extra And Fun Stuff      | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/extras-and-fun-stuff.md) |
 | Goodies For Buddies              |  Compete, Win, Celebrate | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/goodies-for-buddies.md)   |
-| Opportunity Desk             | Reusable templates for documentation, code, etc. | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/opportunity-desk) |
-| Open Source Projects  | Open source projects to contribute as beginners  | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/open-source.md)   |\
-| Projects        | Real-world projects and code examples  | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/projects) |
+| Hall Of Fame         | Reusable templates for documentation, code, etc. | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/hall-of-fame) |
+| Open Source        | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/open-source.md) |
+| Opportunity Desk       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/opportunity-desk) |
+| Plugin Pantry       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/plugin-pantry) |
+| Projects       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/projects) |
+| Startup Kit       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/startup-kit.md) |
+| Stat Cave  | Open source projects to contribute as beginners  | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/stat-cave)   |\
+| Style Guide        | Real-world projects and code examples  | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/style-guide) |
+| Useful Github Repositories       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/useful-github-repositories.md) |
 | Other Resources       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources) |
 
 ---
