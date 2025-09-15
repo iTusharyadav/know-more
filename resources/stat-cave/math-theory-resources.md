@@ -174,3 +174,21 @@
 | Orthogonal Polynomials | Class of polynomials that satisfy orthogonality relations | [Wikipedia](https://en.wikipedia.org/wiki/Orthogonal_polynomials) |
 | Orthogonality | Concept of perpendicularity extended to abstract vector spaces | [Wikipedia](https://en.wikipedia.org/wiki/Orthogonality) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Paradox | Statements that contradict themselves or lead to illogical conclusions | [Wikipedia](https://en.wikipedia.org/wiki/Paradox) |
+| Parametric Equations | Equations expressing a set of quantities as functions of independent parameters | [Wikipedia](https://en.wikipedia.org/wiki/Parametric_equation) |
+| Partial Differential Equations | Equations involving functions and their partial derivatives | [Wikipedia](https://en.wikipedia.org/wiki/Partial_differential_equation) |
+| Pascal's Triangle | Triangular array of binomial coefficients | [Wikipedia](https://en.wikipedia.org/wiki/Pascal%27s_triangle) |
+| Path Integral | Integral over a space of functions, central in quantum mechanics | [Wikipedia](https://en.wikipedia.org/wiki/Path_integral_formulation) |
+| Permutations | Ordered arrangements of a set of objects | [Wikipedia](https://en.wikipedia.org/wiki/Permutation) |
+| Pigeonhole Principle | If n+1 items are put into n containers, at least one container has ≥2 items | [Wikipedia](https://en.wikipedia.org/wiki/Pigeonhole_principle) |
+| Polar Coordinates | Coordinate system where points are determined by angle and distance | [Wikipedia](https://en.wikipedia.org/wiki/Polar_coordinate_system) |
+| Polynomial Rings | Algebraic structures extending polynomials over a ring | [Wikipedia](https://en.wikipedia.org/wiki/Polynomial_ring) |
+| Prime Numbers | Natural numbers greater than 1 with no divisors other than 1 and itself | [Wikipedia](https://en.wikipedia.org/wiki/Prime_number) |
+| Probability Theory | Branch of math dealing with analysis of random phenomena | [Wikipedia](https://en.wikipedia.org/wiki/Probability_theory) |
+| Proof Theory | Study of the structure of mathematical proofs | [Wikipedia](https://en.wikipedia.org/wiki/Proof_theory) |
+| Pythagorean Theorem | Relation among the three sides of a right triangle | [Wikipedia](https://en.wikipedia.org/wiki/Pythagorean_theorem) |
+
