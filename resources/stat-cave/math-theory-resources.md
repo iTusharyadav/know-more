@@ -192,3 +192,20 @@
 | Proof Theory | Study of the structure of mathematical proofs | [Wikipedia](https://en.wikipedia.org/wiki/Proof_theory) |
 | Pythagorean Theorem | Relation among the three sides of a right triangle | [Wikipedia](https://en.wikipedia.org/wiki/Pythagorean_theorem) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Quadratic Equations | Second-degree polynomial equations of the form ax² + bx + c = 0 | [Wikipedia](https://en.wikipedia.org/wiki/Quadratic_equation) |
+| Quadratic Forms | Homogeneous polynomials of degree two in a number of variables | [Wikipedia](https://en.wikipedia.org/wiki/Quadratic_form) |
+| Quadrature | Techniques for numerical integration | [Wikipedia](https://en.wikipedia.org/wiki/Numerical_integration) |
+| Quadrature Formula | Approximations of definite integrals using weighted sums | [Wikipedia](https://en.wikipedia.org/wiki/Numerical_integration#Quadrature_formulas) |
+| Quasigroup | Algebraic structure with a binary operation where division is always possible | [Wikipedia](https://en.wikipedia.org/wiki/Quasigroup) |
+| Quasi-Newton Methods | Optimization algorithms for finding local maxima and minima | [Wikipedia](https://en.wikipedia.org/wiki/Quasi-Newton_method) |
+| Quaternions | Number system that extends complex numbers to four dimensions | [Wikipedia](https://en.wikipedia.org/wiki/Quaternion) |
+| Queuing Theory | Mathematical study of waiting lines or queues | [Wikipedia](https://en.wikipedia.org/wiki/Queueing_theory) |
+| Quorum Sensing (Math Models) | Mathematical modeling of quorum sensing in biological systems | [Overview](https://en.wikipedia.org/wiki/Quorum_sensing#Mathematical_models) |
+| Quotient Group | Group formed by partitioning a group into cosets of a normal subgroup | [Wikipedia](https://en.wikipedia.org/wiki/Quotient_group) |
+| Quotient Space (Topology) | Space obtained by identifying points in a topological space | [Wikipedia](https://en.wikipedia.org/wiki/Quotient_space_(topology)) |
+| QED (Quod Erat Demonstrandum) | Symbol marking the completion of a mathematical proof | [Wikipedia](https://en.wikipedia.org/wiki/Q.E.D.) |
+
