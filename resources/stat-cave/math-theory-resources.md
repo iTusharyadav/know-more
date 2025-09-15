@@ -158,3 +158,19 @@
 | Numerical Analysis | Study of algorithms for approximating solutions to mathematical problems | [Wikipedia](https://en.wikipedia.org/wiki/Numerical_analysis) |
 | Numerical Linear Algebra | Algorithms for numerical solutions involving matrices and linear systems | [Wikipedia](https://en.wikipedia.org/wiki/Numerical_linear_algebra) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Octonions | 8-dimensional normed division algebra extending quaternions | [Wikipedia](https://en.wikipedia.org/wiki/Octonion) |
+| Odds | Representation of probability in ratio form (e.g., 3:1 odds) | [Wikipedia](https://en.wikipedia.org/wiki/Odds) |
+| Omega Constant | Mathematical constant solving the equation Ω = e^(-Ω) | [Wikipedia](https://en.wikipedia.org/wiki/Omega_constant) |
+| Ontology in Mathematics | Study of existence and categorization of mathematical objects | [Wikipedia](https://en.wikipedia.org/wiki/Mathematical_ontology) |
+| Open Set | Fundamental concept in topology, defines neighborhoods in metric spaces | [Wikipedia](https://en.wikipedia.org/wiki/Open_set) |
+| Operator Theory | Study of linear operators on function spaces | [Wikipedia](https://en.wikipedia.org/wiki/Operator_theory) |
+| Optimal Stopping | Mathematical problem of deciding the right time to take a particular action | [Wikipedia](https://en.wikipedia.org/wiki/Optimal_stopping) |
+| Optimization Theory | Study of maximizing or minimizing functions under constraints | [Wikipedia](https://en.wikipedia.org/wiki/Mathematical_optimization) |
+| Order of Operations | Rules defining sequence of mathematical operations (PEMDAS/BODMAS) | [Wikipedia](https://en.wikipedia.org/wiki/Order_of_operations) |
+| Orthogonal Polynomials | Class of polynomials that satisfy orthogonality relations | [Wikipedia](https://en.wikipedia.org/wiki/Orthogonal_polynomials) |
+| Orthogonality | Concept of perpendicularity extended to abstract vector spaces | [Wikipedia](https://en.wikipedia.org/wiki/Orthogonality) |
+
