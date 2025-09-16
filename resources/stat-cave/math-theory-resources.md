@@ -242,3 +242,42 @@
 | Rotation Group | Group of rotations about the origin of Euclidean space | [Wikipedia](https://en.wikipedia.org/wiki/Rotation_group) |
 | Runge–Kutta Methods | Family of iterative methods for approximating solutions to ODEs | [Wikipedia](https://en.wikipedia.org/wiki/Runge–Kutta_methods) |
 
+### Stat-Cave → Math Theory Resources
+
+| Name | Description | Link |
+|------|-------------|------|
+| Saddle Point | Critical point of a function that is a minimum along one axis and a maximum along another | [Wikipedia](https://en.wikipedia.org/wiki/Saddle_point) |
+| Sample Space | Set of all possible outcomes of a random experiment | [Wikipedia](https://en.wikipedia.org/wiki/Sample_space) |
+| Sandwich Theorem (Squeeze Theorem) | If a function is squeezed between two others that share a limit, it shares that limit | [Wikipedia](https://en.wikipedia.org/wiki/Squeeze_theorem) |
+| Scalar Field | Function that assigns a scalar to every point in space | [Wikipedia](https://en.wikipedia.org/wiki/Scalar_field) |
+| Scalar Product (Dot Product) | Algebraic operation returning the product of magnitudes and cosine of angle | [Wikipedia](https://en.wikipedia.org/wiki/Dot_product) |
+| Schur’s Lemma | Key result in representation theory of groups and algebras | [Wikipedia](https://en.wikipedia.org/wiki/Schur%27s_lemma) |
+| Schwarz Inequality (Cauchy–Schwarz) | Fundamental inequality in linear algebra and analysis | [Wikipedia](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality) |
+| Second Fundamental Theorem of Calculus | Connects differentiation and integration | [Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus) |
+| Separable Space | Topological space with a countable dense subset | [Wikipedia](https://en.wikipedia.org/wiki/Separable_space) |
+| Sequence | Ordered list of elements, typically numbers | [Wikipedia](https://en.wikipedia.org/wiki/Sequence) |
+| Series | Sum of terms of a sequence | [Wikipedia](https://en.wikipedia.org/wiki/Series_(mathematics)) |
+| Set Theory | Study of sets, the basic objects of mathematics | [Wikipedia](https://en.wikipedia.org/wiki/Set_theory) |
+| Shannon Entropy | Measure of information content or uncertainty | [Wikipedia](https://en.wikipedia.org/wiki/Entropy_(information_theory)) |
+| Sheaf Theory | Framework for systematically tracking local data attached to topological spaces | [Wikipedia](https://en.wikipedia.org/wiki/Sheaf_(mathematics)) |
+| Sigma-Algebra | Collection of sets closed under complement and countable unions | [Wikipedia](https://en.wikipedia.org/wiki/Sigma-algebra) |
+| Simplex | Generalization of a triangle or tetrahedron to arbitrary dimension | [Wikipedia](https://en.wikipedia.org/wiki/Simplex) |
+| Singular Value Decomposition (SVD) | Factorization of a matrix into singular vectors and values | [Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) |
+| Singularities | Points where a mathematical object is not defined or not well-behaved | [Wikipedia](https://en.wikipedia.org/wiki/Singularity_(mathematics)) |
+| Sobolev Space | Function space used in partial differential equations | [Wikipedia](https://en.wikipedia.org/wiki/Sobolev_space) |
+| Spectral Theorem | Characterizes normal operators via their eigenvalues/eigenvectors | [Wikipedia](https://en.wikipedia.org/wiki/Spectral_theorem) |
+| Sphere | Set of points at a fixed distance from a center in Euclidean space | [Wikipedia](https://en.wikipedia.org/wiki/Sphere) |
+| Spherical Harmonics | Special functions defined on the sphere, used in many areas | [Wikipedia](https://en.wikipedia.org/wiki/Spherical_harmonics) |
+| Stability Theory | Study of how solutions of equations behave under perturbations | [Wikipedia](https://en.wikipedia.org/wiki/Stability_theory) |
+| Stochastic Process | Collection of random variables indexed by time or space | [Wikipedia](https://en.wikipedia.org/wiki/Stochastic_process) |
+| Stokes’ Theorem | Relates a surface integral to a line integral around the boundary | [Wikipedia](https://en.wikipedia.org/wiki/Stokes%27_theorem) |
+| Sturm–Liouville Theory | Study of a type of second-order differential equation and eigenfunctions | [Wikipedia](https://en.wikipedia.org/wiki/Sturm%E2%80%93Liouville_theory) |
+| Subgroup | Group contained within another group | [Wikipedia](https://en.wikipedia.org/wiki/Subgroup) |
+| Subspace | Vector space contained within another vector space | [Wikipedia](https://en.wikipedia.org/wiki/Linear_subspace) |
+| Supremum (Least Upper Bound) | Smallest value greater than or equal to every element of a set | [Wikipedia](https://en.wikipedia.org/wiki/Supremum) |
+| Surjective Function | Function mapping onto every element of its codomain | [Wikipedia](https://en.wikipedia.org/wiki/Surjective_function) |
+| Sylow Theorems | Results about p-subgroups of finite groups | [Wikipedia](https://en.wikipedia.org/wiki/Sylow_theorems) |
+| Symmetric Group | Group of all permutations of a finite set | [Wikipedia](https://en.wikipedia.org/wiki/Symmetric_group) |
+| Symmetry | Invariance under a set of transformations | [Wikipedia](https://en.wikipedia.org/wiki/Symmetry) |
+| System of Linear Equations | Collection of linear equations with common variables | [Wikipedia](https://en.wikipedia.org/wiki/System_of_linear_equations) |
+
