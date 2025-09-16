@@ -351,3 +351,36 @@
 | Urysohn Metric Space | Universal separable metric space | [Wikipedia](https://en.wikipedia.org/wiki/Urysohn_universal_space) |
 | U-statistic | Symmetric statistic with minimum variance among unbiased estimators | [Wikipedia](https://en.wikipedia.org/wiki/U-statistic) |
 
+### Stat-Cave → Math Theory Resources (V)
+
+| Name | Description | Link |
+|------|------------|------|
+| Vandermonde Matrix | Matrix with terms of a geometric progression; used in polynomial interpolation | [Wikipedia](https://en.wikipedia.org/wiki/Vandermonde_matrix) |
+| Van der Corput Sequence | Low-discrepancy sequence for quasi–Monte Carlo methods | [Wikipedia](https://en.wikipedia.org/wiki/Van_der_Corput_sequence) |
+| Variance | Measure of dispersion of a set of values | [Wikipedia](https://en.wikipedia.org/wiki/Variance) |
+| Variational Calculus | Field dealing with functionals and extremization | [Wikipedia](https://en.wikipedia.org/wiki/Calculus_of_variations) |
+| Variational Principle | Principle to derive physical laws from an action | [Wikipedia](https://en.wikipedia.org/wiki/Variational_principle) |
+| Vector Bundle | Topological construction of a vector space attached to each point of a space | [Wikipedia](https://en.wikipedia.org/wiki/Vector_bundle) |
+| Vector Calculus | Branch of mathematics with vector fields and multivariable analysis | [Wikipedia](https://en.wikipedia.org/wiki/Vector_calculus) |
+| Vector Field | Assignment of a vector to every point in a subset of space | [Wikipedia](https://en.wikipedia.org/wiki/Vector_field) |
+| Vector Space | Algebraic structure with vector addition and scalar multiplication | [Wikipedia](https://en.wikipedia.org/wiki/Vector_space) |
+| Venn Diagram | Diagram showing logical relations between sets | [Wikipedia](https://en.wikipedia.org/wiki/Venn_diagram) |
+| Verma Module | Representation of a Lie algebra constructed from a highest weight | [Wikipedia](https://en.wikipedia.org/wiki/Verma_module) |
+| Vertex (Graph Theory) | Fundamental unit of which graphs are formed | [Wikipedia](https://en.wikipedia.org/wiki/Vertex_(graph_theory)) |
+| Vertex Algebra | Algebraic structure generalizing commutative and Lie algebras | [Wikipedia](https://en.wikipedia.org/wiki/Vertex_algebra) |
+| Vertex Operator Algebra | Mathematical structure from conformal field theory | [Wikipedia](https://en.wikipedia.org/wiki/Vertex_operator_algebra) |
+| Vertical Asymptote | Line x = a where a function grows without bound | [Wikipedia](https://en.wikipedia.org/wiki/Asymptote#Vertical_asymptotes) |
+| Vieta's Formulas | Relates polynomial coefficients to sums/products of its roots | [Wikipedia](https://en.wikipedia.org/wiki/Vieta%27s_formulas) |
+| Vietoris–Rips Complex | Simplicial complex used in computational topology | [Wikipedia](https://en.wikipedia.org/wiki/Vietoris%E2%80%93Rips_complex) |
+| Vinogradov's Theorem | Additive number theory result on representation of numbers as sums of primes | [Wikipedia](https://en.wikipedia.org/wiki/Vinogradov%27s_theorem) |
+| Vitali Set | Non-measurable subset of the real numbers | [Wikipedia](https://en.wikipedia.org/wiki/Vitali_set) |
+| Vitali Covering Theorem | Key result in measure theory | [Wikipedia](https://en.wikipedia.org/wiki/Vitali_covering_lemma) |
+| Volume | Measure of the size of a three-dimensional region | [Wikipedia](https://en.wikipedia.org/wiki/Volume) |
+| Von Neumann Algebra | *-algebra of bounded operators in functional analysis | [Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_algebra) |
+| Von Neumann Entropy | Quantum analog of Shannon entropy | [Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_entropy) |
+| Von Neumann Regular Ring | Ring where every element a has b with a = aba | [Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_regular_ring) |
+| Voronoi Diagram | Partition of a plane into regions based on distance to points | [Wikipedia](https://en.wikipedia.org/wiki/Voronoi_diagram) |
+| Vorticity | Measure of rotation in a fluid | [Wikipedia](https://en.wikipedia.org/wiki/Vorticity) |
+| Vortex Sheet | Surface in fluid mechanics where vorticity is concentrated | [Wikipedia](https://en.wikipedia.org/wiki/Vortex_sheet) |
+| Vorticity Equation | Governs evolution of vorticity in fluid flows | [Wikipedia](https://en.wikipedia.org/wiki/Vorticity_equation) |
+| V-statistic | Generalization of U-statistics in statistics | [Wikipedia](https://en.wikipedia.org/wiki/U-statistic#V-statistics) |
