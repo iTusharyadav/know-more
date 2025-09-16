@@ -281,3 +281,39 @@
 | Symmetry | Invariance under a set of transformations | [Wikipedia](https://en.wikipedia.org/wiki/Symmetry) |
 | System of Linear Equations | Collection of linear equations with common variables | [Wikipedia](https://en.wikipedia.org/wiki/System_of_linear_equations) |
 
+### Stat-Cave → Math Theory Resources (T)
+
+| Name | Description | Link |
+|------|------------|------|
+| T-Test | Statistical test comparing means of two groups | [Wikipedia](https://en.wikipedia.org/wiki/Student%27s_t-test) |
+| T-Distribution | Probability distribution of the t-statistic | [Wikipedia](https://en.wikipedia.org/wiki/Student%27s_t-distribution) |
+| Tannakian Category | Category theory framework linking group representations and geometry | [Wikipedia](https://en.wikipedia.org/wiki/Tannakian_category) |
+| Tangent Space | Vector space that “touches” a manifold at a point | [Wikipedia](https://en.wikipedia.org/wiki/Tangent_space) |
+| Taylor Series | Infinite sum representing functions by derivatives at a point | [Wikipedia](https://en.wikipedia.org/wiki/Taylor_series) |
+| Tensor | Multi-dimensional array generalizing scalars, vectors, and matrices | [Wikipedia](https://en.wikipedia.org/wiki/Tensor) |
+| Tensor Product | Operation combining vector spaces, modules, or algebras | [Wikipedia](https://en.wikipedia.org/wiki/Tensor_product) |
+| Ternary Operation | Operation taking three arguments | [Wikipedia](https://en.wikipedia.org/wiki/Ternary_operation) |
+| Terminating Decimal | Decimal representation that ends after finite digits | [Wikipedia](https://en.wikipedia.org/wiki/Terminating_decimal) |
+| Theorem | Statement proven true using logical reasoning | [Wikipedia](https://en.wikipedia.org/wiki/Theorem) |
+| Thermodynamic Entropy | Measure of disorder in physical systems | [Wikipedia](https://en.wikipedia.org/wiki/Entropy) |
+| Topological Group | Group with a topology making operations continuous | [Wikipedia](https://en.wikipedia.org/wiki/Topological_group) |
+| Topological Manifold | Space locally resembling Euclidean space | [Wikipedia](https://en.wikipedia.org/wiki/Manifold) |
+| Topological Space | Set with a structure of open sets satisfying axioms | [Wikipedia](https://en.wikipedia.org/wiki/Topological_space) |
+| Topology | Study of properties preserved under continuous deformations | [Wikipedia](https://en.wikipedia.org/wiki/Topology) |
+| Torus | Surface shaped like a doughnut | [Wikipedia](https://en.wikipedia.org/wiki/Torus) |
+| Trace (Linear Algebra) | Sum of the diagonal elements of a square matrix | [Wikipedia](https://en.wikipedia.org/wiki/Trace_(linear_algebra)) |
+| Transcendental Number | Number not root of any nonzero polynomial with rational coefficients | [Wikipedia](https://en.wikipedia.org/wiki/Transcendental_number) |
+| Transformation Matrix | Matrix representing a linear transformation | [Wikipedia](https://en.wikipedia.org/wiki/Transformation_matrix) |
+| Transfinite Numbers | Numbers extending beyond the finite, e.g., aleph-null | [Wikipedia](https://en.wikipedia.org/wiki/Transfinite_number) |
+| Transpose | Matrix obtained by swapping rows and columns | [Wikipedia](https://en.wikipedia.org/wiki/Transpose) |
+| Trapezoidal Rule | Numerical method for approximating integrals | [Wikipedia](https://en.wikipedia.org/wiki/Trapezoidal_rule) |
+| Tree (Graph Theory) | Connected graph with no cycles | [Wikipedia](https://en.wikipedia.org/wiki/Tree_(graph_theory)) |
+| Triangle Inequality | In a metric space, distance satisfies d(x,z) ≤ d(x,y)+d(y,z) | [Wikipedia](https://en.wikipedia.org/wiki/Triangle_inequality) |
+| Triangular Matrix | Matrix with zeros either above or below the main diagonal | [Wikipedia](https://en.wikipedia.org/wiki/Triangular_matrix) |
+| Trigonometry | Study of relationships between angles and sides of triangles | [Wikipedia](https://en.wikipedia.org/wiki/Trigonometry) |
+| Triple Integral | Integral of a function in three variables over a 3D region | [Wikipedia](https://en.wikipedia.org/wiki/Triple_integral) |
+| Trivial Group | Group with only the identity element | [Wikipedia](https://en.wikipedia.org/wiki/Trivial_group) |
+| Turing Machine | Abstract model of computation defining algorithmic processes | [Wikipedia](https://en.wikipedia.org/wiki/Turing_machine) |
+| Turán’s Theorem | Extremal graph theory result bounding edges in graphs with no large cliques | [Wikipedia](https://en.wikipedia.org/wiki/Tur%C3%A1n%27s_theorem) |
+| Tutte Polynomial | Graph polynomial encoding various combinatorial properties | [Wikipedia](https://en.wikipedia.org/wiki/Tutte_polynomial) |
+
