@@ -317,3 +317,37 @@
 | Turán’s Theorem | Extremal graph theory result bounding edges in graphs with no large cliques | [Wikipedia](https://en.wikipedia.org/wiki/Tur%C3%A1n%27s_theorem) |
 | Tutte Polynomial | Graph polynomial encoding various combinatorial properties | [Wikipedia](https://en.wikipedia.org/wiki/Tutte_polynomial) |
 
+### Stat-Cave → Math Theory Resources (U)
+
+| Name | Description | Link |
+|------|------------|------|
+| Ultrafilter | Maximal filter in set theory and topology, used in logic and analysis | [Wikipedia](https://en.wikipedia.org/wiki/Ultrafilter) |
+| Ultrametric Space | Metric space satisfying a stronger triangle inequality | [Wikipedia](https://en.wikipedia.org/wiki/Ultrametric_space) |
+| Ultrapower | Model-theoretic construction using ultrafilters | [Wikipedia](https://en.wikipedia.org/wiki/Ultrapower) |
+| Uncountable Set | Set with cardinality larger than that of the natural numbers | [Wikipedia](https://en.wikipedia.org/wiki/Uncountable_set) |
+| Uniform Continuity | Function continuity with a global ε–δ condition | [Wikipedia](https://en.wikipedia.org/wiki/Uniform_continuity) |
+| Uniform Convergence | Type of convergence of functions stronger than pointwise | [Wikipedia](https://en.wikipedia.org/wiki/Uniform_convergence) |
+| Uniform Distribution | Probability distribution with constant probability over an interval | [Wikipedia](https://en.wikipedia.org/wiki/Uniform_distribution_(continuous)) |
+| Uniform Integrability | Condition ensuring interchange of limits and integrals | [Wikipedia](https://en.wikipedia.org/wiki/Uniform_integrability) |
+| Uniform Space | Generalization of metric spaces preserving uniform properties | [Wikipedia](https://en.wikipedia.org/wiki/Uniform_space) |
+| Unimodular Matrix | Integer matrix with determinant ±1, invertible over integers | [Wikipedia](https://en.wikipedia.org/wiki/Unimodular_matrix) |
+| Unipotent Matrix | Matrix whose eigenvalues are all 1 | [Wikipedia](https://en.wikipedia.org/wiki/Unipotent_matrix) |
+| Unit Circle | Set of points at distance 1 from the origin in the plane | [Wikipedia](https://en.wikipedia.org/wiki/Unit_circle) |
+| Unit Interval | Closed interval [0,1] in real numbers | [Wikipedia](https://en.wikipedia.org/wiki/Unit_interval) |
+| Unit Vector | Vector of length 1 | [Wikipedia](https://en.wikipedia.org/wiki/Unit_vector) |
+| Unitary Matrix | Complex matrix whose inverse is its conjugate transpose | [Wikipedia](https://en.wikipedia.org/wiki/Unitary_matrix) |
+| Universal Algebra | Study of algebraic structures in a general framework | [Wikipedia](https://en.wikipedia.org/wiki/Universal_algebra) |
+| Universal Coefficient Theorem | Relates homology and cohomology with different coefficients | [Wikipedia](https://en.wikipedia.org/wiki/Universal_coefficient_theorem) |
+| Universal Covering Space | Simply connected space covering a given topological space | [Wikipedia](https://en.wikipedia.org/wiki/Universal_covering_space) |
+| Universal Property | Characteristic property defining objects uniquely up to isomorphism | [Wikipedia](https://en.wikipedia.org/wiki/Universal_property) |
+| Universality (Math) | Concept where a property holds across a wide class of structures | [Wikipedia](https://en.wikipedia.org/wiki/Universality) |
+| Univalence Axiom | Homotopy type theory axiom equating equivalence with equality | [Wikipedia](https://en.wikipedia.org/wiki/Univalence_axiom) |
+| Univariate Analysis | Statistical analysis involving one variable | [Wikipedia](https://en.wikipedia.org/wiki/Univariate) |
+| Univariate Polynomial | Polynomial with one indeterminate | [Wikipedia](https://en.wikipedia.org/wiki/Univariate_polynomial) |
+| Upper Bound | Element greater than or equal to every element of a subset | [Wikipedia](https://en.wikipedia.org/wiki/Upper_bound) |
+| Upper Semicontinuous Function | Function where superlevel sets are closed | [Wikipedia](https://en.wikipedia.org/wiki/Upper_semicontinuous_function) |
+| Upper Triangular Matrix | Square matrix with zeros below the main diagonal | [Wikipedia](https://en.wikipedia.org/wiki/Triangular_matrix) |
+| Urysohn’s Lemma | States existence of continuous functions separating closed sets | [Wikipedia](https://en.wikipedia.org/wiki/Urysohn%27s_lemma) |
+| Urysohn Metric Space | Universal separable metric space | [Wikipedia](https://en.wikipedia.org/wiki/Urysohn_universal_space) |
+| U-statistic | Symmetric statistic with minimum variance among unbiased estimators | [Wikipedia](https://en.wikipedia.org/wiki/U-statistic) |
+
