@@ -53,7 +53,7 @@ Here’s a table of various resources you can explore in this repository:
 | Bookshelf                 | Recommended books for learning and reference  | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/bookshelf)         |
 | Documentation                | Official documentation for tech and non tech fields | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/documentation)         |
 | Extra And Fun Stuff      | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/extras-and-fun-stuff.md) |
-| Goodies For Buddies              |  Compete, Win, Celebrate | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/goodies-for-buddies.md)   |
+| Goodies For Buddies              |  Compete, Win, Celebrate | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/goodies-for-buddies)   |
 | Hall Of Fame         | Reusable templates for documentation, code, etc. | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/hall-of-fame) |
 | Open Source        | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/open-source) |
 | Opportunity Desk       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/opportunity-desk) |
