@@ -59,7 +59,7 @@ Here’s a table of various resources you can explore in this repository:
 | Opportunity Desk       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/opportunity-desk) |
 | Plugin Pantry       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/plugin-pantry) |
 | Projects       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/projects) |
-| Startup Kit       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/startup-kit.md) |
+| Startup Kit       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/startup-kit) |
 | Stat Cave  | Open source projects to contribute as beginners  | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/stat-cave)   |\
 | Style Guide        | Real-world projects and code examples  | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/style-guide) |
 | Useful Github Repositories       | Additional helpful resources or links       | [Check Out](https://github.com/iTusharyadav/know-more/tree/main/resources/useful-github-repositories) |
