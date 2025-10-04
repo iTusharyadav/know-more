@@ -18,3 +18,13 @@
 | BenchmarkML               | General-purpose ML model comparison platform.                                  | [GitHub](https://github.com/BenchmarkML/benchmarkml) |
 | BLINK Benchmark           | Comparison of entity linking and NLP models.                                   | [GitHub](https://github.com/facebookresearch/BLINK) |
 
+## Model-Market – Model Comparison (C)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|---------------------------|-------------------------------------------------------------------------------|----------|
+| CVPR Model Zoo            | Collection of computer vision models for benchmarking.                        | [Website](https://cvpr2023.thecvf.com) |
+| CheckList                 | Benchmarking NLP models using behavioral testing.                              | [GitHub](https://github.com/marcotcr/checklist) |
+| COCO Detection Benchmark  | Comparison of object detection models on COCO dataset.                        | [Website](https://cocodataset.org) |
+| Caffe Model Zoo           | Pretrained deep learning models and benchmarks in Caffe framework.            | [GitHub](https://github.com/BVLC/caffe/wiki/Model-Zoo) |
+| Cloud ML Benchmarks       | Performance comparison of ML models on cloud platforms.                       | [Website](https://cloud.google.com/ai-platform) |
+
