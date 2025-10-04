@@ -28,3 +28,12 @@
 | Caffe Model Zoo           | Pretrained deep learning models and benchmarks in Caffe framework.            | [GitHub](https://github.com/BVLC/caffe/wiki/Model-Zoo) |
 | Cloud ML Benchmarks       | Performance comparison of ML models on cloud platforms.                       | [Website](https://cloud.google.com/ai-platform) |
 
+## Model-Market – Model Comparison (D)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|---------------------------|-------------------------------------------------------------------------------|----------|
+| DeepBench                | Benchmarking deep learning operations on different hardware.                   | [GitHub](https://github.com/baidu-research/DeepBench) |
+| DeepSpeed Benchmark      | Performance comparison of large-scale models using DeepSpeed.                  | [GitHub](https://github.com/microsoft/DeepSpeed) |
+| DistilBERT Benchmarks    | Comparisons of smaller, faster Transformer models vs. BERT.                    | [GitHub](https://github.com/huggingface/transformers) |
+| DLPerf                   | NVIDIA’s deep learning performance benchmarking suite.                         | [GitHub](https://github.com/NVIDIA/DeepLearningExamples/tree/master/DLPerf) |
+| DAWNBench                | End-to-end deep learning training time benchmarks.                             | [Website](https://dawn.cs.stanford.edu/benchmark/) |
