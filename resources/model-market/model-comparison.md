@@ -65,3 +65,12 @@
 | Google ML Model Zoo        | Google’s pre-trained models compared on vision, NLP, and speech tasks.        | [GitHub](https://github.com/tensorflow/models) |
 | Gradient Boosting Comparisons | Performance benchmarks of XGBoost, LightGBM, CatBoost on tabular data.      | [GitHub](https://github.com/dmlc/xgboost) |
 
+## Model-Market – Model Comparison (H)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|---------------------------|-------------------------------------------------------------------------------|----------|
+| Hugging Face Model Hub     | Comparison of transformer models (BERT, GPT, T5, etc.) for NLP tasks.       | [GitHub](https://github.com/huggingface/transformers) |
+| H2O.ai Model Benchmark     | Benchmarks for H2O’s ML models including GBM, XGBoost, and Deep Learning.  | [GitHub](https://github.com/h2oai/h2o-3) |
+| Hyperparameter Tuning Comparisons | Evaluating tuning strategies for ML/DL models (Optuna, Ray Tune, Hyperopt). | [GitHub](https://github.com/optuna/optuna) |
+| HuggingFace Datasets       | Benchmarking models on standard NLP datasets.                                 | [GitHub](https://github.com/huggingface/datasets) |
+
