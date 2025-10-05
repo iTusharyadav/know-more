@@ -56,3 +56,12 @@
 | Flair NLP Comparisons     | Benchmarks of Flair embeddings against BERT, ELMo, and others.                 | [GitHub](https://github.com/flairNLP/flair) |
 | Focal Loss Benchmarks     | Comparing performance of models using Focal Loss vs. standard cross-entropy.   | [GitHub](https://github.com/facebookresearch/fvcore) |
 
+## Model-Market – Model Comparison (G)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|---------------------------|-------------------------------------------------------------------------------|----------|
+| GPT Model Comparisons      | Benchmarks of GPT-2, GPT-3, GPT-4, and other OpenAI models across tasks.     | [GitHub](https://github.com/openai/gpt-3) |
+| GNN Benchmarking           | Comparison of Graph Neural Networks (GCN, GAT, GraphSAGE) on standard datasets. | [GitHub](https://github.com/pyg-team/pytorch_geometric) |
+| Google ML Model Zoo        | Google’s pre-trained models compared on vision, NLP, and speech tasks.        | [GitHub](https://github.com/tensorflow/models) |
+| Gradient Boosting Comparisons | Performance benchmarks of XGBoost, LightGBM, CatBoost on tabular data.      | [GitHub](https://github.com/dmlc/xgboost) |
+
