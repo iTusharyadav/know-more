@@ -47,3 +47,12 @@
 | ELMo Benchmarks          | Comparison of ELMo embeddings vs. other NLP models.                            | [GitHub](https://github.com/allenai/allennlp) |
 | EdgeBench                | Benchmarks for ML model performance on edge and mobile devices.                | [GitHub](https://github.com/mlcommons/mobile) |
 
+## Model-Market – Model Comparison (F)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|---------------------------|-------------------------------------------------------------------------------|----------|
+| Fairseq Benchmarks        | Comparisons of Fairseq NLP models (BART, RoBERTa, etc.) across tasks.          | [GitHub](https://github.com/facebookresearch/fairseq) |
+| FastText Benchmarks       | Evaluation of FastText vs. Word2Vec, GloVe, and other embeddings.              | [GitHub](https://github.com/facebookresearch/fastText) |
+| Flair NLP Comparisons     | Benchmarks of Flair embeddings against BERT, ELMo, and others.                 | [GitHub](https://github.com/flairNLP/flair) |
+| Focal Loss Benchmarks     | Comparing performance of models using Focal Loss vs. standard cross-entropy.   | [GitHub](https://github.com/facebookresearch/fvcore) |
+
