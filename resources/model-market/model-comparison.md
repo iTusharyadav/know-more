@@ -37,3 +37,13 @@
 | DistilBERT Benchmarks    | Comparisons of smaller, faster Transformer models vs. BERT.                    | [GitHub](https://github.com/huggingface/transformers) |
 | DLPerf                   | NVIDIA’s deep learning performance benchmarking suite.                         | [GitHub](https://github.com/NVIDIA/DeepLearningExamples/tree/master/DLPerf) |
 | DAWNBench                | End-to-end deep learning training time benchmarks.                             | [Website](https://dawn.cs.stanford.edu/benchmark/) |
+
+## Model-Market – Model Comparison (E)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|---------------------------|-------------------------------------------------------------------------------|----------|
+| EfficientNet Benchmarks  | Comparisons of EfficientNet vs. other CNN architectures.                       | [GitHub](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) |
+| EvalAI                   | Platform for evaluating and comparing ML/DL models across challenges.          | [GitHub](https://github.com/Cloud-CV/EvalAI) |
+| ELMo Benchmarks          | Comparison of ELMo embeddings vs. other NLP models.                            | [GitHub](https://github.com/allenai/allennlp) |
+| EdgeBench                | Benchmarks for ML model performance on edge and mobile devices.                | [GitHub](https://github.com/mlcommons/mobile) |
+
