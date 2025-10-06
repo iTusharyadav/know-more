@@ -83,3 +83,12 @@
 | iMaterialist Fashion Benchmarks | Model comparisons on fashion and product recognition datasets.             | [GitHub](https://github.com/visipedia/imat) |
 | Intel OpenVINO Model Zoo   | Benchmarking models optimized for Intel hardware.                            | [GitHub](https://github.com/openvinotoolkit/open_model_zoo) |
 
+## Model-Market – Model Comparison (J)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|---------------------------|-------------------------------------------------------------------------------|----------|
+| JFT-300M Benchmark         | Comparison of large-scale image classification models using JFT-300M dataset. | [GitHub](https://github.com/google-research/google-research/tree/master/jft) |
+| Jetson Model Zoo           | Model comparisons optimized for NVIDIA Jetson devices.                        | [GitHub](https://github.com/dusty-nv/jetson-inference) |
+| Jigsaw Toxic Comment Models | Benchmarking NLP models for toxicity detection.                               | [GitHub](https://github.com/Jigsaw-Community) |
+| JFT-Large Model Benchmarks | Evaluation of deep learning architectures on large proprietary datasets.     | [GitHub](https://github.com/google-research/google-research/tree/master/jft) |
+
