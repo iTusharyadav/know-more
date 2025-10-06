@@ -74,3 +74,12 @@
 | Hyperparameter Tuning Comparisons | Evaluating tuning strategies for ML/DL models (Optuna, Ray Tune, Hyperopt). | [GitHub](https://github.com/optuna/optuna) |
 | HuggingFace Datasets       | Benchmarking models on standard NLP datasets.                                 | [GitHub](https://github.com/huggingface/datasets) |
 
+## Model-Market – Model Comparison (I)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|---------------------------|-------------------------------------------------------------------------------|----------|
+| Imagenet Model Zoo         | Comparison of pre-trained models on ImageNet for image classification.      | [GitHub](https://github.com/anishathalye/imagenet-model-zoo) |
+| InsightFace Benchmarks     | Evaluation of face recognition models on standard datasets.                 | [GitHub](https://github.com/deepinsight/insightface) |
+| iMaterialist Fashion Benchmarks | Model comparisons on fashion and product recognition datasets.             | [GitHub](https://github.com/visipedia/imat) |
+| Intel OpenVINO Model Zoo   | Benchmarking models optimized for Intel hardware.                            | [GitHub](https://github.com/openvinotoolkit/open_model_zoo) |
+
