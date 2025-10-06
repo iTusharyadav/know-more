@@ -102,3 +102,13 @@
 | Keras Model Zoo           | Collection and comparison of Keras pre-trained models on various tasks.       | [GitHub](https://github.com/keras-team/keras-applications) |
 | KITTI Vision Benchmarks   | Benchmarking models for autonomous driving datasets and tasks.                | [GitHub](http://www.cvlibs.net/datasets/kitti/) |
 
+## Model-Market – Model Comparison (L)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|---------------------------|-------------------------------------------------------------------------------|----------|
+| Language Model Benchmarks | Comparison of large language models on NLP tasks and datasets.                | [GitHub](https://github.com/EleutherAI/lm-evaluation-harness) |
+| Latent Diffusion Models   | Evaluation and comparison of latent diffusion-based generative models.        | [GitHub](https://github.com/CompVis/latent-diffusion) |
+| LFW Face Recognition      | Benchmarking models for face verification and recognition using LFW dataset.  | [GitHub](http://vis-www.cs.umass.edu/lfw/) |
+| LightGBM Model Benchmarks | Comparison of gradient boosting models for structured/tabular data.          | [GitHub](https://github.com/microsoft/LightGBM) |
+| LISA Traffic Sign Dataset | Evaluation of models on traffic sign detection and classification.            | [GitHub](https://www.lisa.unistra.fr/) |
+
