@@ -92,3 +92,13 @@
 | Jigsaw Toxic Comment Models | Benchmarking NLP models for toxicity detection.                               | [GitHub](https://github.com/Jigsaw-Community) |
 | JFT-Large Model Benchmarks | Evaluation of deep learning architectures on large proprietary datasets.     | [GitHub](https://github.com/google-research/google-research/tree/master/jft) |
 
+## Model-Market – Model Comparison (K)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|---------------------------|-------------------------------------------------------------------------------|----------|
+| Kaggle Model Benchmarks   | Comparisons of top-performing models from various Kaggle competitions.        | [Kaggle](https://www.kaggle.com) |
+| Keypoint Detection Models | Benchmarking human pose estimation and keypoint detection models.             | [GitHub](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) |
+| Knowledge Graph Models    | Comparison of models for knowledge graph embedding and link prediction.       | [GitHub](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding) |
+| Keras Model Zoo           | Collection and comparison of Keras pre-trained models on various tasks.       | [GitHub](https://github.com/keras-team/keras-applications) |
+| KITTI Vision Benchmarks   | Benchmarking models for autonomous driving datasets and tasks.                | [GitHub](http://www.cvlibs.net/datasets/kitti/) |
+
