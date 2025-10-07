@@ -143,3 +143,13 @@
 | Optuna Benchmark Suite         | Benchmarking framework for hyperparameter optimization and model performance. | [GitHub](https://github.com/optuna/optuna) |
 | OpenAI Gym Benchmark          | Environment for benchmarking RL agents on various tasks.                     | [GitHub](https://github.com/openai/gym) |
 
+## Model-Market – Model Comparison (P)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|------------------------------|-------------------------------------------------------------------------------|----------|
+| Papers with Code             | Platform for comparing state-of-the-art models and their performance metrics. | [Website](https://paperswithcode.com) |
+| PyTorch Benchmarking Suite    | Tools for evaluating PyTorch models across different hardware and datasets.  | [GitHub](https://github.com/pytorch/benchmark) |
+| PaddlePaddle Model Zoo        | Pre-trained models with performance benchmarks for PaddlePaddle framework.  | [GitHub](https://github.com/PaddlePaddle/models) |
+| Prophet Model Comparison      | Benchmarking for Facebook Prophet time-series forecasting models.           | [GitHub](https://github.com/facebook/prophet) |
+| PyCaret Model Leaderboard     | Compares multiple ML models’ performance in PyCaret automl framework.       | [GitHub](https://github.com/pycaret/pycaret) |
+
