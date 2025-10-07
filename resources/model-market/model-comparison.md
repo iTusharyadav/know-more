@@ -112,3 +112,18 @@
 | LightGBM Model Benchmarks | Comparison of gradient boosting models for structured/tabular data.          | [GitHub](https://github.com/microsoft/LightGBM) |
 | LISA Traffic Sign Dataset | Evaluation of models on traffic sign detection and classification.            | [GitHub](https://www.lisa.unistra.fr/) |
 
+## Model-Market – Model Comparison (M)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|------------------------------|-------------------------------------------------------------------------------|----------|
+| MLPerf                       | Industry-standard machine learning performance benchmark suite.               | [Website](https://mlcommons.org/en/mlperf/) |
+| Model Zoo Benchmarks         | Comparison of various deep learning architectures and frameworks.             | [GitHub](https://github.com/onnx/models) |
+| ModelScope                   | Alibaba’s open-source model benchmarking and hosting platform.                | [GitHub](https://github.com/modelscope/modelscope) |
+| MTEB (Massive Text Embedding Benchmark) | Benchmark for comparing text embedding models like OpenAI, Cohere, and Hugging Face. | [GitHub](https://github.com/embeddings-benchmark/mteb) |
+| MLPerf Inference             | Benchmark for comparing inference performance of ML models across hardware.  | [GitHub](https://github.com/mlcommons/inference) |
+| MLPerf Training              | Benchmark for comparing training efficiency of ML models.                    | [GitHub](https://github.com/mlcommons/training) |
+| Model Comparison Toolkit (MCT) | Framework to evaluate model size, latency, and accuracy trade-offs.         | [GitHub](https://github.com/openvinotoolkit/nncf) |
+| Model-Bench                  | Lightweight framework for comparing PyTorch and TensorFlow models.           | [GitHub](https://github.com/facebookresearch/model-bench) |
+| MLCommons                    | Open source community creating ML benchmarking standards.                    | [Website](https://mlcommons.org/en/) |
+| Model Card Toolkit           | Google’s tool for standardizing model documentation and comparison.          | [GitHub](https://github.com/tensorflow/model-card-toolkit) |
+
