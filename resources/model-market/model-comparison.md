@@ -127,3 +127,9 @@
 | MLCommons                    | Open source community creating ML benchmarking standards.                    | [Website](https://mlcommons.org/en/) |
 | Model Card Toolkit           | Google’s tool for standardizing model documentation and comparison.          | [GitHub](https://github.com/tensorflow/model-card-toolkit) |
 
+## Model-Market – Model Comparison (N)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|------------------------------|-------------------------------------------------------------------------------|----------|
+| Neural Architecture Benchmark | Benchmarks comparing different neural network architectures for speed and accuracy. | [GitHub](https://github.com/mit-han-lab/nas-bench) |
+
