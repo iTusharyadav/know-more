@@ -133,3 +133,13 @@
 |------------------------------|-------------------------------------------------------------------------------|----------|
 | Neural Architecture Benchmark | Benchmarks comparing different neural network architectures for speed and accuracy. | [GitHub](https://github.com/mit-han-lab/nas-bench) |
 
+## Model-Market – Model Comparison (O)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|------------------------------|-------------------------------------------------------------------------------|----------|
+| OpenML                        | Platform for benchmarking machine learning models across datasets.            | [Website](https://www.openml.org) |
+| OpenVINO Model Benchmark      | Intel’s benchmarking suite for evaluating OpenVINO-optimized models.         | [GitHub](https://github.com/openvinotoolkit/open_model_zoo) |
+| ONNX Model Zoo                | Repository for comparing performance of pre-trained ONNX models.              | [GitHub](https://github.com/onnx/models) |
+| Optuna Benchmark Suite         | Benchmarking framework for hyperparameter optimization and model performance. | [GitHub](https://github.com/optuna/optuna) |
+| OpenAI Gym Benchmark          | Environment for benchmarking RL agents on various tasks.                     | [GitHub](https://github.com/openai/gym) |
+
