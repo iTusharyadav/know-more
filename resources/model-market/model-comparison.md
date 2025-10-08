@@ -162,3 +162,12 @@
 | QuantConnect ML Models        | Comparison of ML algorithms for algorithmic trading in QuantConnect platform. | [Website](https://www.quantconnect.com) |
 | QMLBench                      | Benchmarking suite for evaluating quantum machine learning models.           | [GitHub](https://github.com/qmlbench/qmlbench) |
 
+## Model-Market – Model Comparison (R)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|------------------------------|-------------------------------------------------------------------------------|----------|
+| RAMP                          | Repository for model comparison challenges in machine learning and AI.       | [GitHub](https://github.com/paris-saclay-cds/ramp-workflow) |
+| Ray Tune                      | Hyperparameter tuning and model comparison framework by Ray.                  | [GitHub](https://github.com/ray-project/ray) |
+| RobustBench                   | Standardized benchmark for evaluating robustness of ML models.               | [GitHub](https://github.com/RobustBench/robustbench) |
+| ReCodEx                        | ML model comparison platform for educational competitions.                   | [Website](https://recodex.mff.cuni.cz) |
+
