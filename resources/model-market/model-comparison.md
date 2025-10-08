@@ -153,3 +153,12 @@
 | Prophet Model Comparison      | Benchmarking for Facebook Prophet time-series forecasting models.           | [GitHub](https://github.com/facebook/prophet) |
 | PyCaret Model Leaderboard     | Compares multiple ML models’ performance in PyCaret automl framework.       | [GitHub](https://github.com/pycaret/pycaret) |
 
+## Model-Market – Model Comparison (Q)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|------------------------------|-------------------------------------------------------------------------------|----------|
+| QuickML                       | Tool for automated model comparison and selection across multiple ML frameworks. | [Website](https://quickml.com) |
+| Qiskit Machine Learning Bench | Quantum ML model benchmarking platform provided by IBM Qiskit.               | [GitHub](https://github.com/Qiskit/qiskit-machine-learning) |
+| QuantConnect ML Models        | Comparison of ML algorithms for algorithmic trading in QuantConnect platform. | [Website](https://www.quantconnect.com) |
+| QMLBench                      | Benchmarking suite for evaluating quantum machine learning models.           | [GitHub](https://github.com/qmlbench/qmlbench) |
+
