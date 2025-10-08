@@ -171,3 +171,11 @@
 | RobustBench                   | Standardized benchmark for evaluating robustness of ML models.               | [GitHub](https://github.com/RobustBench/robustbench) |
 | ReCodEx                        | ML model comparison platform for educational competitions.                   | [Website](https://recodex.mff.cuni.cz) |
 
+## Model-Market – Model Comparison (S)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|------------------------------|-------------------------------------------------------------------------------|----------|
+| SuperGLUE                    | Benchmark for evaluating and comparing NLP models on challenging tasks.      | [GitHub](https://super.gluebenchmark.com/) |
+| SurrogateBench               | Framework for comparing surrogate models in ML.                               | [GitHub](https://github.com/NeuralEnsemble/SurrogateBench) |
+| SynBench                     | Synthetic dataset benchmarks for model comparison in AI.                      | [GitHub](https://github.com/synbench) |
+
