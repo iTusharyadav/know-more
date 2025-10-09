@@ -179,3 +179,11 @@
 | SurrogateBench               | Framework for comparing surrogate models in ML.                               | [GitHub](https://github.com/NeuralEnsemble/SurrogateBench) |
 | SynBench                     | Synthetic dataset benchmarks for model comparison in AI.                      | [GitHub](https://github.com/synbench) |
 
+## Model-Market – Model Comparison (T)
+
+| **Name**                     | **Known For**                                                              | **Link** |
+|------------------------------|----------------------------------------------------------------------------|----------|
+| TensorFlow Model Garden      | Collection of TensorFlow models with performance benchmarks.               | [GitHub](https://github.com/tensorflow/models) |
+| TorchBench                   | Benchmark suite for evaluating PyTorch models across architectures.        | [GitHub](https://github.com/pytorch/benchmark) |
+| TransferBench                | Benchmark for evaluating transfer learning performance of models.          | [GitHub](https://github.com/mlfoundations/transfer-bench) |
+
