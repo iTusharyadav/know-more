@@ -203,3 +203,11 @@
 | ViT Benchmarks               | Evaluation of Vision Transformers across datasets.            | [GitHub](https://github.com/google-research/vision_transformer) |
 | V-ML Model Evaluation         | Tools for validating various vision ML models.                | [GitHub](https://github.com/v-ml/benchmarks) |
 
+## Model-Market – Model Comparison (W)
+
+| **Name**                     | **Known For**                                                  | **Link** |
+|------------------------------|----------------------------------------------------------------|----------|
+| Wav2Vec Benchmark            | Comparison of speech recognition models.                       | [GitHub](https://github.com/pytorch/fairseq/tree/main/examples/wav2vec) |
+| WideResNet Evaluation        | Performance metrics for WideResNet architectures.              | [GitHub](https://github.com/szagoruyko/wide-residual-networks) |
+| Weight & Biases Model Comparison | Tracks and compares ML/DL models across projects.            | [GitHub](https://wandb.ai/site) |
+
