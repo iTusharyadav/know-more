@@ -187,3 +187,11 @@
 | TorchBench                   | Benchmark suite for evaluating PyTorch models across architectures.        | [GitHub](https://github.com/pytorch/benchmark) |
 | TransferBench                | Benchmark for evaluating transfer learning performance of models.          | [GitHub](https://github.com/mlfoundations/transfer-bench) |
 
+## Model-Market – Model Comparison (U)
+
+| **Name**                     | **Known For**                                                  | **Link** |
+|------------------------------|----------------------------------------------------------------|----------|
+| Unify.AI Benchmarks          | Unified evaluation framework for ML/DL models and toolkits.    | [GitHub](https://github.com/unifyai) |
+| Ultralytics YOLO Benchmarks  | Performance comparison of YOLO versions on COCO dataset.       | [GitHub](https://github.com/ultralytics/benchmarks) |
+| ULMFit Evaluation Suite      | Tools for benchmarking universal language model fine-tuning.   | [GitHub](https://github.com/fastai/ulmfit) |
+
