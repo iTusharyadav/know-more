@@ -227,3 +227,10 @@
 | YAMNet Evaluation            | Audio event classification model comparison.                  | [GitHub](https://github.com/tensorflow/models/tree/master/research/audioset) |
 | YoloV5 vs YoloV8             | Performance comparison of YOLOv5 and YOLOv8 models.           | [GitHub](https://github.com/ultralytics/YOLO) |
 
+## Model-Market – Model Comparison (Z)
+
+| **Name**                     | **Known For**                                                  | **Link** |
+|------------------------------|----------------------------------------------------------------|----------|
+| Z-Score Models               | Comparison of statistical models using Z-score metrics.        | [GitHub](https://github.com/yourusername/zscore-models) |
+| Zero-Shot Learning Models    | Evaluate zero-shot classification models.                       | [GitHub](https://github.com/facebookresearch/DeText) |
+| ZetaBench                    | Benchmark for large-scale ML/DL models.                        | [GitHub](https://github.com/yourusername/zetabench) |
