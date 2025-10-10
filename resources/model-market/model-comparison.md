@@ -211,3 +211,11 @@
 | WideResNet Evaluation        | Performance metrics for WideResNet architectures.              | [GitHub](https://github.com/szagoruyko/wide-residual-networks) |
 | Weight & Biases Model Comparison | Tracks and compares ML/DL models across projects.            | [GitHub](https://wandb.ai/site) |
 
+## Model-Market – Model Comparison (X)
+
+| **Name**                     | **Known For**                                                  | **Link** |
+|------------------------------|----------------------------------------------------------------|----------|
+| XLNet Benchmark              | Comparison of XLNet NLP model performance.                     | [GitHub](https://github.com/zihangdai/xlnet) |
+| XGBoost Model Comparison     | Evaluate and compare different XGBoost models.                 | [GitHub](https://github.com/dmlc/xgboost) |
+| XLM-R Evaluation             | Performance analysis of XLM-R multilingual models.            | [GitHub](https://github.com/facebookresearch/XLM) |
+
