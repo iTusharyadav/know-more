@@ -219,3 +219,11 @@
 | XGBoost Model Comparison     | Evaluate and compare different XGBoost models.                 | [GitHub](https://github.com/dmlc/xgboost) |
 | XLM-R Evaluation             | Performance analysis of XLM-R multilingual models.            | [GitHub](https://github.com/facebookresearch/XLM) |
 
+## Model-Market – Model Comparison (Y)
+
+| **Name**                     | **Known For**                                                  | **Link** |
+|------------------------------|----------------------------------------------------------------|----------|
+| YOLO Benchmark               | Compare various YOLO versions for object detection.           | [GitHub](https://github.com/AlexeyAB/darknet) |
+| YAMNet Evaluation            | Audio event classification model comparison.                  | [GitHub](https://github.com/tensorflow/models/tree/master/research/audioset) |
+| YoloV5 vs YoloV8             | Performance comparison of YOLOv5 and YOLOv8 models.           | [GitHub](https://github.com/ultralytics/YOLO) |
+
