@@ -16,3 +16,12 @@
 | BlueEval                   | Evaluation framework for text-to-speech and audio models.      | [GitHub](https://github.com/blue-eval/blue-eval) |
 | BLiMP Evaluations           | Benchmarking English linguistic minimal pairs in NLP models.  | [GitHub](https://github.com/alexwarstadt/blimp) |
 
+## Model-Market – Evaluations (C)
+
+| **Name**                  | **Known For**                                                    | **Link** |
+|----------------------------|------------------------------------------------------------------|----------|
+| CMU-MoCap Eval             | Evaluation dataset and metrics for motion capture models.       | [GitHub](https://github.com/CMU-Perceptual-Computing-Lab/CMU-MoCap) |
+| CoNLL Shared Task Eval      | Standard evaluation for NLP tasks like NER, POS tagging.        | [Website](https://www.conll.org/) |
+| ConvEval                   | Evaluation framework for conversational AI and dialogue models.| [GitHub](https://github.com/conv-eval/conv-eval) |
+| CrowdAI Benchmark          | Platform for evaluating computer vision and ML competitions.    | [Website](https://www.crowdai.org/) |
+
