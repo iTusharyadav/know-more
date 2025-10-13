@@ -25,3 +25,12 @@
 | ConvEval                   | Evaluation framework for conversational AI and dialogue models.| [GitHub](https://github.com/conv-eval/conv-eval) |
 | CrowdAI Benchmark          | Platform for evaluating computer vision and ML competitions.    | [Website](https://www.crowdai.org/) |
 
+## Model-Market – Evaluations (D)
+
+| **Name**                  | **Known For**                                                    | **Link** |
+|----------------------------|------------------------------------------------------------------|----------|
+| DAWNBench                  | Benchmark for end-to-end training and inference performance of ML models. | [GitHub](https://github.com/DAWNBench/DAWNBench) |
+| DeepEval                   | Evaluation framework for deep learning models across tasks.     | [GitHub](https://github.com/deep-eval/deep-eval) |
+| DLBENCH                     | Benchmark for deep learning models on multiple datasets.       | [GitHub](https://github.com/dlbench/dlbench) |
+| DNN Benchmark               | Evaluation of deep neural networks for speed and accuracy.     | [GitHub](https://github.com/mihaimaruseac/DeepLearningBenchmark) |
+
