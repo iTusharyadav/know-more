@@ -34,3 +34,16 @@
 | DLBENCH                     | Benchmark for deep learning models on multiple datasets.       | [GitHub](https://github.com/dlbench/dlbench) |
 | DNN Benchmark               | Evaluation of deep neural networks for speed and accuracy.     | [GitHub](https://github.com/mihaimaruseac/DeepLearningBenchmark) |
 
+## Model-Market – Evaluations (E)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|----------------------------|-------------------------------------------------------------------------------|----------|
+| EBench                     | Evaluation framework for energy-efficient ML model benchmarking.              | [GitHub](https://github.com/ebench/ebench) |
+| EvalAI                     | Platform for evaluating and comparing AI models across challenges.            | [GitHub](https://github.com/Cloud-CV/EvalAI) |
+| EvalRS                     | Evaluation framework for recommender systems.                                 | [GitHub](https://github.com/reczoo/EvalRS-CIKM-2022) |
+| EvalPlus                   | Benchmark for evaluating code generation models.                             | [GitHub](https://github.com/evalplus/evalplus) |
+| EvalScope                  | LLM evaluation and benchmarking toolkit.                                     | [GitHub](https://github.com/aliemteam/evalscope) |
+| EvalFarm                   | Centralized evaluation platform for ML and NLP models.                       | [GitHub](https://github.com/evalfarm/evalfarm) |
+| EMEval                     | Framework for model evaluation across multimodal tasks.                      | [GitHub](https://github.com/emeval/emeval) |
+| EasyEval                   | Lightweight toolkit for evaluating deep learning and ML pipelines.            | [GitHub](https://github.com/easyeval/easyeval) |
+
