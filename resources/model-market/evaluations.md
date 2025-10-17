@@ -47,3 +47,16 @@
 | EMEval                     | Framework for model evaluation across multimodal tasks.                      | [GitHub](https://github.com/emeval/emeval) |
 | EasyEval                   | Lightweight toolkit for evaluating deep learning and ML pipelines.            | [GitHub](https://github.com/easyeval/easyeval) |
 
+## Model-Market – Evaluations (F)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|----------------------------|-------------------------------------------------------------------------------|----------|
+| FairEval                   | Evaluation framework for fairness and bias in ML models.                     | [GitHub](https://github.com/IBM/fairness-evaluation) |
+| FastEval                   | Lightweight toolkit for fast evaluation of machine learning models.          | [GitHub](https://github.com/fast-eval/fast-eval) |
+| FineEval                   | Fine-grained evaluation metrics for NLP and vision models.                   | [GitHub](https://github.com/fineeval/fineeval) |
+| FlexEval                   | Modular evaluation suite supporting custom metrics and tasks.                 | [GitHub](https://github.com/flexeval/flexeval) |
+| FoundryEval                | Model evaluation hub by Hugging Face for community benchmarks.               | [Website](https://huggingface.co/evaluate) |
+| FLEET                      | Evaluation framework for federated learning models.                          | [GitHub](https://github.com/epfl-lts2/fleet) |
+| FMEval                     | Amazon’s open-source toolkit for foundation model evaluation.                | [GitHub](https://github.com/awslabs/fmeval) |
+| FullEval                   | End-to-end evaluation workflow for ML lifecycle management.                   | [GitHub](https://github.com/fulleval/fulleval) |
+
