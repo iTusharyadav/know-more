@@ -93,3 +93,13 @@
 | Inference Time Benchmark   | Evaluation suite to measure model inference speed across hardware.            | [GitHub](https://github.com/pytorch/benchmark) |
 | IQA Benchmark              | Image quality assessment benchmark for evaluating generative and enhancement models. | [GitHub](https://github.com/chaofengc/IQA-PyTorch) |
 
+## Model-Market – Evaluations (J)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|-------------------------------|-------------------------------------------------------------------------------|----------|
+| JGLUE Benchmark               | Japanese General Language Understanding Evaluation benchmark for NLP models. | [GitHub](https://github.com/yahoojapan/JGLUE) |
+| JHMDB Dataset Evaluation      | Evaluation benchmark for human motion and action recognition models.          | [Website](http://jhmdb.is.tue.mpg.de/) |
+| JSonBench                    | JSON performance benchmark for testing model output serialization efficiency. | [GitHub](https://github.com/fabienrenaud/java-json-benchmark) |
+| JAXBench                     | Performance and accuracy benchmarking suite for JAX-based ML models.          | [GitHub](https://github.com/google/jax-benchmarks) |
+| Joint Embedding Benchmark     | Evaluates multimodal (text-image) representation alignment models.            | [GitHub](https://github.com/mlfoundations/open_clip) |
+
