@@ -73,3 +73,13 @@
 | GreenML                     | Metrics and evaluation for energy-efficient ML models.                        | [GitHub](https://github.com/GreenML/GreenML) |
 | GCP-Eval                   | Google Cloud Platform evaluation tools for ML pipelines.                      | [Website](https://cloud.google.com/ai-platform) |
 
+## Model-Market – Evaluations (H)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|----------------------------|-------------------------------------------------------------------------------|----------|
+| HANS Benchmark             | Heuristic Analysis for NLI Systems, evaluating model robustness in NLP.       | [GitHub](https://github.com/facebookresearch/NLI-HANS) |
+| HAR-Eval                   | Evaluation toolkit for Human Activity Recognition models.                     | [GitHub](https://github.com/har-eval/har-eval) |
+| HealthML Benchmark         | Evaluation dataset and metrics for medical and health ML models.              | [Website](https://healthml.org/) |
+| HuggingFace Eval           | Evaluation suite for various NLP and multimodal models hosted on HuggingFace. | [Website](https://huggingface.co/metrics) |
+| HypeBench                  | Benchmarking platform for large-scale language model performance evaluation.  | [GitHub](https://github.com/hypebench/hypebench) |
+
