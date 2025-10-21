@@ -60,3 +60,16 @@
 | FMEval                     | Amazon’s open-source toolkit for foundation model evaluation.                | [GitHub](https://github.com/awslabs/fmeval) |
 | FullEval                   | End-to-end evaluation workflow for ML lifecycle management.                   | [GitHub](https://github.com/fulleval/fulleval) |
 
+## Model-Market – Evaluations (G)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|----------------------------|-------------------------------------------------------------------------------|----------|
+| GLUE Benchmark             | Standard evaluation benchmark for NLP models.                                 | [Website](https://gluebenchmark.com/) |
+| GloVeEval                  | Evaluation tools for word embeddings and vector representations.              | [GitHub](https://github.com/stanfordnlp/GloVe) |
+| GaugeEval                  | Evaluation framework for generative AI model outputs.                         | [GitHub](https://github.com/gauge-eval/gauge) |
+| GeoEval                    | Geographic and spatial ML model evaluation toolkit.                           | [GitHub](https://github.com/GeoEval/GeoEval) |
+| GPT-Eval                   | Automated evaluation scripts for GPT-style language models.                   | [GitHub](https://github.com/EleutherAI/gpt-eval) |
+| GradingML                  | ML evaluation toolkit for grading and scoring model predictions.              | [GitHub](https://github.com/gradingml/gradingml) |
+| GreenML                     | Metrics and evaluation for energy-efficient ML models.                        | [GitHub](https://github.com/GreenML/GreenML) |
+| GCP-Eval                   | Google Cloud Platform evaluation tools for ML pipelines.                      | [Website](https://cloud.google.com/ai-platform) |
+
