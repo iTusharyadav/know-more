@@ -83,3 +83,13 @@
 | HuggingFace Eval           | Evaluation suite for various NLP and multimodal models hosted on HuggingFace. | [Website](https://huggingface.co/metrics) |
 | HypeBench                  | Benchmarking platform for large-scale language model performance evaluation.  | [GitHub](https://github.com/hypebench/hypebench) |
 
+## Model-Market – Evaluations (I)
+
+| **Name**                  | **Known For**                                                                 | **Link** |
+|----------------------------|-------------------------------------------------------------------------------|----------|
+| ImageNet Benchmark         | Standard evaluation dataset for image classification and vision models.       | [Website](http://www.image-net.org/) |
+| IWSLT Evaluation           | Evaluation datasets for machine translation models in low-resource languages.| [Website](https://iwslt.org/) |
+| IMDB Sentiment Eval        | Benchmark for evaluating sentiment analysis models on IMDB reviews.          | [GitHub](https://github.com/keras-team/keras/blob/master/examples/imdb_lstm.py) |
+| Inference Time Benchmark   | Evaluation suite to measure model inference speed across hardware.            | [GitHub](https://github.com/pytorch/benchmark) |
+| IQA Benchmark              | Image quality assessment benchmark for evaluating generative and enhancement models. | [GitHub](https://github.com/chaofengc/IQA-PyTorch) |
+
