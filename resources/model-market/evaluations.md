@@ -103,3 +103,13 @@
 | JAXBench                     | Performance and accuracy benchmarking suite for JAX-based ML models.          | [GitHub](https://github.com/google/jax-benchmarks) |
 | Joint Embedding Benchmark     | Evaluates multimodal (text-image) representation alignment models.            | [GitHub](https://github.com/mlfoundations/open_clip) |
 
+## Model-Market – Evaluations (K)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|-------------------------------|-------------------------------------------------------------------------------|----------|
+| KITTI Benchmark               | Autonomous driving dataset evaluation for object detection, tracking, and segmentation. | [Website](http://www.cvlibs.net/datasets/kitti/) |
+| Kinetics Benchmark            | Large-scale video dataset benchmark for action recognition models.            | [Website](https://deepmind.com/research/open-source/kinetics) |
+| Kaggle Model Evaluation       | Platform-provided evaluation metrics and leaderboards for diverse ML competitions. | [Website](https://www.kaggle.com/) |
+| Knowledge Graph Completion Benchmark | Evaluation datasets for link prediction and knowledge graph completion models. | [GitHub](https://github.com/TimDettmers/ConvE) |
+| Keypoint Detection Benchmark  | Evaluates human pose estimation and keypoint detection models.               | [GitHub](https://github.com/princeton-vl/pose-hg-train) |
+
