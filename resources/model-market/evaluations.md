@@ -123,3 +123,13 @@
 | LISA Traffic Sign Benchmark   | Evaluates traffic sign detection and classification models.                   | [Website](http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html) |
 | LAMB Evaluation Suite         | Metrics and datasets for evaluating large language models in NLP tasks.       | [GitHub](https://github.com/EleutherAI/lamb) |
 
+## Model-Market – Evaluations (M)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|-------------------------------|-------------------------------------------------------------------------------|----------|
+| MIMIC-III Benchmark           | Evaluates models on medical data prediction, including ICU patient outcomes. | [Website](https://mimic.physionet.org/) |
+| MNIST Evaluation              | Benchmark for evaluating image classification models on handwritten digits.  | [Website](http://yann.lecun.com/exdb/mnist/) |
+| MS COCO Evaluation            | Evaluates object detection, segmentation, and captioning models.              | [Website](https://cocodataset.org/#home) |
+| MuJoCo Benchmark              | Evaluates reinforcement learning models on continuous control tasks.          | [Website](https://www.roboti.us/index.html) |
+| MultiNLI Evaluation           | Benchmark for evaluating natural language inference models.                   | [Website](https://www.nyu.edu/projects/bowman/multinli/) |
+
