@@ -133,3 +133,13 @@
 | MuJoCo Benchmark              | Evaluates reinforcement learning models on continuous control tasks.          | [Website](https://www.roboti.us/index.html) |
 | MultiNLI Evaluation           | Benchmark for evaluating natural language inference models.                   | [Website](https://www.nyu.edu/projects/bowman/multinli/) |
 
+## Model-Market – Evaluations (N)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|-------------------------------|-------------------------------------------------------------------------------|----------|
+| NER Benchmark (CoNLL-2003)    | Evaluates named entity recognition models across multiple languages.         | [Website](https://www.clips.uantwerpen.be/conll2003/ner/) |
+| NLP GLUE Benchmark            | Evaluates general language understanding across various NLP tasks.           | [Website](https://gluebenchmark.com/) |
+| NIST Machine Translation Eval | Evaluates machine translation quality using BLEU and other metrics.          | [Website](https://www.nist.gov/itl/iad/mig/openmt) |
+| NSynth Evaluation             | Tests generative models on audio synthesis and representation learning.      | [Website](https://magenta.tensorflow.org/nsynth) |
+| NuScenes Evaluation           | Benchmark for evaluating autonomous driving perception models.               | [Website](https://www.nuscenes.org/) |
+
