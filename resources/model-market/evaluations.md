@@ -113,3 +113,13 @@
 | Knowledge Graph Completion Benchmark | Evaluation datasets for link prediction and knowledge graph completion models. | [GitHub](https://github.com/TimDettmers/ConvE) |
 | Keypoint Detection Benchmark  | Evaluates human pose estimation and keypoint detection models.               | [GitHub](https://github.com/princeton-vl/pose-hg-train) |
 
+## Model-Market – Evaluations (L)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|-------------------------------|-------------------------------------------------------------------------------|----------|
+| LFW (Labeled Faces in the Wild) | Benchmark for face recognition models, measuring accuracy on unconstrained face images. | [Website](http://vis-www.cs.umass.edu/lfw/) |
+| LibriSpeech Evaluation        | Evaluation dataset for speech recognition models.                             | [Website](https://www.openslr.org/12/) |
+| LAMBADA Benchmark             | Evaluates language models on reading comprehension and long-range context understanding. | [GitHub](https://github.com/cybertronai/lamdada) |
+| LISA Traffic Sign Benchmark   | Evaluates traffic sign detection and classification models.                   | [Website](http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html) |
+| LAMB Evaluation Suite         | Metrics and datasets for evaluating large language models in NLP tasks.       | [GitHub](https://github.com/EleutherAI/lamb) |
+
