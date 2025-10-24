@@ -143,3 +143,18 @@
 | NSynth Evaluation             | Tests generative models on audio synthesis and representation learning.      | [Website](https://magenta.tensorflow.org/nsynth) |
 | NuScenes Evaluation           | Benchmark for evaluating autonomous driving perception models.               | [Website](https://www.nuscenes.org/) |
 
+## Model-Market – Evaluations (O)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|-------------------------------|-------------------------------------------------------------------------------|----------|
+| ObjectNet Benchmark           | Evaluates object recognition models under real-world distribution shifts.     | [Website](https://objectnet.dev/) |
+| OCID Dataset Evaluation       | Used for benchmarking 3D object segmentation and detection in cluttered scenes.| [GitHub](https://github.com/kloping/OCID) |
+| OCR Benchmark (OpenImages)    | Evaluates OCR model performance on natural scenes and diverse fonts.          | [Website](https://storage.googleapis.com/openimages/web/index.html) |
+| OpenAI Evaluations            | Framework for assessing AI model capabilities across tasks and domains.       | [GitHub](https://github.com/openai/evals) |
+| OpenML Benchmark Suites       | Standardized tasks and datasets for ML model evaluation.                     | [Website](https://www.openml.org/) |
+| OpenVINO Model Benchmark Tool | Evaluates model performance on Intel hardware accelerators.                   | [Website](https://docs.openvino.ai/latest/omz_tools_benchmark_readme.html) |
+| ORB-SLAM Evaluation Dataset   | Used for evaluating visual SLAM algorithms’ accuracy and robustness.          | [GitHub](https://github.com/raulmur/ORB_SLAM2) |
+| OSBench (Open Source Benchmark)| General benchmark suite for open ML/DL models’ inference and accuracy testing.| [GitHub](https://github.com/OSBench) |
+| OTB Benchmark (Object Tracking Benchmark) | Evaluates single-object tracking algorithms with standardized metrics. | [Website](http://cvlab.hanyang.ac.kr/tracker_benchmark/) |
+| Oxford-IIIT Pet Benchmark     | Evaluates image segmentation and classification models.                      | [Website](https://www.robots.ox.ac.uk/~vgg/data/pets/) |
+
