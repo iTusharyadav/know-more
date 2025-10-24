@@ -158,3 +158,18 @@
 | OTB Benchmark (Object Tracking Benchmark) | Evaluates single-object tracking algorithms with standardized metrics. | [Website](http://cvlab.hanyang.ac.kr/tracker_benchmark/) |
 | Oxford-IIIT Pet Benchmark     | Evaluates image segmentation and classification models.                      | [Website](https://www.robots.ox.ac.uk/~vgg/data/pets/) |
 
+## Model-Market – Evaluations (P)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|-------------------------------|-------------------------------------------------------------------------------|----------|
+| Pascal VOC Benchmark           | Standard benchmark for object detection, segmentation, and classification.    | [Website](http://host.robots.ox.ac.uk/pascal/VOC/) |
+| Penn Treebank Evaluation       | Evaluates NLP models on language modeling tasks.                               | [Website](https://catalog.ldc.upenn.edu/LDC99T42) |
+| Physionet Challenge            | Evaluates models on medical signal processing and prediction tasks.           | [Website](https://physionet.org/challenge/) |
+| Platypus Benchmark             | Benchmark for multi-object tracking in video sequences.                        | [GitHub](https://github.com/Platypus-MOT/platypus) |
+| PASC Benchmark                 | Performance Assessment of Speech and Audio Classification models.             | [Website](https://www.cs.tut.fi/sgn/arg/pascal-benchmark/) |
+| PoseTrack Benchmark            | Evaluates human pose estimation and tracking models.                           | [Website](https://posetrack.net/) |
+| PTB XL Benchmark               | ECG classification benchmark dataset for evaluating deep learning models.     | [Website](https://www.physionet.org/content/ptb-xl/1.0.1/) |
+| PyTorch ImageNet Benchmark     | Evaluates image classification model performance on ImageNet dataset.         | [GitHub](https://github.com/pytorch/vision/tree/main/benchmarks) |
+| PyTorch NLP Evaluation Suite   | Suite to benchmark NLP models for tasks like translation, QA, and sentiment.   | [GitHub](https://github.com/pytorch/text) |
+| PyTorch Video Benchmark        | Evaluates video understanding models for action recognition tasks.            | [GitHub](https://github.com/pytorch/vision/tree/main/references/video_classification) |
+
