@@ -173,3 +173,16 @@
 | PyTorch NLP Evaluation Suite   | Suite to benchmark NLP models for tasks like translation, QA, and sentiment.   | [GitHub](https://github.com/pytorch/text) |
 | PyTorch Video Benchmark        | Evaluates video understanding models for action recognition tasks.            | [GitHub](https://github.com/pytorch/vision/tree/main/references/video_classification) |
 
+## Model-Market – Evaluations (Q)
+
+| **Name**                     | **Known For**                                                                 | **Link** |
+|-------------------------------|-------------------------------------------------------------------------------|----------|
+| Queen’s Speech Recognition Benchmark | Evaluates speech recognition models on Queen’s English accents.             | [Website](https://www.qsrbenchmark.org/) |
+| QuickDraw Evaluation Dataset  | Evaluates sketch recognition and drawing models using Google’s QuickDraw data. | [Website](https://quickdraw.withgoogle.com/data) |
+| Quora Question Pairs Benchmark | Evaluates NLP models for semantic similarity and duplicate question detection. | [Website](https://www.kaggle.com/c/quora-question-pairs) |
+| QED Benchmark                 | Evaluates question answering and entity detection models for English language. | [Website](https://github.com/allenai/qed) |
+| QASC Benchmark                | Evaluates models on multi-choice science questions requiring reasoning.        | [Website](https://leaderboard.allenai.org/qasc/submissions/get-started) |
+| QNLI Benchmark                | Question Natural Language Inference evaluation dataset for NLP tasks.         | [Website](https://huggingface.co/datasets/glue/viewer/qnli) |
+| QUAC Benchmark                | Question Answering in Context evaluation for conversational QA models.        | [Website](https://quac.ai/) |
+| QuranQA Benchmark             | Evaluates question answering systems on the Quranic text.                     | [Website](https://quranqa.org/) |
+
