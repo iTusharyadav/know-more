@@ -231,3 +231,28 @@
 | STS-B (Semantic Textual Similarity Benchmark) | Evaluates semantic similarity between sentence pairs.             | [Website](https://huggingface.co/datasets/stsb_multi_mt) |
 | SpeechBench                      | Evaluation dataset for automatic speech recognition (ASR) models.                | [Website](https://speechbench.ai/) |
 
+## Model-Market – Evaluations (T)
+
+| **Name**                           | **Known For**                                                                  | **Link** |
+|------------------------------------|--------------------------------------------------------------------------------|----------|
+| TruthfulQA                        | Evaluates truthfulness and factual accuracy of language models.                | [GitHub](https://github.com/sylinrl/TruthfulQA) |
+| TydiQA                             | Multilingual question answering benchmark.                                    | [Website](https://github.com/google-research-datasets/tydiqa) |
+| TREC                               | Benchmark for text classification and information retrieval.                  | [Website](https://trec.nist.gov/) |
+| TaskBench                          | Large-scale benchmark suite for diverse NLP task evaluation.                  | [GitHub](https://github.com/TaskBench/TaskBench) |
+| TAPAS Evaluation Suite             | Evaluation framework for table question answering.                            | [Website](https://github.com/google-research/tapas) |
+| ToxBench                           | Benchmarks for toxicity and bias detection in language models.                | [Website](https://huggingface.co/datasets/toxigen) |
+| TMLR Eval                          | Evaluation repository from *Transactions on Machine Learning Research*.       | [Website](https://tmlr.org/evaluation/) |
+| TextBench                         | Benchmark for general text generation tasks.                                 | [GitHub](https://github.com/THUNLP-MT/TextBench) |
+| TabFact                           | Fact-checking benchmark for tabular data.                                     | [GitHub](https://github.com/wenhuchen/Table-Fact-Checking) |
+| TinyBench                         | Lightweight benchmark for small language models.                              | [Website](https://huggingface.co/datasets/tinybench) |
+| The Pile Benchmark                | Evaluation suite using large-scale open text corpus.                          | [Website](https://pile.eleuther.ai/) |
+| TruthArena                        | Evaluates LLM factual consistency and truth alignment.                        | [Website](https://huggingface.co/datasets/trutharena) |
+| TorchBench                        | Benchmark for PyTorch-based deep learning models.                             | [GitHub](https://github.com/pytorch/benchmark) |
+| TextAttack Eval                   | Evaluation framework for adversarial robustness of NLP models.                | [GitHub](https://github.com/QData/TextAttack) |
+| TensorFlow Model Garden Benchmark | Standardized evaluation of TensorFlow models.                                 | [GitHub](https://github.com/tensorflow/models) |
+| TMLU (Test of Machine Language Understanding) | General benchmark for LLM comprehension and reasoning.            | [Website](https://tmlu.ai/) |
+| TuringBench                       | Benchmark for machine text detection and AI-written text evaluation.          | [GitHub](https://github.com/TuringBench/TuringBench) |
+| TimeEval                          | Benchmarking framework for time series anomaly detection models.              | [GitHub](https://github.com/TimeEval/TimeEval) |
+| TinyStories Eval                  | Benchmark for evaluating small-scale story generation models.                 | [GitHub](https://github.com/roneneldan/TinyStories) |
+| TabularBench                      | Evaluates model performance on structured/tabular data tasks.                 | [GitHub](https://github.com/automl/TabularBench) |
+
