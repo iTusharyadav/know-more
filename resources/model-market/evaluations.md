@@ -206,3 +206,28 @@
 | ReasonBench                      | Evaluates models on complex reasoning and step-by-step problem solving.          | [Website](https://reasonbench.ai/) |
 | RedTeamEval                      | Evaluation framework for testing model vulnerability to harmful outputs.         | [GitHub](https://github.com/Anthropic/red-team-eval) |
 
+## Model-Market – Evaluations (S)
+
+| **Name**                          | **Known For**                                                                   | **Link** |
+|-----------------------------------|----------------------------------------------------------------------------------|----------|
+| SQuAD (Stanford Question Answering Dataset) | Benchmark for reading comprehension and QA tasks.                   | [Website](https://rajpurkar.github.io/SQuAD-explorer/) |
+| SuperGLUE Benchmark               | Advanced general language understanding benchmark.                              | [Website](https://super.gluebenchmark.com/) |
+| SentEval                         | Evaluates quality of sentence embeddings and semantic representations.           | [GitHub](https://github.com/facebookresearch/SentEval) |
+| SciEval                          | Evaluation framework for scientific text summarization and reasoning.            | [Website](https://huggingface.co/datasets/scieval) |
+| SQuAD2.0                         | QA benchmark including unanswerable questions.                                  | [Website](https://rajpurkar.github.io/SQuAD-explorer/) |
+| SST-2 (Stanford Sentiment Treebank) | Sentiment classification benchmark for text models.                            | [Website](https://huggingface.co/datasets/sst2) |
+| SHAPE Benchmark                  | Evaluates spatial reasoning in visual question answering.                        | [GitHub](https://github.com/facebookresearch/shape-benchmark) |
+| SkillBench                       | Benchmarks skill-based LLM reasoning and multi-step task-solving.                | [Website](https://huggingface.co/datasets/skillbench) |
+| StoryCloze Test                  | Commonsense reasoning evaluation for story completion.                           | [Website](https://cs.rochester.edu/nlp/rocstories/) |
+| SummEval                         | Evaluation benchmark for summarization model quality.                            | [GitHub](https://github.com/Yale-LILY/SummEval) |
+| SuperGLUE Diagnostic             | Subset for diagnostic evaluation of GLUE tasks.                                 | [Website](https://super.gluebenchmark.com/tasks) |
+| ScienceQA                        | Benchmark for multimodal scientific question answering.                          | [GitHub](https://github.com/lupantech/ScienceQA) |
+| Stanford Sentiment Treebank (SST) | Fine-grained sentiment classification benchmark.                                | [Website](https://nlp.stanford.edu/sentiment/index.html) |
+| Scifact                          | Evaluates scientific fact verification and claim validation.                     | [Website](https://github.com/allenai/scifact) |
+| SmartEval                        | Benchmark for evaluating LLMs on smart assistant capabilities.                   | [Website](https://smarteval.ai/) |
+| SocialIQa                        | Commonsense social interaction reasoning benchmark.                              | [Website](https://allenai.org/data/socialiqa) |
+| SafeBench                        | Evaluates model safety and robustness against adversarial prompts.               | [GitHub](https://github.com/thu-safe-ai/safebench) |
+| SymEval                          | Symbolic reasoning evaluation for math and logic models.                         | [Website](https://symbench.ai/) |
+| STS-B (Semantic Textual Similarity Benchmark) | Evaluates semantic similarity between sentence pairs.             | [Website](https://huggingface.co/datasets/stsb_multi_mt) |
+| SpeechBench                      | Evaluation dataset for automatic speech recognition (ASR) models.                | [Website](https://speechbench.ai/) |
+
