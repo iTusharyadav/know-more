@@ -186,3 +186,23 @@
 | QUAC Benchmark                | Question Answering in Context evaluation for conversational QA models.        | [Website](https://quac.ai/) |
 | QuranQA Benchmark             | Evaluates question answering systems on the Quranic text.                     | [Website](https://quranqa.org/) |
 
+## Model-Market – Evaluations (R)
+
+| **Name**                          | **Known For**                                                                   | **Link** |
+|-----------------------------------|----------------------------------------------------------------------------------|----------|
+| RACE Benchmark                    | Reading comprehension evaluation for middle and high school English exams.       | [Website](http://www.cs.cmu.edu/~glai1/data/race/) |
+| RealToxicityPrompts               | Evaluates toxicity in model-generated text prompts.                             | [GitHub](https://github.com/allenai/real-toxicity-prompts) |
+| ReClor Benchmark                  | Logical reasoning benchmark for reading comprehension tasks.                     | [Website](https://eval.ai/web/challenges/challenge-page/503/overview) |
+| RefCOCO Dataset                   | Evaluates referring expression comprehension and grounding in images.            | [Website](https://github.com/lichengunc/refer) |
+| RetrievalQA Benchmark             | Evaluates models on retrieval-based question answering tasks.                    | [Website](https://huggingface.co/datasets/retrieval-qa) |
+| RobustQA Benchmark                | Tests the robustness of QA models against adversarial examples.                  | [GitHub](https://github.com/marcotcr/robustqa) |
+| RocStories (Story Cloze Test)     | Evaluates commonsense reasoning in story completion tasks.                       | [Website](https://cs.rochester.edu/nlp/rocstories/) |
+| Rotten Tomatoes Sentiment Dataset | Evaluates sentiment classification models on movie reviews.                      | [Website](https://huggingface.co/datasets/rotten_tomatoes) |
+| RTE (Recognizing Textual Entailment) | Evaluates natural language inference capabilities.                            | [Website](https://huggingface.co/datasets/glue/viewer/rte) |
+| RULER Benchmark                   | Evaluates reasoning and utility of LLMs through logical tasks.                   | [GitHub](https://github.com/allenai/ruler) |
+| RAGAS Benchmark                   | Evaluates retrieval-augmented generation systems.                               | [GitHub](https://github.com/explodinggradients/ragas) |
+| RuSentiment Benchmark             | Evaluates sentiment analysis for Russian-language datasets.                      | [GitHub](https://github.com/text-machine-lab/rusentiment) |
+| RWKV Evaluation Suite             | Benchmarks RWKV language models for efficiency and accuracy.                     | [GitHub](https://github.com/BlinkDL/RWKV-LM) |
+| ReasonBench                      | Evaluates models on complex reasoning and step-by-step problem solving.          | [Website](https://reasonbench.ai/) |
+| RedTeamEval                      | Evaluation framework for testing model vulnerability to harmful outputs.         | [GitHub](https://github.com/Anthropic/red-team-eval) |
+
