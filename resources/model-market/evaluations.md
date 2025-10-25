@@ -256,3 +256,28 @@
 | TinyStories Eval                  | Benchmark for evaluating small-scale story generation models.                 | [GitHub](https://github.com/roneneldan/TinyStories) |
 | TabularBench                      | Evaluates model performance on structured/tabular data tasks.                 | [GitHub](https://github.com/automl/TabularBench) |
 
+## Model-Market – Evaluations (U)
+
+| **Name**                           | **Known For**                                                                  | **Link** |
+|------------------------------------|--------------------------------------------------------------------------------|----------|
+| UnifyBenchmark                    | Unified evaluation framework for comparing LLMs across diverse tasks.          | [GitHub](https://github.com/UnifyAI/unify-benchmark) |
+| UL2Eval                           | Evaluation suite for Unifying Language Learning models (Google Research).      | [Website](https://github.com/google-research/google-research/tree/master/ul2) |
+| Unbabel COMET                     | Framework for evaluating machine translation quality.                          | [GitHub](https://github.com/Unbabel/COMET) |
+| Unsupervised Evaluation Toolkit   | Toolkit for zero-shot evaluation of NLP and CV models.                         | [GitHub](https://github.com/unsup-eval/toolkit) |
+| ULMFiT Benchmark                  | Benchmark for fine-tuning and evaluating pretrained LMs on various tasks.      | [Website](https://fastai.github.io/) |
+| UnifiedQA                         | Multi-task question answering benchmark across QA datasets.                    | [Website](https://allenai.org/data/unifiedqa) |
+| Unsupervised SentEval             | Framework for evaluating sentence embeddings.                                  | [GitHub](https://github.com/facebookresearch/SentEval) |
+| UniversalBench                    | Evaluation suite for multilingual and multi-domain models.                     | [GitHub](https://github.com/UniversalBench/UniversalBench) |
+| UMAPEval                          | Benchmark for evaluating dimensionality reduction on embeddings.               | [Website](https://umap-learn.readthedocs.io/en/latest/) |
+| UniEval                           | Unified evaluation for text generation and summarization.                      | [GitHub](https://github.com/maszhongming/UniEval) |
+| Uber Ludwig Benchmarks            | Model comparison and evaluation with Ludwig AutoML framework.                  | [GitHub](https://github.com/ludwig-ai/ludwig-benchmarks) |
+| UncertaintyBenchmark              | Evaluating model calibration and uncertainty estimation.                       | [GitHub](https://github.com/uncertainty-benchmark/uncertainty-benchmark) |
+| UniterEval                        | Benchmarking vision-language pretraining models.                               | [GitHub](https://github.com/ChenRocks/UNITER) |
+| UCR Time Series Archive           | Evaluation benchmark for time series classification.                           | [Website](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/) |
+| Unbabel Eval                      | Machine translation human evaluation metrics and datasets.                     | [Website](https://unbabel.com/research) |
+| UDTBench                          | Benchmark for unsupervised domain translation.                                 | [GitHub](https://github.com/udtbench/udtbench) |
+| ULTRA                             | Unified benchmark for ranking and retrieval tasks.                             | [GitHub](https://github.com/ULTRA-Benchmark/ULTRA) |
+| UXEval                            | Benchmark for evaluating AI-generated UX design recommendations.               | [Website](https://uxeval.org) |
+| UrbanBench                        | Benchmark for evaluating ML models on urban data and smart city applications.  | [GitHub](https://github.com/UrbanBench/UrbanBench) |
+| Unified Model Evaluation Hub      | Centralized repository for ML/DL model comparisons and metrics.                | [Website](https://huggingface.co/spaces/evaluation-hub) |
+
