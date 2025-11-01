@@ -281,3 +281,28 @@
 | UrbanBench                        | Benchmark for evaluating ML models on urban data and smart city applications.  | [GitHub](https://github.com/UrbanBench/UrbanBench) |
 | Unified Model Evaluation Hub      | Centralized repository for ML/DL model comparisons and metrics.                | [Website](https://huggingface.co/spaces/evaluation-hub) |
 
+## Model-Market – Evaluations (V)
+
+| **Name**                           | **Known For**                                                                 | **Link** |
+|------------------------------------|-------------------------------------------------------------------------------|----------|
+| Visual Genome Benchmark            | Evaluates visual understanding, relationships, and reasoning.                 | [Website](https://visualgenome.org/) |
+| VBench                             | Benchmark for evaluating generative video models.                             | [GitHub](https://github.com/Vchitect/VBench) |
+| VQA (Visual Question Answering)    | Benchmark for evaluating vision-language reasoning via Q&A.                   | [Website](https://visualqa.org/) |
+| VLUE Benchmark                     | Vision-Language Understanding Evaluation suite.                               | [GitHub](https://github.com/EricWang12/VLUE) |
+| VGGFace2 Evaluation                | Large-scale evaluation dataset for face recognition and verification.         | [Website](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/) |
+| VoxCeleb Benchmark                 | Evaluation dataset for speaker recognition and verification.                  | [Website](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/) |
+| VCR (Visual Commonsense Reasoning) | Evaluates models' ability to reason about images using commonsense knowledge. | [Website](https://visualcommonsense.com/) |
+| VIST Benchmark                     | Visual Storytelling benchmark for image sequence understanding.               | [GitHub](https://github.com/ucbrise/vist) |
+| VisDial                            | Evaluates models for visual dialogue tasks.                                  | [Website](https://visualdialog.org/) |
+| VideoQA                            | Benchmark for evaluating models on video question answering tasks.            | [GitHub](https://github.com/jayleicn/VideoQA) |
+| VALSE                              | Benchmark for evaluating visual-linguistic semantic understanding.            | [Website](https://valse.cn/) |
+| Visual NLI                         | Natural language inference benchmark grounded in images.                      | [GitHub](https://github.com/abhishekkrthakur/visual-nli) |
+| VISIONEval                         | Open-source framework for evaluating transportation and energy system models. | [GitHub](https://github.com/VisionEval/VisionEval) |
+| V-MEGA                             | Benchmark for evaluating multimodal generative agents.                        | [Website](https://vmega.ai) |
+| VQAv2 Benchmark                    | Standardized dataset for evaluating image-based question answering.           | [Website](https://visualqa.org/) |
+| VBench360                          | Benchmark for 360° and panoramic image understanding.                         | [GitHub](https://github.com/VBench360/VBench360) |
+| ViT-Eval                           | Evaluation suite for Vision Transformers across classification and segmentation tasks. | [GitHub](https://github.com/google-research/vision_transformer) |
+| Visual Reasoning Challenge (VR-C)  | Benchmarks AI’s ability for abstract and symbolic visual reasoning.           | [Website](https://cs.stanford.edu/people/dorarad/visualreasoning/) |
+| VideoBench                         | Benchmark for multimodal video understanding models.                          | [GitHub](https://github.com/VideoBench/VideoBench) |
+| VisualDecodingEval                 | Evaluation of text-to-image model decoding accuracy.                          | [GitHub](https://github.com/VisualDecodingEval/benchmark) |
+
