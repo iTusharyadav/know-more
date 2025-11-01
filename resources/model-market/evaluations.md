@@ -331,3 +331,28 @@
 | Wikitext-103 Evaluation           | Large benchmark for testing language modeling capabilities.                    | [GitHub](https://huggingface.co/datasets/wikitext) |
 | WikiReading                       | Benchmark for reading comprehension over Wikipedia.                            | [GitHub](https://github.com/google-research-datasets/wiki-reading) |
 
+## Model-Market – Evaluations (X)
+
+| **Name**                          | **Known For**                                                                 | **Link** |
+|-----------------------------------|-------------------------------------------------------------------------------|----------|
+| XNLI Benchmark                    | Cross-lingual natural language inference benchmark.                           | [GitHub](https://github.com/facebookresearch/XNLI) |
+| XSum Benchmark                    | Single-sentence abstractive summarization dataset for model evaluation.        | [GitHub](https://github.com/EdinburghNLP/XSum) |
+| XL-Sum Benchmark                  | Multilingual summarization evaluation dataset.                                | [GitHub](https://github.com/csebuetnlp/xl-sum) |
+| XQA Benchmark                     | Cross-lingual question answering benchmark.                                   | [GitHub](https://github.com/thunlp/XQA) |
+| XGLUE Benchmark                   | General cross-lingual benchmark for evaluating language understanding.         | [GitHub](https://github.com/microsoft/XGLUE) |
+| XTREME Benchmark                  | Cross-lingual transfer evaluation for multilingual models.                    | [GitHub](https://github.com/google-research/xtreme) |
+| XTREME-R Benchmark                | Updated version of XTREME with expanded tasks for robust multilingual evaluation. | [GitHub](https://github.com/google-research/xtremer) |
+| XMC-Benchmark                     | Extreme multi-label classification benchmark for text.                        | [GitHub](https://github.com/kunaldahiya/awesome-xmc) |
+| X-VLM Eval                        | Evaluation framework for vision-language pretrained models.                   | [GitHub](https://github.com/zengyan-97/X-VLM) |
+| XAI Benchmark                     | Explainable AI benchmark for evaluating interpretability in models.            | [Website](https://xai-benchmark.org/) |
+| XRay Benchmark                    | Medical imaging benchmark for chest X-ray analysis.                           | [GitHub](https://github.com/mlmed/torchxrayvision) |
+| XSkill Benchmark                  | Evaluation of model reasoning and multi-task learning abilities.               | [Website](https://xskill-benchmark.ai/) |
+| XCodec Benchmark                  | Evaluates code understanding and generation in multilingual programming contexts. | [GitHub](https://github.com/microsoft/xcodec) |
+| XSumFaith Benchmark               | Evaluates factual consistency of summarization models.                        | [GitHub](https://github.com/XSumFaith/XSumFaith) |
+| XPersona Benchmark                | Cross-lingual dialogue benchmark for evaluating persona-based conversational models. | [GitHub](https://github.com/HLTCHKUST/XPersona) |
+| XVal Benchmark                    | Unified benchmark for cross-domain model validation.                          | [Website](https://xval.ai/) |
+| XSR Benchmark                     | Cross-lingual semantic retrieval evaluation.                                  | [GitHub](https://github.com/facebookresearch/XSR) |
+| XNLG Benchmark                    | Cross-lingual natural language generation tasks for evaluation.                | [GitHub](https://github.com/CZWin32768/XNLG) |
+| XSpeech Benchmark                 | Speech recognition benchmark across multiple languages.                       | [Website](https://github.com/facebookresearch/XSpeech) |
+| XAlign Benchmark                  | Evaluates cross-lingual alignment and translation consistency in LLMs.         | [Website](https://xalign-benchmark.org/) |
+
