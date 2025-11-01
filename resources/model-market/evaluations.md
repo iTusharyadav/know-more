@@ -306,3 +306,28 @@
 | VideoBench                         | Benchmark for multimodal video understanding models.                          | [GitHub](https://github.com/VideoBench/VideoBench) |
 | VisualDecodingEval                 | Evaluation of text-to-image model decoding accuracy.                          | [GitHub](https://github.com/VisualDecodingEval/benchmark) |
 
+## Model-Market – Evaluations (W)
+
+| **Name**                          | **Known For**                                                                 | **Link** |
+|-----------------------------------|-------------------------------------------------------------------------------|----------|
+| WILDS Benchmark                   | Evaluates robustness and generalization of ML models across real-world domains. | [GitHub](https://github.com/p-lambda/wilds) |
+| WMT (Workshop on Machine Translation) | Benchmark for evaluating machine translation models.                         | [Website](https://www.statmt.org/wmt24/) |
+| WikiText Benchmark                | Evaluates language models on Wikipedia-based text datasets.                   | [GitHub](https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/) |
+| WebQuestions Benchmark            | Evaluates QA systems using questions from the web.                            | [Website](https://www.microsoft.com/en-us/download/details.aspx?id=52419) |
+| Winograd Schema Challenge (WSC)   | Evaluates commonsense reasoning in NLP models.                                | [Website](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/) |
+| WiC (Word-in-Context) Benchmark   | Evaluates word sense disambiguation and contextual understanding.              | [GitHub](https://pilehvar.github.io/wic/) |
+| WebNLG Challenge                  | Evaluates data-to-text generation systems.                                    | [Website](https://webnlg-challenge.loria.fr/) |
+| Winogender Schema                 | Evaluates gender bias in coreference resolution systems.                      | [GitHub](https://github.com/rudinger/winogender-schemas) |
+| WikiHop Benchmark                 | Benchmark for evaluating multi-hop reasoning in text.                         | [GitHub](https://github.com/yzhao062/WikiHop) |
+| WiLI Benchmark                    | Evaluates language identification models across 235 languages.                | [GitHub](https://github.com/MeK80/WiLI-2018) |
+| WikiBio Benchmark                 | Data-to-text benchmark using Wikipedia biographies.                           | [GitHub](https://github.com/DavidGrangier/wikipedia-biography-dataset) |
+| WildEval                         | Evaluation benchmark for foundation models in real-world noisy environments.   | [Website](https://wildeval.org/) |
+| WikiFact                          | Evaluates factual consistency in large language models.                       | [GitHub](https://github.com/WikiFactEval/WikiFact) |
+| WikiSQL Benchmark                 | Evaluates text-to-SQL models.                                                 | [GitHub](https://github.com/salesforce/WikiSQL) |
+| WebQA Benchmark                   | Benchmark for open-domain question answering on web documents.                 | [GitHub](https://github.com/shmsw25/WebQA) |
+| WikiHow Benchmark                 | Evaluates procedural reasoning from instructional text.                       | [Website](https://github.com/mahnazkoupaee/WikiHow-Dataset) |
+| WinoGrande                        | Large-scale version of Winograd for commonsense reasoning.                    | [GitHub](https://github.com/allenai/winogrande) |
+| WebVision Benchmark               | Image classification benchmark with webly-labeled data.                       | [Website](https://data.vision.ee.ethz.ch/cvl/webvision/) |
+| Wikitext-103 Evaluation           | Large benchmark for testing language modeling capabilities.                    | [GitHub](https://huggingface.co/datasets/wikitext) |
+| WikiReading                       | Benchmark for reading comprehension over Wikipedia.                            | [GitHub](https://github.com/google-research-datasets/wiki-reading) |
+
