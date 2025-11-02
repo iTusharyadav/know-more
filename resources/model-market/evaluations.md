@@ -381,3 +381,27 @@
 | Yummly-10K Dataset                | Benchmark for evaluating food image classification and retrieval models.      | [GitHub](https://github.com/anshulpaigwar/Yummly10k) |
 | Yandex Click Logs Benchmark        | Evaluation dataset for ranking and click prediction models.                  | [Website](https://research.yandex.com/datasets) |
 
+## Model-Market – Evaluations (Z)
+
+| **Name**                          | **Known For**                                                                 | **Link** |
+|-----------------------------------|-------------------------------------------------------------------------------|----------|
+| ZeroEval Benchmark                | Evaluation suite for zero-shot learning and transfer learning models.         | [GitHub](https://github.com/ZeroEval/benchmark) |
+| Zero-Shot Benchmark (ZSB)         | Evaluates zero-shot and few-shot generalization across multiple modalities.   | [Website](https://huggingface.co/datasets/zero-shot-benchmark) |
+| Zest Benchmark                    | Automated evaluation of machine learning fairness and robustness.             | [GitHub](https://github.com/fairlearn/zest-benchmark) |
+| Zeno Eval                         | Framework for evaluating and debugging ML model predictions interactively.    | [GitHub](https://github.com/zenoml/zeno) |
+| Zephyr Eval                       | Lightweight benchmarking for language model fine-tuning results.              | [GitHub](https://github.com/huggingface/zephyr) |
+| ZeRO-Inference Benchmark           | Evaluates distributed inference efficiency for large-scale language models.   | [GitHub](https://github.com/microsoft/DeepSpeed) |
+| Zebra Eval                        | Benchmark for cross-modal (vision-language) reasoning evaluation.             | [Website](https://zebra-benchmark.ai/) |
+| ZephyrQA Benchmark                | Question-answering evaluation for small and fine-tuned transformer models.    | [GitHub](https://github.com/huggingface/zephyrqa) |
+| ZeroSpeech Challenge              | Benchmark for evaluating self-supervised speech learning.                     | [Website](https://zerospeech.com/) |
+| ZeroWaste Benchmark               | Environmental sustainability dataset for evaluating AI models on waste sorting. | [GitHub](https://github.com/ai4earth/zerowaste-benchmark) |
+| ZINC Benchmark                    | Benchmark for molecular property prediction and chemical modeling.            | [Website](https://zinc15.docking.org/) |
+| Ziva Benchmark                    | Evaluates generative AI models for realistic animation synthesis.             | [Website](https://ziva.ai/) |
+| ZooBench                         | Meta-learning benchmark for model zoo evaluation and comparison.              | [GitHub](https://github.com/automl/zoobench) |
+| ZoomEval                         | Benchmark for evaluating AI meeting assistants and summarization models.      | [Website](https://zoomeval.ai/) |
+| Zorro Benchmark                   | Evaluates explainability and attribution methods in neural networks.          | [GitHub](https://github.com/zorro-ai/zorro) |
+| Zotero NLP Benchmark              | Citation and academic paper NLP evaluation dataset.                           | [Website](https://www.zotero.org/) |
+| ZSL Benchmark                     | Standard dataset for evaluating zero-shot learning algorithms.                | [GitHub](https://github.com/utkuozbulak/pytorch-cnn-visualizations) |
+| ZTI Benchmark                     | Benchmark for testing transformer interpretability.                           | [GitHub](https://github.com/transformerlab/zti) |
+| ZuluSpeech Dataset                | Benchmark for multilingual speech recognition in underrepresented languages.  | [Website](https://huggingface.co/datasets/zuluspeech) |
+| Zygote Benchmark                  | Benchmark for differentiable programming and automatic differentiation.       | [GitHub](https://github.com/FluxML/Zygote.jl) |
