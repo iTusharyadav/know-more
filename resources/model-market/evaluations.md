@@ -356,3 +356,28 @@
 | XSpeech Benchmark                 | Speech recognition benchmark across multiple languages.                       | [Website](https://github.com/facebookresearch/XSpeech) |
 | XAlign Benchmark                  | Evaluates cross-lingual alignment and translation consistency in LLMs.         | [Website](https://xalign-benchmark.org/) |
 
+## Model-Market – Evaluations (Y)
+
+| **Name**                          | **Known For**                                                                 | **Link** |
+|-----------------------------------|-------------------------------------------------------------------------------|----------|
+| YFCC100M Benchmark                | Large-scale benchmark for evaluating image retrieval and vision models.       | [GitHub](https://github.com/matthew-z/YFCC100M-Benchmark) |
+| Yelp Review Polarity Dataset      | Evaluation dataset for sentiment classification on user reviews.              | [Website](https://huggingface.co/datasets/yelp_polarity) |
+| Yelp Open Dataset                 | Benchmark for evaluating NLP and recommendation systems.                      | [Website](https://www.yelp.com/dataset) |
+| YNLI Benchmark                    | Cross-lingual variant of the Natural Language Inference dataset.              | [GitHub](https://github.com/facebookresearch/XNLI) |
+| YouCook2 Dataset                  | Benchmark for video understanding and captioning models.                      | [GitHub](https://github.com/ygjwd12345/YouCook2) |
+| YouTube-8M Benchmark              | Large-scale video classification and retrieval evaluation dataset.            | [GitHub](https://github.com/google/youtube-8m) |
+| YouTube-VOS Benchmark             | Video object segmentation benchmark.                                          | [Website](https://youtube-vos.org/) |
+| YouTube Faces Database            | Facial recognition benchmark with real-world video data.                      | [Website](https://www.cs.tau.ac.il/~wolf/ytfaces/) |
+| YAGO Benchmark                    | Semantic knowledge graph evaluation for entity linking and relation extraction. | [GitHub](https://github.com/yago-naga/yago3) |
+| YARD Benchmark                    | Evaluates AI-driven reasoning and decision-making models.                     | [Website](https://yard-benchmark.org/) |
+| YORO Benchmark                    | Evaluation framework for real-time object detection and tracking.             | [GitHub](https://github.com/ultralytics/yoro) |
+| YNet Evaluation                   | Benchmark for multi-object tracking and behavior prediction models.           | [GitHub](https://github.com/harryhan618/YNet) |
+| YOLO Eval                         | Evaluation suite for YOLO-based object detection models.                      | [GitHub](https://github.com/ultralytics/yolov5) |
+| YOHO Benchmark                    | Benchmark for multilingual speech representation learning.                    | [Website](https://yoho-benchmark.ai/) |
+| YodaQA Evaluation                 | Benchmark for open-domain question answering systems.                         | [GitHub](https://github.com/brmson/yodaqa) |
+| YOSO Evaluation                   | Benchmark for lightweight transformer efficiency and performance.              | [GitHub](https://github.com/dreamgonfly/YOSO) |
+| Yelp Aspect Dataset               | Benchmark for aspect-based sentiment analysis.                                | [Website](https://huggingface.co/datasets/yelp_review_full) |
+| YouNiverse Eval                   | Human-in-the-loop evaluation framework for recommender systems.               | [Website](https://youniverse.ai/) |
+| Yummly-10K Dataset                | Benchmark for evaluating food image classification and retrieval models.      | [GitHub](https://github.com/anshulpaigwar/Yummly10k) |
+| Yandex Click Logs Benchmark        | Evaluation dataset for ranking and click prediction models.                  | [Website](https://research.yandex.com/datasets) |
+
