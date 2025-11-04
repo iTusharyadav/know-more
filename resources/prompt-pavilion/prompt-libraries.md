@@ -1,4 +1,4 @@
-### 🅰️ Prompt Libraries (A)
+### 🅰️ Prompt Libraries
 
 | Name | Description | Link |
 |------|--------------|------|
@@ -11,7 +11,7 @@
 | **AI Prompt Library (FlowGPT)** | Discover, share, and explore prompts curated by the community for ChatGPT and Claude. | [Website](https://flowgpt.com/) |
 | **AwePrompt** | Prompt directory with structured metadata for quick reference and use. | [GitHub](https://github.com/aweprompt/awesome-prompts) |
 
-### 🅱️ Prompt Libraries (B)
+### 🅱️ Prompt Libraries
 
 | Name | Description | Link |
 |------|--------------|------|
