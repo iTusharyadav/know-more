@@ -37,3 +37,15 @@
 | **ChatGPT-Awesome-Prompts** | A continually updated repo of AI prompts for various AI models and tools. | [GitHub](https://github.com/dreamypurple/ChatGPT-Awesome-Prompts) |
 | **CoolPrompts** | Minimalistic website featuring creative and experimental AI prompts. | [Website](https://coolprompts.xyz/) |
 | **Claude Prompts Library** | Curated library of prompts tailored for Anthropic’s Claude model. | [Website](https://claudeprompts.com/) |
+
+### 🅳 Prompt Libraries (D)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **Data Prompts** | A curated library of prompts specifically for data science, analytics, and visualization tasks. | [GitHub](https://github.com/trungdq88/data-prompts) |
+| **Designer Prompts** | Collection of AI prompts for graphic, UX/UI, and product designers to speed up ideation. | [Website](https://designerprompts.co/) |
+| **DevGPT Prompts** | Developer-focused prompt library for automating coding, debugging, and documentation tasks. | [GitHub](https://github.com/AntonOsika/devgpt) |
+| **DocuPrompt** | Prompts tailored for writing, summarizing, and improving technical documentation. | [Website](https://docuprompt.ai/) |
+| **DailyPrompt** | A community platform that provides daily AI prompts for writing and creative exploration. | [Website](https://www.dailyprompt.ai/) |
+| **Draft Prompts** | Focused library for authors and content creators to help with writing outlines and drafts. | [Website](https://draftprompts.com/) |
+
