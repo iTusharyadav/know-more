@@ -49,3 +49,14 @@
 | **DailyPrompt** | A community platform that provides daily AI prompts for writing and creative exploration. | [Website](https://www.dailyprompt.ai/) |
 | **Draft Prompts** | Focused library for authors and content creators to help with writing outlines and drafts. | [Website](https://draftprompts.com/) |
 
+### 🅴 Prompt Libraries (E)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **EasyPrompt** | A lightweight collection of optimized prompts for everyday productivity and brainstorming. | [GitHub](https://github.com/easyprompt/easyprompt) |
+| **EduPrompt** | Library of prompts tailored for educators, students, and academic writing assistance. | [Website](https://eduprompt.ai/) |
+| **EcomPrompt** | AI prompt templates designed for e-commerce businesses — from product copy to marketing. | [Website](https://ecomprompt.co/) |
+| **Engine Prompts** | Technical prompt collection focusing on software engineering, DevOps, and cloud automation. | [GitHub](https://github.com/engineprompts/library) |
+| **Essay Prompts** | Academic and creative essay writing prompt library for ChatGPT and other LLMs. | [Website](https://essayprompts.io/) |
+| **EvalPrompt** | Repository of prompts designed for evaluation, benchmarking, and prompt testing frameworks. | [GitHub](https://github.com/evalprompt/evalprompt) |
+
