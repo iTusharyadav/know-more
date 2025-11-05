@@ -60,3 +60,16 @@
 | **Essay Prompts** | Academic and creative essay writing prompt library for ChatGPT and other LLMs. | [Website](https://essayprompts.io/) |
 | **EvalPrompt** | Repository of prompts designed for evaluation, benchmarking, and prompt testing frameworks. | [GitHub](https://github.com/evalprompt/evalprompt) |
 
+### 🅵 Prompt Libraries (F)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **FactPrompt** | A curated set of prompts for factual question-answering, data extraction, and truthfulness testing. | [GitHub](https://github.com/factprompt/factprompt) |
+| **FashionPrompt** | Prompts specialized for fashion styling, trend forecasting, and product description generation. | [Website](https://fashionprompt.ai/) |
+| **FinPrompt** | Financial-domain prompt templates covering investment analysis, market summaries, and fintech applications. | [GitHub](https://github.com/finprompt/finprompt) |
+| **FlowGPT** | One of the largest community-driven prompt marketplaces and libraries. | [Website](https://flowgpt.com) |
+| **FoodPrompt** | Library for culinary-themed prompts: recipe generation, nutrition breakdowns, and meal planning. | [Website](https://foodprompt.io) |
+| **FormulAI** | Mathematical and scientific prompt sets for generating formulas, proofs, and equations. | [GitHub](https://github.com/formulai/formulai) |
+| **FramePrompt** | Visual prompt engineering library focused on multimodal and image-to-text use cases. | [GitHub](https://github.com/frameprompt/frameprompt) |
+| **FunPrompt** | Creative and entertainment-themed prompt repository (games, jokes, stories, character creation). | [Website](https://funprompt.ai/) |
+
