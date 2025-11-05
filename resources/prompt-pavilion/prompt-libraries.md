@@ -23,3 +23,17 @@
 | **Brilliant Prompts** | Community-sourced prompts for education, learning, and AI exploration. | [Website](https://brilliantprompts.com/) |
 | **BrainstormGPT** | Prompt repository focused on ideation, brainstorming, and innovation workflows. | [GitHub](https://github.com/brainstormgpt/brainstormgpt) |
 | **Big-Prompt-Library** | Massive open-source prompt index for ChatGPT and Claude models. | [GitHub](https://github.com/duangenquan/Big-Prompt-Library) |
+
+### 🅲 Prompt Libraries (C)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **ChatGPT Prompts Library** | A massive open collection of high-quality ChatGPT prompts across topics and use cases. | [GitHub](https://github.com/f/awesome-chatgpt-prompts) |
+| **ChatGPT Shortcut** | Website offering categorized ChatGPT prompts with search, filters, and user ratings. | [Website](https://www.aishort.top/en) |
+| **ChatGPT Prompt Engineering Guide** | Educational collection teaching prompt design, structure, and optimization techniques. | [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide) |
+| **ChatGPT Resources** | Curated repository including prompts, use cases, templates, and guides for ChatGPT. | [GitHub](https://github.com/awesome-chatgpt-resources/awesome-chatgpt) |
+| **ChatGPT Prompts Hub** | Community-driven library of creative and technical prompts for ChatGPT and Claude. | [Website](https://chatgpthub.ai/) |
+| **ChatGPT-Prompts-Collection** | A categorized list of ChatGPT prompts focused on productivity and coding. | [GitHub](https://github.com/mattnigh/ChatGPT-Prompts-Collection) |
+| **ChatGPT-Awesome-Prompts** | A continually updated repo of AI prompts for various AI models and tools. | [GitHub](https://github.com/dreamypurple/ChatGPT-Awesome-Prompts) |
+| **CoolPrompts** | Minimalistic website featuring creative and experimental AI prompts. | [Website](https://coolprompts.xyz/) |
+| **Claude Prompts Library** | Curated library of prompts tailored for Anthropic’s Claude model. | [Website](https://claudeprompts.com/) |
