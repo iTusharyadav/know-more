@@ -73,3 +73,16 @@
 | **FramePrompt** | Visual prompt engineering library focused on multimodal and image-to-text use cases. | [GitHub](https://github.com/frameprompt/frameprompt) |
 | **FunPrompt** | Creative and entertainment-themed prompt repository (games, jokes, stories, character creation). | [Website](https://funprompt.ai/) |
 
+### 🅶 Prompt Libraries (G)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **GPTLab Prompts** | A structured collection of advanced GPT prompt templates for research and production use. | [GitHub](https://github.com/gptlab-ai/prompts) |
+| **GPT Prompt Engineer** | Repository of engineered prompts optimized for ChatGPT, Claude, and Gemini models. | [GitHub](https://github.com/pgoodjohn/gpt-prompt-engineer) |
+| **GPT-Repository** | Community-driven library collecting prompts for text, image, and coding use cases. | [GitHub](https://github.com/gpt-repository/gpt-prompts) |
+| **GPT-Prompter** | Interactive interface and JSON-based prompt catalog for LLM experimentation. | [GitHub](https://github.com/gptprompter/gpt-prompter) |
+| **GeniusPrompt** | Curated list of high-performance prompts for productivity, learning, and creativity. | [Website](https://geniusprompt.ai) |
+| **GeoPrompt** | Geospatial and mapping-related prompts for spatial AI and data visualization. | [GitHub](https://github.com/geoprompt/geoprompt) |
+| **GamePrompt** | Prompt set for AI game design, NPC dialogue generation, and procedural storytelling. | [GitHub](https://github.com/gameprompt/gameprompt) |
+| **GrowthPrompt** | Business and startup growth-focused prompt repository for marketing and strategy. | [Website](https://growthprompt.io) |
+
