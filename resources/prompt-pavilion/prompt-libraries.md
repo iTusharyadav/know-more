@@ -86,3 +86,16 @@
 | **GamePrompt** | Prompt set for AI game design, NPC dialogue generation, and procedural storytelling. | [GitHub](https://github.com/gameprompt/gameprompt) |
 | **GrowthPrompt** | Business and startup growth-focused prompt repository for marketing and strategy. | [Website](https://growthprompt.io) |
 
+### 🅷 Prompt Libraries (H)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **HackPrompt** | Repository of creative, experimental, and adversarial prompts for LLM testing. | [GitHub](https://github.com/hackprompt/hackprompt) |
+| **HeroPrompt** | A curated library of hero-level prompts for writing, design, and business workflows. | [Website](https://heroprompt.io) |
+| **Humanloop Prompt Gallery** | Open collection of prompts for different AI applications curated by Humanloop. | [Website](https://www.humanloop.com/prompt-gallery) |
+| **HuggingFace Prompt Hub** | Extensive prompt database integrated with the HuggingFace ecosystem. | [Website](https://huggingface.co/prompt-hub) |
+| **HyperPrompt** | Framework and library for hyper-optimized prompt engineering experiments. | [GitHub](https://github.com/hyperprompt/hyperprompt) |
+| **Hypothesis Prompt Set** | Academic and research-oriented prompts for reproducible LLM evaluation. | [GitHub](https://github.com/hypothesisai/promptset) |
+| **HubPrompt** | Centralized prompt manager for team collaboration and A/B testing. | [GitHub](https://github.com/hubprompt/hubprompt) |
+| **HustleGPT Prompts** | Repository inspired by the “HustleGPT” experiment, focused on business ideation and automation. | [GitHub](https://github.com/hustlegpt/hustlegpt-prompts) |
+
