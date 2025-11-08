@@ -99,3 +99,17 @@
 | **HubPrompt** | Centralized prompt manager for team collaboration and A/B testing. | [GitHub](https://github.com/hubprompt/hubprompt) |
 | **HustleGPT Prompts** | Repository inspired by the “HustleGPT” experiment, focused on business ideation and automation. | [GitHub](https://github.com/hustlegpt/hustlegpt-prompts) |
 
+### 🅸 Prompt Libraries (I)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **IdeaPrompt** | Curated library of creativity and idea-generation prompts for entrepreneurs and writers. | [GitHub](https://github.com/ideaprompt/ideaprompt) |
+| **ImpactPrompt** | Prompts focused on social good, sustainability, and ethical AI use cases. | [Website](https://impactprompt.org) |
+| **InfinityPrompts** | Expansive prompt collection for endless generative AI experimentation. | [GitHub](https://github.com/infinityprompts/infinityprompts) |
+| **InPromptu** | Open-source prompt sharing platform for conversational and instructional AI. | [GitHub](https://github.com/inpromptu/inpromptu) |
+| **InstructLab** | Dataset of prompts for instruction tuning and behavior alignment in LLMs. | [GitHub](https://github.com/instructlab/instructlab) |
+| **IntelliPrompt** | Smart prompt repository with structured metadata and versioning. | [GitHub](https://github.com/intelliprompt/intelliprompt) |
+| **InterPrompt** | Prompts for multilingual and intercultural AI interactions. | [Website](https://interprompt.ai) |
+| **IOPrompt** | Focused on I/O structured prompts for API-based LLM workflows. | [GitHub](https://github.com/ioprompt/ioprompt) |
+| **InsightPrompt** | Analytical and data-driven prompts for research, stats, and reasoning tasks. | [GitHub](https://github.com/insightprompt/insightprompt) |
+| **IronPrompt** | Prompt templates for resilience testing and stress evaluation of AI models. | [GitHub](https://github.com/ironprompt/ironprompt) |
