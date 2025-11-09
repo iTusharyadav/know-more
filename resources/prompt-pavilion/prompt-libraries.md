@@ -113,3 +113,19 @@
 | **IOPrompt** | Focused on I/O structured prompts for API-based LLM workflows. | [GitHub](https://github.com/ioprompt/ioprompt) |
 | **InsightPrompt** | Analytical and data-driven prompts for research, stats, and reasoning tasks. | [GitHub](https://github.com/insightprompt/insightprompt) |
 | **IronPrompt** | Prompt templates for resilience testing and stress evaluation of AI models. | [GitHub](https://github.com/ironprompt/ironprompt) |
+
+### 🅹 Prompt Libraries (J)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **JailbreakPrompts** | A comprehensive archive of jailbreak and red-teaming prompts for LLM safety research. | [GitHub](https://github.com/JailbreakPrompts/jailbreak-prompts) |
+| **JamPrompt** | Creative writing and ideation prompt library inspired by game jams and hackathons. | [GitHub](https://github.com/jamprompt/jamprompt) |
+| **JargonPrompt** | Domain-specific prompt sets covering business, legal, and technical jargon. | [GitHub](https://github.com/jargonprompt/jargonprompt) |
+| **JediPrompts** | Collection of “master-level” prompts for complex reasoning and logic-chain tasks. | [Website](https://jediprompts.ai) |
+| **JetPrompt** | Lightweight and high-performance prompt management system for LLM workflows. | [GitHub](https://github.com/jetprompt/jetprompt) |
+| **JourneyPrompt** | Prompts designed for storytelling, journaling, and narrative exploration. | [GitHub](https://github.com/journeyprompt/journeyprompt) |
+| **JoyPrompt** | Uplifting prompt library aimed at positivity, mindfulness, and creative joy. | [Website](https://joyprompt.io) |
+| **JPromptLab** | Research-oriented prompt testing platform integrating multiple AI models. | [GitHub](https://github.com/jpromptlab/jpromptlab) |
+| **JuicePrompts** | Fun and quirky prompts for entertainment, memes, and humor generation. | [GitHub](https://github.com/juiceprompts/juiceprompts) |
+| **JustPrompt** | Minimalist prompt collection emphasizing clarity and precision. | [GitHub](https://github.com/justprompt/justprompt) |
+
