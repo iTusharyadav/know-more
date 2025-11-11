@@ -159,3 +159,18 @@
 | **LogicPrompts** | Prompts designed for reasoning, deduction, and mathematical problem-solving. | [GitHub](https://github.com/logicprompts/logicprompts) |
 | **LumePrompt** | Creative writing and narrative generation prompt sets for storytelling models. | [Website](https://lumeprompt.ai) |
 
+### 🅼 Prompt Libraries (M)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **MagicPrompt** | AI-generated creative prompts for art, story writing, and idea generation. | [GitHub](https://github.com/magicprompt/magicprompt) |
+| **MakePrompt** | Platform to design, share, and refine AI prompts collaboratively. | [Website](https://makeprompt.ai) |
+| **MetaPrompting** | Research-oriented collection on meta-level prompt engineering and optimization. | [GitHub](https://github.com/metaprompt/metaprompting) |
+| **MindPrompt** | Prompts tailored for psychology, behavioral studies, and cognitive science applications. | [GitHub](https://github.com/mindprompt/mindprompt) |
+| **MixPrompt** | Framework for mixing and blending prompts across multiple domains and models. | [GitHub](https://github.com/mixprompt/mixprompt) |
+| **ModelPromptHub** | Aggregator for prompts fine-tuned and optimized for various model families. | [GitHub](https://github.com/modelprompthub/modelprompthub) |
+| **ModularPrompts** | Library offering modular prompt building blocks for complex workflows. | [GitHub](https://github.com/modularprompts/modularprompts) |
+| **Mosaic Prompts** | Community-driven collection of multi-modal prompt examples and techniques. | [Website](https://mosaicml.com) |
+| **MusePrompt** | Creative prompt resource for artists, writers, and designers leveraging generative AI. | [Website](https://museprompt.io) |
+| **MyPromptVault** | Personal prompt manager and library with tagging and search functionality. | [GitHub](https://github.com/mypromptvault/mypromptvault) |
+
