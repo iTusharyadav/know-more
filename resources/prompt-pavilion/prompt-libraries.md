@@ -144,3 +144,18 @@
 | **KnowledgePrompt** | Educational prompt library covering STEM, humanities, and general learning. | [GitHub](https://github.com/knowledgeprompt/knowledgeprompt) |
 | **KubePrompts** | Prompts focused on cloud computing, Kubernetes, and DevOps automation. | [GitHub](https://github.com/kubeprompts/kubeprompts) |
 
+### 🅻 Prompt Libraries (L)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **LabPrompt** | Scientific and research-oriented prompts for data analysis, experiment design, and hypothesis generation. | [GitHub](https://github.com/labprompt/labprompt) |
+| **LangChain Prompts** | Extensive library of prompt templates optimized for LangChain workflows. | [GitHub](https://github.com/langchain-ai/langchain) |
+| **LatticePrompts** | Structured prompt patterns for graph-based reasoning and logical inference tasks. | [GitHub](https://github.com/latticeprompts/latticeprompts) |
+| **LearnPrompting.org** | Open educational resource teaching effective prompt engineering and design. | [Website](https://learnprompting.org) |
+| **Lexica Prompts** | Massive searchable collection of text-to-image prompts with examples and variations. | [Website](https://lexica.art) |
+| **Library of Prompts** | Centralized repository aggregating high-quality prompts across domains. | [GitHub](https://github.com/promptslibrary/library-of-prompts) |
+| **LightPrompt** | Lightweight prompt collection for text summarization, paraphrasing, and extraction tasks. | [GitHub](https://github.com/lightprompt/lightprompt) |
+| **LinguaPrompts** | Multilingual and translation-focused prompts for global language modeling. | [GitHub](https://github.com/linguaprompts/linguaprompts) |
+| **LogicPrompts** | Prompts designed for reasoning, deduction, and mathematical problem-solving. | [GitHub](https://github.com/logicprompts/logicprompts) |
+| **LumePrompt** | Creative writing and narrative generation prompt sets for storytelling models. | [Website](https://lumeprompt.ai) |
+
