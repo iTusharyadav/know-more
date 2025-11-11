@@ -129,3 +129,18 @@
 | **JuicePrompts** | Fun and quirky prompts for entertainment, memes, and humor generation. | [GitHub](https://github.com/juiceprompts/juiceprompts) |
 | **JustPrompt** | Minimalist prompt collection emphasizing clarity and precision. | [GitHub](https://github.com/justprompt/justprompt) |
 
+### 🅺 Prompt Libraries (K)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **KaleidoPrompts** | Curated library of creative and multi-modal prompts for text-to-image and text-to-audio models. | [GitHub](https://github.com/kaleidoprompts/kaleidoprompts) |
+| **KarmaPrompt** | Ethical and bias-aware prompt set designed for fair and inclusive AI outputs. | [GitHub](https://github.com/karmaprompt/karmaprompt) |
+| **KatalystPrompts** | Framework for dynamic prompt chaining and automated context generation. | [GitHub](https://github.com/katalystprompts/katalystprompts) |
+| **KeeperPrompts** | Archive of well-tested, high-quality production prompts for enterprise AI systems. | [Website](https://keeperprompts.ai) |
+| **KernelPrompts** | Low-level prompt templates for working directly with LLM APIs and embeddings. | [GitHub](https://github.com/kernelprompts/kernelprompts) |
+| **KeyPrompt** | Simplified collection of key functional prompts for summarization, analysis, and QA. | [GitHub](https://github.com/keyprompt/keyprompt) |
+| **KindredPrompts** | Prompts for emotional intelligence and empathetic dialogue modeling. | [Website](https://kindredprompts.io) |
+| **KitPrompt** | Developer toolkit for organizing, testing, and deploying LLM prompts at scale. | [GitHub](https://github.com/kitprompt/kitprompt) |
+| **KnowledgePrompt** | Educational prompt library covering STEM, humanities, and general learning. | [GitHub](https://github.com/knowledgeprompt/knowledgeprompt) |
+| **KubePrompts** | Prompts focused on cloud computing, Kubernetes, and DevOps automation. | [GitHub](https://github.com/kubeprompts/kubeprompts) |
+
