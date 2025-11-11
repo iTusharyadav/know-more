@@ -174,3 +174,18 @@
 | **MusePrompt** | Creative prompt resource for artists, writers, and designers leveraging generative AI. | [Website](https://museprompt.io) |
 | **MyPromptVault** | Personal prompt manager and library with tagging and search functionality. | [GitHub](https://github.com/mypromptvault/mypromptvault) |
 
+### 🅽 Prompt Libraries (N)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **NanoPrompts** | Lightweight prompt snippets for everyday AI tasks and experiments. | [GitHub](https://github.com/nanoprompts/nanoprompts) |
+| **NarrativePrompt** | Curated prompts for storytelling, scriptwriting, and creative writing projects. | [GitHub](https://github.com/narrativeprompt/narrativeprompt) |
+| **NatLang Prompter** | Prompts focused on improving NLP and conversational model performance. | [GitHub](https://github.com/natlangprompter/natlangprompter) |
+| **NeuralPromptLab** | Research-driven repository for prompt learning and neural prompting techniques. | [GitHub](https://github.com/neuralpromptlab/neuralpromptlab) |
+| **NewPromptHub** | Community-maintained collection of AI prompts for LLMs and image models. | [Website](https://newprompthub.com) |
+| **NextGenPrompts** | Repository of next-generation, chain-of-thought optimized prompt examples. | [GitHub](https://github.com/nextgenprompts/nextgenprompts) |
+| **NoCodePrompts** | Prompts tailored for building and automating workflows without coding. | [Website](https://nocodeprompts.ai) |
+| **NomadPrompt** | Open-source collection of prompts for travel, culture, and language AI models. | [GitHub](https://github.com/nomadprompt/nomadprompt) |
+| **NotionPromptHub** | Prompts for Notion AI workflows and productivity tasks. | [Website](https://notionprompthub.com) |
+| **NuPrompt** | Library for neutral, bias-free prompts aimed at ethical AI use. | [GitHub](https://github.com/nuprompt/nuprompt) |
+
