@@ -189,3 +189,18 @@
 | **NotionPromptHub** | Prompts for Notion AI workflows and productivity tasks. | [Website](https://notionprompthub.com) |
 | **NuPrompt** | Library for neutral, bias-free prompts aimed at ethical AI use. | [GitHub](https://github.com/nuprompt/nuprompt) |
 
+### 🅾️ Prompt Libraries (O)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **OpenPrompt** | A unified framework for prompt learning and experimentation in NLP. | [GitHub](https://github.com/thunlp/OpenPrompt) |
+| **OpenPromptHub** | A community-driven library of open-source prompts across various domains. | [Website](https://openprompthub.com) |
+| **OpenAI Prompt Library** | Official and community-contributed collection of ChatGPT and DALL·E prompts. | [Website](https://platform.openai.com/examples) |
+| **OpenPromptGallery** | Curated examples and templates for large language models like GPT and Claude. | [GitHub](https://github.com/openpromptgallery/openpromptgallery) |
+| **OpenDevin Prompts** | Prompts used in open-source autonomous coding and dev tools. | [GitHub](https://github.com/OpenDevin/OpenDevin) |
+| **OpenPromptStudio** | Interface and repository for designing and testing AI prompts visually. | [Website](https://openpromptstudio.ai) |
+| **OptiPrompt** | Toolkit for optimizing prompts with reinforcement learning and feedback loops. | [GitHub](https://github.com/optiprompt/optiprompt) |
+| **OraclePrompt** | Prompts and templates for reasoning-heavy AI systems and research use. | [GitHub](https://github.com/oracleprompt/oracleprompt) |
+| **OutPrompt** | Repository of prompts built for outbound marketing and email automation. | [GitHub](https://github.com/outprompt/outprompt) |
+| **OverturePrompts** | Creative writing and music composition prompts for generative AI models. | [GitHub](https://github.com/overtureprompts/overtureprompts) |
+
