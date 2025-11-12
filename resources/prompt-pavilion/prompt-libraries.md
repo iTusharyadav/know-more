@@ -204,3 +204,25 @@
 | **OutPrompt** | Repository of prompts built for outbound marketing and email automation. | [GitHub](https://github.com/outprompt/outprompt) |
 | **OverturePrompts** | Creative writing and music composition prompts for generative AI models. | [GitHub](https://github.com/overtureprompts/overtureprompts) |
 
+### 🅿️ Prompt Libraries (P)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **Promptable** | Toolkit for managing, versioning, and testing AI prompts in production. | [GitHub](https://github.com/cfortuner/promptable) |
+| **PromptBase** | Marketplace for buying and selling high-quality AI prompts. | [Website](https://promptbase.com) |
+| **PromptBook** | Framework for creating modular and composable AI prompt workflows. | [GitHub](https://github.com/promptbook/promptbook) |
+| **PromptCraft** | Community of prompt engineers sharing creative, structured prompt examples. | [GitHub](https://github.com/microsoft/promptcraft) |
+| **PromptChain** | Open-source library for chaining prompts together for multi-step reasoning. | [GitHub](https://github.com/promptchain/promptchain) |
+| **Promptify** | Framework for NLP tasks using large language models and prompt engineering. | [GitHub](https://github.com/promptslab/Promptify) |
+| **PromptHub** | Centralized hub to organize, share, and analyze AI prompts collaboratively. | [Website](https://prompthub.us) |
+| **PromptLayer** | Platform to track, manage, and optimize LLM prompts and responses. | [Website](https://promptlayer.com) |
+| **PromptPerfect** | AI-powered tool that optimizes and enhances prompt phrasing automatically. | [Website](https://promptperfect.jina.ai) |
+| **PromptPlaybook** | Curated list of AI prompt patterns for business, design, and creativity. | [Website](https://promptplaybook.ai) |
+| **PromptTools** | Suite of tools for evaluating and improving LLM prompts interactively. | [GitHub](https://github.com/hegelai/prompttools) |
+| **PromptTree** | Framework for hierarchical prompt workflows with logical branching. | [GitHub](https://github.com/prompttree/prompttree) |
+| **PromptSource** | Repository of reusable prompt templates for NLP datasets. | [GitHub](https://github.com/bigscience-workshop/promptsource) |
+| **PromptVault** | Secure prompt library for saving and sharing private prompt templates. | [Website](https://promptvault.ai) |
+| **PromptVibes** | Curated collection of prompts for storytelling, productivity, and idea generation. | [Website](https://promptvibes.com) |
+| **PromptVision** | Visual interface for testing and refining multimodal (text+image) prompts. | [Website](https://promptvision.ai) |
+
+
