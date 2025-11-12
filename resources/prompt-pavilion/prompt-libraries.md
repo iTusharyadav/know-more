@@ -225,4 +225,14 @@
 | **PromptVibes** | Curated collection of prompts for storytelling, productivity, and idea generation. | [Website](https://promptvibes.com) |
 | **PromptVision** | Visual interface for testing and refining multimodal (text+image) prompts. | [Website](https://promptvision.ai) |
 
+### 🆀 Prompt Libraries (Q)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **QuickPrompt** | Lightweight tool for rapid prototyping and testing of AI prompts locally. | [GitHub](https://github.com/quickprompt/quickprompt) |
+| **QuickChat Prompts** | Repository of effective conversational AI prompts optimized for ChatGPT-style models. | [GitHub](https://github.com/quickchat-ai/prompts) |
+| **Quivr** | Second-brain system using LLMs and vector databases; allows structured prompt workflows. | [GitHub](https://github.com/StanGirard/quivr) |
+| **Qatalog Prompts** | Workflow management platform integrating prompt templates for enterprise automation. | [Website](https://qatalog.com) |
+| **QuickReply AI** | Library of prompt-based templates for automating replies in customer support. | [Website](https://quickreply.ai) |
+| **Qdrant Prompt Examples** | Demonstrates vector search and prompt optimization with Qdrant. | [GitHub](https://github.com/qdrant/examples) |
 
