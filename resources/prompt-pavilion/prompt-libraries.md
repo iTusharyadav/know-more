@@ -280,3 +280,18 @@
 | **TutorGPT Prompts** | Prompt sets for educational and tutoring-style AI assistants. | [GitHub](https://github.com/tutorgpt/tutorgpt-prompts) |
 | **TrekPrompt Hub** | Dataset of creative storytelling prompts for adventure and sci-fi themes. | [GitHub](https://github.com/trekprompt/trekprompt) |
 
+### 🆄 Prompt Libraries (U)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **Ultimate Prompts Library** | A massive collection of prompts covering creative writing, coding, and productivity use cases. | [GitHub](https://github.com/UltimatePrompts/ultimate-prompts) |
+| **Unleash-Prompts** | Curated prompts designed to unlock advanced model reasoning and creativity. | [GitHub](https://github.com/unleashai/unleash-prompts) |
+| **Universal Prompt Bank** | A universal repository for cross-model prompt examples and templates. | [GitHub](https://github.com/universalpromptbank/universal-prompts) |
+| **UtilityGPT Prompts** | A library of utility-focused prompts — summarizers, converters, formatters, and more. | [GitHub](https://github.com/utilitygpt/utilitygpt-prompts) |
+| **UsePrompt Guide** | A tutorial-driven resource for creating and refining reusable prompts for LLMs. | [Website](https://useprompt.co) |
+| **UltraPrompt Framework** | A structured prompt engineering framework with version control for AI workflows. | [GitHub](https://github.com/ultraprompt/ultraprompt-framework) |
+| **Urban Prompts** | A prompt collection focusing on city design, architecture, and planning creativity. | [GitHub](https://github.com/urbanprompts/urban-prompts) |
+| **UpSkill Prompts** | Skill-building and learning-oriented prompts designed for self-education with AI. | [GitHub](https://github.com/upskillai/upskill-prompts) |
+| **UnpromptedAI** | A crowd-sourced hub of categorized, community-tested prompts. | [GitHub](https://github.com/unpromptedai/unpromptedai) |
+| **Uplift Prompts** | Positive, motivational, and psychological well-being-focused AI prompts. | [GitHub](https://github.com/upliftprompts/uplift-prompts) |
+
