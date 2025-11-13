@@ -250,3 +250,18 @@
 | **Riffusion Prompts** | Examples for generating and controlling AI music through text prompts. | [GitHub](https://github.com/riffusion/riffusion) |
 | **RoboPrompt** | Prompt repository and tools for robotics and control system simulations using LLMs. | [GitHub](https://github.com/roboprompt/roboprompt) |
 
+### 🆂 Prompt Libraries (S)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **SagePrompts** | A curated set of prompt engineering examples for reasoning and creative writing. | [GitHub](https://github.com/sage-ai-labs/sageprompts) |
+| **Scale Prompt Library** | Repository of high-quality prompt datasets for instruction-tuned model evaluation. | [GitHub](https://github.com/scaleapi/prompt-library) |
+| **Semantic Prompting Toolkit** | Framework for creating semantically rich prompts for LLMs. | [GitHub](https://github.com/UKPLab/semantic-prompting) |
+| **Stable Diffusion Prompts** | A massive collection of text-to-image prompts for SD and DreamStudio. | [Website](https://prompthero.com) |
+| **SuperPrompt Library** | Templates and strategies for crafting optimized system and task prompts. | [GitHub](https://github.com/jxnl/superprompt) |
+| **Synthesia Prompt Pack** | Collection of prompts for video generation, narration, and virtual avatars. | [Website](https://www.synthesia.io) |
+| **Stable Prompt Guide** | Best practices and prompt collections for generative diffusion models. | [GitHub](https://github.com/StableFoundation/stable-prompt-guide) |
+| **SmartPromptHub** | Repository of smart, auto-optimized prompts for text and code tasks. | [GitHub](https://github.com/smartprompthub/smartprompthub) |
+| **SelfPrompt Framework** | A system that lets models iteratively improve their own prompts. | [GitHub](https://github.com/tanyuqian/self-prompt) |
+| **ScriptPrompt Library** | Collection of screenwriting and storytelling prompts for LLMs. | [GitHub](https://github.com/scriptprompt/scriptprompt) |
+
