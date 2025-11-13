@@ -265,3 +265,18 @@
 | **SelfPrompt Framework** | A system that lets models iteratively improve their own prompts. | [GitHub](https://github.com/tanyuqian/self-prompt) |
 | **ScriptPrompt Library** | Collection of screenwriting and storytelling prompts for LLMs. | [GitHub](https://github.com/scriptprompt/scriptprompt) |
 
+### 🆃 Prompt Libraries (T)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **TextCraft Prompts** | A comprehensive library for text generation, rewriting, and summarization tasks. | [GitHub](https://github.com/textcraftai/textcraft-prompts) |
+| **The Prompt Book** | An open-source book of best practices and categorized prompts for LLMs. | [Website](https://thepromptbook.com) |
+| **TailoredPrompts** | Personalized and domain-specific prompt sets for business, education, and coding. | [GitHub](https://github.com/tailoredprompts/tailoredprompts) |
+| **Toolformer Prompts** | Repository of prompts designed for LLMs that interact with tools and APIs. | [GitHub](https://github.com/facebookresearch/toolformer) |
+| **Text-to-Image Prompt Library** | A categorized guide for crafting prompts for image-generation models. | [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/text-to-image) |
+| **TaskMaster Prompts** | Framework for organizing task-specific LLM prompts across different domains. | [GitHub](https://github.com/taskmasterai/prompts) |
+| **TinyPrompt Collection** | Lightweight prompt templates for small or edge-deployed language models. | [GitHub](https://github.com/tinyprompt/tinyprompt) |
+| **ThinkPrompt Repository** | A library of reasoning and chain-of-thought prompt designs. | [GitHub](https://github.com/thinkprompt/thinkprompt) |
+| **TutorGPT Prompts** | Prompt sets for educational and tutoring-style AI assistants. | [GitHub](https://github.com/tutorgpt/tutorgpt-prompts) |
+| **TrekPrompt Hub** | Dataset of creative storytelling prompts for adventure and sci-fi themes. | [GitHub](https://github.com/trekprompt/trekprompt) |
+
