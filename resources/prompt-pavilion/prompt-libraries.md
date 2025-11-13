@@ -236,3 +236,17 @@
 | **QuickReply AI** | Library of prompt-based templates for automating replies in customer support. | [Website](https://quickreply.ai) |
 | **Qdrant Prompt Examples** | Demonstrates vector search and prompt optimization with Qdrant. | [GitHub](https://github.com/qdrant/examples) |
 
+### 🆁 Prompt Libraries (R)
+
+| Name | Description | Link |
+|------|--------------|------|
+| **Rasa Prompt Examples** | Collection of prompt templates for conversational AI and chatbot intent handling. | [GitHub](https://github.com/RasaHQ) |
+| **Reflexion Prompts** | Implements the Reflexion technique for self-improving reasoning in LLMs. | [GitHub](https://github.com/noahshinn024/reflexion) |
+| **RePrompt** | A framework for refining and iterating prompts using feedback loops. | [GitHub](https://github.com/dave1010/reprompt) |
+| **RenderAI Prompt Library** | Repository of creative visual and text-to-image prompts for generative art. | [Website](https://renderai.io) |
+| **Replit Prompt Lab** | Community-driven set of prompts and examples for AI-powered coding tools. | [GitHub](https://github.com/replit) |
+| **ResearchPrompt** | Prompts curated for academic, technical, and literature research workflows. | [GitHub](https://github.com/syt123450/researchprompt) |
+| **RunwayML Prompts** | Curated prompt templates for creative tools like RunwayML and Stable Diffusion. | [Website](https://runwayml.com) |
+| **Riffusion Prompts** | Examples for generating and controlling AI music through text prompts. | [GitHub](https://github.com/riffusion/riffusion) |
+| **RoboPrompt** | Prompt repository and tools for robotics and control system simulations using LLMs. | [GitHub](https://github.com/roboprompt/roboprompt) |
+
