@@ -9,6 +9,23 @@
 | `Xero Accounting API`     | API for invoicing, payroll, bank reconciliation, inventory, and reports.        | [Check Out](https://developer.xero.com/documentation)                     |
 | `Zoho Books API`          | Zoho’s accounting API for invoices, payments, contacts, banking, and GST.       | [Check Out](https://www.zoho.com/books/api/v3/)                           |
 
+## Advertising APIs 
+*APIs that allow developers to manage ads, campaigns, budgets, targeting, analytics, and audience insights across advertising platforms.*
+| **Technology**                | **Description**                                                                   | **Official Documentation**                                                          |
+|-------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| `Amazon Advertising API`      | API for managing Amazon ads, campaigns, reporting, and product promotion.         | [Check Out](https://advertising.amazon.com/API)                                     |
+| `Bing Ads API` (Microsoft Ads)| API for search ads, keywords, bids, budgets, and campaign reporting.              | [Check Out](https://learn.microsoft.com/advertising/guides/)                        |
+| `Facebook Marketing API`      | Meta’s API for managing ads, targeting, budget optimization, and analytics.       | [Check Out](https://developers.facebook.com/docs/marketing-apis/)                   |
+| `Google Ads API`              | API for automating AdWords/Google Ads campaigns, reporting, and bidding.          | [Check Out](https://developers.google.com/google-ads/api/docs/start)                |
+| `LinkedIn Marketing API`      | Ads API for lead generation, campaign management, and audience insights.          | [Check Out](https://learn.microsoft.com/linkedin/marketing/)                        |
+| `Pinterest Ads API`           | API to manage promoted pins, ads analytics, and audience insights.                | [Check Out](https://developers.pinterest.com/docs/api/v5/)                           |
+| `Reddit Ads API`              | Tools for automating Reddit ad campaigns and analyzing ad performance.            | [Check Out](https://ads.reddit.com/api)                                             |
+| `Snapchat Marketing API`      | API for Snap Ads & Story Ads automation, insights, and audience targeting.        | [Check Out](https://marketingapi.snapchat.com/docs/)                                |
+| `TikTok Marketing API`        | Tools for managing TikTok campaigns, creatives, budgets, and analytics.           | [Check Out](https://ads.tiktok.com/marketing_api/docs)                              |
+| `Twitter Ads API` (X Ads API) | API for campaign management, insights, and audience targeting on Twitter/X.       | [Check Out](https://developer.x.com/en/docs/twitter-ads-api)                        |
+| `Yahoo Ads API`               | API for ads campaign automation and performance insights across Yahoo platforms.  | [Check Out](https://developer.yahooinc.com/yahoo-ads/)                              |
+| `Yelp Ads API`                | Manage Yelp business ads, budgets, and campaign analytics.                        | [Check Out](https://docs.developer.yelp.com/docs/overview)                          |
+
 
 
 ## Payment and Finance APIs
