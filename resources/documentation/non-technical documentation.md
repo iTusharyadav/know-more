@@ -26,6 +26,26 @@
 | `Yahoo Ads API`               | API for ads campaign automation and performance insights across Yahoo platforms.  | [Check Out](https://developer.yahooinc.com/yahoo-ads/)                              |
 | `Yelp Ads API`                | Manage Yelp business ads, budgets, and campaign analytics.                        | [Check Out](https://docs.developer.yelp.com/docs/overview)                          |
 
+## Agriculture APIs 
+*APIs that provide agricultural data such as crop information, soil quality, weather, livestock, satellite imagery, and farm management tools.*
+| **Technology**                 | **Description**                                                                      | **Official Documentation**                                              |
+|-------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| `Agrimetrics API`             | Provides agricultural datasets including crop yields, land usage, weather & soil data.| [Check Out](https://developer.agrimetrics.co.uk/)                      |
+| `AgriSense API`               | Offers farm insights, crop health data, IoT sensor integration, and field management. | [Check Out](https://agrisense.io/developers/)                          |
+| `Agro API` (Agromonitoring)   | Satellite-based crop monitoring, NDVI imagery, weather, soil moisture, and field maps.| [Check Out](https://agromonitoring.com/api)                             |
+| `AgroDataCube API`            | Large open dataset API with crop parcels, soil, climate, and remote sensing data.     | [Check Out](https://www.agrodatacube.wur.nl/api)                        |
+| `AgroMES API`                 | Agricultural management system API for farm operations, sensors, and crop analytics. | [Check Out](https://agromes.com/api-docs/)                              |
+| `FAO API` (Food & Agriculture Organization) | Global agriculture, food security, production, and sustainability datasets. | [Check Out](https://www.fao.org/faostat/en/#data/API)                   |
+| `OpenAG API`                  | Open-source agricultural platform for plant growth data, sensors, and farm automation.| [Check Out](https://wiki.openag.media.mit.edu/)                        |
+| `OpenFarm API`                | Community-driven crop and plant database with growing guides and farming practices.    | [Check Out](https://openfarm.cc/api)                                     |
+| `Trefle API`                  | Detailed plant and botanical data for crops, vegetables, and species classification.  | [Check Out](https://docs.trefle.io/)                                    |
+
+
+
+
+
+
+
 
 
 ## Payment and Finance APIs
