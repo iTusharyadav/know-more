@@ -1,3 +1,16 @@
+## Accounting APIs 
+* APIs used for accessing accounting, bookkeeping, invoicing, taxation, and financial record-keeping services programmatically.*
+| **Technology**            | **Description**                                                                 | **Official Documentation**                                                |
+|---------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| `FreshBooks API`          | Cloud accounting tool for invoices, expenses, payments, and client management. | [Check Out](https://www.freshbooks.com/api)                               |
+| `QuickBooks Online API`   | Popular accounting software API for invoices, payments, tax, and reports.      | [Check Out](https://developer.intuit.com/app/developer/qbo/docs)          |
+| `Sage Accounting API`     | API for managing accounting, invoicing, and finance automation workflows.       | [Check Out](https://developer.sage.com/accounting)                        |
+| `Wave Accounting API`     | Free accounting platform for small businesses with APIs for invoices & receipts.| [Check Out](https://developer.waveapps.com/hc/en-us)                      |
+| `Xero Accounting API`     | API for invoicing, payroll, bank reconciliation, inventory, and reports.        | [Check Out](https://developer.xero.com/documentation)                     |
+| `Zoho Books API`          | Zoho’s accounting API for invoices, payments, contacts, banking, and GST.       | [Check Out](https://www.zoho.com/books/api/v3/)                           |
+
+
+
 ## Payment and Finance APIs
 | **Name**       | **Description**                             | **Official Documentation**                    |
 |-------------------------|---------------------------------------------|-----------------------------------|
