@@ -40,6 +40,26 @@
 | `OpenFarm API`                | Community-driven crop and plant database with growing guides and farming practices.    | [Check Out](https://openfarm.cc/api)                                     |
 | `Trefle API`                  | Detailed plant and botanical data for crops, vegetables, and species classification.  | [Check Out](https://docs.trefle.io/)                                    |
 
+## Analytics APIs 
+*APIs that provide insights, metrics, tracking, user behavior analysis, and performance measurement for applications, websites, and digital platforms.*
+| **Technology**                 | **Description**                                                                      | **Official Documentation**                                            |
+|-------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| `Adobe Analytics API`         | Enterprise analytics API for tracking user behavior, reports, segments, and insights. | [Check Out](https://developer.adobe.com/analytics-apis/)             |
+| `Chartbeat API`               | Real-time audience engagement and traffic analytics for news & media platforms.         | [Check Out](https://chartbeat.com/docs/api/)                          |
+| `Clicky Analytics API`        | API for web analytics, heatmaps, uptime monitoring, and visitor tracking.               | [Check Out](https://clicky.com/help/api)                              |
+| `Fathom Analytics API`        | Privacy-focused analytics with traffic, goals, events, and referrer data.               | [Check Out](https://usefathom.com/api)                                |
+| `Google Analytics Data API`   | GA4 API for events, traffic, user behavior, funnels, and custom reports.                | [Check Out](https://developers.google.com/analytics)                  |
+| `Heap Analytics API`          | Autocapture analytics API for events, funnels, journeys, and user insights.             | [Check Out](https://developers.heap.io/docs)                          |
+| `Hotjar API`                  | API for feedback, heatmaps, session recordings, and behavioral analytics.               | [Check Out](https://developer.hotjar.com/)                            |
+| `Kissmetrics API`             | Customer behavior analytics for conversions, cohorts, and campaigns.                    | [Check Out](https://support.kissmetrics.io/reference)                 |
+| `Matomo Analytics API`        | Open-source alternative to GA with APIs for visitor data, heatmaps, and reporting.      | [Check Out](https://developer.matomo.org/api-reference)               |
+| `Mixpanel API`                | Product analytics for user interactions, events, cohorts, and retention.                | [Check Out](https://developer.mixpanel.com/reference/overview)        |
+| `Plausible Analytics API`     | Lightweight privacy-friendly analytics with traffic, referrers, and event data.         | [Check Out](https://plausible.io/docs/api)                            |
+| `Simple Analytics API`        | Privacy-centric analytics with easy access to views, sources, devices, and events.      | [Check Out](https://simpleanalytics.com/docs/api)                     |
+| `Statcounter API`             | Web analytics API offering visitor paths, metrics, and real-time traffic data.          | [Check Out](https://statcounter.com/support/api/)                     |
+| `Yandex Metrica API`          | Web analytics API offering heatmaps, session replay, and traffic analytics.             | [Check Out](https://yandex.com/dev/metrica/)                          |
+
+
 
 
 
