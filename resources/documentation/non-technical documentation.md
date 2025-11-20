@@ -1,5 +1,5 @@
 ## Accounting APIs 
-* APIs used for accessing accounting, bookkeeping, invoicing, taxation, and financial record-keeping services programmatically.*
+*APIs used for accessing accounting, bookkeeping, invoicing, taxation, and financial record-keeping services programmatically.*
 | **Technology**            | **Description**                                                                 | **Official Documentation**                                                |
 |---------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | `FreshBooks API`          | Cloud accounting tool for invoices, expenses, payments, and client management. | [Check Out](https://www.freshbooks.com/api)                               |
