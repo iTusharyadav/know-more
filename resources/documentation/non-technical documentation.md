@@ -59,6 +59,17 @@
 | `Statcounter API`             | Web analytics API offering visitor paths, metrics, and real-time traffic data.          | [Check Out](https://statcounter.com/support/api/)                     |
 | `Yandex Metrica API`          | Web analytics API offering heatmaps, session replay, and traffic analytics.             | [Check Out](https://yandex.com/dev/metrica/)                          |
 
+## Anti-Fraud APIs 
+*APIs that detect fraud, verify identities, analyze risky behavior, and protect financial or user transactions from malicious activity.*
+| **Technology**               | **Description**                                                                       | **Official Documentation**                                          |
+|-----------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| `FraudLabs Pro API`         | Fraud detection service using IP, email, device, geolocation, and transaction scoring. | [Check Out](https://www.fraudlabspro.com/developer/api)            |
+| `MaxMind minFraud API`      | Popular fraud-scoring service for e-commerce, payments, and identity verification.     | [Check Out](https://dev.maxmind.com/minfraud/)                     |
+| `SEON Fraud Prevention API` | Real-time fraud detection using email lookup, phone checks, IP analysis, and device ID.| [Check Out](https://docs.seon.io/)                                 |
+| `Sift Science API`          | Machine-learning fraud prevention for accounts, payments, content, and transactions.    | [Check Out](https://sift.com/developers/docs)                      |
+| `Signifyd API`              | Enterprise fraud protection for e-commerce chargebacks and automated order approval.    | [Check Out](https://www.signifyd.com/docs/api/)                    |
+| `ThreatMetrix API`          | Digital identity intelligence platform for risk assessment and fraud detection.         | [Check Out](https://developer.threatmetrix.com/)                   |
+| `Trulioo GlobalGateway API` | Identity verification & KYC solution for fraud detection across multiple countries.     | [Check Out](https://developer.trulioo.com/)                         |
 
 
 
