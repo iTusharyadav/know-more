@@ -71,6 +71,21 @@
 | `ThreatMetrix API`          | Digital identity intelligence platform for risk assessment and fraud detection.         | [Check Out](https://developer.threatmetrix.com/)                   |
 | `Trulioo GlobalGateway API` | Identity verification & KYC solution for fraud detection across multiple countries.     | [Check Out](https://developer.trulioo.com/)                         |
 
+## Authentication APIs 
+*APIs that manage user login, identity verification, access control, and secure authorization for applications.*
+| **Technology**             | **Description**                                                                       | **Official Documentation**                                                 |
+|---------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| `Auth0 API`               | Universal authentication & authorization service with rules, roles, and identity tools.| [Check Out](https://auth0.com/docs/api)                                   |
+| `AWS Cognito API`         | Amazon’s identity service for user sign-up, sign-in, MFA, and JWT token handling.       | [Check Out](https://docs.aws.amazon.com/cognito/latest/developerguide/)   |
+| `FusionAuth API`          | Developer-friendly identity platform for login, SSO, MFA, and passwordless auth.         | [Check Out](https://fusionauth.io/docs/)                                   |
+| `Google Identity Services`| Sign-in, OAuth2, and authentication service for Google accounts in apps/websites.       | [Check Out](https://developers.google.com/identity)                        |
+| `Janrain API`             | Customer identity management API for authentication, registration, and social login.     | [Check Out](https://developers.janrain.com/)                               |
+| `Keycloak Admin API`      | Open-source identity & access management with SSO, roles, and custom auth flows.        | [Check Out](https://www.keycloak.org/docs-api/)                            |
+| `LoginRadius API`         | Cloud identity platform offering authentication, user management, SSO, and security.     | [Check Out](https://www.loginradius.com/docs/)                             |
+| `Microsoft Identity Platform` | Authentication & authorization for Azure AD, Microsoft accounts, and enterprise apps.| [Check Out](https://learn.microsoft.com/azure/active-directory/develop/)  |
+| `Okta API`                | Enterprise-grade identity solution for user auth, MFA, OAuth2, and directory services.   | [Check Out](https://developer.okta.com/docs/reference/core-okta-api/)      |
+| `OneLogin API`            | Unified access management API supporting SSO, directory sync, and user provisioning.     | [Check Out](https://developers.onelogin.com/api-docs/1)                    |
+| `Ping Identity API`       | Authentication, SSO, MFA, access security, and identity federation for enterprises.       | [Check Out](https://docs.pingidentity.com/)                                |
 
 
 
