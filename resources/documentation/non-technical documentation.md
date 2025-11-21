@@ -87,6 +87,19 @@
 | `OneLogin API`            | Unified access management API supporting SSO, directory sync, and user provisioning.     | [Check Out](https://developers.onelogin.com/api-docs/1)                    |
 | `Ping Identity API`       | Authentication, SSO, MFA, access security, and identity federation for enterprises.       | [Check Out](https://docs.pingidentity.com/)                                |
 
+## Automation APIs 
+*APIs that help automate tasks, workflows, integrations, scheduling, and system operations without manual intervention.*
+| **Technology**                | **Description**                                                                        | **Official Documentation**                                                  |
+|------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| `Ansible Automation API`     | Infrastructure automation API for provisioning, configuration management, and orchestration.| [Check Out](https://docs.ansible.com/automation-controller/latest/html/controllerapi/) |
+| `Apache Airflow API`         | Workflow automation and scheduling platform for pipelines and task orchestration.       | [Check Out](https://airflow.apache.org/docs/apache-airflow/stable/stable-rest-api-ref.html) |
+| `Automate.io API` (Legacy)   | Workflow automation tool for connecting cloud apps (now replaced by Notion Integrations).| [Check Out](https://integrations.notion.com/)                              |
+| `IFTTT Webhooks API`         | Automation service to trigger workflows based on events using simple webhook requests.  | [Check Out](https://ifttt.com/maker_webhooks)                              |
+| `Make.com API`               | Automation platform for building workflows connecting apps, APIs, and services.         | [Check Out](https://www.make.com/en/help/api-documentation)                |
+| `n8n API`                    | Open-source workflow automation with triggers, nodes, and integrations.                 | [Check Out](https://docs.n8n.io/api/)                                      |
+| `UiPath Orchestrator API`    | Automation orchestrator for robotic process automation (RPA) workflows and bots.        | [Check Out](https://docs.uipath.com/orchestrator/reference)                |
+| `Workato API`                | Automation and integration platform with recipes, connectors, and workflow triggers.    | [Check Out](https://docs.workato.com/developing-connectors/)               |
+| `Zapier Platform API`        | API for creating automated workflows, triggers, and actions across different apps.      | [Check Out](https://platform.zapier.com/docs/apis)                         |
 
 
 
