@@ -114,6 +114,18 @@
 | `Skybrary API`               | Aviation safety and knowledge base data for airports, aircraft types, and incidents.   | [Check Out](https://skybrary.aero/api)                             |
 | `SITA API`                   | Aviation industry APIs for baggage tracking, flight operations, and airport services.   | [Check Out](https://developer.sita.aero/)                          |
 
+## Astronomy APIs 
+*APIs that provide space data such as planets, stars, satellites, space imagery, astrophysics data, and real-time astronomical observations.*
+| **Technology**                | **Description**                                                                        | **Official Documentation**                                      |
+|------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| `NASA API`                   | Offers astronomy data including APOD, Mars rover photos, satellites, Earth imagery, and more. | [Check Out](https://api.nasa.gov/)                       |
+| `Open Astronomy API`         | Public astronomy data including celestial bodies, star catalogs, and space observations. | [Check Out](https://api.le-systeme-solaire.net/en/)      |
+| `Open Meteo – Astronomy API` | Provides sunrise, sunset, moon phase, moonrise, and atmospheric astronomical data.        | [Check Out](https://open-meteo.com/en/docs/astronomy-api) |
+| `Skyfield API`               | Astronomical computation API for planetary positions, satellites, and star tracking.      | [Check Out](https://rhodesmill.org/skyfield/)             |
+| `SpaceX API`                 | Access to SpaceX launches, rockets, capsules, payloads, and mission data.                 | [Check Out](https://github.com/r-spacex/SpaceX-API)       |
+| `Stellarium API`            | Astronomy engine API for sky simulations, star maps, celestial coordinates, and objects.  | [Check Out](https://stellarium.org/doc/head/api.html)     |
+| `Sunrise-Sunset API`         | Precise sunrise, sunset, twilight, and solar position data.                               | [Check Out](https://sunrise-sunset.org/api)               |
+| `USNO API` (Legacy)          | Naval Observatory moon & sun data including phases, rise/set times.                        | [Check Out](https://aa.usno.navy.mil/data/api)            |
 
 
 
