@@ -127,6 +127,15 @@
 | `Sunrise-Sunset API`         | Precise sunrise, sunset, twilight, and solar position data.                               | [Check Out](https://sunrise-sunset.org/api)               |
 | `USNO API` (Legacy)          | Naval Observatory moon & sun data including phases, rise/set times.                        | [Check Out](https://aa.usno.navy.mil/data/api)            |
 
+## Astrology APIs 
+*APIs that provide horoscope generation, zodiac data, birth charts, planetary positions, and astrological calculations.*
+| **Technology**                 | **Description**                                                                          | **Official Documentation**                                     |
+|-------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| `Aztro API`                   | Free API for daily horoscopes, zodiac signs, compatibility, and astrological predictions. | [Check Out](https://aztro.readthedocs.io/en/latest/)          |
+| `Horoscope-API`               | Simple API for retrieving daily, weekly, monthly horoscopes for all zodiac signs.         | [Check Out](https://github.com/tapaswenipathak/Horoscope-API) |
+| `Prokerala Astrology API`     | Full-featured Vedic astrology API for birth charts, match-making, moon phases, and more.  | [Check Out](https://www.prokerala.com/api/astrology/)         |
+| `VedAstro API`                | Open-source Vedic astrology engine for computations, charts, predictions, and timing.     | [Check Out](https://vedastro.org/API)                         |
+| `Zodiac API`                  | Lightweight API offering zodiac signs, characteristics, compatibility, and readings.      | [Check Out](https://zodiacal.herokuapp.com/)                  |
 
 
 
