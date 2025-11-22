@@ -101,6 +101,18 @@
 | `Workato API`                | Automation and integration platform with recipes, connectors, and workflow triggers.    | [Check Out](https://docs.workato.com/developing-connectors/)               |
 | `Zapier Platform API`        | API for creating automated workflows, triggers, and actions across different apps.      | [Check Out](https://platform.zapier.com/docs/apis)                         |
 
+## Aviation APIs 
+*APIs that provide flight data, airport information, aircraft tracking, schedules, weather conditions, and aviation-related analytics.*
+| **Technology**                | **Description**                                                                       | **Official Documentation**                                         |
+|------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| `ADS-B Exchange API`         | Live aircraft tracking API using crowd-sourced ADS-B signals for global flight data.   | [Check Out](https://www.adsbexchange.com/data/)                    |
+| `AviationAPI.com`            | API providing schedules, airports, airlines, delays, NOTAMs, and aviation metadata.    | [Check Out](https://aviationapi.com/docs/)                         |
+| `AviationStack API`          | Real-time & historical flight tracking, airline data, airport status, and routes.      | [Check Out](https://aviationstack.com/documentation)               |
+| `FlightAware AeroAPI`        | Commercial-grade flight tracking, aircraft history, positions, and aviation insights.  | [Check Out](https://flightaware.com/aeroapi/)                      |
+| `FlightLabs API`             | Global flight data, live tracking, airline routes, and aircraft details.               | [Check Out](https://www.flightlabs.io/documentation)               |
+| `OpenSky Network API`        | Free open aviation data including aircraft positions, tracks, and sensor information.  | [Check Out](https://opensky-network.org/apidoc/)                   |
+| `Skybrary API`               | Aviation safety and knowledge base data for airports, aircraft types, and incidents.   | [Check Out](https://skybrary.aero/api)                             |
+| `SITA API`                   | Aviation industry APIs for baggage tracking, flight operations, and airport services.   | [Check Out](https://developer.sita.aero/)                          |
 
 
 
