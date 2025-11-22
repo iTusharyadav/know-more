@@ -137,6 +137,22 @@
 | `VedAstro API`                | Open-source Vedic astrology engine for computations, charts, predictions, and timing.     | [Check Out](https://vedastro.org/API)                         |
 | `Zodiac API`                  | Lightweight API offering zodiac signs, characteristics, compatibility, and readings.      | [Check Out](https://zodiacal.herokuapp.com/)                  |
 
+## Audio APIs 
+*APIs that provide audio processing, speech manipulation, sound generation, music analysis, streaming, and audio-to-text tools.*
+| **Technology**               | **Description**                                                                          | **Official Documentation**                                       |
+|-----------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| `Audd.io API`               | Music recognition API that identifies songs from audio files or live streams.             | [Check Out](https://docs.audd.io/)                              |
+| `Dolby.io API`              | Audio enhancement, noise reduction, media processing, and real-time streaming APIs.       | [Check Out](https://docs.dolby.io/)                             |
+| `Google Speech-to-Text API` | Converts audio to text using machine learning, supports real-time streaming audio.        | [Check Out](https://cloud.google.com/speech-to-text/docs)       |
+| `IBM Watson Speech to Text` | Speech recognition API for audio transcription, diarization, and language models.         | [Check Out](https://cloud.ibm.com/apidocs/speech-to-text)       |
+| `Microsoft Azure Speech API`| Speech-to-text, text-to-speech, speaker identification, and audio analytics.              | [Check Out](https://learn.microsoft.com/azure/cognitive-services/speech-service/) |
+| `Rev AI API`                | Automated transcription, captioning, and speech recognition API.                          | [Check Out](https://www.rev.ai/docs)                            |
+| `Shazam API` (Unofficial)   | Identifies music tracks based on audio fingerprints and samples.                          | [Check Out](https://github.com/azwich/shazamapi)               |
+| `Spotify Web API`           | Provides track features, audio analysis, music metadata, and streaming controls.          | [Check Out](https://developer.spotify.com/documentation/web-api/) |
+| `Speechmatics API`          | Speech-to-text API supporting multiple languages and advanced transcription.              | [Check Out](https://docs.speechmatics.com/)                     |
+| `Voicegain API`             | Speech recognition, audio analytics, real-time transcription, and telephony integration.  | [Check Out](https://docs.voicegain.ai/)                         |
+
+
 
 
 
