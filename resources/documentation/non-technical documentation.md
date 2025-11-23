@@ -152,6 +152,25 @@
 | `Speechmatics API`          | Speech-to-text API supporting multiple languages and advanced transcription.              | [Check Out](https://docs.speechmatics.com/)                     |
 | `Voicegain API`             | Speech recognition, audio analytics, real-time transcription, and telephony integration.  | [Check Out](https://docs.voicegain.ai/)                         |
 
+## Audit APIs 
+*APIs that record, track, and monitor system activities, user actions, logs, and compliance events for security and governance.*
+| **Technology**               | **Description**                                                                           | **Official Documentation**                                         |
+|-----------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| `AWS CloudTrail API`        | Tracks API calls, user actions, configuration changes, and resource usage on AWS.          | [Check Out](https://docs.aws.amazon.com/awscloudtrail/latest/APIReference/) |
+| `Azure Activity Logs API`   | Provides audit logs for user activity, resource changes, and security events on Azure.     | [Check Out](https://learn.microsoft.com/rest/api/monitor/activity-logs/)   |
+| `Google Cloud Audit Logs API` | Tracks admin actions, data access, and configuration changes across Google Cloud services.| [Check Out](https://cloud.google.com/logging/docs/audit)          |
+| `Elastic Auditbeat API`     | Lightweight shipper for audit logs, system integrity, and security events to Elastic Stack.| [Check Out](https://www.elastic.co/guide/en/beats/auditbeat/current/index.html) |
+| `GitHub Audit Log API`      | Provides insights into repository, organization, and user-level activity for compliance.   | [Check Out](https://docs.github.com/en/rest/orgs/audit-log)        |
+| `Okta System Log API`       | Audit logs for authentication, security events, admin actions, and user behavior.          | [Check Out](https://developer.okta.com/docs/reference/api/system-log/) |
+| `OneLogin Events API`       | Tracks authentication events, admin actions, and user lifecycle logs for auditing.         | [Check Out](https://developers.onelogin.com/api-docs/2/events/event-resource) |
+| `Splunk Enterprise API`     | Collects and analyzes audit logs, system events, and operational data for compliance.      | [Check Out](https://docs.splunk.com/Documentation/Splunk/latest/RESTREF/RESTprolog) |
+| `Sumo Logic Audit API`      | Logs and monitors activity from cloud apps, security events, and user-level actions.       | [Check Out](https://api.sumologic.com/docs/)                        |
+
+
+
+
+
+
 
 
 
@@ -179,109 +198,3 @@
 | `CoinAPI.io`             | 	Crypto and FX market data | [Check Out](https://docs.coinapi.io/) |
 
 
-
-
-## Java 
-
-Here’s a table of various resources you can explore in this repository:
-
-| **Resource Type**       | **Description**                             | **File Link**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `Notes`                 | Study notes and summaries for various topics | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/notes.md)         |
-| `Books`                 | Recommended books for learning and reference | [Check Out](books.md)         |
-| `Projects`              | Real-world projects and code examples       | [Check Out](projects.md)   |
-| `Templates`             | Reusable templates for documentation, code, etc. | [Check Out](templates.md) |
-| `Open Source Projects`  | Open source projects to contribute as beginners  | [Check Out](projects.md)   |
-| `Other Resources`       | Additional helpful resources or links       | [Check Out](resources.md) |
-
-## Java 
-
-Here’s a table of various resources you can explore in this repository:
-
-| **Resource Type**       | **Description**                             | **File Link**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `Notes`                 | Study notes and summaries for various topics | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/notes.md)         |
-| `Books`                 | Recommended books for learning and reference | [Check Out](books.md)         |
-| `Projects`              | Real-world projects and code examples       | [Check Out](projects.md)   |
-| `Templates`             | Reusable templates for documentation, code, etc. | [Check Out](templates.md) |
-| `Open Source Projects`  | Open source projects to contribute as beginners  | [Check Out](projects.md)   |
-| `Other Resources`       | Additional helpful resources or links       | [Check Out](resources.md) |
-
-## Java 
-
-Here’s a table of various resources you can explore in this repository:
-
-| **Resource Type**       | **Description**                             | **File Link**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `Notes`                 | Study notes and summaries for various topics | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/notes.md)         |
-| `Books`                 | Recommended books for learning and reference | [Check Out](books.md)         |
-| `Projects`              | Real-world projects and code examples       | [Check Out](projects.md)   |
-| `Templates`             | Reusable templates for documentation, code, etc. | [Check Out](templates.md) |
-| `Open Source Projects`  | Open source projects to contribute as beginners  | [Check Out](projects.md)   |
-| `Other Resources`       | Additional helpful resources or links       | [Check Out](resources.md) |
-
-## Java 
-
-Here’s a table of various resources you can explore in this repository:
-
-| **Resource Type**       | **Description**                             | **File Link**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `Notes`                 | Study notes and summaries for various topics | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/notes.md)         |
-| `Books`                 | Recommended books for learning and reference | [Check Out](books.md)         |
-| `Projects`              | Real-world projects and code examples       | [Check Out](projects.md)   |
-| `Templates`             | Reusable templates for documentation, code, etc. | [Check Out](templates.md) |
-| `Open Source Projects`  | Open source projects to contribute as beginners  | [Check Out](projects.md)   |
-| `Other Resources`       | Additional helpful resources or links       | [Check Out](resources.md) |
-## Java 
-
-Here’s a table of various resources you can explore in this repository:
-
-| **Resource Type**       | **Description**                             | **File Link**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `Notes`                 | Study notes and summaries for various topics | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/notes.md)         |
-| `Books`                 | Recommended books for learning and reference | [Check Out](books.md)         |
-| `Projects`              | Real-world projects and code examples       | [Check Out](projects.md)   |
-| `Templates`             | Reusable templates for documentation, code, etc. | [Check Out](templates.md) |
-| `Open Source Projects`  | Open source projects to contribute as beginners  | [Check Out](projects.md)   |
-| `Other Resources`       | Additional helpful resources or links       | [Check Out](resources.md) |
-## Java 
-
-Here’s a table of various resources you can explore in this repository:
-
-| **Resource Type**       | **Description**                             | **File Link**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `Notes`                 | Study notes and summaries for various topics | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/notes.md)         |
-| `Books`                 | Recommended books for learning and reference | [Check Out](books.md)         |
-| `Projects`              | Real-world projects and code examples       | [Check Out](projects.md)   |
-| `Templates`             | Reusable templates for documentation, code, etc. | [Check Out](templates.md) |
-| `Open Source Projects`  | Open source projects to contribute as beginners  | [Check Out](projects.md)   |
-| `Other Resources`       | Additional helpful resources or links       | [Check Out](resources.md) |
-## Java 
-
-Here’s a table of various resources you can explore in this repository:
-
-| **Resource Type**       | **Description**                             | **File Link**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `Notes`                 | Study notes and summaries for various topics | [Check Out](https://github.com/iTusharyadav/know-more/blob/main/resources/notes.md)         |
-| `Books`                 | Recommended books for learning and reference | [Check Out](books.md)         |
-| `Projects`              | Real-world projects and code examples       | [Check Out](projects.md)   |
-| `Templates`             | Reusable templates for documentation, code, etc. | [Check Out](templates.md) |
-| `Open Source Projects`  | Open source projects to contribute as beginners  | [Check Out](projects.md)   |
-| `Other Resources`       | Additional helpful resources or links       | [Check Out](resources.md) |
-## Algorithms & Data Structures  
-*Comprehensive books to build strong foundations—from theory to practical interview prep.*
-
-| **Book** | **Description** | **Link** |
-|---------|------------------|---------|
-| **Advanced Data Structures** (Peter Brass) | Graduate-level exploration of complex data structures | [Amazon](https://amzn.to/3AdvancedDS) :contentReference[oaicite:1]{index=1} |
-| **Algorithms** (Robert Sedgewick & Kevin Wayne) | University‑level algorithm concepts with Java implementations | [Amazon](https://amzn.to/3AlgorithmsBook) :contentReference[oaicite:2]{index=2} |
-| **Algorithms Illuminated: Part 1 – The Basics** (Tim Roughgarden) | Illustrated guide to algorithm fundamentals | [Amazon](https://amzn.to/3Illuminated) :contentReference[oaicite:3]{index=3} |
-| **Algorithms Unlocked** (Thomas H. Cormen) | Accessible introduction from a CLRS author | [MIT Press](https://mitpress.mit.edu/9780262518802/) :contentReference[oaicite:4]{index=4} |
-| **Concrete Mathematics** (Graham, Knuth & Patashnik) | Mathematical foundations for algorithm analysis | [Wikipedia](https://en.wikipedia.org/wiki/Concrete_Mathematics) :contentReference[oaicite:5]{index=5} |
-| **Cracking the Coding Interview** (Gayle Laakmann McDowell) | Algorithmic problems with solutions and interview prep | [Amazon](https://amzn.to/3CrackCoding) :contentReference[oaicite:6]{index=6} |
-| **Data Structures & Algorithm Analysis in Java** (Mark Allen Weiss) | In-depth Java perspective on DS & algorithms | [Amazon](https://amzn.to/3WeissDSA) :contentReference[oaicite:7]{index=7} |
-| **Data Structures and Algorithms Made Easy** (Narasimha Karumanchi) | Simplified explanations and puzzles for self-study | [Amazon](https://amzn.to/3KarumanchiDSA) :contentReference[oaicite:8]{index=8} |
-| **Grokking Algorithms** (Aditya Bhargava) | Illustrated, beginner-friendly guide to common algorithms | [Amazon](https://amzn.to/3GrokAlgo) :contentReference[oaicite:9]{index=9} |
-| **Introduction to Algorithms (CLRS)** (Cormen et al.) | Definitive, comprehensive graduate‑level reference | [MIT Press](https://mitpress.mit.edu/9780262046305) :contentReference[oaicite:10]{index=10} |
-| **The Algorithm Design Manual** (Steven S. Skiena) | Design patterns with an extensive algorithm catalog | [Amazon](https://amzn.to/3SkienaAlgo) :contentReference[oaicite:11]{index=11} |
-| **The Art of Computer Programming** (Donald E. Knuth) | Classic multi-volume deep dive into algorithms | [Wikipedia](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) :contentReference[oaicite:12]{index=12} |
