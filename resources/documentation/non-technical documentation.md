@@ -166,6 +166,19 @@
 | `Splunk Enterprise API`     | Collects and analyzes audit logs, system events, and operational data for compliance.      | [Check Out](https://docs.splunk.com/Documentation/Splunk/latest/RESTREF/RESTprolog) |
 | `Sumo Logic Audit API`      | Logs and monitors activity from cloud apps, security events, and user-level actions.       | [Check Out](https://api.sumologic.com/docs/)                        |
 
+## Augmented Reality (AR) APIs 
+*APIs that enable AR experiences including 3D object rendering, surface detection, face tracking, image recognition, and real-world interaction.*
+| **Technology**                 | **Description**                                                                         | **Official Documentation**                                        |
+|-------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| `8th Wall WebAR API`          | Web-based AR platform for surface tracking, image targets, world effects, and SLAM.      | [Check Out](https://www.8thwall.com/docs/)                       |
+| `Apple ARKit`                 | iOS AR framework enabling motion tracking, face tracking, scene understanding, and 3D AR. | [Check Out](https://developer.apple.com/arkit/)                  |
+| `Google ARCore`               | Android AR platform for motion tracking, environment understanding, and light estimation. | [Check Out](https://developers.google.com/ar)                   |
+| `Microsoft Mixed Reality API` | APIs for HoloLens and MR devices, enabling spatial mapping, gestures, and holograms.     | [Check Out](https://learn.microsoft.com/windows/mixed-reality/) |
+| `Niantic Lightship ARDK`      | AR toolkit for real-world AR, semantic segmentation, occlusion, and multiplayer AR.      | [Check Out](https://lightship.dev/docs/)                        |
+| `OpenCV AR Modules`           | Computer vision tools for building custom AR including markers, tracking, and detection. | [Check Out](https://docs.opencv.org/)                           |
+| `PTC Vuforia API`             | Industrial AR SDK for image targets, object tracking, and model-based AR.                | [Check Out](https://developer.vuforia.com/)                    |
+| `Snap Lens Studio API`        | AR lens creation platform with face tracking, 3D effects, and filters for Snapchat.      | [Check Out](https://docs.snap.com/lens-studio/home)             |
+| `Wikitude AR API`             | AR SDK offering geo-AR, image recognition, object tracking, and cloud recognition.        | [Check Out](https://www.wikitude.com/documentation/)           |
 
 
 
