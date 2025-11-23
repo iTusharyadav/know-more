@@ -257,6 +257,18 @@
 | `MusicBrainz API`            | Open music encyclopedia offering award, event, and nomination data for musicians.          | [Check Out](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) |
 | `TVmaze API – Award Mentions`| TV show and episode information including award data for supported series.                 | [Check Out](https://www.tvmaze.com/api)                                   |
 
+## Awareness APIs 
+*APIs related to public awareness, environmental awareness, safety alerts, disaster notifications, health alerts, and community awareness services.*
+| **Technology**               | **Description**                                                                          | **Official Documentation**                                        |
+|------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| `Global Disaster Alert API (GDACS)` | Provides real-time alerts about global disasters, including earthquakes, tsunamis, and floods. | [Check Out](https://www.gdacs.org/api.aspx)                      |
+| `ReliefWeb API`              | Humanitarian crises and disaster awareness data, including reports, alerts, and events.   | [Check Out](https://api.reliefweb.int/)                          |
+| `UNData API`                 | Provides awareness data about global development, environment, health, education, etc.    | [Check Out](https://data.un.org/Handlers/DownloadHandler.ashx?)  |
+| `WHO Disease Outbreak API`   | Real-time awareness on global health outbreaks, diseases, and health emergencies.          | [Check Out](https://www.who.int/data/gho/info/gho-odata-api)     |
+| `AirNow Air Quality API`     | Provides public awareness data about air quality, pollution levels, and health impacts.    | [Check Out](https://docs.airnowapi.org/)                         |
+| `OpenAQ API`                 | Global air quality monitoring API for pollution awareness and public environmental data.   | [Check Out](https://docs.openaq.org/)                            |
+| `USA Gov Alerts API`         | U.S. public awareness alerts including health, safety, consumer warnings, and disasters.   | [Check Out](https://www.usa.gov/developer)                       |
+| `Environmental Data API (EPA)` | Provides environmental awareness info like emissions, pollutants, and eco-indicators.    | [Check Out](https://www.epa.gov/developers)                      |
 
 
 
