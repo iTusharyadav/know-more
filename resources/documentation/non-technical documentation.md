@@ -213,6 +213,20 @@
 | `Tate Gallery API`             | Offers access to British national art collection including artists, works, and metadata.| [Check Out](https://github.com/tategallery/collection)          |
 | `WikiArt API`                  | Large online art encyclopedia API with paintings, artist data, genres, and movements.   | [Check Out](https://www.wikiart.org/en/App/GetAPI)              |
 
+## Aviation APIs 
+*APIs that provide flight data, airline information, airport details, aircraft info, live tracking, and aviation-related services.*
+| **Technology**                 | **Description**                                                                        | **Official Documentation**                                         |
+|-------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| `AeroDataBox API`             | Provides global airport data, airline routes, aircraft info, schedules, and delays.     | [Check Out](https://rapidapi.com/aedbx-aedbx/api/aerodatabox)     |
+| `Aviationstack API`           | Real-time and historical flight tracking data including airports, airlines, routes.      | [Check Out](https://aviationstack.com/documentation)              |
+| `AirportInfo API`             | Offers data about airports worldwide including IATA/ICAO codes and location details.    | [Check Out](https://airport-info.p.rapidapi.com/)                 |
+| `AirLabs API`                 | Global aviation API for flights, airline routes, schedules, real-time tracking.         | [Check Out](https://airlabs.co/docs)                              |
+| `FlightRadar24 API`           | Provides flight tracking, aircraft positions, metadata, and historical flight data.     | [Check Out](https://www.flightradar24.com/how-it-works)           |
+| `FlightStats API`             | Live flight status, airport delays, weather, and schedule lookup API.                   | [Check Out](https://developer.flightstats.com/api-docs)           |
+| `OpenSky Network API`         | Open-source live air traffic surveillance data based on ADS-B signals.                  | [Check Out](https://opensky-network.org/apidoc/)                  |
+| `ADS-B Exchange API`          | Crowdsourced aircraft tracking data including military aircraft and global coverage.    | [Check Out](https://www.adsbexchange.com/data/)                   |
+| `Jeppesen API`                | Aviation digital navigation, charts, NOTAMs, and flight planning resources (Boeing).    | [Check Out](https://developer.jeppesen.com/)                      |
+| `Cirium Flight Data API`      | High-quality commercial aviation data including schedules, fleet info, and analytics.   | [Check Out](https://developer.cirium.com/)                        |
 
 
 
