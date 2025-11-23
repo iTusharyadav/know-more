@@ -199,6 +199,19 @@
 | `VinAudit Vehicle API`        | Provides vehicle history reports, title checks, ownership, and VIN decoding.              | [Check Out](https://developer.vinaudit.com/)                    |
 | `Xee API`                     | Vehicle telematics platform offering driving data, location, fuel, and maintenance status.| [Check Out](https://developers.xee.com/)                        |
 
+## Art APIs 
+*APIs that provide access to artwork databases, museum collections, cultural archives, paintings, artifacts, and art-related metadata.*
+| **Technology**                  | **Description**                                                                       | **Official Documentation**                                       |
+|--------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| `Art Institute of Chicago API` | Provides access to one of the largest public art collections, including artwork data. | [Check Out](https://api.artic.edu/docs/)                        |
+| `Cooper Hewitt API`            | Smithsonian museum API offering access to design objects, artworks, and collections.   | [Check Out](https://collection.cooperhewitt.org/api/)           |
+| `Europeana API`                | Access to millions of artworks, books, music, and cultural heritage items from Europe. | [Check Out](https://pro.europeana.eu/page/apis)                 |
+| `Harvard Art Museums API`      | Offers metadata, images, and archives of paintings, sculptures, and museum collections.| [Check Out](https://harvardartmuseums.org/collections/api)      |
+| `Met Museum API`               | Public domain API providing access to the entire MET art collection and objects.        | [Check Out](https://metmuseum.github.io/)                       |
+| `Rijksmuseum API`              | Dutch national museum API with high-quality art images and detailed artwork metadata.   | [Check Out](https://www.rijksmuseum.nl/en/api)                  |
+| `Smithsonian Open Access API`  | Provides cultural and historical artifacts, artwork, 3D scans, and open access media.   | [Check Out](https://smithsonian.github.io/openaccess/)          |
+| `Tate Gallery API`             | Offers access to British national art collection including artists, works, and metadata.| [Check Out](https://github.com/tategallery/collection)          |
+| `WikiArt API`                  | Large online art encyclopedia API with paintings, artist data, genres, and movements.   | [Check Out](https://www.wikiart.org/en/App/GetAPI)              |
 
 
 
