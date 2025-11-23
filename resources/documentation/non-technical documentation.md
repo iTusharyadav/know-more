@@ -180,6 +180,24 @@
 | `Snap Lens Studio API`        | AR lens creation platform with face tracking, 3D effects, and filters for Snapchat.      | [Check Out](https://docs.snap.com/lens-studio/home)             |
 | `Wikitude AR API`             | AR SDK offering geo-AR, image recognition, object tracking, and cloud recognition.        | [Check Out](https://www.wikitude.com/documentation/)           |
 
+## Automotive APIs 
+*APIs that provide vehicle data, telematics, diagnostics, EV charging info, car control, fleet management, and transportation insights.*
+| **Technology**                 | **Description**                                                                          | **Official Documentation**                                       |
+|-------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| `BMW CarData API`             | Provides vehicle telematics data, mileage, status, and driving metrics for BMW vehicles.  | [Check Out](https://www.bmw.com/en/footer/developer/car-data.html) |
+| `CarMD API`                   | Offers vehicle diagnostics, repair estimates, OBD-II codes, and car health data.          | [Check Out](https://developer.carmd.com/)                       |
+| `CarSync API`                 | Fleet management API offering telematics, tracking, maintenance data, and vehicle status. | [Check Out](https://api.carsync.io/docs/)                       |
+| `EVgo Charging API`           | Provides EV charging station availability, session details, and network data.             | [Check Out](https://www.evgo.com/developers/)                   |
+| `Ford Developer API`         | Access to connected vehicle data including location, status, locks, and telematics.        | [Check Out](https://developer.ford.com/apis)                    |
+| `GM Developer API`            | Vehicle data API for OnStar-enabled cars: telematics, location, remote commands, etc.     | [Check Out](https://developer.gm.com/apis)                      |
+| `HERE Automotive API`         | Mapping, routing, traffic, fleet telematics, and location services for automotive apps.   | [Check Out](https://developer.here.com/documentation/)          |
+| `Mercedes-Benz Vehicle API`   | Access to telematics, vehicle status, doors, fuel, and EV battery information.            | [Check Out](https://developer.mercedes-benz.com/apis)           |
+| `Smartcar API`                | Universal car API for vehicle data, odometer, EV battery, location, and remote control.   | [Check Out](https://smartcar.com/docs/)                         |
+| `Tesla API` (Unofficial)      | Controls Tesla vehicles remotely, retrieves telemetry, battery level, climate data, etc.  | [Check Out](https://tesla-api.timdorr.com/)                     |
+| `TomTom Automotive API`       | Provides maps, traffic, EV routing, telematics, and navigation data for vehicle systems.  | [Check Out](https://developer.tomtom.com/)                      |
+| `Turo API` (Partner)          | Car-sharing marketplace API offering booking, vehicle, and user data.                     | [Check Out](https://turo.com/developers)                        |
+| `VinAudit Vehicle API`        | Provides vehicle history reports, title checks, ownership, and VIN decoding.              | [Check Out](https://developer.vinaudit.com/)                    |
+| `Xee API`                     | Vehicle telematics platform offering driving data, location, fuel, and maintenance status.| [Check Out](https://developers.xee.com/)                        |
 
 
 
