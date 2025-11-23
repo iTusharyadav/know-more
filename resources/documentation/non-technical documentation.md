@@ -228,6 +228,19 @@
 | `Jeppesen API`                | Aviation digital navigation, charts, NOTAMs, and flight planning resources (Boeing).    | [Check Out](https://developer.jeppesen.com/)                      |
 | `Cirium Flight Data API`      | High-quality commercial aviation data including schedules, fleet info, and analytics.   | [Check Out](https://developer.cirium.com/)                        |
 
+## Awards APIs 
+*APIs that provide data about award shows, winners, nominees, categories, ceremonies, and historical award information.*
+| **Technology**               | **Description**                                                                           | **Official Documentation**                                                |
+|-----------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| `Academy Awards Database API (Unofficial)` | Provides information on Oscar winners, nominees, award categories, ceremony details.| [Check Out](https://oscars.org/oscars) *(official site, no public API but data accessible)* |
+| `IMDb API (Awards & Nominations)` | Offers rich award-related data including Oscars, Emmys, Golden Globes, etc.             | [Check Out](https://developer.imdb.com/)                                  |
+| `TMDB API – Awards Data`     | Movie & TV metadata including award nominations and wins through extended endpoints.       | [Check Out](https://developer.themoviedb.org/docs)                        |
+| `OMDb API (Awards Field)`    | Lightweight movie data API that includes award information in metadata.                    | [Check Out](http://www.omdbapi.com/)                                      |
+| `WikiData API (Awards Queries)` | SPARQL-based access to global awards, winners, nominees, and events.                   | [Check Out](https://www.wikidata.org/wiki/Wikidata:Data_access)           |
+| `TheAudioDB API — Music Awards` | Provides awards for artists, albums, tracks (Grammys, MTV Awards, etc.).                | [Check Out](https://www.theaudiodb.com/api_guide.php)                     |
+| `Last.fm API — Music Awards Metadata` | Artist and track metadata including award mentions where available.                | [Check Out](https://www.last.fm/api)                                      |
+| `MusicBrainz API`            | Open music encyclopedia offering award, event, and nomination data for musicians.          | [Check Out](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) |
+| `TVmaze API – Award Mentions`| TV show and episode information including award data for supported series.                 | [Check Out](https://www.tvmaze.com/api)                                   |
 
 
 
