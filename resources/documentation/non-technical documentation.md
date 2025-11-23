@@ -71,6 +71,21 @@
 | `ThreatMetrix API`          | Digital identity intelligence platform for risk assessment and fraud detection.         | [Check Out](https://developer.threatmetrix.com/)                   |
 | `Trulioo GlobalGateway API` | Identity verification & KYC solution for fraud detection across multiple countries.     | [Check Out](https://developer.trulioo.com/)                         |
 
+## Astrology APIs 
+*APIs that provide horoscope data, zodiac details, planetary positions, birth chart calculations, and astrological predictions.*
+| **Technology**                  | **Description**                                                                                | **Official Documentation**                                       |
+|--------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| `Aztro API`                    | Simple astrology API offering daily, weekly, and monthly horoscopes for all zodiac signs.      | [Check Out](https://aztro.readthedocs.io/)                       |
+| `Horoscope-API`                | Lightweight API providing horoscopes for signs, today/weekly/yearly predictions.               | [Check Out](https://horoscope-api.herokuapp.com/)                |
+| `AstrologyAPI.com`             | Full-featured astrology engine offering natal charts, synastry, transit forecasts, numerology. | [Check Out](https://astrologyapi.com/docs/)                      |
+| `Prokerala Astrology API`      | Vedic astrology API providing horoscope, birth charts, kundli, and planetary positions.         | [Check Out](https://developers.prokerala.com/api/docs/astrology/)|
+| `AstroSeek API (Unofficial)`   | Provides planetary calculations, ephemeris data, charts, and zodiac insights.                  | [Check Out](https://www.astro-seek.com/) *(no official API docs)*|
+| `GalacticAPI`                  | Astrology + astronomy hybrid API: planets, zodiac, charts, and cosmic cycles.                  | [Check Out](https://galacticapi.com/docs)                        |
+| `TellMyStars API`              | API offering Vedic and Western astrology charts, match-making, and numerology data.            | [Check Out](https://www.tellmystars.com/api-documentation)       |
+| `AstroBot API`                 | Horoscope generator for bots, apps, and websites with zodiac-based daily predictions.          | [Check Out](https://astrobot.space/api)                          |
+| `NumerologyAPI`                | Provides numerology reports, life path numbers, and compatibility readings.                    | [Check Out](https://numerologyapi.com/docs)                      |
+
+
 ## Authentication APIs 
 *APIs that manage user login, identity verification, access control, and secure authorization for applications.*
 | **Technology**             | **Description**                                                                       | **Official Documentation**                                                 |
