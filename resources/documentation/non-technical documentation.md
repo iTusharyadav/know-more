@@ -336,29 +336,28 @@
 | `Wave Accounting API`         | Simple invoicing and billing API for freelancers and small businesses.                    | [Check Out](https://developer.waveapps.com/hc/en-us)                |
 | `Xero Accounting API`         | Global accounting API for invoices, billing, payments, tax, and financial operations.     | [Check Out](https://developer.xero.com/documentation)               |
 
+## Biometric APIs 
+*APIs that provide identity verification using biometrics such as face recognition, fingerprinting, voice ID, iris scans, posture analysis, liveliness detection, and other human-based identity signals.*
+| **Technology**                   | **Description**                                                                                | **Official Documentation**                                               |
+|---------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| `Acuant FaceID API`             | Facial recognition, document verification, and biometric identity validation.                  | [Check Out](https://www.acuant.com/developers/)                          |
+| `Aware Knomi API`               | Mobile biometric authentication with face and voice recognition and liveness detection.        | [Check Out](https://www.aware.com/knomi/)                                |
+| `BioID Web Services (BWS)`      | Face recognition and liveness detection for identity verification.                             | [Check Out](https://www.bioid.com/bws/)                                  |
+| `Cognitec FaceVACS API`         | Facial recognition engine used in government, airports, and enterprise authentication.         | [Check Out](https://www.cognitec.com/technology.html)                    |
+| `Face++ API`                    | REST API for face detection, recognition, 3D landmarks, ID matching, and liveness detection.   | [Check Out](https://console.faceplusplus.com/documents/5679127)          |
+| `Kairos Face Recognition API`   | Facial recognition, demographics detection, and face comparison.                               | [Check Out](https://www.kairos.com/docs/)                                |
+| `Neurotechnology MegaMatcher API` | Multimodal biometrics including face, fingerprint, palmprint, and iris recognition.           | [Check Out](https://www.neurotechnology.com/megamatcher-sdk.html)        |
+| `Microsoft Face API`            | Azure-based facial recognition, emotion detection, and identity verification.                  | [Check Out](https://learn.microsoft.com/azure/cognitive-services/face/)  |
+| `Amazon Rekognition Face`       | Facial analysis, celebrity recognition, face search, and identity-matching tools.              | [Check Out](https://docs.aws.amazon.com/rekognition/index.html)          |
+| `FaceFirst API`                 | Real-time facial recognition for retail, security, and law-enforcement use cases.              | [Check Out](https://www.facefirst.com/)                                  |
+| `Innovatrics Digital Onboarding API` | Face recognition, ID reading, liveness detection, and document verification.               | [Check Out](https://www.innovatrics.com/developer-resources/)            |
+| `VeridiumID API`                | Multi-factor biometric authentication using face, fingerprints, and behavioral biometrics.     | [Check Out](https://veridiumid.com/platform/)                            |
+| `IDEMIA Biometric API`          | Enterprise-quality biometrics including face, iris, fingerprint, and identification systems.   | [Check Out](https://www.idemia.com/biometrics)                            |
+| `Onfido Biometric Verification API` | AI-based identity verification using face biometrics and document recognition.              | [Check Out](https://onfido.com/documentation/)                            |
+| `Jumio Biometric Verification API`  | Face-based identity verification with liveness detection and ID document scanning.          | [Check Out](https://www.jumio.com/developers/)                            |
 
 
 
-## Payment and Finance APIs
-| **Name**       | **Description**                             | **Official Documentation**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `Alpha Vantage API`              | 	Real-time and historical stock/crypto data     | [Check Out](https://www.alphavantage.co/documentation/)   |
-| `PayPal API`             | Payment processing and transaction management | [Check Out](https://developer.paypal.com/api/rest/) |
-| `Stripe API`                 | Handle payments, subscriptions, and invoices | [Check Out](https://docs.stripe.com/api)         |
 
-## News & Media APIs
-| **Name**       | **Description**                             | **Official Documentation**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `NewsData.io API`              | Access global news headlines and articles | [Check Out](https://newsdata.io/documentation)   |
-| `TMDb API`             | Access movie, TV, and actor data | [Check Out](https://developer.themoviedb.org/reference/intro/getting-started) |
-| `Vimeo API`                 |Integrate and manage Vimeo videos | [Check Out](https://developer.vimeo.com/)         |
-
-## Trading / Cryptocurrency APIs
-| **Name**       | **Description**                             | **Official Documentation**                    |
-|-------------------------|---------------------------------------------|-----------------------------------|
-| `Binance API`              | Crypto exchange data and trading      | [Check Out](https://github.com/binance/binance-spot-api-docs)   |
-| `CoinGecko API`             |Cryptocurrency market data | [Check Out](https://www.coingecko.com/en/api) |
-| `OpenSky API`                 |Flight tracking and aviation data | [Check Out](https://openskynetwork.github.io/opensky-api/index.html)         |
-| `CoinAPI.io`             | 	Crypto and FX market data | [Check Out](https://docs.coinapi.io/) |
 
 
