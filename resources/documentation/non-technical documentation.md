@@ -319,6 +319,22 @@
 | `Listia API` *(Unofficial)*  | Credits-based barter marketplace enabling users to trade goods without money.| [Check Out](https://www.listia.com/) *(API limited)*          |
 | `U-Exchange API` *(Directory)* | Barter directory with trade listings for services, items, and skills.        | [Check Out](https://www.uexchange.com/)                       |
 
+## Billing APIs 
+*APIs used for invoicing, subscription billing, usage-based billing, tax handling, metered billing, and financial charge automation.*
+| **Technology**                 | **Description**                                                                         | **Official Documentation**                                           |
+|-------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| `Chargebee API`               | Subscription management and recurring billing platform with invoicing and tax support.   | [Check Out](https://apidocs.chargebee.com/docs/api)                 |
+| `Chargify API`                | Billing system for SaaS companies supporting subscription cycles and metered billing.     | [Check Out](https://reference.chargify.com/)                        |
+| `FreshBooks API`             | Cloud accounting API providing invoicing, payments, clients, and expense management.     | [Check Out](https://www.freshbooks.com/api/start)                   |
+| `GoCardless Billing API`      | Direct debit billing and recurring payments for businesses across multiple countries.     | [Check Out](https://developer.gocardless.com/)                      |
+| `Paddle Billing API`          | All-in-one billing API for SaaS, including subscriptions, taxes, and receipts.            | [Check Out](https://developer.paddle.com/api-reference/overview)    |
+| `PayPal Invoicing API`        | Enables creating, sending, and managing professional invoices via PayPal.                 | [Check Out](https://developer.paypal.com/docs/api/invoicing/)       |
+| `QuickBooks Online API`       | Accounting and billing API for invoices, expenses, payments, and customer records.        | [Check Out](https://developer.intuit.com/app/developer/homepage)    |
+| `Recurly API`                 | Subscription billing platform supporting invoices, revenue recognition, and taxes.        | [Check Out](https://developers.recurly.com/api/)                    |
+| `Square Invoices API`         | API to create, send, and track invoices and billing for businesses.                      | [Check Out](https://developer.squareup.com/reference/square/invoices-api) |
+| `Stripe Billing API`          | Flexible billing engine for subscriptions, metered billing, and automated invoicing.      | [Check Out](https://stripe.com/docs/billing)                        |
+| `Wave Accounting API`         | Simple invoicing and billing API for freelancers and small businesses.                    | [Check Out](https://developer.waveapps.com/hc/en-us)                |
+| `Xero Accounting API`         | Global accounting API for invoices, billing, payments, tax, and financial operations.     | [Check Out](https://developer.xero.com/documentation)               |
 
 
 
