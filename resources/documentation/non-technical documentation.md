@@ -309,6 +309,15 @@
 | `UBS API`                        | Corporate banking, investment banking, and financial services API suite.           | [Check Out](https://developer.ubs.com/)                           |
 | `Wells Fargo API`                | Banking APIs including payments, account data, and treasury management.            | [Check Out](https://api.wellsfargo.com/)                          |
 
+## Barter APIs 
+*APIs related to item swapping, trade-exchange networks, community bartering, and non-monetary exchange platforms.*
+| **Technology**               | **Description**                                                              | **Official Documentation**                                    |
+|------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------|
+| `Bartercard API`             | Business trade-exchange platform allowing companies to barter goods/services.| [Check Out](https://www.bartercard.com/developers/)           |
+| `Swapit API`                 | Barter marketplace for item exchanging, trading, and swapping items.         | [Check Out](https://www.swapit.la/api)                        |
+| `TradeAway API` *(Unofficial)* | Community bartering API for item listings, offers, and direct swaps.       | [Check Out](https://tradeaway.app/) *(no official API docs)*  |
+| `Listia API` *(Unofficial)*  | Credits-based barter marketplace enabling users to trade goods without money.| [Check Out](https://www.listia.com/) *(API limited)*          |
+| `U-Exchange API` *(Directory)* | Barter directory with trade listings for services, items, and skills.        | [Check Out](https://www.uexchange.com/)                       |
 
 
 
