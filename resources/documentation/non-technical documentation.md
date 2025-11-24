@@ -270,6 +270,47 @@
 | `USA Gov Alerts API`         | U.S. public awareness alerts including health, safety, consumer warnings, and disasters.   | [Check Out](https://www.usa.gov/developer)                       |
 | `Environmental Data API (EPA)` | Provides environmental awareness info like emissions, pollutants, and eco-indicators.    | [Check Out](https://www.epa.gov/developers)                      |
 
+## Banking APIs 
+*APIs that provide access to banking services, account data, transactions, KYC, loan systems, financial operations, and open banking infrastructure.*
+| **Technology**                    | **Description**                                                                 | **Official Documentation**                                        |
+|----------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| `Allied Irish Bank API`          | Open banking API providing account, payment, and transaction access.            | [Check Out](https://developer.aibgb.co.uk/)                       |
+| `American Express API`           | Offers services for payments, rewards, transactions, and merchant tools.        | [Check Out](https://developer.americanexpress.com/)               |
+| `ANZ Bank API`                   | Australian bank API providing account, payment, customer, and card information. | [Check Out](https://api.anz.com/)                                 |
+| `Axis Bank API`                  | Provides banking services including accounts, payments, loans, and statements.  | [Check Out](https://developer.axisbank.com/)                      |
+| `Barclays Bank API`              | Open banking services including accounts, transactions, and FX data.            | [Check Out](https://developer.barclays.com/)                      |
+| `BBVA API`                        | Full banking API suite for accounts, identity, scoring, and money transfers.    | [Check Out](https://www.bbvaapimarket.com/en/)                    |
+| `BNP Paribas API`                | European banking API for financial data, payments, and account insights.        | [Check Out](https://developer.bnpparibas.com/)                    |
+| `BMO Bank API`                   | Provides open banking access for Canadian financial data and customer accounts. | [Check Out](https://developer.bmo.com/)                           |
+| `BOK Financial API`             | API access for account management, transactions, and funds.                     | [Check Out](https://www.bokfinancial.com/developers)             |
+| `Capital One API`                | Banking data, credit offers, rewards, identity services through DevExchange.     | [Check Out](https://developer.capitalone.com/)                    |
+| `Chase Developer API`            | Banking APIs for payments, accounts, and consumer financial data.               | [Check Out](https://developer.chase.com/)                         |
+| `CitiBank API`                   | Global banking API including accounts, cards, customer data, and transactions.   | [Check Out](https://developer.citi.com/)                          |
+| `Deutsche Bank API`              | Provides PSD2 open banking services and commercial banking APIs.                 | [Check Out](https://developer.db.com/)                            |
+| `Discover Bank API`              | APIs for payments, card management, and banking insights.                        | [Check Out](https://developer.discover.com/)                      |
+| `Fidelity Investments API`       | Financial and banking account aggregation and investment-related endpoints.      | [Check Out](https://fidelitylabs.github.io/)                     |
+| `Goldman Sachs API`              | Banking APIs for financial data, transactions, and corporate banking.            | [Check Out](https://developer.gs.com/)                            |
+| `HSBC Bank API`                  | Global open banking platform with PSD2 APIs for accounts and transactions.        | [Check Out](https://developer.hsbc.com/)                          |
+| `ICICI Bank API`                 | India banking suite including KYC, payments, accounts, and loans.                | [Check Out](https://developer.icicibank.com/)                     |
+| `ING Bank API`                   | Provides open banking and financial access to accounts, cards, and analytics.    | [Check Out](https://developer.ing.com/)                           |
+| `JP Morgan Treasury APIs`        | Corporate banking APIs including payments, treasury management, and FX services. | [Check Out](https://developer.jpmorgan.com/)                      |
+| `Lloyds Bank API`                | UK open banking platform with transaction and account services.                   | [Check Out](https://developer.lloydsbank.com/)                    |
+| `Monzo Bank API`                 | Modern banking API with account info, balances, transactions, and webhooks.      | [Check Out](https://docs.monzo.com/)                              |
+| `NatWest Bank API`               | Full open banking suite for accounts, payments, and customer information.         | [Check Out](https://developer.natwest.com/)                       |
+| `Nubank API (Unofficial)`        | Community-built API for Brazil's digital bank offering card and account data.     | [Check Out](https://github.com/nubank) *(no official API)*        |
+| `PNC Bank API`                   | Account access, treasury APIs, and payment initiation endpoints.                  | [Check Out](https://www.pnc.com/en/corporate-banking/api.html)   |
+| `Rabobank API`                   | Dutch banking APIs for accounts, payments, agro data, and financial operations.   | [Check Out](https://developer.rabobank.com/)                      |
+| `Revolut Business API`           | Banking and fintech API for accounts, exchanges, payments, and settlements.       | [Check Out](https://developer.revolut.com/)                       |
+| `Santander API`                  | European open banking APIs for accounts, customer data, and transactions.         | [Check Out](https://developer.santander.com/)                     |
+| `Scotiabank API`                 | Canadian open banking platform with account and transaction data.                 | [Check Out](https://www.scotiabank.com/ca/en/personal.html)      |
+| `Standard Chartered API`         | Corporate banking APIs for payments, accounts, and treasury solutions.            | [Check Out](https://developer.sc.com/)                            |
+| `Stripe Treasury API`            | Embedded banking API offering accounts, money storage, and financial operations.   | [Check Out](https://stripe.com/docs/treasury)                     |
+| `TD Bank Developer Portal`       | Open banking API for accounts, payments, and transaction permissions.             | [Check Out](https://developer.td.com/)                            |
+| `UBS API`                        | Corporate banking, investment banking, and financial services API suite.           | [Check Out](https://developer.ubs.com/)                           |
+| `Wells Fargo API`                | Banking APIs including payments, account data, and treasury management.            | [Check Out](https://api.wellsfargo.com/)                          |
+
+
+
 
 
 
