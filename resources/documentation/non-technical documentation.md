@@ -356,6 +356,27 @@
 | `Onfido Biometric Verification API` | AI-based identity verification using face biometrics and document recognition.              | [Check Out](https://onfido.com/documentation/)                            |
 | `Jumio Biometric Verification API`  | Face-based identity verification with liveness detection and ID document scanning.          | [Check Out](https://www.jumio.com/developers/)                            |
 
+## Biology APIs 
+*APIs that provide biological data such as proteins, genes, genomes, taxonomy, molecular structures, biological pathways, organisms, and life-science datasets.*
+| **Technology**                     | **Description**                                                                                 | **Official Documentation**                                             |
+|-----------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| `Ensembl REST API`                | Provides genomic data including genes, variants, sequences, and annotations for many species.  | [Check Out](https://rest.ensembl.org/)                                 |
+| `UniProt API`                     | Protein sequence, structure, and function database with massive biological datasets.            | [Check Out](https://www.uniprot.org/help/api)                          |
+| `NCBI E-Utilities API`            | Access to genomes, taxonomy, proteins, PubMed papers, and biological sequences.                 | [Check Out](https://www.ncbi.nlm.nih.gov/books/NBK25501/)              |
+| `EBI Proteins API`                | Protein sequence and functional annotation service hosted by EMBL-EBI.                         | [Check Out](https://www.ebi.ac.uk/proteins/api/doc/)                   |
+| `KEGG API`                        | Database for biological pathways, genomes, diseases, and chemical interactions.                | [Check Out](https://www.kegg.jp/kegg/rest/keggapi.html)                |
+| `PDB API (RCSB Protein Data Bank)`| Provides 3D protein structures, molecules, and biochemical datasets.                           | [Check Out](https://data.rcsb.org/)                                    |
+| `NCBI Taxonomy API`               | Taxonomic classifications and biological hierarchy of species.                                 | [Check Out](https://www.ncbi.nlm.nih.gov/taxonomy)                     |
+| `MGnify API`                      | Microbiome analyses including metagenomic, metatranscriptomic, and assembly data.              | [Check Out](https://www.ebi.ac.uk/metagenomics/api/latest/)            |
+| `iNaturalist API`                 | Biological observation data from millions of users for species identification and research.     | [Check Out](https://api.inaturalist.org/v1/docs/)                      |
+| `GBIF API (Global Biodiversity Data)` | Worldwide biodiversity occurrence records and species datasets.                           | [Check Out](https://www.gbif.org/developer/summary)                    |
+| `Tree of Life API (Open Tree API)` | Comprehensive biological phylogenetic tree covering millions of species.                     | [Check Out](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs) |
+| `PhyloPic API`                    | Biological silhouette images of species for scientific and educational use.                    | [Check Out](https://api.phylopic.org/api/v2/docs)                      |
+| `BioPortal API`                   | Repository of biological ontologies and semantic data for life-science research.               | [Check Out](https://bioportal.bioontology.org/documentation)           |
+| `Human Protein Atlas API`         | Protein expression data in tissues, organs, blood, cells, and disease states.                 | [Check Out](https://www.proteinatlas.org/about/apis)                   |
+| `WormBase API`                    | Biological data about *C. elegans* including genes, anatomy, and genomic information.          | [Check Out](https://wormbase.org/about/api)                            |
+| `FlyBase API`                     | Genetics and molecular biology data for *Drosophila* species (fruit flies).                   | [Check Out](https://wiki.flybase.org/wiki/FlyBase:API)                 |
+| `ZFIN API`                        | Zebrafish model organism database offering gene, expression, and phenotype data.              | [Check Out](https://zfin.org/api)                                      |
 
 
 
