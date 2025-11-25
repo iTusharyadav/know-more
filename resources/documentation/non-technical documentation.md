@@ -421,5 +421,26 @@
 | `Reactome API`                | Biological pathways and molecular reaction data for organisms.                                      | [Check Out](https://reactome.org/dev/content-service)                           |
 | `Pathway Commons API`         | Aggregated pathway and interaction datasets from multiple bioinformatics sources.                   | [Check Out](https://www.pathwaycommons.org/pc2/#api)                             |
 
+## Biometrics APIs 
+*APIs that offer identity verification using facial recognition, fingerprints, iris scans, voiceprint recognition, gait analysis, and other biometric methods.*
+| **Technology**                 | **Description**                                                                                | **Official Documentation**                                           |
+|-------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| `Face++ API`                  | Facial recognition, face detection, landmarks, emotion detection, and identity verification.  | [Check Out](https://console.faceplusplus.com/documents/6329329)      |
+| `Microsoft Azure Face API`    | Provides facial detection, verification, identification, grouping, and attributes.              | [Check Out](https://learn.microsoft.com/azure/cognitive-services/face/) |
+| `Amazon Rekognition`          | Face comparison, face search, recognition, demographic detection, and image analysis.           | [Check Out](https://docs.aws.amazon.com/rekognition/)                |
+| `Google Cloud Vision API (Face Detection)` | Detects faces and facial features including landmarks and emotions.                  | [Check Out](https://cloud.google.com/vision/docs#face_detection)     |
+| `Neurotechnology VeriLook API`| High-accuracy facial recognition SDK with liveness detection support.                           | [Check Out](https://www.neurotechnology.com/verilook.html)           |
+| `Onfido API`                  | Identity verification service including facial biometrics and document checks.                  | [Check Out](https://documentation.onfido.com/)                       |
+| `ID.me Biometrics API`        | Offers identity proofing with biometric checks for government, medical, and finance services.  | [Check Out](https://developers.id.me/)                               |
+| `iProov Biometrics API`       | Liveness detection and biometric verification for secure identity authentication.               | [Check Out](https://docs.iproov.com/)                                |
+| `BioID Web Services (BWS)`    | Face recognition, liveness detection, face matching, and anti-spoofing services.               | [Check Out](https://developer.bioid.com/)                            |
+| `VeridiumID API`              | Multi-factor biometrics platform supporting fingerprint, face, and behavioral biometrics.       | [Check Out](https://veridiumid.com/products/) *(API via request)*    |
+| `Aware Knomi API`             | Mobile biometric authentication service including face and voice biometrics.                   | [Check Out](https://www.aware.com/knomi/)                            |
+| `Okta Identity Engine (Biometrics Support)` | OKTA integrates device biometrics for authentication workflows.                    | [Check Out](https://developer.okta.com/)                             |
+| `Jumio Identity Verification` | Offers face-based biometrics with document verification and liveness detection.                 | [Check Out](https://www.jumio.com/developers/)                       |
+| `Veriff API`                  | Identity verification and biometric facial comparison for fraud prevention.                     | [Check Out](https://developers.veriff.com/)                          |
+| `Trueface API`                | Face recognition and computer vision suite including mask detection and demographics.           | [Check Out](https://docs.trueface.ai/)                               |
+| `Kairos Face Recognition API` | Cloud-based facial biometrics including identification, verification, and facial features.       | [Check Out](https://www.kairos.com/docs/)                            |
+| `HOOYU Biometrics API`        | Offers biometric facial matching and digital identity verification for KYC processes.           | [Check Out](https://www.hooyu.com/) *(API via enterprise request)*   |
 
 
