@@ -398,6 +398,28 @@
 | `BirdLife Data API` *(Limited)*       | Global bird species distribution and conservation data.                                         | [Check Out](https://www.birdlife.org/datazone/info/spcdownload)            |
 | `HerpMapper API`                      | Reptile and amphibian sighting and conservation data.                                           | [Check Out](https://www.herpmapper.org/data/) *(API access on request)*     |
 
+## Bioinformatics APIs 
+*APIs providing computational biological data such as DNA/RNA sequences, protein structure tools, gene analysis, genomics datasets, molecular modeling, and biological computation resources.*
+| **Technology**                 | **Description**                                                                                     | **Official Documentation**                                                     |
+|-------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| `NCBI BLAST API`              | Tool for comparing DNA, RNA, and protein sequences for similarity search.                          | [Check Out](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs) |
+| `Ensembl Variant Effect Predictor (VEP) API` | Predicts functional effects of genetic variants using genomic annotations.                   | [Check Out](https://rest.ensembl.org/documentation/info/vep_region_get)        |
+| `UniProt Proteins API`        | Rich protein metadata including sequences, annotations, functions, and interactions.                | [Check Out](https://www.uniprot.org/help/api)                                  |
+| `PDB API (Protein Data Bank)` | Provides access to 3D macromolecular structures for modeling, visualization, and research.          | [Check Out](https://data.rcsb.org/)                                             |
+| `KEGG REST API`               | Pathway, molecular interaction networks, genes, and metabolic systems.                              | [Check Out](https://www.kegg.jp/kegg/rest/keggapi.html)                         |
+| `MGnify API`                  | Microbiome data such as metagenomic pipelines, environmental analysis, and computed results.        | [Check Out](https://www.ebi.ac.uk/metagenomics/api/latest/)                     |
+| `InterPro API`                | Protein classification and domain analysis across multiple biological signature databases.           | [Check Out](https://www.ebi.ac.uk/interpro/api/)                                |
+| `EMBL-EBI Sequence Search API`| Sequence analysis tools including BLAST, FASTA, InterProScan, Clustal Omega, and HMMER.              | [Check Out](https://www.ebi.ac.uk/Tools/common/api/)                            |
+| `OpenTargets API`             | Combines genetics, genomics, and drug target relationships for disease-association research.         | [Check Out](https://platform.opentargets.org/api/v4/graphql)                    |
+| `GTEx API (Genotype-Tissue Expression)` | Gene expression datasets across human tissues.                                               | [Check Out](https://gtexportal.org/home/api-docs)                               |
+| `SRA API (Sequence Read Archive)` | Programmatic access to raw sequencing data stored at NCBI.                                     | [Check Out](https://www.ncbi.nlm.nih.gov/sra/docs/sra-cloud/)                   |
+| `ENA API (European Nucleotide Archive)` | Comprehensive nucleotide sequence repository with sequencing metadata.                       | [Check Out](https://www.ebi.ac.uk/ena/browser/api/)                             |
+| `GEO API (Gene Expression Omnibus)` | Gene expression microarray datasets and experimental data.                                   | [Check Out](https://www.ncbi.nlm.nih.gov/geo/info/geo_ftp/)                     |
+| `STRING API`                  | Protein–protein interaction networks and functional association data.                               | [Check Out](https://string-db.org/help/api/)                                    |
+| `BioGRID API`                 | Biological interaction repository: protein, genetic, and chemical interactions.                    | [Check Out](https://thebiogrid.org/help/webservice/)                            |
+| `DAVID API`                   | Functional annotation and gene enrichment analysis tools.                                           | [Check Out](https://david.ncifcrf.gov/content.jsp?file=DAVID_API.html)          |
+| `Reactome API`                | Biological pathways and molecular reaction data for organisms.                                      | [Check Out](https://reactome.org/dev/content-service)                           |
+| `Pathway Commons API`         | Aggregated pathway and interaction datasets from multiple bioinformatics sources.                   | [Check Out](https://www.pathwaycommons.org/pc2/#api)                             |
 
 
 
