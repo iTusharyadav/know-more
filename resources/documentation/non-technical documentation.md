@@ -378,6 +378,25 @@
 | `FlyBase API`                     | Genetics and molecular biology data for *Drosophila* species (fruit flies).                   | [Check Out](https://wiki.flybase.org/wiki/FlyBase:API)                 |
 | `ZFIN API`                        | Zebrafish model organism database offering gene, expression, and phenotype data.              | [Check Out](https://zfin.org/api)                                      |
 
+## Biodiversity APIs 
+*APIs that provide data about species, ecosystems, wildlife observations, global biodiversity records, conservation status, habitats, and environmental datasets.*
+| **Technology**                        | **Description**                                                                                  | **Official Documentation**                                                |
+|---------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| `GBIF API (Global Biodiversity Information Facility)` | Largest global biodiversity database with species occurrences, habitats, and taxonomic data. | [Check Out](https://www.gbif.org/developer/summary)                        |
+| `iNaturalist API`                     | Crowdsourced wildlife observation data used for species identification and biodiversity research.| [Check Out](https://api.inaturalist.org/v1/docs/)                          |
+| `OBIS API (Ocean Biodiversity Information System)` | Marine species occurrence data and global ocean biodiversity datasets.                         | [Check Out](https://obis.org/manual/access/)                               |
+| `NatureServe API`                     | Conservation status, species distribution, and ecosystem metadata across North America.         | [Check Out](https://www.natureserve.org/resources/natureserve-explorer-api) |
+| `EOL API (Encyclopedia of Life)`      | Biological information for millions of species with media, articles, and taxonomy.              | [Check Out](https://eol.org/docs)                                          |
+| `BISON API (Biodiversity Information Serving Our Nation)` | U.S.-based biodiversity occurrence records and species datasets.                          | [Check Out](https://bison.usgs.gov/#api)                                   |
+| `VertNet API`                         | Vertebrate biodiversity data across mammals, birds, reptiles, amphibians, and fishes.           | [Check Out](http://vertnet.org/resources/api.html)                         |
+| `OpenTree API (Tree of Life)`         | Global phylogeny of life with relationships between millions of species.                        | [Check Out](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs) |
+| `Catalogue of Life API`               | World species checklist providing authoritative taxonomic information.                          | [Check Out](https://api.catalogueoflife.org/)                              |
+| `FishBase API`                        | Detailed data for fish species including habitats, biology, and environmental ranges.           | [Check Out](https://fishbase.ropensci.org/)                                |
+| `AmphibiaWeb API`                     | Global data on amphibian species, populations, distribution, and conservation.                  | [Check Out](https://amphibiaweb.org/api/species/)                          |
+| `BIEN API (Botanical Information and Ecology Network)` | Plant biodiversity, vegetation, and ecological datasets.                                      | [Check Out](https://bien.nceas.ucsb.edu/bien/tools-api/)                   |
+| `POWO API (Plants of the World Online)` | Kew Garden’s plant taxonomy, species records, and botanical data.                             | [Check Out](https://powo.science.kew.org/) *(API via Kew API services)*     |
+| `BirdLife Data API` *(Limited)*       | Global bird species distribution and conservation data.                                         | [Check Out](https://www.birdlife.org/datazone/info/spcdownload)            |
+| `HerpMapper API`                      | Reptile and amphibian sighting and conservation data.                                           | [Check Out](https://www.herpmapper.org/data/) *(API access on request)*     |
 
 
 
