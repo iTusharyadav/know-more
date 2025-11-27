@@ -468,3 +468,40 @@
 | `NCI Thesaurus API`               | Comprehensive controlled vocabulary for cancer research.                                        | [Check Out](https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/Thesaurus.html) |
 | `OpenTrials API` *(Archived)*     | Global database of clinical trials and registry metadata.                                       | [Check Out](https://opentrials.net/api/) *(read-only)*                 |
 
+## Blockchain APIs 
+*APIs that provide access to blockchain networks, cryptocurrency transactions, smart contracts, wallets, NFTs, nodes, and distributed ledger technologies.*
+| **Technology**                     | **Description**                                                                 | **Official Documentation**                                             |
+|-----------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| `Ethereum JSON-RPC API`           | Standard RPC interface for interacting with Ethereum nodes and smart contracts. | [Check Out](https://ethereum.org/en/developers/docs/apis/json-rpc/)    |
+| `Infura Ethereum API`             | Scalable Ethereum/Layer-2 access without running your own node.                 | [Check Out](https://docs.infura.io/)                                   |
+| `Alchemy Web3 API`                | High-performance blockchain API for Ethereum, Polygon, Arbitrum, and more.      | [Check Out](https://docs.alchemy.com/)                                 |
+| `Moralis API`                     | Unified Web3 API for NFTs, balances, transactions, and multi-chain support.     | [Check Out](https://docs.moralis.io/)                                  |
+| `QuickNode API`                   | Fast blockchain node provider with NFT, token, and crypto endpoints.            | [Check Out](https://www.quicknode.com/docs)                            |
+| `Chainlink API`                   | Decentralized oracle network for smart contract data feeds and automation.      | [Check Out](https://docs.chain.link/)                                  |
+| `BlockCypher API`                 | Blockchain explorer and transaction API for Bitcoin, Litecoin, Dogecoin.        | [Check Out](https://www.blockcypher.com/dev/)                          |
+| `Blockchain.com API`              | Wallet, exchange, and Bitcoin blockchain access API.                             | [Check Out](https://www.blockchain.com/api)                            |
+| `Binance Blockchain API`          | Crypto trading, wallet management, and blockchain data for Binance Smart Chain. | [Check Out](https://developers.binance.com/)                           |
+| `Coinbase API`                    | Crypto wallet, trading, blockchain data, and payment APIs.                       | [Check Out](https://developers.coinbase.com/)                          |
+| `CoinGecko API`                   | Cryptocurrency prices, exchanges, tokens, and market data.                       | [Check Out](https://www.coingecko.com/en/api)                          |
+| `CoinMarketCap API`               | Crypto market data including prices, metadata, and exchange listings.            | [Check Out](https://coinmarketcap.com/api/documentation/v1/)           |
+| `Etherscan API`                   | Ethereum blockchain explorer API for blocks, transactions, tokens, and logs.    | [Check Out](https://docs.etherscan.io/)                                |
+| `Polygonscan API`                 | Blockchain explorer API for Polygon POS network.                                 | [Check Out](https://docs.polygonscan.com/)                             |
+| `Solscan API`                     | Solana blockchain explorer API for blocks, tokens, NFTs, and transactions.       | [Check Out](https://solana.com/developers) *(API links inside docs)*   |
+| `Solana JSON-RPC API`             | Native RPC API for interacting with Solana validators and nodes.                | [Check Out](https://docs.solana.com/developing/clients/jsonrpc-api)    |
+| `Blockchair API`                  | Multi-blockchain explorer API supporting Bitcoin, Ethereum, and others.          | [Check Out](https://blockchair.com/api/docs)                           |
+| `Tatum Blockchain API`            | Multi-chain API for NFTs, wallets, and smart contract deployment.                | [Check Out](https://docs.tatum.io/)                                    |
+| `Ankr API`                        | RPC/API provider for Ethereum, BSC, Polygon, Solana, and 20+ blockchains.        | [Check Out](https://www.ankr.com/docs/)                                |
+| `Web3.js API`                     | JavaScript library for interacting with Ethereum smart contracts.                | [Check Out](https://web3js.readthedocs.io/)                            |
+| `Web3.py API`                     | Python library for Ethereum blockchain communication.                             | [Check Out](https://web3py.readthedocs.io/)                            |
+| `TRON API`                        | Blockchain API for TRON smart contracts, transactions, and accounts.             | [Check Out](https://developers.tron.network/)                          |
+| `Ripple XRP Ledger API`           | API for XRP Ledger transactions, accounts, and payments.                          | [Check Out](https://xrpl.org/docs.html)                                |
+| `Hedera Hashgraph API`            | DLT APIs for Hedera’s tokens, consensus, accounts, and smart contracts.          | [Check Out](https://docs.hedera.com/)                                  |
+| `Near Protocol API`               | RPC access for Near blockchain smart contracts and accounts.                     | [Check Out](https://docs.near.org/api/rpc/introduction)                |
+| `Algorand API`                    | Blockchain API for assets, transactions, smart contracts, and accounts.          | [Check Out](https://developer.algorand.org/docs/)                      |
+| `Tezos API (Taquito / RPC)`       | Tezos blockchain RPC endpoints and SDK APIs.                                     | [Check Out](https://tezos.gitlab.io/api/)                              |
+| `Avalanche API`                   | RPC and indexer APIs for Avalanche C-Chain, X-Chain, and P-Chain.                | [Check Out](https://docs.avax.network/)                                |
+| `Cardano API (Blockfrost)`        | API to interact with the Cardano blockchain including assets and transactions.   | [Check Out](https://blockfrost.io/docs)                                |
+| `Flow API`                        | API for Flow blockchain (NBA Top Shot, NFTs, Web3 apps).                         | [Check Out](https://developers.flow.com/)                              |
+| `OpenSea API`                     | NFT marketplace API for collections, assets, events, and metadata.               | [Check Out](https://docs.opensea.io/)                                  |
+| `Rarible Protocol API`            | NFT minting, trading, and metadata API across multiple blockchains.              | [Check Out](https://rarible.org/developers)                            |
+
