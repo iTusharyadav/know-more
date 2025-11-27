@@ -505,3 +505,23 @@
 | `OpenSea API`                     | NFT marketplace API for collections, assets, events, and metadata.               | [Check Out](https://docs.opensea.io/)                                  |
 | `Rarible Protocol API`            | NFT minting, trading, and metadata API across multiple blockchains.              | [Check Out](https://rarible.org/developers)                            |
 
+## Blogging APIs 
+*APIs used for managing blogs, publishing posts, editing content, handling comments, CMS integrations, and retrieving blog data.*
+| **Technology**               | **Description**                                                                   | **Official Documentation**                                         |
+|------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| `WordPress REST API`         | Manage posts, media, comments, users, and settings for WordPress-powered sites.  | [Check Out](https://developer.wordpress.org/rest-api/)             |
+| `Blogger API (Google)`       | API for Google’s Blogger platform to manage posts, comments, and metadata.       | [Check Out](https://developers.google.com/blogger/docs/3.0/getting_started) |
+| `Ghost Content API`          | Read-only CMS API for retrieving posts, pages, tags, and authors.                | [Check Out](https://ghost.org/docs/content-api/)                   |
+| `Ghost Admin API`            | Full admin API for creating posts, managing content, tags, and scheduling.       | [Check Out](https://ghost.org/docs/admin-api/)                     |
+| `Medium API`                 | Publication API to fetch stories, user profiles, and publication posts.          | [Check Out](https://github.com/Medium/medium-api-docs) *(Archived)* |
+| `Tumblr API`                 | Blogging and social media content API for posts, media, and interactions.        | [Check Out](https://www.tumblr.com/docs/en/api/v2)                 |
+| `Dev.to (Forem) API`         | Developer blogging platform API for retrieving posts, users, and articles.        | [Check Out](https://developers.forem.com/api/)                     |
+| `Hashnode API`               | GraphQL API for blogs hosted on Hashnode including posts, tags, and profiles.    | [Check Out](https://hashnode.com/developers/api)                   |
+| `Write.as API`               | Minimal blogging platform API for creating and managing posts via REST.          | [Check Out](https://developers.write.as/docs/api/)                 |
+| `Microlink API`              | Extract metadata, snapshots, and content from blog URLs for embedding and previewing. | [Check Out](https://microlink.io/docs/api/getting-started)     |
+| `Notion API`                 | Allows creating blog-like content, managing pages, and publishing structured content. | [Check Out](https://developers.notion.com/)                   |
+| `Contentful API`             | Headless CMS API frequently used for blogs and publications.                     | [Check Out](https://www.contentful.com/developers/docs/)           |
+| `Sanity.io API`              | Headless CMS with structured content API used for blogs and editorial workflows. | [Check Out](https://www.sanity.io/docs/http-api)                   |
+| `Strapi API`                 | Headless CMS REST/GraphQL API for blog content management.                        | [Check Out](https://docs.strapi.io/)                               |
+| `Ghost Webhooks API`         | Event-driven system to automate blog workflows.                                   | [Check Out](https://ghost.org/docs/webhooks/)                      |
+
