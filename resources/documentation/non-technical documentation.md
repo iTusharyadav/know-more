@@ -443,4 +443,28 @@
 | `Kairos Face Recognition API` | Cloud-based facial biometrics including identification, verification, and facial features.       | [Check Out](https://www.kairos.com/docs/)                            |
 | `HOOYU Biometrics API`        | Offers biometric facial matching and digital identity verification for KYC processes.           | [Check Out](https://www.hooyu.com/) *(API via enterprise request)*   |
 
+## Biomedical APIs 
+*APIs providing medical research data, clinical trials, drug information, health studies, disease datasets, therapeutic research, and medical knowledge bases.*
+| **Technology**                     | **Description**                                                                                   | **Official Documentation**                                              |
+|-----------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| `PubMed API (NCBI E-Utilities)`   | Access to millions of biomedical research papers, abstracts, and citations.                      | [Check Out](https://www.ncbi.nlm.nih.gov/books/NBK25501/)              |
+| `ClinicalTrials.gov API`          | Clinical trial metadata, study details, eligibility criteria, results, and drug studies.         | [Check Out](https://clinicaltrials.gov/data-api)                       |
+| `NIH RePORTER API`                | NIH-funded research projects, grants, investigators, and biomedical funding data.                | [Check Out](https://api.reporter.nih.gov/)                             |
+| `DrugBank API`                    | Comprehensive drug data including interactions, pathways, chemical properties, and targets.      | [Check Out](https://www.drugbank.com/developers)                       |
+| `RxNorm API (NIH)`                | Normalized naming system for clinical drugs, mapping between drug vocabularies.                  | [Check Out](https://www.nlm.nih.gov/research/umls/rxnorm/index.html)   |
+| `MedlinePlus API`                 | Consumer-friendly health information about diseases, treatments, and drugs.                      | [Check Out](https://medlineplus.gov/xml.html)                          |
+| `OpenFDA API`                     | Public FDA data including drugs, devices, food safety, recalls, and adverse events.             | [Check Out](https://open.fda.gov/apis/)                                |
+| `WHO Global Health Observatory API` | Health-related statistics, disease data, mortality, and global health metrics.                 | [Check Out](https://ghoapi.azureedge.net/api/)                         |
+| `CDC Wonder API`                  | U.S. public health datasets including mortality, disease cases, and health statistics.            | [Check Out](https://wonder.cdc.gov/) *(API via backend endpoints)*     |
+| `ICD-10 API (WHO)`                | International Classification of Diseases coding system.                                          | [Check Out](https://icd.who.int/icdapi)                                |
+| `SNOMED CT API`                   | Clinical terminology standard for medical terms, diseases, and procedures.                       | [Check Out](https://www.snomed.org/snomed-ct/get-snomed)               |
+| `HPO API (Human Phenotype Ontology)` | Metadata describing human disease phenotypes for biomedical analysis.                         | [Check Out](https://hpo.jax.org/app/api)                               |
+| `BioPortal API (Biomedical Ontologies)` | Unified access to hundreds of biomedical and clinical ontologies.                          | [Check Out](https://bioportal.bioontology.org/documentation)           |
+| `Open Targets API`                | Disease-gene-drug relationships for therapeutic target discovery.                               | [Check Out](https://platform.opentargets.org/api)                      |
+| `EMR APIs via FHIR (HL7 FHIR Standard)` | Standard for accessing and exchanging electronic medical records.                           | [Check Out](https://www.hl7.org/fhir/)                                 |
+| `UMLS API`                        | Unified Medical Language System for mapping clinical terminology and concepts.                  | [Check Out](https://documentation.uts.nlm.nih.gov/uts-api/)            |
+| `Orphanet Rare Disease API`       | Information related to rare diseases, orphan drugs, and clinical features.                       | [Check Out](https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN)    |
+| `GARD API (Genetic and Rare Diseases)` | Provides genetic/rare disease information and mappings.                                    | [Check Out](https://rarediseases.info.nih.gov/about/api)               |
+| `NCI Thesaurus API`               | Comprehensive controlled vocabulary for cancer research.                                        | [Check Out](https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/Thesaurus.html) |
+| `OpenTrials API` *(Archived)*     | Global database of clinical trials and registry metadata.                                       | [Check Out](https://opentrials.net/api/) *(read-only)*                 |
 
