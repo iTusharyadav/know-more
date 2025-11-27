@@ -525,3 +525,92 @@
 | `Strapi API`                 | Headless CMS REST/GraphQL API for blog content management.                        | [Check Out](https://docs.strapi.io/)                               |
 | `Ghost Webhooks API`         | Event-driven system to automate blog workflows.                                   | [Check Out](https://ghost.org/docs/webhooks/)                      |
 
+## Booking APIs 
+*APIs used for reservations, scheduling, ticketing, hotel bookings, travel management, restaurants, events, and appointment systems.*
+| **Technology**                   | **Description**                                                                       | **Official Documentation**                                           |
+|----------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| `Booking.com API`                | Accommodation booking API for hotels, rooms, availability, and pricing.               | [Check Out](https://developers.booking.com/) *(Access restricted)*    |
+| `Airbnb API`                     | Rental and property booking data (official API limited; mostly partner-only).         | [Check Out](https://www.airbnb.com/partner) *(Partner API)*          |
+| `Expedia Rapid API`              | Hotel, flight, car rental booking, availability, and pricing information.             | [Check Out](https://developers.expediapartnersolutions.com/)         |
+| `Skyscanner API`                 | Flight search, prices, live quotes, hotel and car rental booking support.             | [Check Out](https://developers.skyscanner.net/)                      |
+| `Amadeus Travel API`             | Hotels, flights, car rentals, airport info, dates, and travel search services.        | [Check Out](https://developers.amadeus.com/)                         |
+| `Sabre APIs`                     | Airline booking, flight search, hotel reservations, and travel agency integrations.   | [Check Out](https://developer.sabre.com/)                            |
+| `Travelport API`                 | Airline tickets, hotels, car rentals, and global booking engine access.               | [Check Out](https://www.travelport.com/partners/developers)          |
+| `Hotels.com API`                 | Hotel listings, availability, reviews, and booking data.                              | [Check Out](https://developer.hotels.com/)                           |
+| `Agoda API`                      | Accommodation booking API offering hotels, deals, and travel stays.                   | [Check Out](https://partners.agoda.com/api/)                         |
+| `TripAdvisor API`                | Hotel, restaurant, and attraction data for travel apps.                               | [Check Out](https://developer-tripadvisor.com/content-api/)          |
+| `Trainline API`                  | European train ticket search, prices, and booking services.                           | [Check Out](https://www.thetrainline.com/) *(API partner-only)*      |
+| `OpenTable API`                  | Restaurant reservation API for tables, availability, restaurant data, and reviews.     | [Check Out](https://opentable.herokuapp.com/api/)                    |
+| `Eventbrite API`                 | Event ticketing, event search, attendee management, and reservations.                 | [Check Out](https://www.eventbrite.com/platform/api)                 |
+| `Ticketmaster API`               | Event ticketing, concerts, sports, and entertainment booking information.             | [Check Out](https://developer.ticketmaster.com/)                     |
+| `Google Calendar API`            | Appointment and scheduling system for creating events, reservations, and availability. | [Check Out](https://developers.google.com/calendar/api)              |
+| `Calendly API`                   | Appointment booking and automated scheduling API.                                     | [Check Out](https://developer.calendly.com/)                         |
+| `Rezdy API`                      | Booking system for tours and activities with availability, pricing, and reservations.  | [Check Out](https://developers.rezdy.com/)                           |
+| `FareHarbor API`                 | Tour/activity booking engine for reservations and availability management.            | [Check Out](https://fareharbor.com/developers/)                      |
+| `Checkfront API`                 | Booking platform for accommodations, tours, rentals, and event spaces.                | [Check Out](https://www.checkfront.com/developers/api)               |
+| `SimplyBook.me API`              | Appointment scheduling and booking system for services and events.                    | [Check Out](https://simplybook.me/en/api)                            |
+| `Square Appointments API`        | Booking and scheduling API integrated with Square POS.                                | [Check Out](https://developer.squareup.com/reference/square/appointments-api) |
+| `Zocdoc Scheduling API` *(Limited)* | Healthcare appointment booking and provider scheduling.                              | [Check Out](https://www.zocdoc.com/about/developers/) *(restricted)* |
+
+## Brand APIs 
+*APIs used for brand data, company info, brand monitoring, reputation analysis, and trademark information.*
+| **Technology**                    | **Description**                                                                      | **Official Documentation**                                          |
+|-----------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| `Brandfetch API`                  | Fetches company logos, colors, fonts, brand assets, and brand identity metadata.     | [Check Out](https://docs.brandfetch.com/)                           |
+| `Clearbit Logo & Company API`     | Provides company logos, branding, industry categories, and company metadata.         | [Check Out](https://dashboard.clearbit.com/docs)                    |
+| `Brandwatch API`                  | Brand monitoring, social listening, public sentiment analysis, and brand mentions.    | [Check Out](https://developers.brandwatch.com/)                     |
+| `BrandMentions API`               | Real-time brand monitoring, mentions tracking, and sentiment analytics.               | [Check Out](https://brandmentions.com/api/)                         |
+| `Crunchbase API`                  | Company profiles, branding details, funding, investors, and business metadata.        | [Check Out](https://data.crunchbase.com/docs)                       |
+| `OpenCorporates API`              | Official registered company data, identifiers, and legal entity brand information.    | [Check Out](https://api.opencorporates.com/documentation/API-Reference) |
+| `TrademarkVision API`             | AI-based image recognition API for trademarks and brand identity protection.         | [Check Out](https://trademark.vision/)                              |
+| `USPTO Trademark API`             | U.S. official trademark database: brand names, logos, applications, legal status.     | [Check Out](https://developer.uspto.gov/api-catalog/trademark)      |
+| `EUIPO API`                       | European Union trademark search & brand protection API.                              | [Check Out](https://developer.euipo.europa.eu/)                     |
+| `FullContact Company API`         | Brand identity data, logos, company metadata, location, and industry classification.  | [Check Out](https://www.fullcontact.com/developer/)                 |
+| `Peopledatalabs Company API`      | Accurate brand/company intelligence, tech stack data, and brand presence.             | [Check Out](https://docs.peopledatalabs.com/docs)                   |
+| `LogoHub API`                     | Retrieves company and brand logos with metadata and organization details.             | [Check Out](https://logohub.io/api-docs)                            |
+| `Owler API`                       | Brand and competitor insights, company profiles, and business data.                   | [Check Out](https://www.owler.com/developers)                       |
+
+## Broadcasting APIs 
+*APIs used for radio, TV streaming, live broadcast management, media transmission, and streaming metadata.*
+| **Technology**                    | **Description**                                                                  | **Official Documentation**                                             |
+|-----------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| `YouTube Live Streaming API`      | Live broadcast management — create, control, and monitor live streams.           | [Check Out](https://developers.google.com/youtube/v3/live)             |
+| `Twitch API`                      | Streaming platform API for videos, live streams, channels, and broadcast data.   | [Check Out](https://dev.twitch.tv/docs/api/)                           |
+| `Facebook Live API`               | Enables live broadcasting to Facebook Pages, Profiles, and Groups.               | [Check Out](https://developers.facebook.com/docs/live-video-api/)      |
+| `Vimeo Live API`                  | Live streaming creation, management, and video broadcasting tools.               | [Check Out](https://developer.vimeo.com/api/reference/live)            |
+| `Periscope / Twitter Live API`    | Live broadcasting API (legacy; partially deprecated after Twitter changes).      | [Check Out](https://developer.twitter.com/en/docs)                     |
+| `Dailymotion Live API`            | Offers live streaming, video broadcasting, and player integration.               | [Check Out](https://developer.dailymotion.com/)                        |
+| `Wowza Streaming Cloud API`       | Cloud-based live video streaming platform with real-time broadcasts.             | [Check Out](https://www.wowza.com/docs)                                |
+| `IBM Video Streaming API`         | Enterprise live broadcast platform for events and video delivery.                | [Check Out](https://video.ibm.com/developer)                           |
+| `Mux Live Streaming API`          | Video streaming, encoding, and live broadcast infrastructure.                    | [Check Out](https://docs.mux.com/)                                     |
+| `Livestream (Vimeo) API`          | Supports live video integration and broadcast management.                        | [Check Out](https://developer.vimeo.com/)                              |
+| `Streamlabs API`                  | Tools for broadcasters: overlays, alerts, and live streaming utilities.          | [Check Out](https://dev.streamlabs.com/)                               |
+| `OBS WebSocket API`               | Control OBS Studio for live broadcasting via API/WebSockets.                     | [Check Out](https://github.com/obsproject/obs-websocket)               |
+| `Red5 Pro Streaming API`          | Real-time broadcasting, low-latency streaming, and multi-device streaming.       | [Check Out](https://www.red5pro.com/docs/)                             |
+| `Brightcove Live API`             | Enterprise live-streaming management for events and broadcasts.                  | [Check Out](https://apis.support.brightcove.com/live-api/)             |
+| `Akamai Media Delivery API`       | Professional broadcast delivery, stream handling, and CDN distribution.           | [Check Out](https://techdocs.akamai.com/)                              |
+
+## Browser APIs 
+*APIs and interfaces used to interact with web browsers, extensions, automation, rendering engines, and browser-level capabilities.*
+| **Technology**                     | **Description**                                                                 | **Official Documentation**                                                |
+|------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| `Chrome Extensions API`            | APIs for building Chrome browser extensions and interacting with browser features.| [Check Out](https://developer.chrome.com/docs/extensions/)               |
+| `Firefox Add-ons API`              | APIs for building Firefox extensions using WebExtensions.                       | [Check Out](https://extensionworkshop.com/documentation/publish/)        |
+| `Edge Extensions API`              | Microsoft Edge extension APIs built on WebExtensions.                           | [Check Out](https://learn.microsoft.com/en-us/microsoft-edge/extensions/)|
+| `Safari Extensions API`            | APIs for building Safari browser extensions.                                    | [Check Out](https://developer.apple.com/safari/extensions/)              |
+| `WebExtensions API`                | Unified cross-browser API standard for extensions on Chrome, Firefox, Edge, etc.| [Check Out](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) |
+| `Web APIs (MDN)`                   | Standard browser APIs: DOM, Fetch, Storage, WebRTC, Canvas, etc.                | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API)            |
+| `WebDriver (W3C)`                  | Standard for browser automation and control used by Selenium.                   | [Check Out](https://www.w3.org/TR/webdriver/)                           |
+| `Selenium WebDriver`               | Browser automation framework for testing and automation.                         | [Check Out](https://www.selenium.dev/documentation/)                     |
+| `Puppeteer`                        | Headless Chrome/Chromium automation API.                                        | [Check Out](https://pptr.dev/)                                           |
+| `Playwright`                       | Cross-browser automation for Chromium, Firefox, and WebKit.                     | [Check Out](https://playwright.dev/docs/intro)                           |
+| `Chrome DevTools Protocol`         | Low-level Chrome debugging, profiling, and browser automation.                  | [Check Out](https://chromedevtools.github.io/devtools-protocol/)         |
+| `Firefox Remote Protocol`          | Remote debugging API for Firefox.                                               | [Check Out](https://firefox-source-docs.mozilla.org/)                    |
+| `WebRTC API`                       | Real-time audio/video communication in browsers.                                 | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) |
+| `Web Speech API`                   | Browser API for voice recognition and speech synthesis.                          | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) |
+| `IndexedDB API`                    | Client-side storage API in browsers for structured data.                         | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) |
+| `Service Workers API`              | Offline caching, push notifications, and background sync.                        | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) |
+| `Canvas API`                       | 2D graphics drawing and rendering in browser.                                    | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) |
+| `WebGL API`                        | 3D graphics rendering using GPU inside browser.                                  | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)  |
+| `Viewport API`                     | Browser viewport and layout-related capabilities.                                | [Check Out](https://developer.mozilla.org/en-US/docs/Web/CSS/viewport)   |
+
