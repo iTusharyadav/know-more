@@ -614,3 +614,121 @@
 | `WebGL API`                        | 3D graphics rendering using GPU inside browser.                                  | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)  |
 | `Viewport API`                     | Browser viewport and layout-related capabilities.                                | [Check Out](https://developer.mozilla.org/en-US/docs/Web/CSS/viewport)   |
 
+## Business APIs 
+*APIs related to business operations, CRM, ERP, invoicing, HR, productivity, project management, and enterprise solutions.*
+| **Technology**                       | **Description**                                                                        | **Official Documentation**                                               |
+|--------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| `Salesforce API`                     | CRM platform API for leads, contacts, accounts, workflows, automation, and analytics.  | [Check Out](https://developer.salesforce.com/docs)                       |
+| `HubSpot API`                        | CRM, sales, marketing, and customer management platform APIs.                          | [Check Out](https://developers.hubspot.com/docs)                         |
+| `Zoho CRM API`                       | Customer relationship management API for leads, sales, automation, and analytics.       | [Check Out](https://www.zoho.com/crm/developer/docs/)                    |
+| `Freshdesk API`                      | Customer support, tickets, automation, and helpdesk platform API.                      | [Check Out](https://developers.freshdesk.com/api/)                       |
+| `Freshsales API`                     | CRM automation for sales pipelines, contacts, deals, and tasks.                        | [Check Out](https://developers.freshworks.com/crm/)                      |
+| `SAP Business One API`               | Enterprise resource planning (ERP), operations, finance, and logistics integrations.    | [Check Out](https://help.sap.com/docs)                                   |
+| `Oracle NetSuite API`                | Cloud ERP API for inventory, finance, eCommerce, and business management.              | [Check Out](https://docs.oracle.com/en/cloud/saas/netsuite/)             |
+| `Microsoft Dynamics 365 API`         | CRM + ERP platform for business operations, sales, finance, HR, and supply chain.      | [Check Out](https://learn.microsoft.com/en-us/dynamics365/)              |
+| `QuickBooks Online API`              | Accounting, invoicing, payroll, and financial operations API for businesses.           | [Check Out](https://developer.intuit.com/app/developer/qbo/docs)         |
+| `Xero API`                           | Business accounting API for invoices, payments, payroll, and taxation.                 | [Check Out](https://developer.xero.com/)                                 |
+| `Stripe Billing API`                 | Subscription billing, invoicing, financial operations for SaaS businesses.             | [Check Out](https://stripe.com/docs/api/billing)                         |
+| `Square Business API`                | Payments, POS, payroll, inventory, customer profiles, and business analytics.          | [Check Out](https://developer.squareup.com/)                             |
+| `SAP Concur API`                     | Business travel, expense management, and corporate spending automation.                 | [Check Out](https://developer.concur.com/api-reference)                  |
+| `Workday API`                        | HR, finance, recruiting, and enterprise workforce management.                          | [Check Out](https://community.workday.com/api) *(login required)*        |
+| `Odoo ERP API`                       | Open-source ERP API for business processes: CRM, inventory, sales, HR, finances.       | [Check Out](https://www.odoo.com/documentation)                          |
+| `Monday.com API`                     | Work OS for project management, workflows, automation, and collaboration.             | [Check Out](https://api.developer.monday.com/docs)                       |
+| `Asana API`                          | Project/task management API for workflows, teams, productivity, and business ops.      | [Check Out](https://developers.asana.com/docs)                           |
+| `Trello API`                         | Kanban-based task and project management API.                                          | [Check Out](https://developer.atlassian.com/cloud/trello/rest/)          |
+| `Slack API`                          | Business communication, messaging, bots, and workflow automation.                      | [Check Out](https://api.slack.com/)                                      |
+| `Notion API`                         | Workspace API for docs, databases, task management, and business organization.         | [Check Out](https://developers.notion.com/)                              |
+| `Airtable API`                       | Business database + spreadsheet API for workflows, automation, and operations.         | [Check Out](https://airtable.com/developers/web/api/introduction)        |
+| `Bitrix24 API`                       | CRM, project management, helpdesk, collaboration, and business tools.                  | [Check Out](https://training.bitrix24.com/rest_help/)                    |
+| `Intercom API`                       | Customer engagement, messaging, and business communication tools.                      | [Check Out](https://developers.intercom.com/)                            |
+| `Pipedrive API`                      | Sales CRM for leads, deals, pipelines, and workflow automation.                        | [Check Out](https://developers.pipedrive.com/docs/api)                   |
+| `Zoho Books API`                     | Business accounting, invoices, payments, and financial operations.                     | [Check Out](https://www.zoho.com/books/api/v3/)                          |
+| `Wave Accounting API`                | Free business accounting API for invoices, receipts, and bookkeeping.                  | [Check Out](https://developer.waveapps.com/hc/en-us)                     |
+
+## Budgeting APIs 
+*APIs related to personal finance management, budgeting apps, expense tracking, savings automation, and financial planning tools.*
+| **Technology**                     | **Description**                                                                     | **Official Documentation**                                                |
+|------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| `YNAB (You Need A Budget) API`     | Personal budgeting API for accounts, transactions, budgets, and goals.              | [Check Out](https://api.youneedabudget.com/)                             |
+| `Mint API (Unofficial)`            | Personal finance aggregation, budgets, and spending insights.                       | [Check Out](https://mint.intuit.com/) *(No official public API)*         |
+| `PocketSmith API`                  | Budgeting and forecasting API for accounts, categories, and financial events.        | [Check Out](https://developers.pocketsmith.com/)                          |
+| `Tiller Money API` *(Spreadsheet-based)* | Pulls financial/budgeting data into Google Sheets/Excel.                         | [Check Out](https://help.tillerhq.com/en/collections/1939773-tiller-api) |
+| `GoodBudget API` *(Unofficial)*    | Envelope-style budgeting and personal finance management.                            | [Check Out](https://goodbudget.com/)                                     |
+| `EveryDollar API` *(Unofficial)*   | Budget planning and monthly expense tracking.                                        | [Check Out](https://www.everydollar.com/)                                |
+| `Simplifi by Quicken API`          | Budgeting, spending tracking, and financial planning API.                            | [Check Out](https://www.quicken.com/simplifi)                            |
+| `MoneyLover API` *(Unofficial)*    | Expense tracking, categorization, and budgeting platform.                            | [Check Out](https://moneylover.me/)                                      |
+| `Wally API` *(Unofficial)*         | Budgeting and personal financial planning for tracking expenses.                     | [Check Out](https://wally.me/)                                           |
+| `Emma Budgeting API` *(Unofficial)*| Money management, budgeting analytics, and subscriptions tracking.                    | [Check Out](https://emma-app.com/)                                       |
+| `Monarch Money API` *(Partner)*    | Budgeting, portfolio tracking, and holistic finance management tools.                | [Check Out](https://help.monarchmoney.com/en/articles/5555338-is-there-an-api) |
+| `Buxfer API`                       | Personal budgeting, forecasting, and expense categorization.                          | [Check Out](https://www.buxfer.com/help/api)                             |
+| `CountAbout API`                   | Budget tracking, expense syncing, and financial reporting.                           | [Check Out](https://countabout.com/api/)                                 |
+
+## Building & Construction APIs 
+*APIs related to architecture, construction management, blueprints, inspections, field reporting, and project site operations.*
+| **Technology**                     | **Description**                                                                 | **Official Documentation**                                                |
+|------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| `AutoDesk Construction Cloud API`  | Tools for construction workflows, project data, models, and field management.   | [Check Out](https://aps.autodesk.com/en/docs/)                           |
+| `AutoDesk BIM 360 API`             | Building Information Modeling (BIM) for design, construction, and project data. | [Check Out](https://aps.autodesk.com/en/docs/bim360/v1/overview/)        |
+| `Procore API`                      | Construction project management: budgets, RFIs, drawings, inspections, and tasks.| [Check Out](https://developers.procore.com/)                             |
+| `Trimble Construction One API`     | Construction operations, project scheduling, and infrastructure data tools.      | [Check Out](https://developer.trimble.com/)                              |
+| `PlanGrid API` (Autodesk)          | Construction drawings, sheets, tasks, and field reporting data.                  | [Check Out](https://aps.autodesk.com/en/docs/plangrid/v2/)               |
+| `Bluebeam Studio API`              | Revisions, markups, PDFs, and construction document collaboration workflows.     | [Check Out](https://developers.bluebeam.com/)                            |
+| `Fieldwire API`                    | Construction field task management and jobsite coordination.                     | [Check Out](https://www.fieldwire.com/api/)                              |
+| `Buildertrend API`                 | Construction project workflow automation, bids, scheduling, and client portals.  | [Check Out](https://developer.buildertrend.net/)                         |
+| `CoConstruct API` *(Now part of Buildertrend)* | Residential construction management for custom builders.         | [Check Out](https://www.buildertrend.com/)                              |
+| `Newforma API`                     | Project information management for AEC (Architecture, Engineering, Construction).| [Check Out](https://newforma.com/) *(limited public API)*               |
+| `SmartUse API`                     | Construction plans, markups, documents, and field productivity tools.            | [Check Out](https://smartuse.com/) *(API on request)*                   |
+| `OpenBuildings API`                | Building information system and architectural modeling platform.                 | [Check Out](https://www.bentley.com/software/openbuildings/)            |
+| `Bentley iTwin API`                | Digital twin modeling for infrastructure and buildings.                          | [Check Out](https://developer.bentley.com/apis/overview/)                |
+| `ProjectSight API` (Trimble)       | Construction project management focusing on cost, documents, and fieldwork.      | [Check Out](https://projectsight.trimble.com/) *(API via partners)*      |
+
+## Bus & Public Transport APIs 
+*APIs related to buses, transit schedules, routes, stops, live tracking, ticketing, and public transportation data.*
+| **Technology**                     | **Description**                                                                       | **Official Documentation**                                                |
+|------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| `Google Transit / GTFS API`        | Standard dataset for bus routes, stops, schedules, fares, and live transit updates.   | [Check Out](https://developers.google.com/transit)                       |
+| `TransitLand API`                  | Global public transport data: bus agencies, routes, schedules, and real-time feeds.   | [Check Out](https://www.transit.land/documentation/)                     |
+| `TransportAPI (UK)`                | UK bus schedules, stops, arrivals, live departures, and timetables.                   | [Check Out](https://developer.transportapi.com/)                         |
+| `Here Transit API`                 | Bus routes, pedestrian links, trip planning, and live transit information.            | [Check Out](https://developer.here.com/documentation/transit)            |
+| `TomTom Public Transport API`      | Public transit routes, bus information, and schedule planning.                        | [Check Out](https://developer.tomtom.com/)                               |
+| `OpenTripPlanner API`              | Open-source trip planning for buses, trains, ferries, and multimodal routes.          | [Check Out](https://docs.opentripplanner.org/)                           |
+| `Navitia API`                      | Worldwide bus transit coverage, schedules, journeys, and disruptions.                 | [Check Out](https://doc.navitia.io/)                                     |
+| `Moovit API` *(Partner Only)*      | Real-time bus arrival predictions, crowdsourced transit data, and multimodal routes.  | [Check Out](https://moovit.com/) *(Partner API)*                         |
+| `Transport for London (TfL) API`   | London bus stops, routes, arrival times, and disruption alerts.                       | [Check Out](https://api.tfl.gov.uk/)                                     |
+| `MBTA API` (Boston)                | Bus schedules, shapes, service alerts, real-time bus locations and predictions.       | [Check Out](https://api-v3.mbta.com/docs)                                |
+| `CTA Bus Tracker API` (Chicago)    | Real-time bus locations, predicted arrivals, and route status.                        | [Check Out](https://www.transitchicago.com/developers/bustracker/)       |
+| `WMATA Bus API` (Washington DC)    | Bus route schedules, real-time location data, and alerts.                             | [Check Out](https://developer.wmata.com/)                                |
+| `TransLink API` (Vancouver)        | Bus routes, stop info, predictions, and service alerts in Metro Vancouver.            | [Check Out](https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources) |
+| `Société de transport de Montréal (STM) API` | Bus routes, schedules, and real-time departures.                        | [Check Out](https://www.stm.info/en/about/developers)                    |
+| `Delhi Transport Corporation (DTC) API` *(Limited)* | Bus stops, routes, and estimated arrivals for Delhi buses.            | [Check Out](https://dtc.delhi.gov.in/)                                   |
+| `RapidKL API` *(Malaysia)*         | Kuala Lumpur bus routes, service details, and transit data.                            | [Check Out](https://myrapid.com.my/)                                     |
+| `OpenMobilityData (GTFS Archive)`  | Bus GTFS datasets from hundreds of agencies worldwide.                                 | [Check Out](https://openmobilitydata.org/)                               |
+| `NextBus/API`                      | Real-time bus predictions, arrival times, and stops (used by many US transit systems). | [Check Out](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf)       |
+
+## Buying & Shopping APIs 
+*APIs related to e-commerce purchasing, product search, catalogs, pricing, deals, carts, online marketplaces, and shopping automation.*
+| **Technology**                        | **Description**                                                                       | **Official Documentation**                                                  |
+|---------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| `Amazon Product Advertising API`      | Product search, reviews, pricing, images, deals, and product metadata for Amazon.      | [Check Out](https://webservices.amazon.com/paapi5/documentation/)          |
+| `eBay Buy API`                        | Product search, details, item lookup, pricing, order management, and shopping tools.   | [Check Out](https://developer.ebay.com/api-docs/buy/static/overview.html)  |
+| `Walmart Marketplace API`             | Product listings, inventory, pricing, orders, and shopping operations.                 | [Check Out](https://developer.walmart.com/api/us/mp)                       |
+| `AliExpress API`                      | Access to AliExpress products, pricing, affiliate links, and shopping data.            | [Check Out](https://portals.aliexpress.com/help/affiliate/api/)            |
+| `Flipkart Affiliate API`              | Product search, categories, deals, and affiliate shopping integrations.                | [Check Out](https://affiliate.flipkart.com/api-docs)                       |
+| `Rakuten Marketplace API`             | Shopping, product discovery, affiliate marketing, and deals data.                      | [Check Out](https://developers.rakuten.com/)                               |
+| `BestBuy API`                         | Products, prices, availability, categories, reviews, and deals.                        | [Check Out](https://bestbuyapis.github.io/api-documentation/)              |
+| `Target API` *(Unofficial)*           | Product data, pricing, and retail shopping info.                                       | [Check Out](https://developer.target.com/) *(limited)*                      |
+| `Shopify Storefront API`              | Product listings, carts, checkout, customer data, and e-commerce storefront tools.     | [Check Out](https://shopify.dev/docs/api/storefront)                        |
+| `Shopify Admin API`                   | Store management: products, orders, collections, fulfillment, and shopping flows.      | [Check Out](https://shopify.dev/docs/api/admin)                             |
+| `Magento (Adobe Commerce) API`        | E-commerce platform API for stores, shopping carts, checkout, customers, and orders.   | [Check Out](https://developer.adobe.com/commerce/webapi/rest/)              |
+| `WooCommerce REST API`                | WordPress-based e-commerce API: products, carts, orders, payments.                     | [Check Out](https://woocommerce.github.io/woocommerce-rest-api-docs/)       |
+| `BigCommerce API`                     | Product catalogs, checkout, orders, storefront data, and e-commerce operations.        | [Check Out](https://developer.bigcommerce.com/api-docs)                     |
+| `Etsy API`                            | Marketplace for handmade/vintage products: listings, shops, carts, and orders.         | [Check Out](https://developers.etsy.com/documentation/reference/)          |
+| `MercadoLibre API`                    | Latin American shopping marketplace for items, listings, carts, and sales.             | [Check Out](https://developers.mercadolibre.com.ar/en_us/api-docs)         |
+| `OpenCart API`                        | Product, category, order, and customer APIs for the OpenCart e-commerce platform.      | [Check Out](https://docs.opencart.com/en-gb/system/users/api/)              |
+| `Gumroad API`                         | API for selling digital products, subscriptions, and downloads.                        | [Check Out](https://gumroad.com/api)                                       |
+| `Reverb API`                          | Marketplace API for musical instruments—listings, products, orders, prices.            | [Check Out](https://dev.reverb.com/)                                       |
+| `Newegg Marketplace API`              | Product listings, pricing, order creation, and inventory for tech shopping.            | [Check Out](https://developer.newegg.com/)                                 |
+| `AliBaba API` *(Limited)*             | Product search and sourcing for wholesale buying and B2B shopping.                     | [Check Out](https://open.alibaba.com/)                                     |
+| `PriceRunner API` *(Price Comparison)*| Shopping price comparison for products across multiple vendors.                         | [Check Out](https://www.pricerunner.com/) *(API via partnership)*          |
+| `PriceSpider API`                     | “Where to buy” data, retailer availability, product shopping links.                    | [Check Out](https://www.pricespider.com/) *(API on request)*               |
+
