@@ -750,3 +750,28 @@
 | `Jira Calendar API` *(via integration)* | Export and sync Jira issues as events on calendars.              | [Check Out](https://developer.atlassian.com/cloud/jira/platform/rest/v3/)  |
 | `Nextcloud Calendar API`     | Self-hosted calendar events, reminders, and CalDAV sync.                 | [Check Out](https://docs.nextcloud.com/server/latest/developer_manual/)     |
 
+## Car APIs 
+*APIs related to automobiles, vehicle data, diagnostics, telematics, maintenance, EVs, and connected-car services.*
+| **Technology**                 | **Description**                                                                       | **Official Documentation**                                                  |
+|--------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| `Mercedes-Benz Connected Vehicle API` | Vehicle data, status, telematics, maintenance, location, and remote operations. | [Check Out](https://developer.mercedes-benz.com/)                          |
+| `BMW CarData API`              | Connected vehicle data including status, telematics, and maintenance logs.           | [Check Out](https://www.bmw.com/en/footer/developer.html)                  |
+| `Volvo Cars API`               | Access to vehicle data, EV charging, location, remote functions.                     | [Check Out](https://developer.volvocars.com/)                              |
+| `Tesla API` *(Unofficial)*     | Vehicle stats, battery, climate control, charging, and remote access.                 | [Check Out](https://tesla-api.timdorr.com/) *(Unofficial)*                 |
+| `Ford Connected Vehicle API`   | Vehicle telemetry, maintenance, health, remote lock/unlock, and EV charging.          | [Check Out](https://developer.ford.com/apis)                               |
+| `GM OnStar API`                | Telematics, location data, vehicle health, diagnostics, and remote features.          | [Check Out](https://developer.gm.com/)                                     |
+| `Toyota Developer API`        | Connected services for connected Toyota vehicles.                                     | [Check Out](https://www.toyota.com/developers/)                            |
+| `Hyundai BlueLink API` *(Unofficial)* | Vehicle remote start, climate, charging status, and telematics.               | [Check Out](https://github.com/Hacksore/bluelinky) *(Unofficial)*          |
+| `Kia UVO API` *(Unofficial)*   | Vehicle control features such as lock, climate, and reports.                          | [Check Out](https://github.com/Hyundai-Kia-Connect/kia_uvo) *(Unofficial)* |
+| `Otonomo Vehicle Data API`     | Fleet, telematics, sensor data, driving behavior, and vehicle mobility data.          | [Check Out](https://developer.otonomo.io/)                                 |
+| `Smartcar API`                 | Universal API for vehicle telematics, EV charging, mileage, engine, diagnostics.      | [Check Out](https://smartcar.com/docs/)                                    |
+| `High Mobility Auto API`       | API platform for vehicle data across car manufacturers.                               | [Check Out](https://high-mobility.com/)                                    |
+| `VinAudit API`                 | API for vehicle history, ownership, title checks, and VIN validation.                 | [Check Out](https://www.vinaudit.com/developers)                           |
+| `CARFAX API` *(On request)*    | Vehicle history reports including accidents, owners, service records.                 | [Check Out](https://www.carfax.com/partners)                               |
+| `NHTSA Vehicle API`            | US vehicle safety, recall data, manufacturers, and VIN decoding.                      | [Check Out](https://vpic.nhtsa.dot.gov/api/)                               |
+| `Edmunds Vehicle API`          | Car specs, pricing, inventory, reviews, and vehicle comparisons.                      | [Check Out](https://developer.edmunds.com/) *(archived)*                   |
+| `AutoCheck API` *(Partner)*    | Vehicle history reporting similar to CARFAX.                                          | [Check Out](https://www.autocheck.com/partners)                            |
+| `OpenXC API`                   | Open-source vehicle telemetry data interface from Ford.                               | [Check Out](https://openxcplatform.com/)                                   |
+| `PlugShare API` *(Unofficial)* | EV charging stations, routes, and charger availability.                               | [Check Out](https://www.plugshare.com/) *(No official API)*                |
+| `ChargePoint API`              | Electric vehicle charging station locations, status, prices.                          | [Check Out](https://www.chargepoint.com/drivers/api)                       |
+
