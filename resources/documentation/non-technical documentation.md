@@ -889,3 +889,30 @@
 | `Viber API`                   | Messaging, bots, webhooks, and delivery events.                                       | [Check Out](https://developers.viber.com/docs/api/rest-bot-api/)       |
 | `LINE Messaging API`          | Messaging, rich menus, flex messages, and bot automation.                             | [Check Out](https://developers.line.biz/en/docs/messaging-api/)        |
 
+## Cinemas & Movie APIs 
+*Movies, cinemas, TV shows, streaming info, actors, metadata, ratings, subtitles.*
+| **Technology**                    | **Description**                                                               | **Official Documentation**                                                   |
+|----------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| `IMDb API (Unofficial)`          | Movie metadata, cast, crew, ratings, box office, summaries.                   | [Check Out](https://imdb-api.com/)                                           |
+| `OMDb API`                       | Open Movie Database with titles, ratings, posters, and film metadata.         | [Check Out](https://omdbapi.com/)                                            |
+| `TMDb (The Movie Database)`      | Movies, TV shows, credits, posters, images, trending lists.                   | [Check Out](https://developer.themoviedb.org/)                               |
+| `TVMaze API`                     | TV series, episodes, schedules, people, search.                               | [Check Out](https://www.tvmaze.com/api)                                      |
+| `JustWatch API (Unofficial)`     | Where to watch movies/TV across streaming platforms.                          | [Check Out](https://justwatch.com)                                           |
+| `Trakt API`                      | Movie/TV tracking, watch history, ratings, lists, users.                      | [Check Out](https://trakt.docs.apiary.io/)                                   |
+| `Utelly API` (via RapidAPI)      | Streaming availability across platforms.                                       | [Check Out](https://rapidapi.com/utelly/api/utelly)                          |
+| `Guidebox API (Deprecated)`      | Movie & show discovery across services (included for completeness).           | [Check Out](https://www.guidebox.com/)                                       |
+| `MovieLens API`                  | Movie ratings, tags, datasets for recommendation systems.                     | [Check Out](https://grouplens.org/datasets/movielens/)                       |
+| `KinoPoisk API (Unofficial)`     | Russian cinema data: films, series, actors, ratings.                          | [Check Out](https://kinopoiskapiunofficial.tech/)                            |
+| `OpenSubtitles API`              | Subtitles for movies/TV, downloads, uploading.                                | [Check Out](https://www.opensubtitles.com/docs/api/html/index.htm)          |
+| `YouTube Movies API (via YT Data)` | Retrieve movie trailers, channels, metadata using YouTube Data API.        | [Check Out](https://developers.google.com/youtube/v3)                        |
+| `Netflix Roulette API (Unofficial)` | Random Netflix movie/show suggestions.                                     | [Check Out](https://netflixroulette.net/api/)                               |
+| `Apple TV API (via iTunes API)`  | TV & movie metadata, search, pricing, availability.                           | [Check Out](https://developer.apple.com/library/archive/documentation/AudioVideo/) |
+| `Amazon Prime Video (Unofficial)` | Metadata, show/movie listings (no official public API).                      | [Check Out](https://rapidapi.com/search/amazon%20prime)                      |
+| `Rotten Tomatoes API (Private)`  | Critical ratings, reviews (no public API but included for completeness).      | [Check Out](https://www.rottentomatoes.com/)                                 |
+| `Fandango API (Unofficial)`      | Movie showtimes, cinemas, ticket availability.                                | [Check Out](https://developer.fandango.com/)                                 |
+| `CineWorld API`                  | UK cinema chain: showtimes, films, schedules.                                 | [Check Out](https://www.cineworld.co.uk/developer/api)                       |
+| `Cinemark API (Unofficial)`      | Showtimes, theatres, cinema listings.                                         | [Check Out](https://www.cinemark.com/)                                       |
+| `Regal Cinemas API (Unofficial)` | Movie times, cinema locations.                                                | [Check Out](https://www.regmovies.com/)                                      |
+| `Box Office Mojo (Unofficial)`   | Movie box-office statistics and performance data.                             | [Check Out](https://www.boxofficemojo.com/)                                  |
+| `Letterboxd API (Unofficial)`    | Movies, lists, reviews, user diaries.                                         | [Check Out](https://letterboxd.com/api-beta/)                                |
+
