@@ -800,3 +800,27 @@
 | `HID Access Control API`       | Smart card, RFID, and NFC badge access management for facilities.                     | [Check Out](https://developer.hidglobal.com/)                              |
 | `Library Card System APIs`     | Library membership cards, borrowing privileges, and card validation.                  | [Check Out](https://www.oCLC.org/developer/home.en.html)                   |
 
+## Career & Job APIs 
+*APIs related to job listings, recruitment, resumes, hiring platforms, employer data, and career insights.*
+| **Technology**                     | **Description**                                                                       | **Official Documentation**                                                   |
+|------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| `LinkedIn Jobs API` *(Partner Only)* | Job listings, applications, employer data, and recruitment insights.              | [Check Out](https://learn.microsoft.com/linkedin/talent/)                   |
+| `Indeed Job Search API`            | Global job search, listings, salaries, and company reviews.                           | [Check Out](https://developer.indeed.com/)                                   |
+| `Glassdoor API` *(Partner Only)*   | Employer reviews, salaries, job listings, and career insights.                        | [Check Out](https://www.glassdoor.com/developer/index.htm)                  |
+| `ZipRecruiter API`                 | Job listings, salary ranges, and hiring marketplace data.                             | [Check Out](https://www.ziprecruiter.com/partner)                           |
+| `Adzuna Jobs API`                  | Job search, salaries, location-based employment data.                                  | [Check Out](https://developer.adzuna.com/)                                   |
+| `CareerJet API`                    | Aggregated job listings across global job markets.                                     | [Check Out](https://www.careerjet.com/partners/api/)                         |
+| `Monster Jobs API` *(Limited)*     | Job postings, resumes, and employer–candidate matching.                                | [Check Out](https://developer.monster.com/)                                  |
+| `USAJOBS API`                      | Official US Government job listings & federal employment data.                         | [Check Out](https://developer.usajobs.gov/)                                  |
+| `Jobs2Careers API` *(Partner)*     | Job listings from multiple job boards and hiring networks.                             | [Check Out](https://www.jobs2careers.com/)                                   |
+| `Reed.co.uk Jobs API`              | UK job listings, recruitment data, and employer details.                               | [Check Out](https://www.reed.co.uk/developers)                               |
+| `Workable API`                     | Applicant tracking, job post management, candidates, and hiring workflows.             | [Check Out](https://workable.readme.io/)                                     |
+| `Greenhouse API`                   | ATS system API for job openings, candidates, interviews, and hiring workflows.         | [Check Out](https://developers.greenhouse.io/)                               |
+| `Lever API`                        | Recruitment and ATS platform for candidates, applications, and jobs.                   | [Check Out](https://developers.lever.co/)                                    |
+| `Breezy HR API`                    | End-to-end recruiting, jobs, interviews, and candidate pipelines.                      | [Check Out](https://developer.breezy.hr/)                                    |
+| `SmartRecruiters API`              | Job postings, applications, hiring data, and recruitment analytics.                    | [Check Out](https://dev.smartrecruiters.com/)                                |
+| `Workday Recruiting API`           | HR, job postings, recruiting workflows (enterprise HR system).                         | [Check Out](https://community.workday.com/api)                               |
+| `Otta API` *(Unofficial)*          | Job opportunities and career insights for tech roles.                                  | [Check Out](https://otta.com/)                                               |
+| `Jooble Jobs API`                  | Job search API pulling listings from multiple career websites.                          | [Check Out](https://jooble.org/api)                                          |
+| `Talent.com API`                   | Job listings, salary insights, employer data.                                           | [Check Out](https://ca.talent.com/api)                                       |
+| `JobsGO API` *(Vietnam)*           | Local job listings and recruitment data for Vietnam.                                    | [Check Out](https://jobsgo.vn/)                                              |
