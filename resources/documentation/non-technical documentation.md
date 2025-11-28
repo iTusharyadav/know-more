@@ -775,3 +775,28 @@
 | `PlugShare API` *(Unofficial)* | EV charging stations, routes, and charger availability.                               | [Check Out](https://www.plugshare.com/) *(No official API)*                |
 | `ChargePoint API`              | Electric vehicle charging station locations, status, prices.                          | [Check Out](https://www.chargepoint.com/drivers/api)                       |
 
+## Card APIs 
+*APIs related to ID cards, loyalty cards, membership systems, access cards, identification, and card-based services.*
+| **Technology**                 | **Description**                                                                       | **Official Documentation**                                                  |
+|--------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| `Aadhaar Authentication API` (India) | National ID system for identity verification, eKYC, and authentication.        | [Check Out](https://uidai.gov.in/)                                         |
+| `Aadhaar KYC API`              | Paperless KYC using Aadhaar eKYC data.                                                | [Check Out](https://uidai.gov.in/)                                         |
+| `Aadhaar e-Sign API`           | Digital signature using Aadhaar authentication.                                       | [Check Out](https://uidai.gov.in/esign.html)                               |
+| `PAN Verification API` (India) | Permanent Account Number validation for tax/regulatory identification.                | [Check Out](https://www.onlineservices.nsdl.com/)                           |
+| `Smart-ID API` (EU/Baltics)    | Digital identity and authentication through a secure ID system.                      | [Check Out](https://www.smart-id.com/)                                     |
+| `Estonian e-Residency API`     | Digital identity card & ID-based authentication for Estonia’s e-Gov ecosystem.       | [Check Out](https://e-resident.gov.ee/)                                    |
+| `eIDAS API` (EU Identity)      | European digital identity framework for ID cards and authentication.                  | [Check Out](https://digital-strategy.ec.europa.eu/en/policies/eidas)       |
+| `National Insurance Card API` (UK)* | Citizen identification & verification data (limited access).                      | [Check Out](https://www.gov.uk/national-insurance)                         |
+| `Driving Licence Verification API` (India) | Vehicle licence number authentication and ID validation.               | [Check Out](https://parivahan.gov.in/)                                     |
+| `Voter ID Verification API` (India) | Electoral identity verification.                                         | [Check Out](https://www.nvsp.in/)                                          |
+| `Health ID (ABHA) API` (India) | National health ID card for digital health records.                                   | [Check Out](https://healthid.ndhm.gov.in/)                                 |
+| `NFC ID Card Reader APIs`      | APIs to read NFC-based ID cards (ISO 14443, etc.) via mobile apps.                   | [Check Out](https://developer.android.com/guide/topics/connectivity/nfc)   |
+| `Loyalty Card API – Square`    | APIs for customer loyalty cards and rewards systems.                                  | [Check Out](https://developer.squareup.com/docs/loyalty-api/overview)      |
+| `Loyalty Card API – Shopify`   | Membership, store points, and digital loyalty card integrations.                      | [Check Out](https://shopify.dev/docs/apps/loyalty-and-rewards)             |
+| `Clover Loyalty & Gift Cards API` | Manage customer gift cards and loyalty cards.                                     | [Check Out](https://docs.clover.com/reference)                             |
+| `Gift Card API – Stripe`       | Issue and redeem gift cards through Stripe systems (via custom implementation).       | [Check Out](https://stripe.com/docs)                                       |
+| `Plastic Card Printing APIs` (e.g., Zebra) | APIs for custom ID card printing and encoding.                            | [Check Out](https://www.zebra.com/us/en/support-downloads/printers.html)   |
+| `RFID Card Access Control API – Kisi` | Physical access system for RFID cards, locks, and entry logs.                 | [Check Out](https://docs.kisi.io/)                                         |
+| `HID Access Control API`       | Smart card, RFID, and NFC badge access management for facilities.                     | [Check Out](https://developer.hidglobal.com/)                              |
+| `Library Card System APIs`     | Library membership cards, borrowing privileges, and card validation.                  | [Check Out](https://www.oCLC.org/developer/home.en.html)                   |
+
