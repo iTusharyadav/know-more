@@ -916,3 +916,29 @@
 | `Box Office Mojo (Unofficial)`   | Movie box-office statistics and performance data.                             | [Check Out](https://www.boxofficemojo.com/)                                  |
 | `Letterboxd API (Unofficial)`    | Movies, lists, reviews, user diaries.                                         | [Check Out](https://letterboxd.com/api-beta/)                                |
 
+## Civic & Government APIs 
+*APIs for public data, elections, laws, census, civic information & transparency.*
+| **Technology**                     | **Description**                                                                   | **Official Documentation**                                                              |
+|-----------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| `Google Civic Information API`    | Provides political representatives, elections, polling places & civic data.       | [Check Out](https://developers.google.com/civic-information)                             |
+| `USA.gov API`                     | General government data including services, contacts & government resources.      | [Check Out](https://www.usa.gov/developer)                                               |
+| `Data.gov API`                    | U.S. open government data across agriculture, finance, climate, health & more.    | [Check Out](https://api.data.gov/)                                                       |
+| `Census Bureau API`               | U.S. population, demographics, economic & geographic datasets.                    | [Check Out](https://www.census.gov/data/developers/guidance/api-user-guide.html)        |
+| `FBI Crime Data API`              | Public crime statistics from law enforcement agencies.                            | [Check Out](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi)                      |
+| `Congress.gov API`                | Legislative data: bills, members of Congress, summaries & actions.                | [Check Out](https://api.congress.gov/)                                                   |
+| `EU Open Data Portal API`         | European Union public datasets on social, economic & environmental topics.         | [Check Out](https://data.europa.eu/en)                                                   |
+| `UK Government Open Data API`     | Public services, crime, health, labour markets, transportation, statistics.        | [Check Out](https://data.gov.uk/)                                                        |
+| `Canada Open Government API`      | Climate, finance, health, transportation & demographic datasets.                   | [Check Out](https://open.canada.ca/en/open-government-licence-canada)                   |
+| `India Open Government Data API`  | Government datasets including agriculture, energy, urban development & finance.    | [Check Out](https://data.gov.in/)                                                        |
+| `Australia Government Data API`   | Open access to national datasets across sectors.                                   | [Check Out](https://data.gov.au/)                                                        |
+| `New Zealand Open Data API`       | Public datasets including environment, education, land & finance.                  | [Check Out](https://data.govt.nz/)                                                       |
+| `World Bank API`                  | Global economic indicators, poverty rates, development indexes.                    | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392)           |
+| `UNData API`                      | United Nations official statistics for demographics, development & environment.    | [Check Out](https://data.un.org/Handlers/DownloadHandler.ashx?DataMartId=UNDATA)        |
+| `OpenStates API`                  | U.S. state-level legislative data such as bills, votes & people.                  | [Check Out](https://openstates.org/api/)                                                 |
+| `GovTrack API`                    | Data on U.S. congressional activities, bills & representatives.                    | [Check Out](https://www.govtrack.us/developers)                                         |
+| `OpenGovernment API (Global)`     | Datasets across multiple countries for transparency & public sector governance.    | [Check Out](https://www.opengovpartnership.org/)                                         |
+| `Justice Department API`          | Public records, justice datasets, offender information (varies by country).        | [Check Out](https://www.justice.gov/developer)                                           |
+| `OpenFEMA API`                    | Disaster data: storms, floods, emergency responses, recovery programs.             | [Check Out](https://www.fema.gov/about/openfema/api)                                     |
+| `OpenFDA API`                     | Food, drugs, devices & safety reporting data.                                      | [Check Out](https://open.fda.gov/)                                                       |
+| `SEC EDGAR API`                   | U.S. securities filings and corporate financial disclosures.                       | [Check Out](https://www.sec.gov/edgar/sec-api-documentation)                             |
+
