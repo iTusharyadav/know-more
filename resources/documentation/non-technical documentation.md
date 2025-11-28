@@ -732,3 +732,21 @@
 | `PriceRunner API` *(Price Comparison)*| Shopping price comparison for products across multiple vendors.                         | [Check Out](https://www.pricerunner.com/) *(API via partnership)*          |
 | `PriceSpider API`                     | “Where to buy” data, retailer availability, product shopping links.                    | [Check Out](https://www.pricespider.com/) *(API on request)*               |
 
+## Calendar APIs 
+*APIs for events, scheduling, reminders, dates, meetings, and calendar sync across platforms.*
+| **Technology**               | **Description**                                                          | **Official Documentation**                                                  |
+|------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| `Google Calendar API`        | Manage events, schedules, reminders, attendees, and calendar syncing.    | [Check Out](https://developers.google.com/calendar/api)                    |
+| `Microsoft Outlook Calendar API` | Create and manage calendar events, availability, and scheduling via Microsoft Graph. | [Check Out](https://learn.microsoft.com/graph/api/resources/calendar) |
+| `Apple Calendar API (EventKit)` | Access to iOS/macOS calendar events, reminders, and scheduling tools. | [Check Out](https://developer.apple.com/documentation/eventkit)            |
+| `Yahoo Calendar API`         | Manage Yahoo calendar events and scheduling (deprecated but included).   | [Check Out](https://developer.yahoo.com) *(calendar no longer updated)*     |
+| `Zoho Calendar API`          | Calendar and event management inside Zoho’s productivity suite.          | [Check Out](https://www.zoho.com/calendar/help/api/)                       |
+| `Proton Calendar API` *(Beta)*| Encrypted calendar events and scheduling features.                       | [Check Out](https://proton.me/calendar)                                     |
+| `Cronofy Calendar API`       | Unified calendar API that supports Google, Outlook, Apple, and others.   | [Check Out](https://docs.cronofy.com/)                                     |
+| `Nylas Calendar API`         | Universal API for scheduling, availability, calendars, and events.       | [Check Out](https://developer.nylas.com/docs/calendar/)                     |
+| `CalDAV API`                 | Open standard for accessing calendars across multiple providers.         | [Check Out](https://datatracker.ietf.org/doc/html/rfc4791)                  |
+| `Teamup Calendar API`        | Shared calendars for teams, groups, and project scheduling.              | [Check Out](https://apidocs.teamup.com/)                                   |
+| `TimeTree API`               | Shared calendar API for groups, families, teams, and collaborative events.| [Check Out](https://timetreeapp.com/api)                                  |
+| `Jira Calendar API` *(via integration)* | Export and sync Jira issues as events on calendars.              | [Check Out](https://developer.atlassian.com/cloud/jira/platform/rest/v3/)  |
+| `Nextcloud Calendar API`     | Self-hosted calendar events, reminders, and CalDAV sync.                 | [Check Out](https://docs.nextcloud.com/server/latest/developer_manual/)     |
+
