@@ -858,3 +858,34 @@
 | `GrabExpress API` (SEA)             | Instant delivery services, parcel routing, and logistics automation.                  | [Check Out](https://developer.grab.com/)                                     |
 | `Loggi API` (Brazil)                | Courier, delivery, parcel routing, and logistics automation.                          | [Check Out](https://www.loggi.com/developers/)                               |
 
+## Chat APIs 
+*Realtime chat, messaging platforms, conversations, live-support, chatbots, and communication services.*
+| **Technology**                 | **Description**                                                                       | **Official Documentation**                                              |
+|-------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| `Twilio Conversations API`    | Multi-channel chat: SMS, WhatsApp, WebChat, voice, and unified messaging threads.     | [Check Out](https://www.twilio.com/docs/conversations)                 |
+| `Twilio Programmable Chat`    | Realtime chat SDK for web & mobile apps (deprecated but widely referenced).           | [Check Out](https://www.twilio.com/docs/chat)                          |
+| `SendBird API`                | Feature-rich chat, group channels, typing indicators, push notifications.              | [Check Out](https://sendbird.com/docs)                                 |
+| `Stream Chat API`             | Highly scalable chat API with moderation, threads, reactions, and rich UI kits.        | [Check Out](https://getstream.io/chat/docs/)                           |
+| `Socket.io`                   | Realtime event-based communication for chat, rooms, broadcasting, and signaling.      | [Check Out](https://socket.io/docs)                                    |
+| `Pusher Channels API`         | Realtime chat, private channels, presence channels, notifications, and events.        | [Check Out](https://pusher.com/docs/channels/)                         |
+| `Ably Realtime API`           | Realtime messaging, chat rooms, presence, pub/sub, and message persistence.           | [Check Out](https://ably.com/docs)                                     |
+| `Firebase Realtime Database`  | Realtime messaging backend for chat apps with synchronization across devices.         | [Check Out](https://firebase.google.com/docs/database)                 |
+| `Firestore`                   | Scalable NoSQL DB with realtime listeners used commonly for chat system backends.     | [Check Out](https://firebase.google.com/docs/firestore)                |
+| `PubNub API`                  | Global low-latency chat, presence, message storage, and realtime events.              | [Check Out](https://www.pubnub.com/docs/)                              |
+| `Matrix API`                  | Decentralized secure chat protocol used by Element, Synapse, and federated servers.   | [Check Out](https://matrix.org/docs/api/)                              |
+| `Slack Chat API`              | Messaging, threads, reactions, bots, slash commands, and conversations.               | [Check Out](https://api.slack.com/apis/conversations)                  |
+| `Discord API`                 | Chat channels, bot messages, threads, DM automation, reactions, and events.           | [Check Out](https://discord.com/developers/docs/intro)                 |
+| `Microsoft Teams API`         | Chat, channel messages, bots, cards, and enterprise communications.                  | [Check Out](https://learn.microsoft.com/graph/teams-concept-overview)  |
+| `Google Chat API`             | Spaces, threads, bots, cards, and messages for Google Workspace Chat.                 | [Check Out](https://developers.google.com/chat)                        |
+| `Zendesk Sunshine Conversations` | Multi-channel support chat, messaging, CRM and customer-engagement workflows.     | [Check Out](https://docs.smooch.io/guide/)                             |
+| `Intercom API`                | Chat widgets, customer support messaging, inbox automation, and events.               | [Check Out](https://developers.intercom.com/)                          |
+| `LiveChat API`                | Customer-support live chat, visitor tracking, chat routing, and agents.               | [Check Out](https://developers.livechat.com/)                          |
+| `Freshchat API`               | Messaging, support chat, bots, customer interaction workflows.                        | [Check Out](https://developers.freshchat.com/)                         |
+| `Tawk.to API`                 | Live chat, event hooks, messaging, and visitor data.                                  | [Check Out](https://developer.tawk.to/)                                |
+| `Rocket.Chat API`             | Open-source chat server with channels, DM, bot integrations, and messaging.           | [Check Out](https://developer.rocket.chat/reference/api)               |
+| `Mattermost API`              | Self-hosted chat with channels, bots, and secure messaging.                           | [Check Out](https://api.mattermost.com/)                               |
+| `WhatsApp Cloud API`          | Business messaging, media messages, templates, and notifications.                     | [Check Out](https://developers.facebook.com/docs/whatsapp)             |
+| `Telegram Bot API`            | Messaging, inline buttons, keyboards, webhooks, and bot automation.                   | [Check Out](https://core.telegram.org/bots/api)                        |
+| `Viber API`                   | Messaging, bots, webhooks, and delivery events.                                       | [Check Out](https://developers.viber.com/docs/api/rest-bot-api/)       |
+| `LINE Messaging API`          | Messaging, rich menus, flex messages, and bot automation.                             | [Check Out](https://developers.line.biz/en/docs/messaging-api/)        |
+
