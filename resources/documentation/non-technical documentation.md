@@ -824,3 +824,37 @@
 | `Jooble Jobs API`                  | Job search API pulling listings from multiple career websites.                          | [Check Out](https://jooble.org/api)                                          |
 | `Talent.com API`                   | Job listings, salary insights, employer data.                                           | [Check Out](https://ca.talent.com/api)                                       |
 | `JobsGO API` *(Vietnam)*           | Local job listings and recruitment data for Vietnam.                                    | [Check Out](https://jobsgo.vn/)                                              |
+
+## Cargo & Logistics APIs 
+*APIs related to shipping, freight, parcels, logistics tracking, warehouse operations, and supply-chain movements.*
+| **Technology**                      | **Description**                                                                     | **Official Documentation**                                                  |
+|-------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| `FedEx API`                         | Shipping rates, tracking, label generation, freight, and logistics operations.      | [Check Out](https://developer.fedex.com/api/en-us/home.html)               |
+| `UPS API`                           | Package tracking, rates, time-in-transit, freight, and shipment creation.           | [Check Out](https://www.ups.com/upsdeveloperkit)                           |
+| `DHL API`                           | DHL Express tracking, shipping, logistics, freight, and global delivery services.    | [Check Out](https://developer.dhl.com/)                                     |
+| `USPS Web Tools API`                | US postal service for shipping labels, rates, tracking, and address validation.      | [Check Out](https://www.usps.com/business/web-tools-apis/)                 |
+| `Shippo API`                        | Multi-carrier shipping, tracking, address validation, labels, and logistics.         | [Check Out](https://docs.goshippo.com/)                                     |
+| `EasyPost API`                      | Universal shipping API for labels, tracking, returns, and carrier integrations.      | [Check Out](https://www.easypost.com/docs)                                 |
+| `ShipRocket API` (India)            | eCommerce logistics: shipping, pickup, tracking, and courier aggregation.            | [Check Out](https://developers.shiprocket.in/)                              |
+| `Delhivery API` (India)             | Order shipping, tracking, delivery, pickups, and logistics automation.               | [Check Out](https://www.delhivery.com/developer/)                           |
+| `BlueDart API` (India)              | Tracking, shipment creation, pickup requests, and delivery logistics.                | [Check Out](https://www.bluedart.com/api)                                   |
+| `Gati API` (India)                  | Tracking, freight management, and cargo logistics.                                   | [Check Out](https://www.gati.com/)                                          |
+| `ShipStation API`                   | Shipment automation, labels, tracking, warehousing, and multi-channel order sync.    | [Check Out](https://www.shipstation.com/developer-api/#/introduction)       |
+| `AfterShip API`                     | Shipment tracking for 700+ carriers with unified tracking status and webhooks.       | [Check Out](https://developers.aftership.com/)                              |
+| `TrackingMore API`                  | Multi-carrier parcel tracking and logistics analytics.                                | [Check Out](https://www.trackingmore.com/docs/)                             |
+| `Freightcom API`                    | Freight & LTL shipping quotes, scheduling, tracking, and logistics operations.        | [Check Out](https://www.freightcom.com/api-documentation)                   |
+| `CargoWise API`                     | Global freight-forwarding, logistics, customs, warehouse, and supply-chain API.      | [Check Out](https://www.cargowise.com/developer/)                           |
+| `Flexport API`                      | Global freight forwarding, ocean/air cargo tracking, logistics workflows.             | [Check Out](https://developers.flexport.com/)                               |
+| `Maersk API`                        | Container shipping, ocean freight booking, cargo tracking, and vessel schedules.      | [Check Out](https://developer.maersk.com/)                                  |
+| `Hapag-Lloyd API`                   | Container shipping, cargo tracking, vessel routing, and logistics operations.         | [Check Out](https://developer.hapag-lloyd.com/)                             |
+| `Seven Senders API` (EU)            | European parcel logistics, tracking, delivery events, and performance analytics.      | [Check Out](https://docs.sevensenders.com/)                                 |
+| `Postman (India Post) API`          | Postal tracking, parcel events, and postal delivery logs.                             | [Check Out](https://www.indiapost.gov.in/) *(API via integration only)*     |
+| `Canada Post API`                   | Shipment creation, pickups, tracking, and shipping labels.                            | [Check Out](https://www.canadapost-postescanada.ca/info/mc/business/developers/) |
+| `Australia Post API`                | Shipping, tracking, rates, and retail logistics.                                      | [Check Out](https://developers.auspost.com.au/)                             |
+| `Royal Mail API` (UK)               | UK parcel delivery service for tracking, address validation, and label generation.    | [Check Out](https://developer.royalmail.net/)                               |
+| `China Post API`                    | International parcel tracking and logistics movements.                                | [Check Out](https://www.chinapost-track.com/) *(API limited)*               |
+| `Ninja Van API` (SEA)               | Delivery, shipment creation, tracking, and logistics automation.                      | [Check Out](https://openapi.ninjavan.co/)                                   |
+| `Lalamove API`                      | On-demand delivery, courier service, logistics routing, and booking.                  | [Check Out](https://developers.lalamove.com/)                               |
+| `GrabExpress API` (SEA)             | Instant delivery services, parcel routing, and logistics automation.                  | [Check Out](https://developer.grab.com/)                                     |
+| `Loggi API` (Brazil)                | Courier, delivery, parcel routing, and logistics automation.                          | [Check Out](https://www.loggi.com/developers/)                               |
+
