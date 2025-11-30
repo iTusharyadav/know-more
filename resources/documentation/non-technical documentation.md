@@ -1028,3 +1028,35 @@
 | `Cloudflare API`              | DNS management, DDoS protection, workers, CDN & firewall.                          | [Check Out](https://api.cloudflare.com/)                                                |
 | `Fastly API`                  | Edge computing, caching, CDN & performance optimization.                            | [Check Out](https://developer.fastly.com/reference/api/)                                |
 
+## E-commerce APIs 
+*APIs that provide access to online stores, product data, orders, catalogs, carts, and marketplace listings.*
+| **Technology**                 | **Description**                                                     | **Official Documentation**                                         |
+|-------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|
+| `Alibaba API`                 | Access to wholesale products, supplier data, categories.            | [Check Out](https://developers.alibaba.com/)                      |
+| `AliExpress API`              | Dropshipping products, orders, tracking, and pricing info.          | [Check Out](https://developers.aliexpress.com/en/doc.htm)         |
+| `Amazon Marketplace Web API`  | Marketplace listings, orders, inventory, seller data.               | [Check Out](https://developer.amazonservices.com/)                |
+| `Amazon Product Advertising`  | Product search, details, prices, reviews, images.                   | [Check Out](https://webservices.amazon.com/paapi5/documentation/) |
+| `BigCommerce API`             | Storefront data, orders, products, customers, carts.                | [Check Out](https://developer.bigcommerce.com/api-docs)           |
+| `BestBuy Products API`        | Public electronics product catalog with specs and pricing.          | [Check Out](https://bestbuyapis.github.io/api-documentation/)     |
+| `Bol.com Retailer API`        | Dutch marketplace inventory, orders, shipping, catalog.             | [Check Out](https://developers.bol.com/)                          |
+| `Cdiscount API`               | French marketplace product catalog, sellers, and orders.            | [Check Out](https://dev.cdiscount.com/)                           |
+| `Etsy API`                    | Handcrafted product listings, shops, reviews, and categories.       | [Check Out](https://developers.etsy.com/)                         |
+| `eBay Buy API`                | Product search, item details, prices, and images.                   | [Check Out](https://developer.ebay.com/api-docs/buy/)             |
+| `eBay Sell API`               | Inventory, orders, listings, analytics for sellers.                 | [Check Out](https://developer.ebay.com/api-docs/sell)             |
+| `Flipkart Seller API`         | Seller catalog, orders, shipping, and refunds for Flipkart.         | [Check Out](https://seller.flipkart.com/api-docs)                 |
+| `Google Shopping Content API` | Merchant product listings, availability, and pricing.               | [Check Out](https://developers.google.com/shopping-content)       |
+| `Lazada API`                  | Marketplace products, orders, disputes (Southeast Asia).            | [Check Out](https://open.lazada.com/doc/doc.htm)                  |
+| `MercadoLibre API`            | Latin American product listings, users, orders, shipping.           | [Check Out](https://developers.mercadolibre.com.ar/en_us/apis)    |
+| `OpenCart API`                | Products, customers, orders for OpenCart stores.                    | [Check Out](https://docs.opencart.com/en-gb/system/api/)          |
+| `Prestashop API`              | Products, categories, inventory, carts, and orders.                 | [Check Out](https://devdocs.prestashop-project.org/)              |
+| `Rakuten Marketplace API`     | Japanese e-commerce marketplace product and order tools.            | [Check Out](https://developer.rakuten.com/)                       |
+| `Saleor API`                  | GraphQL commerce system for products, orders, and storefronts.      | [Check Out](https://docs.saleor.io/)                              |
+| `Shopify Admin API`           | Full admin access to products, stores, orders, customers.           | [Check Out](https://shopify.dev/docs/api/admin-rest)              |
+| `Shopify Storefront API`      | Storefront product browsing, carts, checkouts via GraphQL.          | [Check Out](https://shopify.dev/docs/api/storefront)              |
+| `Snipcart API`                | Shopping cart solution for websites and custom stores.              | [Check Out](https://docs.snipcart.com/)                           |
+| `Square Catalog API`          | Products, inventory, categories, and online store data.             | [Check Out](https://developer.squareup.com/docs)                  |
+| `Target Product API`          | Public product info, prices, categories (limited).                  | [Check Out](https://www.target.com/developer)                     |
+| `Taobao API`                  | Chinese marketplace item listings, categories, and sellers.         | [Check Out](https://open.taobao.com/api.htm)                      |
+| `Walmart Marketplace API`     | Seller systems for listings, orders, shipping, and returns.         | [Check Out](https://developer.walmart.com/)                       |
+| `WooCommerce API`             | Product, order, and store data for WordPress-based shops.           | [Check Out](https://woocommerce.github.io/woocommerce-rest-api-docs/) |
+
