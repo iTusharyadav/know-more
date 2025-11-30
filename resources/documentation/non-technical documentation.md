@@ -996,3 +996,35 @@
 | `DigitalOcean Spaces API`     | S3-compatible object storage for applications.                                  | [Check Out](https://docs.digitalocean.com/products/spaces/api/)                  |
 | `Linode Object Storage API`   | Cloud object storage with S3 compatibility.                                     | [Check Out](https://techdocs.akamai.com/linode-api/)                             |
 
+## Cloud Services APIs 
+*APIs for cloud computing, virtual machines, networking, deployment, Kubernetes & infrastructure.*
+| **Technology**                 | **Description**                                                                    | **Official Documentation**                                                              |
+|-------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| `AWS Cloud API`               | Full suite of Amazon Web Services for compute, IAM, networking, storage & more.    | [Check Out](https://docs.aws.amazon.com/)                                               |
+| `AWS EC2 API`                 | Manage virtual machines, instances, networking, IPs, autoscaling.                  | [Check Out](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/)                   |
+| `AWS Lambda API`              | Serverless compute functions, triggers & event integration.                        | [Check Out](https://docs.aws.amazon.com/lambda/latest/dg/API_Reference.html)           |
+| `AWS IAM API`                 | Identity & access management for cloud security.                                   | [Check Out](https://docs.aws.amazon.com/IAM/latest/APIReference/)                      |
+| `AWS CloudFormation API`      | Infrastructure-as-code deployment & stack management.                              | [Check Out](https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/)         |
+| `AWS EKS API`                 | Kubernetes clusters on AWS.                                                        | [Check Out](https://docs.aws.amazon.com/eks/latest/userguide/)                         |
+| `Google Cloud API`            | Compute, storage, networking, AI, IAM & managed services.                          | [Check Out](https://cloud.google.com/apis)                                              |
+| `Google Compute Engine API`   | Virtual machines, disks, networks, load balancers.                                 | [Check Out](https://cloud.google.com/compute/docs/reference/rest)                       |
+| `Google Kubernetes Engine API`| Managed Kubernetes deployment & scaling.                                           | [Check Out](https://cloud.google.com/kubernetes-engine/docs/reference/rest)            |
+| `Google Cloud Run API`        | Serverless container execution platform.                                          | [Check Out](https://cloud.google.com/run/docs/reference/rest)                           |
+| `Microsoft Azure API`         | Cloud compute, identity, databases, networks & services.                           | [Check Out](https://learn.microsoft.com/rest/api/azure/)                                |
+| `Azure Compute API`           | Virtual machines, scaling sets, disks & snapshots.                                 | [Check Out](https://learn.microsoft.com/rest/api/compute/)                              |
+| `Azure Kubernetes Service (AKS)` | Managed Kubernetes cluster orchestration.                                     | [Check Out](https://learn.microsoft.com/azure/aks/)                                     |
+| `Azure Functions API`         | Serverless cloud functions.                                                        | [Check Out](https://learn.microsoft.com/azure/azure-functions/functions-overview)       |
+| `IBM Cloud API`               | Compute, networking, Kubernetes & enterprise cloud services.                       | [Check Out](https://cloud.ibm.com/docs)                                                 |
+| `Oracle Cloud Infrastructure API` | Compute, networks, security, storage & load balancers.                      | [Check Out](https://docs.oracle.com/iaas/api/)                                          |
+| `Alibaba Cloud API`           | Compute, cloud networking, DNS, security, ECS & more.                              | [Check Out](https://www.alibabacloud.com/help)                                          |
+| `DigitalOcean Cloud API`      | Virtual machines (Droplets), databases, Kubernetes & networking.                   | [Check Out](https://docs.digitalocean.com/reference/api/)                               |
+| `Linode Cloud API`            | Compute instances, block storage & cloud networking.                               | [Check Out](https://techdocs.akamai.com/linode-api/)                                    |
+| `Vultr Cloud API`             | Cloud compute, bare metal, object storage, DNS & Kubernetes.                       | [Check Out](https://www.vultr.com/api/)                                                 |
+| `Scaleway Cloud API`          | Compute, serverless, storage, containers, networking.                              | [Check Out](https://www.scaleway.com/en/docs/api/)                                      |
+| `Hetzner Cloud API`           | VPS, load balancers, networking & cloud infrastructure.                            | [Check Out](https://docs.hetzner.cloud/)                                                |
+| `OpenStack API`               | Open-source cloud computing platform: compute, storage, networking.                 | [Check Out](https://docs.openstack.org/api-ref/)                                        |
+| `Kubernetes API`              | Cluster orchestration, deployments, pods, services & controllers.                  | [Check Out](https://kubernetes.io/docs/reference/kubernetes-api/)                       |
+| `Docker Engine API`           | Manage containers, images, volumes & networks programmatically.                    | [Check Out](https://docs.docker.com/engine/api/)                                        |
+| `Cloudflare API`              | DNS management, DDoS protection, workers, CDN & firewall.                          | [Check Out](https://api.cloudflare.com/)                                                |
+| `Fastly API`                  | Edge computing, caching, CDN & performance optimization.                            | [Check Out](https://developer.fastly.com/reference/api/)                                |
+
