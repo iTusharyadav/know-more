@@ -969,3 +969,30 @@
 | `Japan Meteorological Agency (JMA)`  | Earthquake, tsunami, storm & climate data.                                        | [Check Out](https://www.jma.go.jp/jma/en/menu.html)                               |
 | `OpenClimateFix API`                 | Solar forecasting & climate modeling tools.                                       | [Check Out](https://docs.openclimatefix.org/)                                     |
 
+## Cloud Storage & File APIs 
+*APIs for uploading, storing, syncing, sharing, and managing files in the cloud.*
+| **Technology**                | **Description**                                                                 | **Official Documentation**                                                       |
+|-------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| `Google Drive API`            | Upload, download, manage files/folders, permissions & sharing.                  | [Check Out](https://developers.google.com/drive/api)                             |
+| `Dropbox API`                 | File storage, sharing, sync, user accounts, file revisions.                     | [Check Out](https://www.dropbox.com/developers/documentation)                    |
+| `OneDrive API (Microsoft)`    | Cloud file management, sharing, permissions, thumbnails.                        | [Check Out](https://learn.microsoft.com/graph/onedrive-concept-overview)         |
+| `Box API`                     | Enterprise file storage, metadata, permissions, governance.                     | [Check Out](https://developer.box.com/)                                          |
+| `AWS S3 API`                  | Object storage for files, buckets, metadata & presigned URLs.                   | [Check Out](https://docs.aws.amazon.com/s3/)                                     |
+| `Azure Blob Storage API`      | Microsoft cloud file/object storage for unstructured data.                      | [Check Out](https://learn.microsoft.com/azure/storage/blobs/)                    |
+| `Google Cloud Storage API`    | Scalable file/object storage for applications & backups.                        | [Check Out](https://cloud.google.com/storage/docs/apis)                          |
+| `Backblaze B2 API`            | Affordable object storage with S3-compatible API.                               | [Check Out](https://www.backblaze.com/b2/docs/)                                  |
+| `pCloud API`                  | Encrypted cloud file storage & management.                                      | [Check Out](https://docs.pcloud.com/)                                            |
+| `Mega.nz API`                 | Encrypted cloud storage with user-controlled encryption.                        | [Check Out](https://github.com/meganz/sdk)                                       |
+| `Nextcloud API`               | Self-hosted file storage, users, sharing, WebDAV.                               | [Check Out](https://docs.nextcloud.com/server/latest/developer_manual/)          |
+| `ownCloud API`                | Open-source file sync, WebDAV, sharing & collaboration.                         | [Check Out](https://doc.owncloud.com/server/developer_manual/)                   |
+| `Cloudinary API`              | File & image storage, transformations, CDN delivery.                            | [Check Out](https://cloudinary.com/documentation)                                |
+| `Filestack API`               | File upload, transformations, CDN & file processing.                            | [Check Out](https://www.filestack.com/docs/)                                     |
+| `IPFS API`                    | Decentralized file storage using content addressing.                            | [Check Out](https://docs.ipfs.tech/)                                             |
+| `Pinata API`                  | IPFS pinning, decentralized storage and gateway management.                     | [Check Out](https://docs.pinata.cloud/)                                          |
+| `Storj API`                   | Decentralized encrypted cloud object storage.                                   | [Check Out](https://docs.storj.io/)                                              |
+| `Wasabi Storage API`          | S3-compatible cloud object storage with low-cost pricing.                       | [Check Out](https://wasabi.com/documentation/)                                   |
+| `IBM Cloud Object Storage API`| File and object storage designed for enterprise workloads.                      | [Check Out](https://cloud.ibm.com/docs/cloud-object-storage)                     |
+| `Oracle Cloud Object Storage` | File/object storage in Oracle Cloud infrastructure.                             | [Check Out](https://docs.oracle.com/en-us/iaas/Content/Object/Concepts/objectstorageoverview.htm) |
+| `DigitalOcean Spaces API`     | S3-compatible object storage for applications.                                  | [Check Out](https://docs.digitalocean.com/products/spaces/api/)                  |
+| `Linode Object Storage API`   | Cloud object storage with S3 compatibility.                                     | [Check Out](https://techdocs.akamai.com/linode-api/)                             |
+
