@@ -942,3 +942,30 @@
 | `OpenFDA API`                     | Food, drugs, devices & safety reporting data.                                      | [Check Out](https://open.fda.gov/)                                                       |
 | `SEC EDGAR API`                   | U.S. securities filings and corporate financial disclosures.                       | [Check Out](https://www.sec.gov/edgar/sec-api-documentation)                             |
 
+## Climate & Weather APIs 
+*APIs for weather forecasts, climate data, air quality, storms & environmental conditions.*
+| **Technology**                        | **Description**                                                                   | **Official Documentation**                                                         |
+|--------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| `OpenWeatherMap API`                 | Global weather forecasts, air pollution data, historical weather, alerts.         | [Check Out](https://openweathermap.org/api)                                        |
+| `WeatherAPI.com`                     | Real-time weather, history, forecasts, astronomy & sports weather.                | [Check Out](https://www.weatherapi.com/docs/)                                     |
+| `AccuWeather API`                    | Detailed forecasts, radar, satellite imagery & weather alerts.                    | [Check Out](https://developer.accuweather.com/apis)                               |
+| `Weatherbit API`                     | Forecasts, historical weather, air quality & severe weather alerts.               | [Check Out](https://www.weatherbit.io/api)                                        |
+| `ClimaCell/Tomorrow.io API`          | Hyper-local weather, air quality, road risk, storm tracking.                      | [Check Out](https://docs.tomorrow.io/)                                            |
+| `NOAA Weather API`                   | U.S. National Weather Service forecasts, alerts, climate data.                    | [Check Out](https://www.weather.gov/documentation/services-web-api)               |
+| `Meteostat API`                      | High-quality historical weather & climate data worldwide.                         | [Check Out](https://dev.meteostat.net/)                                           |
+| `StormGlass API`                     | Marine weather: tides, waves, wind, swell, sea temperature.                        | [Check Out](https://docs.stormglass.io/)                                          |
+| `Met Office UK Weather API`          | UK weather forecasts, observations & alerts.                                      | [Check Out](https://www.metoffice.gov.uk/services/data/apis)                      |
+| `Open-Meteo API`                      | Free weather API with no key; forecasts, air quality & climate model data.        | [Check Out](https://open-meteo.com/en/docs)                                       |
+| `WeatherStack API`                   | Real-time & historical weather (simple REST).                                     | [Check Out](https://weatherstack.com/documentation)                               |
+| `AirVisual API (IQAir)`              | Air quality index (AQI), pollution levels & forecasts.                            | [Check Out](https://api-docs.iqair.com/?version=latest)                           |
+| `Climatiq API`                        | Carbon footprint calculations from energy, travel & activities.                   | [Check Out](https://www.climatiq.io/docs)                                         |
+| `World Air Quality Index API (WAQI)` | Global air pollution, PM2.5, AQI data.                                            | [Check Out](https://aqicn.org/api/)                                               |
+| `OpenAQ API`                          | Open-source global air quality measurements.                                      | [Check Out](https://docs.openaq.org/)                                             |
+| `Global Weather API (AviationWeather.gov)` | Aviation weather, forecasts & observations.                                | [Check Out](https://aviationweather.gov/dataserver)                               |
+| `Climatempo API` (Brazil)            | Weather forecasts, climate data for Brazil.                                       | [Check Out](https://advisor.climatempo.com.br/)                                   |
+| `MétéoFrance API`                    | French meteorological data & alerts.                                              | [Check Out](https://portail-api.meteofrance.fr/)                                  |
+| `DWD Climate Data API (Germany)`      | Climate & weather from German Weather Service.                                    | [Check Out](https://www.dwd.de/EN/climate_environment/cdc/cdc_node.html)          |
+| `Hong Kong Observatory API`          | Real-time weather, warnings, forecasts.                                           | [Check Out](https://data.gov.hk/en/)                                              |
+| `Japan Meteorological Agency (JMA)`  | Earthquake, tsunami, storm & climate data.                                        | [Check Out](https://www.jma.go.jp/jma/en/menu.html)                               |
+| `OpenClimateFix API`                 | Solar forecasting & climate modeling tools.                                       | [Check Out](https://docs.openclimatefix.org/)                                     |
+
