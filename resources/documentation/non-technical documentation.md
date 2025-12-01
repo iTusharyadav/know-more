@@ -1060,3 +1060,29 @@
 | `Walmart Marketplace API`     | Seller systems for listings, orders, shipping, and returns.         | [Check Out](https://developer.walmart.com/)                       |
 | `WooCommerce API`             | Product, order, and store data for WordPress-based shops.           | [Check Out](https://woocommerce.github.io/woocommerce-rest-api-docs/) |
 
+## E-government APIs 
+*APIs providing public service data, IDs, taxation info, census data, permits, and official government services.*
+| **Technology**                   | **Description**                                                             | **Official Documentation**                                            |
+|----------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| `Aadhaar Services (UIDAI)`       | India’s national digital ID services: verification, e-KYC, authentication. | [Check Out](https://uidai.gov.in/)                                   |
+| `Australia Government Data API`  | Open datasets from Australian government departments.                       | [Check Out](https://data.gov.au/)                                    |
+| `Canada Open Government API`     | Public datasets, services, and government records from Canada.             | [Check Out](https://open.canada.ca/en/open-data)                     |
+| `Census Bureau API (USA)`        | U.S. demographic, population, housing, and economic census data.           | [Check Out](https://www.census.gov/data/developers/data-sets.html)  |
+| `Data.gov (USA)`                 | Official U.S. government datasets across all sectors.                      | [Check Out](https://api.data.gov/)                                   |
+| `Data.gov.ph (Philippines)`      | Philippine government open datasets and public records.                    | [Check Out](https://data.gov.ph/)                                    |
+| `Data.gov.sg (Singapore)`        | Singapore government datasets on population, transport, weather.           | [Check Out](https://data.gov.sg/developer)                           |
+| `Digital India Services`         | Indian government digital public services & citizen portals.               | [Check Out](https://www.digitalindia.gov.in/)                        |
+| `eCitizen Kenya API`             | Public services portal for IDs, business registration, and taxes.          | [Check Out](https://www.ecitizen.go.ke/)                             |
+| `eIDAS EU Services`              | European Union digital ID and trust services (non-technical docs).         | [Check Out](https://digital-strategy.ec.europa.eu/en/policies/eidas) |
+| `EU Open Data Portal`            | Public EU datasets for economy, health, transport, climate.                | [Check Out](https://data.europa.eu/en)                               |
+| `Gov.uk API`                     | UK government services, licensing, education, taxes, and public info.      | [Check Out](https://www.gov.uk/guidance/content-api)                 |
+| `India Open Government Data`     | Public datasets, schemes, and government digital services.                 | [Check Out](https://data.gov.in/)                                    |
+| `Japan Government Data API`      | Public data, statistics, and government services in Japan.                 | [Check Out](https://www.data.go.jp/)                                 |
+| `National Portal of India`       | Government schemes, documents, regulations, IDs, certificates.             | [Check Out](https://www.india.gov.in/)                               |
+| `New Zealand Data Portal`        | NZ government’s official public datasets and service documentation.        | [Check Out](https://www.data.govt.nz/)                               |
+| `Open Government Indonesia`      | Public datasets and e-government services in Indonesia.                    | [Check Out](https://data.go.id/)                                     |
+| `Open Korea Data Service`        | South Korean open datasets on society, economy, and public services.       | [Check Out](https://www.data.go.kr/)                                 |
+| `Open Government Malaysia`       | Malaysian government datasets and digital services.                        | [Check Out](https://www.data.gov.my/)                                |
+| `Pakistan Open Data Initiative`  | Pakistan’s public data directory and official datasets.                    | [Check Out](https://opendata.gov.pk/)                                |
+| `UN Data Portal`                 | United Nations global statistics, population, health, economics.           | [Check Out](https://data.un.org/)                                    |
+
