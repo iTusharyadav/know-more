@@ -1086,3 +1086,25 @@
 | `Pakistan Open Data Initiative`  | Pakistan’s public data directory and official datasets.                    | [Check Out](https://opendata.gov.pk/)                                |
 | `UN Data Portal`                 | United Nations global statistics, population, health, economics.           | [Check Out](https://data.un.org/)                                    |
 
+## E-health / Electronic Health APIs 
+*APIs providing public health data, medical records information, clinical guidelines, disease tracking, and healthcare services.*
+| **Technology**                     | **Description**                                                           | **Official Documentation**                                              |
+|------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| `CDC API (USA)`                    | Public health data: diseases, outbreaks, vaccination, statistics.        | [Check Out](https://data.cdc.gov/)                                     |
+| `FDA API (USA)`                    | Drugs, medical devices, recalls, food safety, and approvals.            | [Check Out](https://open.fda.gov/apis/)                                |
+| `Global Health Observatory (WHO)`  | Global health metrics, disease statistics, mortality data.              | [Check Out](https://www.who.int/data/gho)                              |
+| `HealthData.gov (USA)`             | Public datasets on healthcare, hospitals, drugs, and insurance.         | [Check Out](https://healthdata.gov/)                                   |
+| `NHS Digital UK API`               | Prescriptions, hospital data, clinical services (UK).                   | [Check Out](https://digital.nhs.uk/services)                           |
+| `NLM / PubMed API`                 | Medical research papers, clinical journals, biomedical literature.      | [Check Out](https://www.ncbi.nlm.nih.gov/home/develop/api/)           |
+| `OpenFDA Drug API`                 | Drug labels, side effects, reactions, and research data.                | [Check Out](https://open.fda.gov/apis/drug/)                           |
+| `OpenFDA Device API`               | Medical device reports, registrations, recalls.                         | [Check Out](https://open.fda.gov/apis/device/)                         |
+| `OpenFDA Food API`                 | Food recalls, allergens, safety reports.                                | [Check Out](https://open.fda.gov/apis/food/)                           |
+| `OpenWHO`                          | WHO training and resources on epidemics and health emergencies.         | [Check Out](https://openwho.org/)                                      |
+| `OpenMRS API`                      | Open-source medical records system documentation.                       | [Check Out](https://rest.openmrs.org/)                                 |
+| `World Bank Health Data`           | Global healthcare expenditure, health indicators, and resources.        | [Check Out](https://data.worldbank.org/topic/health)                   |
+| `India Health Data (MoHFW)`        | Indian public health bulletins, guidelines, hospitals, and programs.    | [Check Out](https://www.mohfw.gov.in/)                                 |
+| `Ayushman Bharat (India)`          | Health benefit guidelines, insurance documentation (non-tech).          | [Check Out](https://pmjay.gov.in/)                                     |
+| `European Centre for Disease Prevention (ECDC)` | EU health surveillance, disease reports, outbreaks.              | [Check Out](https://www.ecdc.europa.eu/en/data-tools)                  |
+| `WHO Disease Outbreak News`        | International alerts and disease outbreak documentation.                | [Check Out](https://www.who.int/emergencies/disease-outbreak-news)     |
+| `OECD Health Statistics`           | Health expenditure, workforce, hospitals, insurance statistics.        | [Check Out](https://www.oecd.org/health/health-data/)                  |
+
