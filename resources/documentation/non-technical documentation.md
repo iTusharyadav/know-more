@@ -1108,3 +1108,14 @@
 | `WHO Disease Outbreak News`        | International alerts and disease outbreak documentation.                | [Check Out](https://www.who.int/emergencies/disease-outbreak-news)     |
 | `OECD Health Statistics`           | Health expenditure, workforce, hospitals, insurance statistics.        | [Check Out](https://www.oecd.org/health/health-data/)                  |
 
+## Election Information APIs  
+*APIs providing election schedules, candidate data, polling places, voter info, and results*
+
+| **API / Service**         | **Description**                                                                 | **Official Documentation / Notes**                       |
+|---------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------|
+| `Generic Election API`    | Provides upcoming election dates, types (local/state/national), and metadata.   | Not standard — depends on country; see local gov portals |
+| `Voter Registration API`  | Returns registration deadlines, requirements, and eligibility info.             | varies by location                                        |
+| `Ballot Info API`         | Supplies ballot content: candidates, referendums, measures for a given area.   | depends on region                                         |
+| `Polling Places API`      | Gives addresses, hours, and accessibility data for polling locations.           | depends on region                                         |
+| `Results API`             | Offers certified election results, turnout stats, and district summaries.       | depends on electoral authority                            |
+
