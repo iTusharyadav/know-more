@@ -1132,3 +1132,16 @@
 | `India EPFO Services`         | Employee Provident Fund details covering pensions, withdrawals, and claims      | https://www.epfindia.gov.in                       |
 | `New Zealand Work & Income`   | Jobseeker support, wage subsidies, and worker benefit schemes                  | https://www.workandincome.govt.nz                 |
 
+## Employee Verification APIs  
+*APIs used to confirm employment history, job titles, employer details, and work eligibility*
+
+| **API / Service**            | **Description**                                                                   | **Official Documentation**                          |
+|------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------|
+| `Equifax The Work Number`   | Employment verification service used by companies to confirm employee records     | https://theworknumber.com/partners/verify          |
+| `Truework API`              | Modern employment and income verification platform                                | https://docs.truework.com                           |
+| `Experian Employment Insight`| Employment verification for background checks and employer confirmation           | https://www.experian.com/employer-services         |
+| `Checkr Employment Verify`  | Job verification API integrated with background checks                           | https://docs.checkr.com                             |
+| `Onfido Employment Check`   | Verifies work history as part of identity/background services                     | https://onfido.com                                  |
+| `Certn Employment Verification` | Confirms previous employers, roles, and dates of employment                   | https://certn.co                                    |
+| `uConfirm Employment API`   | Employer-provided employment verification for HR and lenders                      | https://uconfirm.com                                |
+
