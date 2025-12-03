@@ -1119,3 +1119,16 @@
 | `Polling Places API`      | Gives addresses, hours, and accessibility data for polling locations.           | depends on region                                         |
 | `Results API`             | Offers certified election results, turnout stats, and district summaries.       | depends on electoral authority                            |
 
+## Employment Benefits APIs  
+*APIs providing information about employee insurance, pensions, payroll benefits, and leave programs*
+
+| **API / Service**              | **Description**                                                                | **Official Documentation**                         |
+|-------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------|
+| `Benefits.gov API`            | Provides U.S. government benefit eligibility info including employment support | https://www.benefits.gov/developers               |
+| `UK GOV Employee Benefits`    | Offers access to employment rights, pensions, maternity, and statutory benefits| https://www.gov.uk/browse/working                 |
+| `Canada Benefits API`         | Includes employment insurance, worker benefits, and support programs           | https://www.canada.ca/en/services/benefits.html   |
+| `Australian Services Benefits`| Delivers employment support, parental leave, and welfare benefit information    | https://www.servicesaustralia.gov.au              |
+| `Singapore CPF API`           | Central Provident Fund information on pensions, employer/employee contributions | https://www.cpf.gov.sg                            |
+| `India EPFO Services`         | Employee Provident Fund details covering pensions, withdrawals, and claims      | https://www.epfindia.gov.in                       |
+| `New Zealand Work & Income`   | Jobseeker support, wage subsidies, and worker benefit schemes                  | https://www.workandincome.govt.nz                 |
+
