@@ -1145,3 +1145,17 @@
 | `Certn Employment Verification` | Confirms previous employers, roles, and dates of employment                   | https://certn.co                                    |
 | `uConfirm Employment API`   | Employer-provided employment verification for HR and lenders                      | https://uconfirm.com                                |
 
+## Energy Consumption APIs  
+*APIs providing electricity, gas, renewable usage, carbon output, and utility consumption information*
+
+| **API / Service**                 | **Description**                                                                 | **Official Documentation**                            |
+|----------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------|
+| `UK National Grid API`           | Provides electricity demand, supply mix, carbon intensity, and grid frequency   | https://www.nationalgrideso.com                       |
+| `U.S. EIA Energy API`            | Official U.S. Energy Information Administration API for energy production/usage | https://www.eia.gov/opendata/                         |
+| `Open Energy Data (Europe)`      | EU-wide dataset for electricity, gas, renewables, and consumption stats         | https://energy.ec.europa.eu/data-and-analysis         |
+| `ElectricityMap API`             | Real-time carbon intensity and energy consumption by region                      | https://api.electricitymap.org                        |
+| `Enedis API` (France)            | Electric consumption data for households and businesses                          | https://www.enedis.fr/data-connect                    |
+| `GreenButton API`                | Standard for utility companies to share energy consumption data                 | https://www.greenbuttondata.org                       |
+| `Carbon Intensity API (UK)`      | Tracks carbon intensity of electricity generation                               | https://carbonintensity.org.uk                        |
+| `OpenWeather Solar & Energy`     | Solar radiation and energy consumption estimation                                | https://openweathermap.org/api                        |
+
