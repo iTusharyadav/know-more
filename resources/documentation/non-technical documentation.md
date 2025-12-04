@@ -1153,3 +1153,23 @@
 | `SendGrid`             | Cloud-based customer communication platform (Twilio)            | [Check Out](https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api)|
 | `SparkPost`            | Email intelligence and sending platform                         | [Check Out](https://developers.sparkpost.com/)                     |
 
+## Energy & Utilities
+*APIs and platforms for tracking energy consumption, managing smart grids, solar monitoring, electric vehicle charging, and carbon footprint analysis.*
+
+| **Technology**         | **Description**                                                 | **Official Documentation**                                         |
+|------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
+| `Arcadia`              | Connectivity platform for utility data and clean energy access  | [Check Out](https://docs.arcadia.com/)                             |
+| `Carbon Interface`     | Estimates carbon emissions for shipping, travel, and electricity| [Check Out](https://docs.carboninterface.com/)                     |
+| `Climatiq`             | Emission calculation infrastructure for carbon accounting       | [Check Out](https://docs.climatiq.io/)                             |
+| `Electricity Maps`     | Real-time carbon intensity and electricity mix data             | [Check Out](https://api-portal.electricitymaps.com/)               |
+| `Enphase`              | Solar energy monitoring and management for microinverters       | [Check Out](https://developer.enphase.com/)                        |
+| `Entsoe Transparency`  | European electricity market and transmission data               | [Check Out](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/guide.html)|
+| `Fronius`              | Solar inverter data integration for photovoltaic systems        | [Check Out](https://www.fronius.com/en/photovoltaics/products/all-products/system-monitoring/open-interfaces)|
+| `NREL`                 | National Renewable Energy Laboratory data (Solar, Wind, etc.)   | [Check Out](https://developer.nrel.gov/)                           |
+| `Octopus Energy`       | Smart tariff and consumption data for UK energy customers       | [Check Out](https://developer.octopus.energy/docs/api/)            |
+| `Open Charge Map`      | Global registry of electric vehicle charging locations          | [Check Out](https://openchargemap.org/site/develop/api)            |
+| `SolarEdge`            | Monitoring API for solar power harvesting systems               | [Check Out](https://knowledge-center.solaredge.com/sites/kc/files/se_monitoring_api.pdf)|
+| `Tesla Fleet API`      | Management of Tesla Powerwalls and solar products               | [Check Out](https://developer.tesla.com/docs/fleet-api/endpoints/energy-specific-endpoints)|
+| `Tibber`               | Digital energy company focused on lowering power consumption    | [Check Out](https://developer.tibber.com/)                         |
+| `WattTime`             | Automated emissions reduction and grid timing data              | [Check Out](https://www.watttime.org/api-documentation/)           |
+
