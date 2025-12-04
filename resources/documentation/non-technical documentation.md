@@ -1130,3 +1130,26 @@
 | `WHO Disease Outbreak News`        | International alerts and disease outbreak documentation.                | [Check Out](https://www.who.int/emergencies/disease-outbreak-news)     |
 | `OECD Health Statistics`           | Health expenditure, workforce, hospitals, insurance statistics.        | [Check Out](https://www.oecd.org/health/health-data/)                  |
 
+## Email Marketing
+*Services and platforms for managing newsletters, marketing automation, transactional emails, and customer communication workflows.*
+
+| **Technology**         | **Description**                                                 | **Official Documentation**                                         |
+|------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
+| `ActiveCampaign`       | Customer experience automation platform (email, automation, CRM)| [Check Out](https://developers.activecampaign.com/)                |
+| `AWeber`               | Email marketing tool designed for small businesses              | [Check Out](https://api.aweber.com/)                               |
+| `Brevo (Sendinblue)`   | Relationship marketing suite including email and SMS            | [Check Out](https://developers.brevo.com/)                         |
+| `Campaign Monitor`     | Email marketing tool for agencies and designers                 | [Check Out](https://www.campaignmonitor.com/api/)                  |
+| `Constant Contact`     | Online marketing tools for small businesses and nonprofits      | [Check Out](https://developer.constantcontact.com/)                |
+| `ConvertKit`           | Marketing platform specifically for creators and bloggers       | [Check Out](https://developers.convertkit.com/)                    |
+| `Drip`                 | E-commerce revenue engine and marketing automation              | [Check Out](https://developer.drip.com/)                           |
+| `GetResponse`          | Comprehensive marketing software platform                       | [Check Out](https://apidocs.getresponse.com/)                      |
+| `Klaviyo`              | Marketing automation platform built for e-commerce growth       | [Check Out](https://developers.klaviyo.com/)                       |
+| `Mailchimp`            | All-in-one marketing platform for small businesses              | [Check Out](https://mailchimp.com/developer/)                      |
+| `MailerLite`           | Simple email marketing tools for growing businesses             | [Check Out](https://developers.mailerlite.com/)                    |
+| `Mailgun`              | Transactional email API service for developers                  | [Check Out](https://documentation.mailgun.com/en/latest/api_reference.html)|
+| `Mailjet`              | Email solution for teams to create, send, and monitor emails    | [Check Out](https://dev.mailjet.com/)                              |
+| `Omnisend`             | E-commerce marketing automation platform                        | [Check Out](https://api.omnisend.com/v3/)                          |
+| `Postmark`             | Transactional email service focused on delivery speed           | [Check Out](https://postmarkapp.com/developer)                     |
+| `SendGrid`             | Cloud-based customer communication platform (Twilio)            | [Check Out](https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api)|
+| `SparkPost`            | Email intelligence and sending platform                         | [Check Out](https://developers.sparkpost.com/)                     |
+
