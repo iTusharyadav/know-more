@@ -1060,6 +1060,28 @@
 | `Walmart Marketplace API`     | Seller systems for listings, orders, shipping, and returns.         | [Check Out](https://developer.walmart.com/)                       |
 | `WooCommerce API`             | Product, order, and store data for WordPress-based shops.           | [Check Out](https://woocommerce.github.io/woocommerce-rest-api-docs/) |
 
+## Education & Learning
+*Platforms designed for learning management, student information systems, course creation, and educational content delivery.*
+
+| **Technology**         | **Description**                                                 | **Official Documentation**                                         |
+|------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
+| `Blackboard Learn`     | Enterprise learning management system for higher education      | [Check Out](https://developer.anthology.com/portal/display/API/Blackboard+Learn+Rest+APIs)|
+| `Canvas LMS`           | Open, reliable, and cloud-native learning management system     | [Check Out](https://canvas.instructure.com/doc/api/)               |
+| `ClassLink`            | Single sign-on and rostering solution for K-12 education        | [Check Out](https://developer.classlink.com/)                      |
+| `Clever`               | Platform powering digital learning with rostering and SSO       | [Check Out](https://dev.clever.com/)                               |
+| `Coursera`             | Online learning platform offering courses from top universities | [Check Out](https://www.coursera.org/developers)                   |
+| `Docebo`               | AI-powered learning suite for enterprise training               | [Check Out](https://help.docebo.com/hc/en-us/articles/360020082520-API-Reference)|
+| `Google Classroom`     | Web service for schools to simplify creating and grading assignments| [Check Out](https://developers.google.com/classroom)           |
+| `Moodle`               | The world's most popular open-source learning management system | [Check Out](https://docs.moodle.org/dev/Web_service_API_functions) |
+| `Open edX`             | Open-source platform powering edX courses and custom learning sites| [Check Out](https://docs.openedx.org/en/latest/)                |
+| `Sakai`                | Robust open-source LMS designed by and for higher education     | [Check Out](https://confluence.sakaiproject.org/display/DOC/Sakai+Documentation)|
+| `Schoology`            | K-12 focused learning management system owned by PowerSchool    | [Check Out](https://developers.schoology.com/)                     |
+| `TalentLMS`            | Cloud LMS for employee training and onboarding                  | [Check Out](https://www.talentlms.com/pages/docs)                  |
+| `Teachable`            | Platform for creators to create and sell online courses         | [Check Out](https://docs.teachable.com/)                           |
+| `Thinkific`            | Software platform that enables entrepreneurs to sell courses    | [Check Out](https://developers.thinkific.com/)                     |
+| `Udemy`                | Global marketplace for learning and teaching online             | [Check Out](https://www.udemy.com/developers/)                     |
+
+
 ## E-government APIs 
 *APIs providing public service data, IDs, taxation info, census data, permits, and official government services.*
 | **Technology**                   | **Description**                                                             | **Official Documentation**                                            |
@@ -1107,55 +1129,4 @@
 | `European Centre for Disease Prevention (ECDC)` | EU health surveillance, disease reports, outbreaks.              | [Check Out](https://www.ecdc.europa.eu/en/data-tools)                  |
 | `WHO Disease Outbreak News`        | International alerts and disease outbreak documentation.                | [Check Out](https://www.who.int/emergencies/disease-outbreak-news)     |
 | `OECD Health Statistics`           | Health expenditure, workforce, hospitals, insurance statistics.        | [Check Out](https://www.oecd.org/health/health-data/)                  |
-
-## Election Information APIs  
-*APIs providing election schedules, candidate data, polling places, voter info, and results*
-
-| **API / Service**         | **Description**                                                                 | **Official Documentation / Notes**                       |
-|---------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------|
-| `Generic Election API`    | Provides upcoming election dates, types (local/state/national), and metadata.   | Not standard — depends on country; see local gov portals |
-| `Voter Registration API`  | Returns registration deadlines, requirements, and eligibility info.             | varies by location                                        |
-| `Ballot Info API`         | Supplies ballot content: candidates, referendums, measures for a given area.   | depends on region                                         |
-| `Polling Places API`      | Gives addresses, hours, and accessibility data for polling locations.           | depends on region                                         |
-| `Results API`             | Offers certified election results, turnout stats, and district summaries.       | depends on electoral authority                            |
-
-## Employment Benefits APIs  
-*APIs providing information about employee insurance, pensions, payroll benefits, and leave programs*
-
-| **API / Service**              | **Description**                                                                | **Official Documentation**                         |
-|-------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------|
-| `Benefits.gov API`            | Provides U.S. government benefit eligibility info including employment support | https://www.benefits.gov/developers               |
-| `UK GOV Employee Benefits`    | Offers access to employment rights, pensions, maternity, and statutory benefits| https://www.gov.uk/browse/working                 |
-| `Canada Benefits API`         | Includes employment insurance, worker benefits, and support programs           | https://www.canada.ca/en/services/benefits.html   |
-| `Australian Services Benefits`| Delivers employment support, parental leave, and welfare benefit information    | https://www.servicesaustralia.gov.au              |
-| `Singapore CPF API`           | Central Provident Fund information on pensions, employer/employee contributions | https://www.cpf.gov.sg                            |
-| `India EPFO Services`         | Employee Provident Fund details covering pensions, withdrawals, and claims      | https://www.epfindia.gov.in                       |
-| `New Zealand Work & Income`   | Jobseeker support, wage subsidies, and worker benefit schemes                  | https://www.workandincome.govt.nz                 |
-
-## Employee Verification APIs  
-*APIs used to confirm employment history, job titles, employer details, and work eligibility*
-
-| **API / Service**            | **Description**                                                                   | **Official Documentation**                          |
-|------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------|
-| `Equifax The Work Number`   | Employment verification service used by companies to confirm employee records     | https://theworknumber.com/partners/verify          |
-| `Truework API`              | Modern employment and income verification platform                                | https://docs.truework.com                           |
-| `Experian Employment Insight`| Employment verification for background checks and employer confirmation           | https://www.experian.com/employer-services         |
-| `Checkr Employment Verify`  | Job verification API integrated with background checks                           | https://docs.checkr.com                             |
-| `Onfido Employment Check`   | Verifies work history as part of identity/background services                     | https://onfido.com                                  |
-| `Certn Employment Verification` | Confirms previous employers, roles, and dates of employment                   | https://certn.co                                    |
-| `uConfirm Employment API`   | Employer-provided employment verification for HR and lenders                      | https://uconfirm.com                                |
-
-## Energy Consumption APIs  
-*APIs providing electricity, gas, renewable usage, carbon output, and utility consumption information*
-
-| **API / Service**                 | **Description**                                                                 | **Official Documentation**                            |
-|----------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------|
-| `UK National Grid API`           | Provides electricity demand, supply mix, carbon intensity, and grid frequency   | https://www.nationalgrideso.com                       |
-| `U.S. EIA Energy API`            | Official U.S. Energy Information Administration API for energy production/usage | https://www.eia.gov/opendata/                         |
-| `Open Energy Data (Europe)`      | EU-wide dataset for electricity, gas, renewables, and consumption stats         | https://energy.ec.europa.eu/data-and-analysis         |
-| `ElectricityMap API`             | Real-time carbon intensity and energy consumption by region                      | https://api.electricitymap.org                        |
-| `Enedis API` (France)            | Electric consumption data for households and businesses                          | https://www.enedis.fr/data-connect                    |
-| `GreenButton API`                | Standard for utility companies to share energy consumption data                 | https://www.greenbuttondata.org                       |
-| `Carbon Intensity API (UK)`      | Tracks carbon intensity of electricity generation                               | https://carbonintensity.org.uk                        |
-| `OpenWeather Solar & Energy`     | Solar radiation and energy consumption estimation                                | https://openweathermap.org/api                        |
 
