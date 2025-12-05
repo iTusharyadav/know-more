@@ -1028,6 +1028,48 @@
 | `Cloudflare API`              | DNS management, DDoS protection, workers, CDN & firewall.                          | [Check Out](https://api.cloudflare.com/)                                                |
 | `Fastly API`                  | Edge computing, caching, CDN & performance optimization.                            | [Check Out](https://developer.fastly.com/reference/api/)                                |
 
+# Earth Science APIs
+*APIs that provide environmental, geological, atmospheric, climate, ocean, and planetary science data.*
+
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `AirNow API` | U.S. air quality index, pollution, wildfire smoke & ozone data. | [Check Out](https://docs.airnowapi.org/) |
+| `ARGO Ocean Data API` | Global ocean temperature, salinity & float measurement datasets. | [Check Out](https://argovis.colorado.edu/static/docs/) |
+| `CWB Open Data (Taiwan)` | Meteorological, earthquake, ocean & climate datasets. | [Check Out](https://opendata.cwb.gov.tw/dist/opendata-swagger.html) |
+| `Climate Data Store API (CDS)` | ECMWF climate, atmospheric & satellite earth observation datasets. | [Check Out](https://cds.climate.copernicus.eu/api-how-to) |
+| `Earthdata NASA API` | NASA environmental, weather, satellite imagery & geospatial datasets. | [Check Out](https://api.nasa.gov/) |
+| `Earthquake API (USGS)` | Global earthquake events, magnitudes, depths & timestamps. | [Check Out](https://earthquake.usgs.gov/fdsnws/event/1/) |
+| `EBAS API` | Atmospheric composition, greenhouse gases & deposition data. | [Check Out](https://ebas.nilu.no/API/Documentation) |
+| `ECMWF Public Data API` | Global atmospheric & weather reanalysis datasets (ERA5). | [Check Out](https://confluence.ecmwf.int/display/WEBAPI/Access+ECMWF+Public+Datasets) |
+| `EM-DAT Disaster API` | Natural disasters, hazards, impacts & historical environmental events. | [Check Out](https://public.emdat.be/) |
+| `EMS Copernicus API` | European Earth monitoring — air quality, climate, land & emergencies. | [Check Out](https://emergency.copernicus.eu/api/) |
+| `EnviDat API` | Environmental research datasets including ecology & biodiversity. | [Check Out](https://www.envidat.ch/dataset?res_format=API) |
+| `Environment Canada Climate API` | Weather, climate normals, alerts & air quality data (Canada). | [Check Out](https://dd.weather.gc.ca/) |
+| `Environment Data Initiative API` | Ecology, climate change, forest & freshwater biology datasets. | [Check Out](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7Bmetadata%7D) |
+| `EPA Air Quality API` | U.S. environmental protection air pollution & monitoring data. | [Check Out](https://www.epa.gov/developers/air-data-api) |
+| `ESA Climate Office API` | European Space Agency climate & satellite environmental datasets. | [Check Out](https://climate.esa.int/en/help/api/) |
+| `ESGF API` | Earth System Grid Federation climate model simulation data. | [Check Out](https://esgf-node.llnl.gov/search/cmip6/) |
+| `ESRI ArcGIS Earth APIs` | Global maps, terrain, layers & earth-observation geospatial datasets. | [Check Out](https://developers.arcgis.com/rest/) |
+| `EU Copernicus Open Access Hub` | Sentinel satellite Earth observation imagery & metadata. | [Check Out](https://scihub.copernicus.eu/userguide/WebHome) |
+| `Geoscience Australia API` | Earthquakes, satellite imagery, geospatial & geological datasets. | [Check Out](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/api) |
+| `Global Biodiversity Information Facility (GBIF)` | Species data, biodiversity records & ecological observations. | [Check Out](https://www.gbif.org/developer/summary) |
+| `GLEAM API` | Satellite soil moisture & hydrological models. | [Check Out](https://www.gleam.eu/#downloads) |
+| `GOES NOAA Satellite API` | Real-time weather satellite imagery (GOES-East & West). | [Check Out](https://www.goes.noaa.gov/) |
+| `JAXA Earth Observation API` | Japanese satellite earth-observation datasets (ALOS, GCOM, AMSR). | [Check Out](https://www.eorc.jaxa.jp/en/about/api.htm) |
+| `Landsat API (USGS)` | Landsat Earth imagery, scenes, metadata & surface temperature. | [Check Out](https://landsat.usgs.gov/landsat-api) |
+| `MET Norway Weather API` | Global weather forecasts, marine forecasts & historical data. | [Check Out](https://api.met.no/weatherapi/) |
+| `NASA Earth Observatory API` | Earth science imagery, atmospheric & climate data. | [Check Out](https://earthdata.nasa.gov/) |
+| `NOAA Climate API` | U.S. climate records, water levels, storms & hurricane datasets. | [Check Out](https://www.ncei.noaa.gov/support/access-search-service-api-user-documentation) |
+| `NOAA ERDDAP API` | Oceanographic, marine & weather datasets. | [Check Out](https://coastwatch.pfeg.noaa.gov/erddap/rest.html) |
+| `OpenAQ API` | Global air quality data aggregated from official monitoring stations. | [Check Out](https://docs.openaq.org/) |
+| `Open-Meteo API` | Free weather & climate datasets: temperature, wind, solar & indexes. | [Check Out](https://open-meteo.com/en/docs) |
+| `Planet API` | High-resolution earth imagery from Planet satellites. | [Check Out](https://developers.planet.com/docs/apis/) |
+| `Storm Events API (NOAA)` | Historical weather hazards: tornadoes, floods, storms. | [Check Out](https://www.ncdc.noaa.gov/stormevents/) |
+| `UNAVCO Earth Science API` | GPS, seismic, tectonic plate movement & geodesy data. | [Check Out](https://www.unavco.org/data/data.html) |
+| `USDA Soil Data API` | Soil types, erosion, moisture & agricultural land data. | [Check Out](https://sdmdataaccess.nrcs.usda.gov/) |
+
+
+
 ## E-commerce APIs 
 *APIs that provide access to online stores, product data, orders, catalogs, carts, and marketplace listings.*
 | **Technology**                 | **Description**                                                     | **Official Documentation**                                         |
