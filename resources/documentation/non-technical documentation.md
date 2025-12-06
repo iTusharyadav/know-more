@@ -1094,3 +1094,28 @@
 | `UNData API` | United Nations global social, demographic & economic datasets. | [Check Out](http://data.un.org/Handlers/DownloadHandler.ashx?DataFilter=ggdc) |
 | `World Bank Indicators API` | Global development, economics, education, health & finance data. | [Check Out](https://api.worldbank.org/) |
 
+# Education APIs
+*APIs related to learning platforms, academic data, universities, digital classrooms, course content, student information systems, and educational resources.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Canvas LMS API` | Learning management system for courses, assignments, quizzes & grading. | [Check Out](https://canvas.instructure.com/doc/api/) |
+| `ClassDojo API` | Communication & classroom engagement platform APIs. | [Check Out](https://classdojo.zendesk.com/hc/en-us) |
+| `Coursera Catalog API` | Course metadata, learning programs & institutional content. | [Check Out](https://api.coursera.org/api/courses.v1) |
+| `Ed-Fi API` | Student information, assessments, attendance & K12 data standard. | [Check Out](https://techdocs.ed-fi.org/display/EDFITOOLS/Ed-Fi+API+Docs) |
+| `Edmodo API` | Social learning classroom platform APIs (assignments, messages). | [Check Out](https://api.edmodo.com/) |
+| `Education Data Portal API (USA)` | U.S. Department of Education datasets & statistics. | [Check Out](https://educationdata.urban.org/documentation/) |
+| `Edsby API` | K-12 digital learning platform for attendance, grades & engagement. | [Check Out](https://www.edsby.com/developers/) |
+| `edX API` | Online learning platform for courses, programs & analytics. | [Check Out](https://edx.readthedocs.io/) |
+| `Google Classroom API` | Classroom management: courses, coursework, announcements, rosters. | [Check Out](https://developers.google.com/classroom) |
+| `Great Schools API` | U.S. school ratings, reviews, performance & directory info. | [Check Out](https://www.greatschools.org/api/docs/) |
+| `Khan Academy API` | Learning resources, exercises, lessons & progress tracking. | [Check Out](https://api-explorer.khanacademy.org/) |
+| `Microsoft Education Graph API` | Student rosters, assignments, SIS data & LMS integrations. | [Check Out](https://learn.microsoft.com/graph/education-concept-overview) |
+| `Moodle API` | Open-source LMS including courses, users, assignments, grading. | [Check Out](https://docs.moodle.org/dev/Web_service_API_functions) |
+| `NCES API` | U.S. National Center for Education Statistics school data. | [Check Out](https://nces.ed.gov/ipeds/use-the-data/api) |
+| `OpenAlex API` | Research papers, authors, institutions & scholarly data. | [Check Out](https://docs.openalex.org/) |
+| `OpenStax API` | Open-source textbooks, chapters & learning materials. | [Check Out](https://openstax.org/api) |
+| `Quizlet API` | Flashcards, sets, study materials & classroom tools. | [Check Out](https://quizlet.com/api/2.0/docs) |
+| `SchoolDigger API` | U.S. school rankings, enrollment & district profiles. | [Check Out](https://developer.schooldigger.com/) |
+| `Udacity API` | Nanodegree & course metadata for developers. | [Check Out](https://catalog.udacity.com/) |
+| `Udemy API` | Online learning platform for course listings, search & metadata. | [Check Out](https://www.udemy.com/developers/) |
+
