@@ -1030,7 +1030,6 @@
 
 # Earth Science APIs
 *APIs that provide environmental, geological, atmospheric, climate, ocean, and planetary science data.*
-
 | **Technology / Service** | **Description** | **Official Documentation** |
 |--------------------------|------------------|-----------------------------|
 | `AirNow API` | U.S. air quality index, pollution, wildfire smoke & ozone data. | [Check Out](https://docs.airnowapi.org/) |
@@ -1068,150 +1067,30 @@
 | `UNAVCO Earth Science API` | GPS, seismic, tectonic plate movement & geodesy data. | [Check Out](https://www.unavco.org/data/data.html) |
 | `USDA Soil Data API` | Soil types, erosion, moisture & agricultural land data. | [Check Out](https://sdmdataaccess.nrcs.usda.gov/) |
 
-
-
-## E-commerce APIs 
-*APIs that provide access to online stores, product data, orders, catalogs, carts, and marketplace listings.*
-| **Technology**                 | **Description**                                                     | **Official Documentation**                                         |
-|-------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|
-| `Alibaba API`                 | Access to wholesale products, supplier data, categories.            | [Check Out](https://developers.alibaba.com/)                      |
-| `AliExpress API`              | Dropshipping products, orders, tracking, and pricing info.          | [Check Out](https://developers.aliexpress.com/en/doc.htm)         |
-| `Amazon Marketplace Web API`  | Marketplace listings, orders, inventory, seller data.               | [Check Out](https://developer.amazonservices.com/)                |
-| `Amazon Product Advertising`  | Product search, details, prices, reviews, images.                   | [Check Out](https://webservices.amazon.com/paapi5/documentation/) |
-| `BigCommerce API`             | Storefront data, orders, products, customers, carts.                | [Check Out](https://developer.bigcommerce.com/api-docs)           |
-| `BestBuy Products API`        | Public electronics product catalog with specs and pricing.          | [Check Out](https://bestbuyapis.github.io/api-documentation/)     |
-| `Bol.com Retailer API`        | Dutch marketplace inventory, orders, shipping, catalog.             | [Check Out](https://developers.bol.com/)                          |
-| `Cdiscount API`               | French marketplace product catalog, sellers, and orders.            | [Check Out](https://dev.cdiscount.com/)                           |
-| `Etsy API`                    | Handcrafted product listings, shops, reviews, and categories.       | [Check Out](https://developers.etsy.com/)                         |
-| `eBay Buy API`                | Product search, item details, prices, and images.                   | [Check Out](https://developer.ebay.com/api-docs/buy/)             |
-| `eBay Sell API`               | Inventory, orders, listings, analytics for sellers.                 | [Check Out](https://developer.ebay.com/api-docs/sell)             |
-| `Flipkart Seller API`         | Seller catalog, orders, shipping, and refunds for Flipkart.         | [Check Out](https://seller.flipkart.com/api-docs)                 |
-| `Google Shopping Content API` | Merchant product listings, availability, and pricing.               | [Check Out](https://developers.google.com/shopping-content)       |
-| `Lazada API`                  | Marketplace products, orders, disputes (Southeast Asia).            | [Check Out](https://open.lazada.com/doc/doc.htm)                  |
-| `MercadoLibre API`            | Latin American product listings, users, orders, shipping.           | [Check Out](https://developers.mercadolibre.com.ar/en_us/apis)    |
-| `OpenCart API`                | Products, customers, orders for OpenCart stores.                    | [Check Out](https://docs.opencart.com/en-gb/system/api/)          |
-| `Prestashop API`              | Products, categories, inventory, carts, and orders.                 | [Check Out](https://devdocs.prestashop-project.org/)              |
-| `Rakuten Marketplace API`     | Japanese e-commerce marketplace product and order tools.            | [Check Out](https://developer.rakuten.com/)                       |
-| `Saleor API`                  | GraphQL commerce system for products, orders, and storefronts.      | [Check Out](https://docs.saleor.io/)                              |
-| `Shopify Admin API`           | Full admin access to products, stores, orders, customers.           | [Check Out](https://shopify.dev/docs/api/admin-rest)              |
-| `Shopify Storefront API`      | Storefront product browsing, carts, checkouts via GraphQL.          | [Check Out](https://shopify.dev/docs/api/storefront)              |
-| `Snipcart API`                | Shopping cart solution for websites and custom stores.              | [Check Out](https://docs.snipcart.com/)                           |
-| `Square Catalog API`          | Products, inventory, categories, and online store data.             | [Check Out](https://developer.squareup.com/docs)                  |
-| `Target Product API`          | Public product info, prices, categories (limited).                  | [Check Out](https://www.target.com/developer)                     |
-| `Taobao API`                  | Chinese marketplace item listings, categories, and sellers.         | [Check Out](https://open.taobao.com/api.htm)                      |
-| `Walmart Marketplace API`     | Seller systems for listings, orders, shipping, and returns.         | [Check Out](https://developer.walmart.com/)                       |
-| `WooCommerce API`             | Product, order, and store data for WordPress-based shops.           | [Check Out](https://woocommerce.github.io/woocommerce-rest-api-docs/) |
-
-## Education & Learning
-*Platforms designed for learning management, student information systems, course creation, and educational content delivery.*
-
-| **Technology**         | **Description**                                                 | **Official Documentation**                                         |
-|------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| `Blackboard Learn`     | Enterprise learning management system for higher education      | [Check Out](https://developer.anthology.com/portal/display/API/Blackboard+Learn+Rest+APIs)|
-| `Canvas LMS`           | Open, reliable, and cloud-native learning management system     | [Check Out](https://canvas.instructure.com/doc/api/)               |
-| `ClassLink`            | Single sign-on and rostering solution for K-12 education        | [Check Out](https://developer.classlink.com/)                      |
-| `Clever`               | Platform powering digital learning with rostering and SSO       | [Check Out](https://dev.clever.com/)                               |
-| `Coursera`             | Online learning platform offering courses from top universities | [Check Out](https://www.coursera.org/developers)                   |
-| `Docebo`               | AI-powered learning suite for enterprise training               | [Check Out](https://help.docebo.com/hc/en-us/articles/360020082520-API-Reference)|
-| `Google Classroom`     | Web service for schools to simplify creating and grading assignments| [Check Out](https://developers.google.com/classroom)           |
-| `Moodle`               | The world's most popular open-source learning management system | [Check Out](https://docs.moodle.org/dev/Web_service_API_functions) |
-| `Open edX`             | Open-source platform powering edX courses and custom learning sites| [Check Out](https://docs.openedx.org/en/latest/)                |
-| `Sakai`                | Robust open-source LMS designed by and for higher education     | [Check Out](https://confluence.sakaiproject.org/display/DOC/Sakai+Documentation)|
-| `Schoology`            | K-12 focused learning management system owned by PowerSchool    | [Check Out](https://developers.schoology.com/)                     |
-| `TalentLMS`            | Cloud LMS for employee training and onboarding                  | [Check Out](https://www.talentlms.com/pages/docs)                  |
-| `Teachable`            | Platform for creators to create and sell online courses         | [Check Out](https://docs.teachable.com/)                           |
-| `Thinkific`            | Software platform that enables entrepreneurs to sell courses    | [Check Out](https://developers.thinkific.com/)                     |
-| `Udemy`                | Global marketplace for learning and teaching online             | [Check Out](https://www.udemy.com/developers/)                     |
-
-
-## E-government APIs 
-*APIs providing public service data, IDs, taxation info, census data, permits, and official government services.*
-| **Technology**                   | **Description**                                                             | **Official Documentation**                                            |
-|----------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| `Aadhaar Services (UIDAI)`       | India’s national digital ID services: verification, e-KYC, authentication. | [Check Out](https://uidai.gov.in/)                                   |
-| `Australia Government Data API`  | Open datasets from Australian government departments.                       | [Check Out](https://data.gov.au/)                                    |
-| `Canada Open Government API`     | Public datasets, services, and government records from Canada.             | [Check Out](https://open.canada.ca/en/open-data)                     |
-| `Census Bureau API (USA)`        | U.S. demographic, population, housing, and economic census data.           | [Check Out](https://www.census.gov/data/developers/data-sets.html)  |
-| `Data.gov (USA)`                 | Official U.S. government datasets across all sectors.                      | [Check Out](https://api.data.gov/)                                   |
-| `Data.gov.ph (Philippines)`      | Philippine government open datasets and public records.                    | [Check Out](https://data.gov.ph/)                                    |
-| `Data.gov.sg (Singapore)`        | Singapore government datasets on population, transport, weather.           | [Check Out](https://data.gov.sg/developer)                           |
-| `Digital India Services`         | Indian government digital public services & citizen portals.               | [Check Out](https://www.digitalindia.gov.in/)                        |
-| `eCitizen Kenya API`             | Public services portal for IDs, business registration, and taxes.          | [Check Out](https://www.ecitizen.go.ke/)                             |
-| `eIDAS EU Services`              | European Union digital ID and trust services (non-technical docs).         | [Check Out](https://digital-strategy.ec.europa.eu/en/policies/eidas) |
-| `EU Open Data Portal`            | Public EU datasets for economy, health, transport, climate.                | [Check Out](https://data.europa.eu/en)                               |
-| `Gov.uk API`                     | UK government services, licensing, education, taxes, and public info.      | [Check Out](https://www.gov.uk/guidance/content-api)                 |
-| `India Open Government Data`     | Public datasets, schemes, and government digital services.                 | [Check Out](https://data.gov.in/)                                    |
-| `Japan Government Data API`      | Public data, statistics, and government services in Japan.                 | [Check Out](https://www.data.go.jp/)                                 |
-| `National Portal of India`       | Government schemes, documents, regulations, IDs, certificates.             | [Check Out](https://www.india.gov.in/)                               |
-| `New Zealand Data Portal`        | NZ government’s official public datasets and service documentation.        | [Check Out](https://www.data.govt.nz/)                               |
-| `Open Government Indonesia`      | Public datasets and e-government services in Indonesia.                    | [Check Out](https://data.go.id/)                                     |
-| `Open Korea Data Service`        | South Korean open datasets on society, economy, and public services.       | [Check Out](https://www.data.go.kr/)                                 |
-| `Open Government Malaysia`       | Malaysian government datasets and digital services.                        | [Check Out](https://www.data.gov.my/)                                |
-| `Pakistan Open Data Initiative`  | Pakistan’s public data directory and official datasets.                    | [Check Out](https://opendata.gov.pk/)                                |
-| `UN Data Portal`                 | United Nations global statistics, population, health, economics.           | [Check Out](https://data.un.org/)                                    |
-
-## E-health / Electronic Health APIs 
-*APIs providing public health data, medical records information, clinical guidelines, disease tracking, and healthcare services.*
-| **Technology**                     | **Description**                                                           | **Official Documentation**                                              |
-|------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| `CDC API (USA)`                    | Public health data: diseases, outbreaks, vaccination, statistics.        | [Check Out](https://data.cdc.gov/)                                     |
-| `FDA API (USA)`                    | Drugs, medical devices, recalls, food safety, and approvals.            | [Check Out](https://open.fda.gov/apis/)                                |
-| `Global Health Observatory (WHO)`  | Global health metrics, disease statistics, mortality data.              | [Check Out](https://www.who.int/data/gho)                              |
-| `HealthData.gov (USA)`             | Public datasets on healthcare, hospitals, drugs, and insurance.         | [Check Out](https://healthdata.gov/)                                   |
-| `NHS Digital UK API`               | Prescriptions, hospital data, clinical services (UK).                   | [Check Out](https://digital.nhs.uk/services)                           |
-| `NLM / PubMed API`                 | Medical research papers, clinical journals, biomedical literature.      | [Check Out](https://www.ncbi.nlm.nih.gov/home/develop/api/)           |
-| `OpenFDA Drug API`                 | Drug labels, side effects, reactions, and research data.                | [Check Out](https://open.fda.gov/apis/drug/)                           |
-| `OpenFDA Device API`               | Medical device reports, registrations, recalls.                         | [Check Out](https://open.fda.gov/apis/device/)                         |
-| `OpenFDA Food API`                 | Food recalls, allergens, safety reports.                                | [Check Out](https://open.fda.gov/apis/food/)                           |
-| `OpenWHO`                          | WHO training and resources on epidemics and health emergencies.         | [Check Out](https://openwho.org/)                                      |
-| `OpenMRS API`                      | Open-source medical records system documentation.                       | [Check Out](https://rest.openmrs.org/)                                 |
-| `World Bank Health Data`           | Global healthcare expenditure, health indicators, and resources.        | [Check Out](https://data.worldbank.org/topic/health)                   |
-| `India Health Data (MoHFW)`        | Indian public health bulletins, guidelines, hospitals, and programs.    | [Check Out](https://www.mohfw.gov.in/)                                 |
-| `Ayushman Bharat (India)`          | Health benefit guidelines, insurance documentation (non-tech).          | [Check Out](https://pmjay.gov.in/)                                     |
-| `European Centre for Disease Prevention (ECDC)` | EU health surveillance, disease reports, outbreaks.              | [Check Out](https://www.ecdc.europa.eu/en/data-tools)                  |
-| `WHO Disease Outbreak News`        | International alerts and disease outbreak documentation.                | [Check Out](https://www.who.int/emergencies/disease-outbreak-news)     |
-| `OECD Health Statistics`           | Health expenditure, workforce, hospitals, insurance statistics.        | [Check Out](https://www.oecd.org/health/health-data/)                  |
-
-## Email Marketing
-*Services and platforms for managing newsletters, marketing automation, transactional emails, and customer communication workflows.*
-
-| **Technology**         | **Description**                                                 | **Official Documentation**                                         |
-|------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| `ActiveCampaign`       | Customer experience automation platform (email, automation, CRM)| [Check Out](https://developers.activecampaign.com/)                |
-| `AWeber`               | Email marketing tool designed for small businesses              | [Check Out](https://api.aweber.com/)                               |
-| `Brevo (Sendinblue)`   | Relationship marketing suite including email and SMS            | [Check Out](https://developers.brevo.com/)                         |
-| `Campaign Monitor`     | Email marketing tool for agencies and designers                 | [Check Out](https://www.campaignmonitor.com/api/)                  |
-| `Constant Contact`     | Online marketing tools for small businesses and nonprofits      | [Check Out](https://developer.constantcontact.com/)                |
-| `ConvertKit`           | Marketing platform specifically for creators and bloggers       | [Check Out](https://developers.convertkit.com/)                    |
-| `Drip`                 | E-commerce revenue engine and marketing automation              | [Check Out](https://developer.drip.com/)                           |
-| `GetResponse`          | Comprehensive marketing software platform                       | [Check Out](https://apidocs.getresponse.com/)                      |
-| `Klaviyo`              | Marketing automation platform built for e-commerce growth       | [Check Out](https://developers.klaviyo.com/)                       |
-| `Mailchimp`            | All-in-one marketing platform for small businesses              | [Check Out](https://mailchimp.com/developer/)                      |
-| `MailerLite`           | Simple email marketing tools for growing businesses             | [Check Out](https://developers.mailerlite.com/)                    |
-| `Mailgun`              | Transactional email API service for developers                  | [Check Out](https://documentation.mailgun.com/en/latest/api_reference.html)|
-| `Mailjet`              | Email solution for teams to create, send, and monitor emails    | [Check Out](https://dev.mailjet.com/)                              |
-| `Omnisend`             | E-commerce marketing automation platform                        | [Check Out](https://api.omnisend.com/v3/)                          |
-| `Postmark`             | Transactional email service focused on delivery speed           | [Check Out](https://postmarkapp.com/developer)                     |
-| `SendGrid`             | Cloud-based customer communication platform (Twilio)            | [Check Out](https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api)|
-| `SparkPost`            | Email intelligence and sending platform                         | [Check Out](https://developers.sparkpost.com/)                     |
-
-## Energy & Utilities
-*APIs and platforms for tracking energy consumption, managing smart grids, solar monitoring, electric vehicle charging, and carbon footprint analysis.*
-
-| **Technology**         | **Description**                                                 | **Official Documentation**                                         |
-|------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| `Arcadia`              | Connectivity platform for utility data and clean energy access  | [Check Out](https://docs.arcadia.com/)                             |
-| `Carbon Interface`     | Estimates carbon emissions for shipping, travel, and electricity| [Check Out](https://docs.carboninterface.com/)                     |
-| `Climatiq`             | Emission calculation infrastructure for carbon accounting       | [Check Out](https://docs.climatiq.io/)                             |
-| `Electricity Maps`     | Real-time carbon intensity and electricity mix data             | [Check Out](https://api-portal.electricitymaps.com/)               |
-| `Enphase`              | Solar energy monitoring and management for microinverters       | [Check Out](https://developer.enphase.com/)                        |
-| `Entsoe Transparency`  | European electricity market and transmission data               | [Check Out](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/guide.html)|
-| `Fronius`              | Solar inverter data integration for photovoltaic systems        | [Check Out](https://www.fronius.com/en/photovoltaics/products/all-products/system-monitoring/open-interfaces)|
-| `NREL`                 | National Renewable Energy Laboratory data (Solar, Wind, etc.)   | [Check Out](https://developer.nrel.gov/)                           |
-| `Octopus Energy`       | Smart tariff and consumption data for UK energy customers       | [Check Out](https://developer.octopus.energy/docs/api/)            |
-| `Open Charge Map`      | Global registry of electric vehicle charging locations          | [Check Out](https://openchargemap.org/site/develop/api)            |
-| `SolarEdge`            | Monitoring API for solar power harvesting systems               | [Check Out](https://knowledge-center.solaredge.com/sites/kc/files/se_monitoring_api.pdf)|
-| `Tesla Fleet API`      | Management of Tesla Powerwalls and solar products               | [Check Out](https://developer.tesla.com/docs/fleet-api/endpoints/energy-specific-endpoints)|
-| `Tibber`               | Digital energy company focused on lowering power consumption    | [Check Out](https://developer.tibber.com/)                         |
-| `WattTime`             | Automated emissions reduction and grid timing data              | [Check Out](https://www.watttime.org/api-documentation/)           |
+# Economics APIs
+*APIs that provide national, global, or regional economic indicators, financial statistics, market data, inflation, GDP, trade, employment & macro-economic datasets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `ADB Data Library API` | Asian Development Bank economic & development indicators. | [Check Out](https://data.adb.org/api) |
+| `BEA API` | U.S. Bureau of Economic Analysis data: GDP, PCE, trade & industry. | [Check Out](https://apps.bea.gov/api/) |
+| `BIS Statistics API` | Bank for International Settlements economic & financial indicators. | [Check Out](https://stats.bis.org/statx/toc/LBS.html) |
+| `BLS Public Data API` | U.S. labor market, employment, wages & economic indicators. | [Check Out](https://www.bls.gov/developers/) |
+| `Census Economics API` | U.S. Census economic surveys, business data & demographics. | [Check Out](https://www.census.gov/data/developers/data-sets/economic.html) |
+| `ECLAC API` | UN Economic Commission statistics for Latin America & Caribbean. | [Check Out](https://estadisticas.cepal.org/cepalstat/api/) |
+| `ECB Statistical Data Warehouse API` | European Central Bank statistics: interest rates, inflation, markets. | [Check Out](https://sdw.ecb.europa.eu/web/guided-datasets) |
+| `Economic Data API (EDAPI)` | Public economic time-series datasets (global). | [Check Out](https://data.nasdaq.com/) |
+| `Economics Data by OECD API` | OECD economic indicators: GDP, inflation, unemployment, trade. | [Check Out](https://data.oecd.org/api/sdmx-json-documentation/) |
+| `Economy Data API (World Bank)` | World Bank global development & economic indicators. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) |
+| `ERS USDA API` | Agriculture economics, food markets, commodity & farm sector data. | [Check Out](https://www.ers.usda.gov/data-products/api/) |
+| `Eurostat API` | European Union economic statistics: GDP, inflation, trade, employment. | [Check Out](https://ec.europa.eu/eurostat/web/json-and-unicode-web-services) |
+| `FAOSTAT API` | UN agriculture, food prices, production & trade datasets. | [Check Out](https://fenixservices.fao.org/faostat/api/v1/en) |
+| `FRED API` | Federal Reserve economic data: interest rates, CPI, GDP, markets. | [Check Out](https://fred.stlouisfed.org/docs/api/fred/) |
+| `IMF Data API` | International Monetary Fund economic, financial & macro datasets. | [Check Out](https://datahelp.imf.org/knowledgebase/articles/1932316-imf-data-services-api) |
+| `India Open Government Data (Economic)` | Indian national economic indicators, surveys & statistics. | [Check Out](https://api.data.gov.in/) |
+| `ONS UK API` | Office for National Statistics (UK) — economy, labor, population. | [Check Out](https://developer.ons.gov.uk/) |
+| `PWT API (Penn World Table)` | International comparative economic performance dataset. | [Check Out](https://www.rug.nl/ggdc/productivity/pwt/) |
+| `Trading Economics API` | Global macroeconomic indicators, markets, forecasts & reports. | [Check Out](https://docs.tradingeconomics.com/) |
+| `UN Comtrade API` | UN international import/export trade statistics. | [Check Out](https://comtradeapi.un.org/public/index.html) |
+| `UNData API` | United Nations global social, demographic & economic datasets. | [Check Out](http://data.un.org/Handlers/DownloadHandler.ashx?DataFilter=ggdc) |
+| `World Bank Indicators API` | Global development, economics, education, health & finance data. | [Check Out](https://api.worldbank.org/) |
 
