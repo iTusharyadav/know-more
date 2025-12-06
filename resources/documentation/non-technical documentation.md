@@ -1119,3 +1119,24 @@
 | `Udacity API` | Nanodegree & course metadata for developers. | [Check Out](https://catalog.udacity.com/) |
 | `Udemy API` | Online learning platform for course listings, search & metadata. | [Check Out](https://www.udemy.com/developers/) |
 
+# Employment & Jobs APIs
+*APIs that provide job listings, recruitment data, company profiles, salary insights, employment statistics, and hiring-related information.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Adzuna Jobs API` | Global job search engine providing job listings, salary data & company insights. | [Check Out](https://developer.adzuna.com/overview) |
+| `CareerJet API` | Aggregated job listings from thousands of recruitment sites worldwide. | [Check Out](https://www.careerjet.com/partners/api/) |
+| `Glassdoor API` | Company reviews, salaries, job postings & interview insights (limited access). | [Check Out](https://www.glassdoor.com/developer/index.htm) |
+| `Greenhouse API` | Applicant tracking system (ATS) for managing jobs, applicants & interviews. | [Check Out](https://developers.greenhouse.io/harvest.html) |
+| `Indeed API` | Job search, company data, salary insights & recruitment API (enterprise access). | [Check Out](https://developer.indeed.com/docs) |
+| `Jooble API` | Worldwide job listing aggregation from thousands of employers. | [Check Out](https://jooble.org/api/about) |
+| `Jobs2Careers API` | U.S.–focused job listings & recruitment advertising. | [Check Out](https://www.jobs2careers.com/employers/job-api/) |
+| `LinkedIn Talent API` | Professional profiles, job posts, hiring insights (restricted enterprise API). | [Check Out](https://learn.microsoft.com/linkedin/talent/integrations) |
+| `Monster API` | Job listings, recruiting automation & candidate search tools. | [Check Out](https://developer.monster.com/) |
+| `O*NET Web Services API` | U.S. occupational data, job skills, workforce analytics. | [Check Out](https://services.onetcenter.org/) |
+| `OpenSkills API` | Open workforce skills taxonomy & job skill mapping. | [Check Out](https://osmt.dev/docs/) |
+| `Reed Jobs API` | UK-based job board with detailed job listings & categories. | [Check Out](https://www.reed.co.uk/developers/jobseeker-api) |
+| `Seek API` | Hiring platform for Australia & Asia-Pacific job listings. | [Check Out](https://developer.seek.com/) |
+| `USAJOBS API` | U.S. government jobs, federal employment data & advanced search. | [Check Out](https://developer.usajobs.gov/API-Reference) |
+| `Workable API` | Hiring platform for job posting, tracking candidates & interview processes. | [Check Out](https://workable.readme.io/reference) |
+| `ZipRecruiter API` | Job listings, salary data & recruiting integrations. | [Check Out](https://www.ziprecruiter.com/partner) |
+
