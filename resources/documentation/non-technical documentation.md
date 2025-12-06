@@ -1067,6 +1067,32 @@
 | `UNAVCO Earth Science API` | GPS, seismic, tectonic plate movement & geodesy data. | [Check Out](https://www.unavco.org/data/data.html) |
 | `USDA Soil Data API` | Soil types, erosion, moisture & agricultural land data. | [Check Out](https://sdmdataaccess.nrcs.usda.gov/) |
 
+# E-Commerce APIs
+*APIs that provide access to online store data, product catalogs, orders, customers, and marketplace operations.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Adobe Commerce (Magento)` | Enterprise e-commerce platform offering product, order, and catalog APIs. | [Check Out](https://developer.adobe.com/commerce/webapi/rest/) |
+| `AliExpress API` | Global marketplace APIs for sellers, products, shipping, and orders. | [Check Out](https://developers.aliexpress.com/en/doc.htm) |
+| `Amazon Marketplace Web Service (MWS)` | APIs for Amazon sellers: orders, products, reports & inventory. | [Check Out](https://developer-docs.amazon.com/amazon-mws/) |
+| `Amazon Selling Partner API (SP-API)` | Next-gen Amazon seller API for catalogs, FBA, orders, vendors & payments. | [Check Out](https://developer-docs.amazon.com/sp-api/docs) |
+| `BigCommerce API` | Cloud e-commerce APIs for stores, products, customers & orders. | [Check Out](https://developer.bigcommerce.com/api-docs) |
+| `Bol.com Retailer API` | EU marketplace for sellers: orders, fulfillment & products. | [Check Out](https://api.bol.com/retailer/public/redoc/v10/) |
+| `CommerceHQ API` | Store builder platform offering product & checkout APIs. | [Check Out](https://www.commercehq.com/) |
+| `Ecwid API` | Lightweight e-commerce API for storefronts & catalogs. | [Check Out](https://api-docs.ecwid.com/) |
+| `Etsy API` | Marketplace API for handmade products, shops, orders & listings. | [Check Out](https://developers.etsy.com/documentation/) |
+| `Fynd Platform API` | E-commerce storefront & inventory management APIs. | [Check Out](https://developers.gofynd.com/) |
+| `Google Merchant Center API` | Product listings, feeds, and shopping data sync. | [Check Out](https://developers.google.com/shopping-content) |
+| `Lightspeed eCom API` | Retail & restaurant e-commerce (products, orders, inventory). | [Check Out](https://developers.lightspeedhq.com/ecom/) |
+| `OpenCart API` | Open-source store management, products, orders & customers API. | [Check Out](https://docs.opencart.com/en-gb/system/users/api/) |
+| `PrestaShop Webservice API` | Open-source e-commerce API for managing products & orders. | [Check Out](https://devdocs.prestashop-project.org/1.7/webservice/) |
+| `Salla API` | Middle-East online store platform with order & product APIs. | [Check Out](https://docs.salla.dev/) |
+| `Shopify API` | Leading e-commerce platform for products, stores, orders & customers. | [Check Out](https://shopify.dev/docs) |
+| `Square Online API` | Catalog, orders, payments & online store functions. | [Check Out](https://developer.squareup.com/reference/square) |
+| `Swiggy Minis API (Seller)` | APIs for storefronts, products, orders & logistics (regional). | [Check Out](https://partner.swiggy.com/) |
+| `Vtex API` | Enterprise global e-commerce APIs for checkout, search & logistics. | [Check Out](https://developers.vtex.com/docs) |
+| `WooCommerce REST API` | WordPress e-commerce API for orders, products & customers. | [Check Out](https://woocommerce.github.io/woocommerce-rest-api-docs/) |
+
+
 # Economics APIs
 *APIs that provide national, global, or regional economic indicators, financial statistics, market data, inflation, GDP, trade, employment & macro-economic datasets.*
 | **Technology / Service** | **Description** | **Official Documentation** |
