@@ -1205,3 +1205,19 @@
 | `World Air Quality Index (WAQI) API` | Real-time air quality & monitoring station data worldwide. | [Check Out](https://aqicn.org/api/) |
 | `World Weather Online API` | Historical & current weather, marine, ski & time zone data. | [Check Out](https://www.worldweatheronline.com/developer/) |
 
+# Events & Ticketing APIs
+*APIs that provide access to event listings, concerts, conferences, ticket booking systems, venues, schedules, and event metadata.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Bandsintown API` | Live music events, artist touring data & concert schedules. | [Check Out](https://manager.bandsintown.com/support/bandsintown-api) |
+| `Dice API` | Concert & event ticketing platform with event discovery. | [Check Out](https://docs.dice.fm/) |
+| `Eventbrite API` | Event management, ticketing, organizers, venues & attendee data. | [Check Out](https://www.eventbrite.com/platform/api) |
+| `Eventful API` | Events, concerts, festivals & venue details (archived but still referenced). | [Check Out](https://api.eventful.com/docs) |
+| `Google Calendar Events API` | Create, manage & search events in Google Calendar. | [Check Out](https://developers.google.com/calendar/api) |
+| `Live Nation API` | Concerts, venues, artists & ticket availability (partner-only). | [Check Out](https://developer.livenation.com/) |
+| `PredictHQ API` | Ranked global events: sports, concerts, holidays, disasters for forecasting. | [Check Out](https://developer.predicthq.com/) |
+| `SeatGeek API` | Primary & secondary ticket marketplace for sports, concerts & events. | [Check Out](https://platform.seatgeek.com/) |
+| `Ticketmaster API` | Global ticketing platform: events, venues, attractions & availability. | [Check Out](https://developer.ticketmaster.com/) |
+| `Universe API` | Event hosting & ticketing solution powered by Ticketmaster. | [Check Out](https://developers.universe.com/) |
+| `Yelp Events API` | Local events & community gatherings listed on Yelp. | [Check Out](https://docs.developer.yelp.com/reference/v3_event) |
+
