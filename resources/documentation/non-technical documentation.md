@@ -1181,3 +1181,27 @@
 | `USGS Energy Resources API` | Geology, fossil fuels, and energy production datasets in the U.S. | [Check Out](https://www.usgs.gov/products/data-and-tools/data) |
 | `World Bank Energy API` | Global energy statistics: production, consumption, electricity & renewables. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) |
 
+# Environment & Climate APIs
+*APIs that provide environmental data, climate information, pollution levels, weather metrics, biodiversity data, and sustainability insights.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `AirNow API` | U.S. air quality index, pollution levels, and health advisories. | [Check Out](https://docs.airnowapi.org/) |
+| `BreezoMeter API` | Global air quality, pollen, weather, and fire alerts. | [Check Out](https://docs.breezometer.com/) |
+| `Carbon Interface API` | Carbon emissions calculations for energy, travel, shipping & fuels. | [Check Out](https://docs.carboninterface.com/) |
+| `Climate Data Store (CDS) API` | European Centre for Medium-Range Weather Forecasts climate datasets. | [Check Out](https://cds.climate.copernicus.eu/api-how-to) |
+| `Climatiq API` | Emission factors and carbon footprint calculations. | [Check Out](https://docs.climatiq.io/) |
+| `Enviromon API` | Environmental monitoring sensors for temperature, humidity, and pollution. | [Check Out](https://www.enviromon.net/api/) |
+| `EPA Environmental APIs` | U.S. Environmental Protection Agency datasets (air, water, waste). | [Check Out](https://www.epa.gov/developers) |
+| `EuropeAir Quality API` | European atmospheric quality data & monitoring stations. | [Check Out](https://aqicn.org/api/) |
+| `Global Biodiversity Information Facility (GBIF) API` | Species data, biodiversity analytics & ecological datasets. | [Check Out](https://www.gbif.org/developer/summary) |
+| `Global Forest Watch API` | Forest change, fires, land cover & conservation analytics. | [Check Out](https://www.globalforestwatch.org/developers/) |
+| `MET Norway API` | Weather, climate & environmental models from the Norwegian Meteorological Institute. | [Check Out](https://api.met.no/) |
+| `NASA Earth API` | Earth observation data, climate, satellites, imagery & environmental metrics. | [Check Out](https://api.nasa.gov/) |
+| `NOAA Climate API` | U.S. National Oceanic and Atmospheric Administration climate datasets. | [Check Out](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) |
+| `OpenAQ API` | Global air quality data crowdsourced from governments & institutions. | [Check Out](https://docs.openaq.org/) |
+| `OpenWeather Environment API` | Air pollution data, UV index & weather conditions. | [Check Out](https://openweathermap.org/api/air-pollution) |
+| `Tomorrow.io API` | Weather, environmental changes, air quality & climate forecasting. | [Check Out](https://docs.tomorrow.io/) |
+| `UNEPLive API` | United Nations environment data including emissions, biodiversity & ecosystem stats. | [Check Out](https://uneplive.unep.org/apidocs) |
+| `World Air Quality Index (WAQI) API` | Real-time air quality & monitoring station data worldwide. | [Check Out](https://aqicn.org/api/) |
+| `World Weather Online API` | Historical & current weather, marine, ski & time zone data. | [Check Out](https://www.worldweatheronline.com/developer/) |
+
