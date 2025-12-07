@@ -1221,3 +1221,17 @@
 | `Universe API` | Event hosting & ticketing solution powered by Ticketmaster. | [Check Out](https://developers.universe.com/) |
 | `Yelp Events API` | Local events & community gatherings listed on Yelp. | [Check Out](https://docs.developer.yelp.com/reference/v3_event) |
 
+# Exchange Rates & Currency APIs
+*APIs that provide real-time and historical currency exchange rates, forex data, crypto-fiat conversion, and global currency statistics.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `ExchangeRatesAPI.io` | Real-time and historical foreign exchange rates for 200+ currencies. | [Check Out](https://exchangeratesapi.io/) |
+| `European Central Bank API` | Official ECB daily reference exchange rates and statistical data. | [Check Out](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html) |
+| `Fixer.io API` | Real-time & historical exchange rates for 170+ world currencies. | [Check Out](https://fixer.io/documentation) |
+| `Open Exchange Rates API` | Real-time and historical forex data, crypto rates, and currency conversion. | [Check Out](https://docs.openexchangerates.org/) |
+| `X-Rates API` | Exchange rate data, historical and cross-currency calculations. | [Check Out](https://www.x-rates.com/) |
+| `CurrencyLayer API` | Real-time forex data, historical rates, and currency conversion. | [Check Out](https://currencylayer.com/documentation) |
+| `OANDA Exchange Rates API` | Forex trading data, real-time rates, historical data & conversions. | [Check Out](https://developer.oanda.com/rest-live-v20/introduction/) |
+| `XE Currency Data API` | Live rates, historical currency data & forex conversions. | [Check Out](https://www.xe.com/xecurrencydata/) |
+| `1Forge Forex API` | Real-time currency conversion and forex quotes. | [Check Out](https://1forge.com/forex-data-api) |
+
