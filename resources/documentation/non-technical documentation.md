@@ -1166,3 +1166,18 @@
 | `Workable API` | Hiring platform for job posting, tracking candidates & interview processes. | [Check Out](https://workable.readme.io/reference) |
 | `ZipRecruiter API` | Job listings, salary data & recruiting integrations. | [Check Out](https://www.ziprecruiter.com/partner) |
 
+# Energy & Utilities APIs
+*APIs that provide energy production, consumption, renewable resources, electricity, gas, water, and utility data.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `EIA API` | U.S. Energy Information Administration: electricity, oil, natural gas, renewables & market data. | [Check Out](https://www.eia.gov/opendata/) |
+| `ElectricityMap API` | Real-time carbon intensity, electricity generation & consumption data. | [Check Out](https://api.electricitymap.org/) |
+| `EnergyData.info API` | Global energy datasets: production, consumption, renewable energy, grid info. | [Check Out](https://energydata.info/dataset?res_format=API) |
+| `ENTSO-E Transparency Platform API` | European electricity market, generation, load, and transmission data. | [Check Out](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html) |
+| `Open Charge Map API` | EV charging station locations, availability, and network data. | [Check Out](https://openchargemap.org/site/develop/api) |
+| `OpenEI API` | Open Energy Information: renewable energy, energy efficiency & datasets. | [Check Out](https://openei.org/services/doc/) |
+| `Renewables.ninja API` | Modeled hourly renewable energy generation (solar & wind) worldwide. | [Check Out](https://www.renewables.ninja/api-documentation/) |
+| `Smart Meter Texas API` | Energy consumption data from Texas smart meters. | [Check Out](https://www.smartmetertexas.com/SMAPI) |
+| `USGS Energy Resources API` | Geology, fossil fuels, and energy production datasets in the U.S. | [Check Out](https://www.usgs.gov/products/data-and-tools/data) |
+| `World Bank Energy API` | Global energy statistics: production, consumption, electricity & renewables. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) |
+
