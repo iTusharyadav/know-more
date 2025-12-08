@@ -1181,6 +1181,25 @@
 | `USGS Energy Resources API` | Geology, fossil fuels, and energy production datasets in the U.S. | [Check Out](https://www.usgs.gov/products/data-and-tools/data) |
 | `World Bank Energy API` | Global energy statistics: production, consumption, electricity & renewables. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) |
 
+# Entertainment & Media APIs
+*APIs that provide access to movies, TV shows, music, streaming platforms, celebrities, reviews, trailers, and digital media content.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Deezer API` | Music streaming API providing access to artists, albums, playlists & tracks. | [Check Out](https://developers.deezer.com/api) |
+| `IMDb API` | Movie, series, and celebrity metadata via official & partner APIs. | [Check Out](https://developer.imdb.com/) |
+| `Last.fm API` | Music scrobbling, user charts, artist info & track metadata. | [Check Out](https://www.last.fm/api) |
+| `MediaWiki API` | Wikipedia & Wikimedia content including articles, images & metadata. | [Check Out](https://www.mediawiki.org/wiki/API:Main_page) |
+| `MusicBrainz API` | Open music encyclopedia with metadata for artists, albums & tracks. | [Check Out](https://musicbrainz.org/doc/MusicBrainz_API) |
+| `OMDb API` | Open Movie Database with film metadata, posters & ratings. | [Check Out](https://www.omdbapi.com/) |
+| `Open Movie Database API` | Alternate official documentation endpoint for OMDb. | [Check Out](https://www.omdbapi.com/api) |
+| `Spotify Web API` | Music streaming metadata, playlists, artists & user libraries. | [Check Out](https://developer.spotify.com/documentation/web-api/) |
+| `TMDb API` | The Movie Database API — movies, TV shows, cast, posters & trailers. | [Check Out](https://developers.themoviedb.org/) |
+| `Twitch API` | Live streaming, gaming content, streamers, clips & live events. | [Check Out](https://dev.twitch.tv/docs/api/) |
+| `TVmaze API` | TV show metadata: episodes, cast, networks & schedules. | [Check Out](https://www.tvmaze.com/api) |
+| `Vimeo API` | Video hosting API with video uploads, search & playback metadata. | [Check Out](https://developer.vimeo.com/api/reference) |
+| `YouTube Data API` | Video platform API for search, channels, playlists & analytics. | [Check Out](https://developers.google.com/youtube/v3) |
+
+
 # Environment & Climate APIs
 *APIs that provide environmental data, climate information, pollution levels, weather metrics, biodiversity data, and sustainability insights.*
 | **Technology / Service** | **Description** | **Official Documentation** |
