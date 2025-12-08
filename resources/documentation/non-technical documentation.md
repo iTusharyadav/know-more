@@ -1194,6 +1194,19 @@
 | `USGS Energy Resources API` | Geology, fossil fuels, and energy production datasets in the U.S. | [Check Out](https://www.usgs.gov/products/data-and-tools/data) |
 | `World Bank Energy API` | Global energy statistics: production, consumption, electricity & renewables. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) |
 
+# Enterprise Resource Planning (ERP) APIs
+*APIs that provide access to business management systems for finance, HR, supply chain, inventory, manufacturing, and enterprise operations.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `IBM Maximo API` | Enterprise asset management and maintenance management system APIs. | [Check Out](https://developer.ibm.com/apis/catalog/maximo/) |
+| `Microsoft Dynamics 365 API` | Business applications for finance, operations, HR, and CRM. | [Check Out](https://learn.microsoft.com/en-us/dynamics365/) |
+| `NetSuite API` | Cloud-based ERP for finance, inventory, CRM, and e-commerce. | [Check Out](https://www.netsuite.com/portal/developers/resources/apis.shtml) |
+| `Odoo API` | Open-source business apps including CRM, accounting, inventory & HR. | [Check Out](https://www.odoo.com/documentation) |
+| `Oracle NetSuite SuiteTalk API` | SOAP/REST APIs for enterprise ERP data integration. | [Check Out](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/) |
+| `SAP S/4HANA API` | ERP APIs for enterprise finance, logistics, manufacturing, and HR. | [Check Out](https://api.sap.com/products/SAPS4HANA) |
+| `Workday Financials API` | Enterprise finance, procurement, and accounting APIs. | [Check Out](https://community.workday.com/) |
+
+
 # Entertainment & Media APIs
 *APIs that provide access to movies, TV shows, music, streaming platforms, celebrities, reviews, trailers, and digital media content.*
 | **Technology / Service** | **Description** | **Official Documentation** |
