@@ -1145,6 +1145,19 @@
 | `Udacity API` | Nanodegree & course metadata for developers. | [Check Out](https://catalog.udacity.com/) |
 | `Udemy API` | Online learning platform for course listings, search & metadata. | [Check Out](https://www.udemy.com/developers/) |
 
+# Emergency & Disaster APIs
+*APIs that provide real-time and historical data about natural disasters, emergencies, hazards, earthquakes, floods, hurricanes, wildfires, and crisis management systems.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `EM-DAT API` | International disaster database of natural and technological disasters. | [Check Out](https://public.emdat.be/) |
+| `FEMA API` | U.S. Federal Emergency Management Agency disaster declarations & aid data. | [Check Out](https://www.fema.gov/about/openfema/api) |
+| `GDACS API` | Global Disaster Alert and Coordination System for major hazards. | [Check Out](https://www.gdacs.org/Knowledge/api.aspx) |
+| `ReliefWeb API` | Humanitarian emergencies and disaster response information. | [Check Out](https://apidoc.rwlabs.org/) |
+| `UN-SPIDER API` | Space-based disaster management and emergency response datasets. | [Check Out](https://www.un-spider.org/space-application/emergency-mapping) |
+| `USGS Earthquake API` | Global real-time earthquake data, magnitudes, locations & timestamps. | [Check Out](https://earthquake.usgs.gov/fdsnws/event/1/) |
+| `Weatherbit Severe Weather API` | Storm alerts, hurricanes, floods and extreme weather conditions. | [Check Out](https://www.weatherbit.io/api/weather-alerts) |
+
+
 # Employment & Jobs APIs
 *APIs that provide job listings, recruitment data, company profiles, salary insights, employment statistics, and hiring-related information.*
 | **Technology / Service** | **Description** | **Official Documentation** |
