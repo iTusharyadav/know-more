@@ -1280,3 +1280,12 @@
 | `XE Currency Data API` | Live rates, historical currency data & forex conversions. | [Check Out](https://www.xe.com/xecurrencydata/) |
 | `1Forge Forex API` | Real-time currency conversion and forex quotes. | [Check Out](https://1forge.com/forex-data-api) |
 
+# Fact Checking APIs
+*APIs that help verify news, claims, public statements, media content, and detect misinformation from reliable sources.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `ClaimReview API` | Structured fact-check metadata used by fact-checking organizations. | [Check Out](https://schema.org/ClaimReview) |
+| `FactMata API` | Real-time fact-checking and misinformation detection platform. | [Check Out](https://factmata.com/platform/) |
+| `Google Fact Check Tools API` | Search and retrieve verified fact-check articles globally. | [Check Out](https://developers.google.com/fact-check/tools/api) |
+| `Logically AI API` | AI-powered misinformation and fake news detection service. | [Check Out](https://logically.ai/) |
+
