@@ -1331,3 +1331,13 @@
 | `Spoonacular API` | Recipes, nutrition data, menus, meal planning and food analysis. | [Check Out](https://spoonacular.com/food-api/docs) |
 | `Yelp Fusion API` | Business listings, restaurant reviews and ratings. | [Check Out](https://docs.developer.yelp.com/docs/fusion-intro) |
 
+# Forestry & Environmental APIs
+*APIs that provide data about forests, vegetation, land use, deforestation, ecological monitoring, and environmental sustainability.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `FAO Forestry APIs` | Global forestry statistics, land use, and environmental datasets. | [Check Out](https://www.fao.org/forestry/en/) |
+| `Forest Carbon API` | Forest carbon offset data and carbon sequestration analytics. | [Check Out](https://developers.earthengine.google.com/) |
+| `Global Forest Watch API` | Forest cover, deforestation alerts, and environmental monitoring. | [Check Out](https://www.globalforestwatch.org/developers/) |
+| `MODIS Vegetation Index API` | Satellite vegetation health and land cover datasets. | [Check Out](https://modis.gsfc.nasa.gov/data/) |
+| `USDA Forest Service API` | U.S. forest maps, recreation info, wildfire and vegetation data. | [Check Out](https://data.fs.usda.gov/geodata/webservices/) |
+
