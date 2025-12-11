@@ -1289,3 +1289,14 @@
 | `Google Fact Check Tools API` | Search and retrieve verified fact-check articles globally. | [Check Out](https://developers.google.com/fact-check/tools/api) |
 | `Logically AI API` | AI-powered misinformation and fake news detection service. | [Check Out](https://logically.ai/) |
 
+# Finance & Accounting APIs
+*APIs that provide access to financial data, bookkeeping, accounting, invoices, expenses, tax reporting, and financial analytics.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `FreshBooks API` | Cloud accounting, invoicing, expenses, and time tracking. | [Check Out](https://www.freshbooks.com/api) |
+| `Intuit QuickBooks API` | Accounting, payroll, invoicing and small business finance tools. | [Check Out](https://developer.intuit.com/app/developer/qbo/docs/get-started) |
+| `Oracle Financials API` | Enterprise-level finance and accounting cloud APIs. | [Check Out](https://docs.oracle.com/en/cloud/saas/financials/) |
+| `Plaid API` | Bank account connectivity, balances, transactions and identity data. | [Check Out](https://plaid.com/docs/api/) |
+| `Sage API` | Accounting, payroll, payments and business finance platforms. | [Check Out](https://developer.sage.com/) |
+| `Xero API` | Cloud accounting platform for invoicing, payroll and financial reports. | [Check Out](https://developer.xero.com/documentation/api/api-overview) |
+
