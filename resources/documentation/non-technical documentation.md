@@ -1300,3 +1300,14 @@
 | `Sage API` | Accounting, payroll, payments and business finance platforms. | [Check Out](https://developer.sage.com/) |
 | `Xero API` | Cloud accounting platform for invoicing, payroll and financial reports. | [Check Out](https://developer.xero.com/documentation/api/api-overview) |
 
+# Fraud Detection & Identity Verification APIs
+*APIs that help detect fraudulent activity, verify user identities, prevent financial crime, and provide risk scoring.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Arkose Labs API` | Advanced bot detection and account protection service. | [Check Out](https://docs.arkoselabs.com/) |
+| `AU10TIX API` | Identity verification and document authentication platform. | [Check Out](https://www.au10tix.com/developer-hub/) |
+| `Jumio API` | AI-powered identity verification and KYC solutions. | [Check Out](https://www.jumio.com/developer/) |
+| `Onfido API` | Real-time identity verification using government ID & biometrics. | [Check Out](https://documentation.onfido.com/) |
+| `SEON API` | Fraud prevention and digital risk scoring platform. | [Check Out](https://docs.seon.io/) |
+| `Socure API` | Predictive identity verification and fraud prevention tools. | [Check Out](https://developer.socure.com/) |
+
