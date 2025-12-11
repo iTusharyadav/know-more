@@ -1311,3 +1311,13 @@
 | `SEON API` | Fraud prevention and digital risk scoring platform. | [Check Out](https://docs.seon.io/) |
 | `Socure API` | Predictive identity verification and fraud prevention tools. | [Check Out](https://developer.socure.com/) |
 
+# Fundraising & Donations APIs
+*APIs that enable online donations, crowdfunding, charity management, donor tracking, and nonprofit fundraising automation.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Donorbox API` | Donation forms, recurring giving and donor management. | [Check Out](https://donorbox.org/developers) |
+| `Givebutter API` | Fundraising campaigns, events, and donor management tools. | [Check Out](https://givebutter.com/developers) |
+| `GoFundMe API` | Crowdfunding platform APIs for campaigns and donations. | [Check Out](https://developer.gofundme.com/) |
+| `JustGiving API` | Global fundraising and charity donation platform. | [Check Out](https://developer.justgiving.com/) |
+| `PayPal Donations API` | Donations, charity payments and nonprofit payment processing. | [Check Out](https://developer.paypal.com/docs/api/payments/) |
+
