@@ -1321,3 +1321,13 @@
 | `JustGiving API` | Global fundraising and charity donation platform. | [Check Out](https://developer.justgiving.com/) |
 | `PayPal Donations API` | Donations, charity payments and nonprofit payment processing. | [Check Out](https://developer.paypal.com/docs/api/payments/) |
 
+# Food & Restaurant APIs
+*APIs that provide access to restaurant data, menus, reviews, food delivery, reservations, and nutrition information.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Edamam Food Database API` | Nutrition analysis and food ingredient data. | [Check Out](https://developer.edamam.com/food-database-api-docs) |
+| `Foursquare Places API` | Location-based restaurant discovery and reviews. | [Check Out](https://developer.foursquare.com/docs/api-reference/places/) |
+| `OpenTable API` | Restaurant reservations and availability system. | [Check Out](https://platform.opentable.com/documentation/) |
+| `Spoonacular API` | Recipes, nutrition data, menus, meal planning and food analysis. | [Check Out](https://spoonacular.com/food-api/docs) |
+| `Yelp Fusion API` | Business listings, restaurant reviews and ratings. | [Check Out](https://docs.developer.yelp.com/docs/fusion-intro) |
+
