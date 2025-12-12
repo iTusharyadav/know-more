@@ -1341,3 +1341,16 @@
 | `MODIS Vegetation Index API` | Satellite vegetation health and land cover datasets. | [Check Out](https://modis.gsfc.nasa.gov/data/) |
 | `USDA Forest Service API` | U.S. forest maps, recreation info, wildfire and vegetation data. | [Check Out](https://data.fs.usda.gov/geodata/webservices/) |
 
+# Freight, Logistics & Shipping APIs
+*APIs that provide shipment tracking, freight rates, logistics management, carrier data, and global transportation services.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `AfterShip API` | Shipment tracking across 1,000+ couriers worldwide. | [Check Out](https://developers.aftership.com/) |
+| `EasyPost API` | Shipping labels, tracking, address verification & multi-carrier rates. | [Check Out](https://www.easypost.com/docs) |
+| `FedEx API` | Shipping, tracking, rate calculation and delivery services. | [Check Out](https://developer.fedex.com/api/en-us/) |
+| `MyDHL API` | DHL Express shipping, label creation, tracking and delivery info. | [Check Out](https://developer.dhl.com/api-reference) |
+| `ShipEngine API` | Tracking, shipping labels, carrier rates & order fulfillment. | [Check Out](https://www.shipengine.com/docs/) |
+| `Shippo API` | Multi-carrier shipping, tracking, address validation, and rates. | [Check Out](https://docs.goshippo.com/) |
+| `UPS Developer API` | Tracking, shipping, pickup, time-in-transit and rates. | [Check Out](https://developer.ups.com/) |
+| `USPS Web Tools API` | U.S. Postal Service shipping, tracking, and address lookup. | [Check Out](https://www.usps.com/business/web-tools-apis/) |
+
