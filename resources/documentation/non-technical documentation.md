@@ -1354,3 +1354,15 @@
 | `UPS Developer API` | Tracking, shipping, pickup, time-in-transit and rates. | [Check Out](https://developer.ups.com/) |
 | `USPS Web Tools API` | U.S. Postal Service shipping, tracking, and address lookup. | [Check Out](https://www.usps.com/business/web-tools-apis/) |
 
+# Fuel & Energy APIs
+*APIs that provide data on fuel prices, energy usage, electricity grids, gas stations, renewable energy, and power generation.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `EIA API (U.S. Energy Information Administration)` | Official U.S. government data on electricity, fuel prices, petroleum, natural gas & renewable energy. | [Check Out](https://www.eia.gov/opendata/) |
+| `EnergiDataService API` | Danish open energy data including electricity prices, consumption & grid information. | [Check Out](https://www.energidataservice.dk/) |
+| `ENTSO-E Transparency Platform API` | European electricity grid data, generation, load, outages & cross-border flows. | [Check Out](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/entsoe-api.html) |
+| `Fuel API (FuelPrice Australia)` | Fuel prices across Australia including stations and daily updates. | [Check Out](https://www.fuelprice.io/api) |
+| `National Renewable Energy Laboratory (NREL) API` | U.S. renewable energy datasets: solar, wind, transportation, and efficiency. | [Check Out](https://developer.nrel.gov/) |
+| `Open Charge Map API` | Global electric vehicle charging stations database. | [Check Out](https://openchargemap.org/site/develop/api) |
+| `OpenEI Energy APIs` | Global energy data including prices, utility companies, and renewable datasets. | [Check Out](https://openei.org/wiki/OpenEI/API) |
+
