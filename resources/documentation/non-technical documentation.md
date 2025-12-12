@@ -1385,3 +1385,16 @@
 | `TheOdds API` | Sports betting odds, bookmaker data, fixtures, and score updates. | [Check Out](https://the-odds-api.com/) |
 | `UK National Lottery API` | UK lottery results, draws, prizes, and game information. | [Check Out](https://data.national-lottery.co.uk/) |
 
+# Gaming & Esports APIs
+*APIs that provide data for video games, esports tournaments, player stats, leaderboards, match history, and game metadata.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Battle.net API` | Blizzard game data for WoW, Diablo, StarCraft & Overwatch. | [Check Out](https://develop.battle.net/documentation) |
+| `Epic Games API` | Fortnite stats, game services, authentication & player info. | [Check Out](https://dev.epicgames.com/docs) |
+| `IGDB API` | The Internet Game Database: games, platforms, companies & genres. | [Check Out](https://api-docs.igdb.com/) |
+| `RAWG API` | Video game database and metadata for thousands of titles. | [Check Out](https://rawg.io/apidocs) |
+| `Riot Games API` | League of Legends, Valorant, TFT & esports data. | [Check Out](https://developer.riotgames.com/apis) |
+| `Steam Web API` | Steam game data, player stats, inventories, and marketplace info. | [Check Out](https://developer.valvesoftware.com/wiki/Steam_Web_API) |
+| `Twitch API` | Live streams, channels, games, clips & esports data. | [Check Out](https://dev.twitch.tv/docs/) |
+| `Xbox Live API` | Xbox user profiles, game stats, achievements & content. | [Check Out](https://learn.microsoft.com/en-us/gaming/gdk/) |
+
