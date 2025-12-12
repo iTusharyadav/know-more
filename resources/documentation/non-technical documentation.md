@@ -1376,3 +1376,12 @@
 | `Open990 API` | U.S. nonprofit financials, grants, funders, and tax returns. | [Check Out](https://docs.open990.org/) |
 | `UK Research & Innovation (UKRI) API` | UK research grants, funding calls, and awarded projects. | [Check Out](https://www.ukri.org/publications/api/) |
 
+# Gambling & Lottery APIs
+*APIs that provide access to lottery results, gambling data, betting statistics, gaming draws, and regulated gaming information.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Betfair API` | Sports betting exchange data, odds, markets, and account operations. | [Check Out](https://docs.developer.betfair.com/) |
+| `Lotto API (Lottery Data API)` | Global lottery results, draws, jackpots, and historical data. | [Check Out](https://lotteryapi.com/docs) |
+| `TheOdds API` | Sports betting odds, bookmaker data, fixtures, and score updates. | [Check Out](https://the-odds-api.com/) |
+| `UK National Lottery API` | UK lottery results, draws, prizes, and game information. | [Check Out](https://data.national-lottery.co.uk/) |
+
