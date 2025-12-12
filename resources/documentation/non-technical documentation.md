@@ -1366,3 +1366,13 @@
 | `Open Charge Map API` | Global electric vehicle charging stations database. | [Check Out](https://openchargemap.org/site/develop/api) |
 | `OpenEI Energy APIs` | Global energy data including prices, utility companies, and renewable datasets. | [Check Out](https://openei.org/wiki/OpenEI/API) |
 
+# Funding & Grants APIs
+*APIs that provide access to government grants, research funding opportunities, nonprofit grants, and public funding programs.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Canada Grants API` | Grants and funding programs offered by the Government of Canada. | [Check Out](https://www.canada.ca/en/services/business/grants.html) |
+| `European Commission CORDIS API` | EU-funded research projects, grants, and funding information. | [Check Out](https://cordis.europa.eu/api/) |
+| `Grants.gov API` | U.S. federal grants search, eligibility, funding details, and submissions. | [Check Out](https://www.grants.gov/web/grants/xml.html) |
+| `Open990 API` | U.S. nonprofit financials, grants, funders, and tax returns. | [Check Out](https://docs.open990.org/) |
+| `UK Research & Innovation (UKRI) API` | UK research grants, funding calls, and awarded projects. | [Check Out](https://www.ukri.org/publications/api/) |
+
