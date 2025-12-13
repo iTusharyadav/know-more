@@ -1413,3 +1413,14 @@
 | `OpenStreetMap API` | Crowdsourced global map data and geographic features. | [Check Out](https://wiki.openstreetmap.org/wiki/API) |
 | `TomTom Maps API` | Maps, search, routing, geofencing & traffic data. | [Check Out](https://developer.tomtom.com/) |
 
+# Geology & Earth Sciences APIs
+*APIs that provide geological data including soil, minerals, earthquakes, geospatial layers, land formations, and earth science research datasets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `British Geological Survey (BGS) API` | UK geological maps, boreholes, soil data & earth science datasets. | [Check Out](https://www.bgs.ac.uk/data/api/) |
+| `EarthChem API` | Geochemistry, rock and mineral composition datasets. | [Check Out](https://www.earthchem.org/portal/) |
+| `GeoScience Australia API` | Australian geological, seismic, geospatial & earth observation data. | [Check Out](https://portal.ga.gov.au/) |
+| `OneGeology API` | Global geological map data and geoscience services. | [Check Out](https://www.onegeology.org/) |
+| `USGS Geology & Mineral Resources API` | U.S. geological maps, mineral resources, rocks & sediment data. | [Check Out](https://www.usgs.gov/products/data-and-tools/apis) |
+| `USGS National Geologic Map Database API` | Geological mapping, stratigraphy, and geologic unit information. | [Check Out](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html) |
+
