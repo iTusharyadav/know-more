@@ -1469,3 +1469,14 @@
 | `Open Food Facts API` | Global open database of food products, ingredients & nutrition labels. | [Check Out](https://world.openfoodfacts.org/data) |
 | `Walmart Product API` | Retail product data, pricing, availability & store information. | [Check Out](https://developer.walmart.com/api/us/products) |
 
+# Genetics & Genomics APIs
+*APIs that provide genetic sequencing data, genome references, variant information, biomedical datasets, and molecular biology resources.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Ensembl REST API` | Genome data for humans, animals & plants including genes, sequences, and variants. | [Check Out](https://rest.ensembl.org/) |
+| `GenBank API (NCBI)` | Access to nucleotide sequences, proteins, and genetic annotations. | [Check Out](https://www.ncbi.nlm.nih.gov/genbank/) |
+| `GDC API (Genomic Data Commons)` | Cancer genomics data including mutations, expression, and clinical metadata. | [Check Out](https://gdc.cancer.gov/developers/gdc-application-programming-interface-api) |
+| `HGNC API` | Human gene nomenclature and gene symbol database. | [Check Out](https://www.genenames.org/help/rest/) |
+| `NCBI E-utilities API` | Molecular biology databases including PubMed, GEO, DNA/Protein sequences & taxonomy. | [Check Out](https://www.ncbi.nlm.nih.gov/books/NBK25501/) |
+| `UCSC Genome Browser API` | Genome reference datasets, annotations, and visualization tracks. | [Check Out](https://genome.ucsc.edu/goldenpath/help/api.html) |
+
