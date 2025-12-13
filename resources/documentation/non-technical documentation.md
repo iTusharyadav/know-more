@@ -1398,3 +1398,18 @@
 | `Twitch API` | Live streams, channels, games, clips & esports data. | [Check Out](https://dev.twitch.tv/docs/) |
 | `Xbox Live API` | Xbox user profiles, game stats, achievements & content. | [Check Out](https://learn.microsoft.com/en-us/gaming/gdk/) |
 
+# Geocoding & Mapping APIs
+*APIs that provide geolocation lookup, address-to-coordinate conversion, maps, routing, satellite imagery, and geographic datasets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Bing Maps API` | Geocoding, routing, traffic data, and interactive maps. | [Check Out](https://learn.microsoft.com/en-us/bingmaps/) |
+| `Geoapify API` | Geocoding, routing, places, isochrones & maps. | [Check Out](https://apidocs.geoapify.com/) |
+| `Geocod.io API` | Address geocoding, reverse geocoding & congressional districts. | [Check Out](https://www.geocod.io/docs/) |
+| `Google Maps Platform API` | Maps, geocoding, routing, places, and satellite imagery. | [Check Out](https://developers.google.com/maps/documentation) |
+| `HERE Maps API` | Advanced routing, geocoding, traffic & mapping services. | [Check Out](https://developer.here.com/documentation) |
+| `LocationIQ API` | Affordable geocoding, maps, and location search. | [Check Out](https://locationiq.com/docs) |
+| `Mapbox API` | Custom maps, geocoding, navigation, and location analytics. | [Check Out](https://docs.mapbox.com/api/) |
+| `OpenCage Geocoder API` | Geocoding & reverse geocoding using open data sources. | [Check Out](https://opencagedata.com/api) |
+| `OpenStreetMap API` | Crowdsourced global map data and geographic features. | [Check Out](https://wiki.openstreetmap.org/wiki/API) |
+| `TomTom Maps API` | Maps, search, routing, geofencing & traffic data. | [Check Out](https://developer.tomtom.com/) |
+
