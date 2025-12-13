@@ -1436,7 +1436,6 @@
 
 # Geospatial & Remote Sensing APIs
 *APIs that provide satellite imagery, elevation data, land cover, climate layers, remote sensing analytics, and GIS datasets.*
-
 | **Technology / Service** | **Description** | **Official Documentation** |
 |--------------------------|------------------|-----------------------------|
 | `Copernicus Open Access Hub API` | ESA Sentinel satellite imagery (Sentinel-1, 2, 3, 5P) and remote sensing data. | [Check Out](https://scihub.copernicus.eu/twiki/do/view/SciHubUserGuide/APIHub) |
@@ -1447,4 +1446,16 @@
 | `OpenElevation API` | Open elevation dataset with global elevation lookups. | [Check Out](https://open-elevation.com/) |
 | `Sentinel Hub API` | Sentinel, Landsat, DEM & other EO satellite imagery with processing tools. | [Check Out](https://docs.sentinel-hub.com/api/latest/) |
 | `USGS EarthExplorer API` | Search & download Landsat, MODIS, and geological satellite imagery. | [Check Out](https://earthexplorer.usgs.gov/) |
+
+# Government & Public Services APIs
+*APIs provided by national and regional governments offering open data, public records, services, statistics, and civic information.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Australia Data.gov.au API` | Australian government open datasets including health, transport, environment & public records. | [Check Out](https://data.gov.au/api) |
+| `Canada Open Government API` | Canadian government datasets, public services, statistics & civic resources. | [Check Out](https://open.canada.ca/en/developers) |
+| `Data.gov (USA) API` | U.S. federal open datasets across health, education, finance, agriculture & more. | [Check Out](https://api.data.gov/) |
+| `European Union Open Data Portal API` | EU-wide open data: economy, transport, environment, regulations & public services. | [Check Out](https://data.europa.eu/en/apis) |
+| `India Open Government Data (OGD) API` | Indian government datasets on agriculture, finance, health, education & transport. | [Check Out](https://data.gov.in/developer) |
+| `Singapore Data.gov.sg API` | Public datasets including population, traffic, weather, economics & services. | [Check Out](https://data.gov.sg/developer) |
+| `UK Government Open Data API` | UK public data including crime, transport, business, population & environment. | [Check Out](https://data.gov.uk/) |
 
