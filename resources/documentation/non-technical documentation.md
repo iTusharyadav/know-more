@@ -1459,3 +1459,13 @@
 | `Singapore Data.gov.sg API` | Public datasets including population, traffic, weather, economics & services. | [Check Out](https://data.gov.sg/developer) |
 | `UK Government Open Data API` | UK public data including crime, transport, business, population & environment. | [Check Out](https://data.gov.uk/) |
 
+# Grocery & Retail Product APIs
+*APIs that provide product data, pricing, availability, barcodes, nutrition labels, and retail store information for supermarkets and grocery chains.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Barcode Lookup API` | Product information, prices, nutrition, and manufacturer details from barcodes. | [Check Out](https://www.barcodelookup.com/api) |
+| `Edamam Grocery Food Database API` | Nutrition data, ingredients, allergens, and product-level grocery information. | [Check Out](https://developer.edamam.com/food-database-api-docs) |
+| `Kroger API` | U.S. supermarket product catalog, pricing, locations & digital coupons. | [Check Out](https://developer.kroger.com/reference) |
+| `Open Food Facts API` | Global open database of food products, ingredients & nutrition labels. | [Check Out](https://world.openfoodfacts.org/data) |
+| `Walmart Product API` | Retail product data, pricing, availability & store information. | [Check Out](https://developer.walmart.com/api/us/products) |
+
