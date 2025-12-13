@@ -1424,3 +1424,13 @@
 | `USGS Geology & Mineral Resources API` | U.S. geological maps, mineral resources, rocks & sediment data. | [Check Out](https://www.usgs.gov/products/data-and-tools/apis) |
 | `USGS National Geologic Map Database API` | Geological mapping, stratigraphy, and geologic unit information. | [Check Out](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html) |
 
+# Geopolitics & Global Affairs APIs
+*APIs that provide international relations data, global events, political risk indicators, country profiles, and geopolitical intelligence.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `CIA World Factbook API` | Country-level demographics, economy, military, and geopolitical data. | [Check Out](https://github.com/factbook/factbook.json) |
+| `GDELT API` | Global news monitoring, geopolitical events, emotions & trends from worldwide media. | [Check Out](https://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/) |
+| `GeoNames API` | Global geographic database including features, boundaries, and political regions. | [Check Out](https://www.geonames.org/export/) |
+| `UN Data API` | United Nations global statistical and geopolitical datasets. | [Check Out](https://data.un.org/Handlers/DownloadData.ashx?DataFilter=api) |
+| `World Bank API` | International development, country indicators, economy & governance statistics. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information) |
+
