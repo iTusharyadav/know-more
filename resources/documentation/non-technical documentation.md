@@ -1434,3 +1434,17 @@
 | `UN Data API` | United Nations global statistical and geopolitical datasets. | [Check Out](https://data.un.org/Handlers/DownloadData.ashx?DataFilter=api) |
 | `World Bank API` | International development, country indicators, economy & governance statistics. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information) |
 
+# Geospatial & Remote Sensing APIs
+*APIs that provide satellite imagery, elevation data, land cover, climate layers, remote sensing analytics, and GIS datasets.*
+
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Copernicus Open Access Hub API` | ESA Sentinel satellite imagery (Sentinel-1, 2, 3, 5P) and remote sensing data. | [Check Out](https://scihub.copernicus.eu/twiki/do/view/SciHubUserGuide/APIHub) |
+| `Esri ArcGIS REST API` | Geospatial layers, maps, analysis, geocoding & remote sensing tools. | [Check Out](https://developers.arcgis.com/rest/) |
+| `Google Earth Engine API` | Planet-scale geospatial datasets, satellite imagery & geoprocessing. | [Check Out](https://developers.google.com/earth-engine) |
+| `Landsat API (USGS)` | Landsat satellite imagery, surface reflectance & historical observations. | [Check Out](https://landsat.gsfc.nasa.gov/data/) |
+| `NASA Earthdata API` | Global satellite data: MODIS, VIIRS, SMAP, GPM, land, ocean, and atmosphere. | [Check Out](https://earthdata.nasa.gov/learn/open-data-services-and-software/api) |
+| `OpenElevation API` | Open elevation dataset with global elevation lookups. | [Check Out](https://open-elevation.com/) |
+| `Sentinel Hub API` | Sentinel, Landsat, DEM & other EO satellite imagery with processing tools. | [Check Out](https://docs.sentinel-hub.com/api/latest/) |
+| `USGS EarthExplorer API` | Search & download Landsat, MODIS, and geological satellite imagery. | [Check Out](https://earthexplorer.usgs.gov/) |
+
