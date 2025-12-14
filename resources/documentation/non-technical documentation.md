@@ -1551,3 +1551,14 @@
 | `USAspending API` | U.S. government grant spending, aid distributions, awards & financial tracking datasets. | [Check Out](https://api.usaspending.gov/) |
 | `World Bank Projects API` | International development funding, grants, loans & project-level financial data. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-projects-api) |
 
+# Genealogy & Family History APIs
+*APIs related to family trees, ancestry records, historical documents, birth/marriage/death records, and genealogical research datasets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `FamilySearch API` | Global genealogy records, family trees, historical documents & ancestry data. | [Check Out](https://www.familysearch.org/developers/docs/) |
+| `Geneanet API` | European historical records, family trees, archival documents & genealogical datasets. | [Check Out](https://en.geneanet.org/api/) |
+| `Geni API` | Collaborative world family tree, relationship mapping & ancestor profiles. | [Check Out](https://www.geni.com/platform/developer/api_documentation) |
+| `MyHeritage API` | DNA matching, family trees, historical records & global ancestry data. | [Check Out](https://dev.myheritage.com/) |
+| `WikiTree API` | Open-source collaborative family tree with genealogical profiles & historical ancestors. | [Check Out](https://www.wikitree.com/wiki/API_Documentation) |
+| `Ancestry.com API (Unofficial / Partner Access)` | Historical records, census data & family tree information (restricted partner access). | [Check Out](https://www.ancestry.com/cs/developers) |
+
