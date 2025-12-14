@@ -1513,3 +1513,16 @@
 | `Tesco Grocery API` | UK supermarket product search, prices, categories & barcodes. | [Check Out](https://developer.tesco.com/) |
 | `Walmart Product Lookup API` | Grocery & retail product search, UPC/barcode lookup & store availability. | [Check Out](https://developer.walmart.com/) |
 
+# Geopolitics & Global Affairs APIs
+*APIs related to international relations, global rankings, geopolitical risk, borders, diplomacy, sanctions, and worldwide governance indicators.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `CIA World Factbook API` | Country-level geopolitical, demographic, economic & geographic data. | [Check Out](https://www.cia.gov/the-world-factbook/about/) |
+| `CountryStateCity API` | Countries, regions, states, cities & geopolitical subdivisions. | [Check Out](https://countrystatecity.in/docs) |
+| `GeoNames API` | Worldwide place names, political boundaries, population & administrative hierarchies. | [Check Out](https://www.geonames.org/export/) |
+| `Global Indicators API (World Bank)` | Governance, development, economics, population & international metrics. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) |
+| `REST Countries API` | Country borders, flags, languages, currencies & political structures. | [Check Out](https://restcountries.com/) |
+| `UN Data API` | International statistics across population, economics, governance & global affairs. | [Check Out](https://data.un.org/Handlers/DownloadHandler.ashx?DataFilter=data_api) |
+| `UN Sanctions API` | List of UN Security Council sanctions, restricted entities & international compliance data. | [Check Out](https://scsanctions.un.org/resources/) |
+| `World Population API` | Population data, geopolitically structured world demographics. | [Check Out](https://worldpopulationreview.com/static/stubs/api) |
+
