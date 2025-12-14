@@ -1562,3 +1562,18 @@
 | `WikiTree API` | Open-source collaborative family tree with genealogical profiles & historical ancestors. | [Check Out](https://www.wikitree.com/wiki/API_Documentation) |
 | `Ancestry.com API (Unofficial / Partner Access)` | Historical records, census data & family tree information (restricted partner access). | [Check Out](https://www.ancestry.com/cs/developers) |
 
+# Geospatial & Mapping APIs
+*APIs related to maps, locations, coordinates, boundaries, geocoding, routing, GIS systems, and spatial datasets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `ArcGIS REST API` | Advanced GIS data, maps, layers, geocoding, spatial analytics & geoprocessing tools. | [Check Out](https://developers.arcgis.com/rest/) |
+| `GeoJSON API (IETF)` | Standard format for representing geospatial data in JSON structures. | [Check Out](https://geojson.org/) |
+| `GeoServer API` | Open-source server for publishing geospatial datasets using WMS, WFS & WCS. | [Check Out](https://docs.geoserver.org/latest/en/user/rest/) |
+| `Geonames API` | Worldwide place names, elevation, country boundaries & geographic lookup. | [Check Out](https://www.geonames.org/export/) |
+| `HERE Maps API` | Mapping, routing, geocoding, traffic data & geospatial analytics. | [Check Out](https://developer.here.com/documentation) |
+| `Mapbox API` | Custom maps, geocoding, navigation, spatial analytics & map rendering. | [Check Out](https://docs.mapbox.com/api/) |
+| `NASA WorldWind API` | Open-source 3D map engine for visualizing earth, terrain & geospatial layers. | [Check Out](https://worldwind.arc.nasa.gov/java/) |
+| `OpenStreetMap API (OSM)` | Collaborative map data, roads, POIs, boundaries & geographic features. | [Check Out](https://wiki.openstreetmap.org/wiki/API) |
+| `QGIS Server API` | Open-source GIS server for geospatial data access & map rendering. | [Check Out](https://www.qgis.org/api/) |
+| `USGS National Map API` | U.S. geospatial datasets: elevation, hydrography, boundaries, transportation & land cover. | [Check Out](https://apps.nationalmap.gov/) |
+
