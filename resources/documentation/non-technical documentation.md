@@ -1540,3 +1540,14 @@
 | `UK GOV.UK API` | Government services, administrative documents, registers & official announcements. | [Check Out](https://www.api.gov.uk/) |
 | `UNData API - Governance Indicators` | Global governance, public administration, legal frameworks & institutional performance datasets. | [Check Out](https://data.un.org/) |
 
+# Grants & Funding APIs
+*APIs related to public grants, research funding, nonprofit funding, government aid programs, and financial assistance databases.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Grants.gov API` | Official U.S. federal grants database: search, opportunity details & eligibility info. | [Check Out](https://www.grants.gov/data-datasets.html) |
+| `EU Funding & Tenders API` | European Union grants, procurement calls, funding programs & tender documents. | [Check Out](https://ec.europa.eu/info/funding-tenders/opportunities/docs/) |
+| `OpenAIRE API` | Research funding data, scientific grants, publications & project metadata for EU and global academia. | [Check Out](https://develop.openaire.eu/) |
+| `Foundation Directory Online API` | Nonprofit funding, philanthropic grants, donors & organizational profiles. | [Check Out](https://fconline.foundationcenter.org/) |
+| `USAspending API` | U.S. government grant spending, aid distributions, awards & financial tracking datasets. | [Check Out](https://api.usaspending.gov/) |
+| `World Bank Projects API` | International development funding, grants, loans & project-level financial data. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-projects-api) |
+
