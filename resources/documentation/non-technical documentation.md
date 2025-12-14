@@ -1502,3 +1502,14 @@
 | `Solar Radiation API (NASA POWER)` | Solar irradiance, weather, climate & renewable-energy-optimized environmental data. | [Check Out](https://power.larc.nasa.gov/docs/services/api/) |
 | `Wind Energy API (OpenWind / DOE)` | Wind speed, turbine data, wind resource models & renewable wind datasets. | [Check Out](https://www.energy.gov/eere/wind/wind-energy-technologies-office-data) |
 
+# Grocery & Supermarket APIs
+*APIs related to grocery products, supermarkets, nutrition labels, food availability, and retail product datasets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Edamam Food & Grocery Database API` | Grocery items, nutrition data, ingredients, allergens & barcode lookup. | [Check Out](https://developer.edamam.com/food-database-api-docs) |
+| `Kroger API` | Product search, inventory, categories, location availability & online shopping integration. | [Check Out](https://developer.kroger.com/reference/) |
+| `Open Grocery Database API (OpenFoodFacts)` | Open-source global database of grocery products with nutrition labels & barcodes. | [Check Out](https://world.openfoodfacts.org/data) |
+| `Spoonacular Grocery Products API` | Grocery products, ingredients, nutrition, recipes & supermarket data. | [Check Out](https://spoonacular.com/food-api/docs) |
+| `Tesco Grocery API` | UK supermarket product search, prices, categories & barcodes. | [Check Out](https://developer.tesco.com/) |
+| `Walmart Product Lookup API` | Grocery & retail product search, UPC/barcode lookup & store availability. | [Check Out](https://developer.walmart.com/) |
+
