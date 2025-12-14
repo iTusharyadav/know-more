@@ -1526,3 +1526,17 @@
 | `UN Sanctions API` | List of UN Security Council sanctions, restricted entities & international compliance data. | [Check Out](https://scsanctions.un.org/resources/) |
 | `World Population API` | Population data, geopolitically structured world demographics. | [Check Out](https://worldpopulationreview.com/static/stubs/api) |
 
+# Governance & Administrative Services APIs
+*APIs related to government services, public administration, civic information, legal structures, elections, and administrative datasets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Data.gov API (USA)` | Central hub for U.S. government datasets across health, education, finance, energy & administration. | [Check Out](https://api.data.gov/) |
+| `GSA Open Data API` | General Services Administration data on government spending, procurement, contracts & public records. | [Check Out](https://open.gsa.gov/api/) |
+| `GovInfo API` | U.S. federal publications, bills, statutes, regulations & official government documents. | [Check Out](https://api.govinfo.gov/docs/) |
+| `Open Government API (OECD)` | Data on governance quality, administrative efficiency & public sector indicators. | [Check Out](https://data.oecd.org/api/sdmx-json-documentation/) |
+| `OpenStates API` | Legislative data: bills, representatives, sessions, committees & administrative boundaries (USA). | [Check Out](https://docs.openstates.org/api/) |
+| `Parliamentary Data API (UK Parliament)` | UK parliamentary sessions, debates, voting records, members & administrative datasets. | [Check Out](https://explore.data.parliament.uk/) |
+| `President.io API` | US government administrative structures, elected officials & political subdivisions. | [Check Out](https://www.president.io/docs) |
+| `UK GOV.UK API` | Government services, administrative documents, registers & official announcements. | [Check Out](https://www.api.gov.uk/) |
+| `UNData API - Governance Indicators` | Global governance, public administration, legal frameworks & institutional performance datasets. | [Check Out](https://data.un.org/) |
+
