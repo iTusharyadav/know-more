@@ -1480,3 +1480,13 @@
 | `NCBI E-utilities API` | Molecular biology databases including PubMed, GEO, DNA/Protein sequences & taxonomy. | [Check Out](https://www.ncbi.nlm.nih.gov/books/NBK25501/) |
 | `UCSC Genome Browser API` | Genome reference datasets, annotations, and visualization tracks. | [Check Out](https://genome.ucsc.edu/goldenpath/help/api.html) |
 
+# Geology & Earth Sciences APIs
+*APIs offering geological maps, mineral data, soil composition, tectonic activity, groundwater data, and earth science datasets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `BGS API (British Geological Survey)` | Geological maps, borehole data, minerals, hazards & soil information for the UK. | [Check Out](https://www.bgs.ac.uk/data/api/) |
+| `Geoscience Australia API` | Earth observation, seismic activity, minerals, groundwater & geospatial datasets. | [Check Out](https://www.ga.gov.au/developer) |
+| `Macrostrat API` | Global geologic map layers, stratigraphy, rock units & fossil records. | [Check Out](https://macrostrat.org/api/) |
+| `OneGeology API` | International geological map data from national geological surveys. | [Check Out](http://www.onegeology.org/data/onegeologyWebServices.html) |
+| `USGS Geological Data APIs` | U.S. geological data including minerals, elevation, soil, water, and geologic hazards. | [Check Out](https://www.usgs.gov/products/web-tools/apis) |
+
