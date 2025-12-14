@@ -1490,3 +1490,15 @@
 | `OneGeology API` | International geological map data from national geological surveys. | [Check Out](http://www.onegeology.org/data/onegeologyWebServices.html) |
 | `USGS Geological Data APIs` | U.S. geological data including minerals, elevation, soil, water, and geologic hazards. | [Check Out](https://www.usgs.gov/products/web-tools/apis) |
 
+# Green & Renewable Energy APIs
+*APIs related to solar, wind, hydro, carbon emissions, sustainability metrics, energy production forecasting, and environmental impact data.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Carbon Interface API` | Real-time carbon emission estimates for electricity, flights, shipping & vehicles. | [Check Out](https://www.carboninterface.com/) |
+| `CO2 Signal API` | Live CO₂ intensity and electricity mix for countries & regions worldwide. | [Check Out](https://www.co2signal.com/) |
+| `EIA API (U.S. Energy Information Administration)` | Energy production, consumption, renewables, fossil fuels & electric grid data. | [Check Out](https://www.eia.gov/opendata/) |
+| `Open Energy Data API` | European open energy datasets: electricity generation, consumption & market data. | [Check Out](https://openenergyplatform.org/) |
+| `OpenSolar API` | Solar project design, panel performance, irradiance, and cost estimation. | [Check Out](https://docs.opensolar.com/) |
+| `Solar Radiation API (NASA POWER)` | Solar irradiance, weather, climate & renewable-energy-optimized environmental data. | [Check Out](https://power.larc.nasa.gov/docs/services/api/) |
+| `Wind Energy API (OpenWind / DOE)` | Wind speed, turbine data, wind resource models & renewable wind datasets. | [Check Out](https://www.energy.gov/eere/wind/wind-energy-technologies-office-data) |
+
