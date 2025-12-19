@@ -1577,3 +1577,14 @@
 | `QGIS Server API` | Open-source GIS server for geospatial data access & map rendering. | [Check Out](https://www.qgis.org/api/) |
 | `USGS National Map API` | U.S. geospatial datasets: elevation, hydrography, boundaries, transportation & land cover. | [Check Out](https://apps.nationalmap.gov/) |
 
+# Health & Medical APIs
+*APIs that provide healthcare data, medical records, hospitals, health statistics, disease information, and clinical resources.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `CDC APIs` | U.S. Centers for Disease Control data on diseases, public health, and statistics. | [Check Out](https://data.cdc.gov/) |
+| `CMS Blue Button API` | U.S. Medicare claims, patient health records, and provider information. | [Check Out](https://bluebutton.cms.gov/developers/) |
+| `ClinicalTrials.gov API` | Global clinical trial registry, study details, outcomes & participant info. | [Check Out](https://clinicaltrials.gov/api/gui) |
+| `FHIR API (HL7)` | Standardized API for exchanging electronic health records (EHR/EMR). | [Check Out](https://hl7.org/fhir/) |
+| `FDA APIs` | U.S. Food & Drug Administration data: drugs, recalls, adverse events, labeling. | [Check Out](https://open.fda.gov/apis/) |
+| `NHS Digital API` | UK National Health Service datasets: hospitals, services, health statistics & public health info. | [Check Out](https://digital.nhs.uk/developer) |
+| `WHO API` | World Health Organization global health statistics, disease outbreaks & datasets. | [Check Out](https://www.who.int/data/gho/info/gho-odata-api) |
