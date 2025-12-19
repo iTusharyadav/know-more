@@ -1599,3 +1599,15 @@
 | `Trulia API (Unofficial)` | Real estate listings, neighborhood info, and market insights. | [Check Out](https://developer.trulia.com/) |
 | `Mashvisor API` | Real estate analytics, rental income projections, investment property data. | [Check Out](https://www.mashvisor.com/api) |
 | `Estated API` | U.S. property data, valuation, ownership, tax & transaction history. | [Check Out](https://estated.com/docs) |
+
+# Human Resources & Employment APIs
+*APIs that provide HR management, employee records, payroll, job listings, recruitment, and workforce analytics.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `BambooHR API` | HR software API for employee data, time-off, benefits & reporting. | [Check Out](https://www.bamboohr.com/api/documentation/) |
+| `Greenhouse API` | Recruitment, applicant tracking, job postings, and interview scheduling. | [Check Out](https://developers.greenhouse.io/) |
+| `Gusto API` | Payroll, employee management, HR compliance & benefits. | [Check Out](https://docs.gusto.com/) |
+| `Lever API` | Recruitment platform API for managing applicants, interviews, and jobs. | [Check Out](https://help.lever.co/hc/en-us/articles/360043118714-API-Overview) |
+| `Workday API` | Employee data, HR processes, payroll, recruitment & organizational management. | [Check Out](https://community.workday.com/) |
+| `Zoho People API` | HR management, employee records, attendance, leave, and performance. | [Check Out](https://www.zoho.com/people/api/) |
+
