@@ -1588,3 +1588,14 @@
 | `FDA APIs` | U.S. Food & Drug Administration data: drugs, recalls, adverse events, labeling. | [Check Out](https://open.fda.gov/apis/) |
 | `NHS Digital API` | UK National Health Service datasets: hospitals, services, health statistics & public health info. | [Check Out](https://digital.nhs.uk/developer) |
 | `WHO API` | World Health Organization global health statistics, disease outbreaks & datasets. | [Check Out](https://www.who.int/data/gho/info/gho-odata-api) |
+
+# Housing & Real Estate APIs
+*APIs that provide property listings, real estate data, rental prices, mortgages, property valuation, and housing market insights.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Zillow API` | Real estate listings, property valuations (Zestimates), and home data. | [Check Out](https://www.zillow.com/howto/api/APIOverview.htm) |
+| `Realtor API` | Property listings, property search, pricing, and agent data in the U.S. | [Check Out](https://www.realtor.com/research/data/) |
+| `Redfin API (Unofficial)` | Housing data, property details, sale history & market trends. | [Check Out](https://www.redfin.com/blog/data-center/) |
+| `Trulia API (Unofficial)` | Real estate listings, neighborhood info, and market insights. | [Check Out](https://developer.trulia.com/) |
+| `Mashvisor API` | Real estate analytics, rental income projections, investment property data. | [Check Out](https://www.mashvisor.com/api) |
+| `Estated API` | U.S. property data, valuation, ownership, tax & transaction history. | [Check Out](https://estated.com/docs) |
