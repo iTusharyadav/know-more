@@ -1611,3 +1611,13 @@
 | `Workday API` | Employee data, HR processes, payroll, recruitment & organizational management. | [Check Out](https://community.workday.com/) |
 | `Zoho People API` | HR management, employee records, attendance, leave, and performance. | [Check Out](https://www.zoho.com/people/api/) |
 
+# Humanitarian & Aid APIs
+*APIs that provide data on humanitarian crises, aid distribution, refugees, disaster relief, food security, and global assistance programs.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `ReliefWeb API` | Humanitarian crisis reports, disaster response updates & global aid information. | [Check Out](https://apidoc.rwlabs.org/) |
+| `UN OCHA API` | United Nations humanitarian data exchange including emergencies and relief operations. | [Check Out](https://data.humdata.org/) |
+| `UNHCR API` | Refugee statistics, displacement data & humanitarian response datasets. | [Check Out](https://www.unhcr.org/refugee-statistics/) |
+| `WFP API` | World Food Programme data on food security, hunger, and emergency assistance. | [Check Out](https://www.wfp.org/data) |
+| `ACAPS API` | Humanitarian analysis, crisis severity indexes & risk assessments. | [Check Out](https://www.acaps.org/) |
+
