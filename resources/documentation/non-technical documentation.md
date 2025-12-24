@@ -1633,3 +1633,14 @@
 | `OpenAQ Water Quality API` | Open water and environmental quality measurements and monitoring data. | [Check Out](https://docs.openaq.org/) |
 | `Flood Monitoring API (Global Flood Awareness System)` | Flood forecasts, alerts & hydrological risk assessments. | [Check Out](https://www.globalfloods.eu/) |
 
+# Identity & Authentication APIs
+*APIs that manage digital identity, user authentication, authorization, access control, and identity verification services.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Auth0 API` | Identity platform for authentication, authorization, and user management. | [Check Out](https://auth0.com/docs/api) |
+| `Azure Active Directory API` | Microsoft identity and access management services for users and organizations. | [Check Out](https://learn.microsoft.com/en-us/graph/api/overview) |
+| `Keycloak API` | Open-source identity and access management with SSO and federation support. | [Check Out](https://www.keycloak.org/documentation) |
+| `Okta API` | Enterprise identity, authentication, user lifecycle, and access control. | [Check Out](https://developer.okta.com/docs/) |
+| `OneLogin API` | Identity management, SSO, and directory integration services. | [Check Out](https://developers.onelogin.com/) |
+| `OpenID Connect` | Standard identity layer built on OAuth 2.0 for authentication. | [Check Out](https://openid.net/developers/how-connect-works/) |
+
