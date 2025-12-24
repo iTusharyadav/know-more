@@ -1644,3 +1644,13 @@
 | `OneLogin API` | Identity management, SSO, and directory integration services. | [Check Out](https://developers.onelogin.com/) |
 | `OpenID Connect` | Standard identity layer built on OAuth 2.0 for authentication. | [Check Out](https://openid.net/developers/how-connect-works/) |
 
+# Immigration & Citizenship APIs
+*APIs that provide immigration rules, visa information, citizenship services, migration statistics, and government immigration datasets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `EU Open Data – Migration API` | European Union migration, asylum, and citizenship statistics. | [Check Out](https://data.europa.eu/en) |
+| `IOM Migration Data API` | International Organization for Migration global migration datasets. | [Check Out](https://www.migrationdataportal.org/data) |
+| `UK Home Office Immigration Data` | UK visa, immigration, asylum & citizenship statistics. | [Check Out](https://www.gov.uk/government/collections/immigration-statistics) |
+| `UN DESA Migration API` | United Nations international migrant stock and flow statistics. | [Check Out](https://www.un.org/development/desa/pd/data-landing-page) |
+| `USCIS Open Data API` | U.S. immigration benefits, naturalization, visa & case processing data. | [Check Out](https://www.uscis.gov/tools/reports-and-studies/immigration-and-citizenship-data) |
+
