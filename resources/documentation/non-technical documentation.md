@@ -1621,3 +1621,15 @@
 | `WFP API` | World Food Programme data on food security, hunger, and emergency assistance. | [Check Out](https://www.wfp.org/data) |
 | `ACAPS API` | Humanitarian analysis, crisis severity indexes & risk assessments. | [Check Out](https://www.acaps.org/) |
 
+# Hydrology & Water Resources APIs
+*APIs that provide data related to water bodies, rivers, groundwater, rainfall, floods, water quality, and hydrological monitoring systems.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `USGS Water Services API` | Real-time and historical data on rivers, groundwater levels, streamflow & water quality. | [Check Out](https://waterservices.usgs.gov/) |
+| `NOAA Water API` | Hydrological and climate-related water data including precipitation and runoff. | [Check Out](https://www.weather.gov/documentation/services-web-api) |
+| `Global Runoff Data Centre (GRDC)` | Global river discharge and freshwater resource datasets. | [Check Out](https://www.bafg.de/GRDC/EN/Home/homepage_node.html) |
+| `World Bank Water Data API` | Global water indicators, access to water, sanitation & water resource statistics. | [Check Out](https://data.worldbank.org/topic/water) |
+| `European Water Information System (WISE)` | EU water quality, groundwater, river basin & environmental datasets. | [Check Out](https://water.europa.eu/) |
+| `OpenAQ Water Quality API` | Open water and environmental quality measurements and monitoring data. | [Check Out](https://docs.openaq.org/) |
+| `Flood Monitoring API (Global Flood Awareness System)` | Flood forecasts, alerts & hydrological risk assessments. | [Check Out](https://www.globalfloods.eu/) |
+
