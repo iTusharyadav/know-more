@@ -1677,3 +1677,14 @@
 | `Polygon.io API` | Real-time and historical market data for stocks, options & indices. | [Check Out](https://polygon.io/docs) |
 | `Yahoo Finance API (Unofficial)` | Market prices, historical data, company info & portfolio tracking. | [Check Out](https://finance.yahoo.com/) |
 
+# Invoices & Billing APIs
+*APIs that handle invoicing, billing, subscriptions, receipts, expense records, and financial documentation for individuals and businesses.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Chargebee API` | Subscription billing, invoicing, recurring payments & revenue operations. | [Check Out](https://apidocs.chargebee.com/docs/api) |
+| `FreshBooks API` | Invoicing, expense tracking, billing & accounting data access. | [Check Out](https://www.freshbooks.com/api) |
+| `Invoice Ninja API` | Open-source invoicing, billing, payments & client management. | [Check Out](https://invoiceninja.github.io/) |
+| `QuickBooks Online API` | Accounting, invoices, payments, expenses & financial reporting. | [Check Out](https://developer.intuit.com/app/developer/qbo/docs/get-started) |
+| `Stripe Billing API` | Invoices, subscriptions, usage-based billing & receipts. | [Check Out](https://stripe.com/docs/billing) |
+| `Zoho Invoice API` | Invoice creation, billing automation, taxes & payment tracking. | [Check Out](https://www.zoho.com/invoice/api/v3/) |
+
