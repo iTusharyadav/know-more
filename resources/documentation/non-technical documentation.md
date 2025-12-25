@@ -1666,3 +1666,14 @@
 | `Open Insurance (UK)` | Standardized APIs for UK insurance data sharing & interoperability. | [Check Out](https://www.openinsurance.org.uk/) |
 | `Stripe Insurance (Atlas & Partner APIs)` | Embedded insurance offerings integrated into payments and platforms. | [Check Out](https://stripe.com/docs) |
 
+# Investment & Portfolio APIs
+*APIs that provide data and services for investments, portfolios, asset allocation, market insights, and wealth management.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Alpha Vantage API` | Investment market data for stocks, ETFs, mutual funds, forex & indicators. | [Check Out](https://www.alphavantage.co/documentation/) |
+| `IEX Cloud API` | U.S. stock market data, company fundamentals & financial metrics. | [Check Out](https://iexcloud.io/docs/api/) |
+| `Morningstar API` | Investment research, fund data, portfolio analytics & ratings. | [Check Out](https://developer.morningstar.com/) |
+| `Plaid Investments API` | Investment account connectivity, holdings, balances & transactions. | [Check Out](https://plaid.com/docs/investments/) |
+| `Polygon.io API` | Real-time and historical market data for stocks, options & indices. | [Check Out](https://polygon.io/docs) |
+| `Yahoo Finance API (Unofficial)` | Market prices, historical data, company info & portfolio tracking. | [Check Out](https://finance.yahoo.com/) |
+
