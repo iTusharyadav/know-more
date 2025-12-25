@@ -1654,3 +1654,15 @@
 | `UN DESA Migration API` | United Nations international migrant stock and flow statistics. | [Check Out](https://www.un.org/development/desa/pd/data-landing-page) |
 | `USCIS Open Data API` | U.S. immigration benefits, naturalization, visa & case processing data. | [Check Out](https://www.uscis.gov/tools/reports-and-studies/immigration-and-citizenship-data) |
 
+# Insurance APIs
+*APIs that provide access to insurance products, policies, claims, underwriting, risk assessment, pricing, and regulatory insurance data.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Allianz Open Insurance API` | Insurance products, claims processing, policy management & partner integrations. | [Check Out](https://developer.allianz.com/) |
+| `CoverGo API` | Insurance distribution, policy issuance, underwriting & claims automation. | [Check Out](https://www.covergo.com/documentation) |
+| `Duck Creek API` | Core insurance systems for policy, billing, claims & analytics. | [Check Out](https://developer.duckcreek.com/) |
+| `Insurwave API` | Marine insurance, risk management & underwriting platform. | [Check Out](https://www.insurwave.com/) |
+| `Lemonade API` | Digital insurance services including policy, claims & customer data. | [Check Out](https://www.lemonade.com/developers/) |
+| `Open Insurance (UK)` | Standardized APIs for UK insurance data sharing & interoperability. | [Check Out](https://www.openinsurance.org.uk/) |
+| `Stripe Insurance (Atlas & Partner APIs)` | Embedded insurance offerings integrated into payments and platforms. | [Check Out](https://stripe.com/docs) |
+
