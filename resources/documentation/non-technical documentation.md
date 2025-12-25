@@ -1688,3 +1688,13 @@
 | `Stripe Billing API` | Invoices, subscriptions, usage-based billing & receipts. | [Check Out](https://stripe.com/docs/billing) |
 | `Zoho Invoice API` | Invoice creation, billing automation, taxes & payment tracking. | [Check Out](https://www.zoho.com/invoice/api/v3/) |
 
+# Intellectual Property & Legal APIs
+*APIs that provide access to legal data, laws, regulations, court cases, patents, trademarks, copyrights, and intellectual property records.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `European Patent Office (EPO) API` | Patent data, filings, legal status & bibliographic information. | [Check Out](https://developers.epo.org/) |
+| `Google Patents Public Data` | Global patent publications, classifications & citations. | [Check Out](https://developers.google.com/patents) |
+| `LexisNexis API` | Legal research data, case law, statutes & regulatory information. | [Check Out](https://www.lexisnexis.com/en-us/products/apis.page) |
+| `USPTO Open Data API` | U.S. patents, trademarks, assignments & IP statistics. | [Check Out](https://developer.uspto.gov/) |
+| `WIPO API` | International IP data covering patents, trademarks & global filings. | [Check Out](https://www.wipo.int/tools/en/gazette/api.html) |
+
