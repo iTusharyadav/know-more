@@ -1750,3 +1750,15 @@
 | `USAJobs API` | Official U.S. government job listings, hiring paths & federal employment data. | [Check Out](https://developer.usajobs.gov/) |
 | `ZipRecruiter API` | Job postings, candidate matching & recruitment marketplace data. | [Check Out](https://www.ziprecruiter.com/publishers) |
 
+# Journalism & News APIs
+*APIs that provide access to news articles, journalism resources, media content, press releases, headlines, and news analytics.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Associated Press (AP) News API` | Professional journalism content, breaking news, images & multimedia from AP. | [Check Out](https://developer.ap.org/) |
+| `GDELT API` | Global news events, media monitoring, geopolitical analysis & sentiment data. | [Check Out](https://www.gdeltproject.org/data.html) |
+| `MediaStack API` | Real-time and historical news data from global media sources. | [Check Out](https://mediastack.com/documentation) |
+| `NewsAPI.org` | Worldwide news headlines, articles, publishers & topic-based search. | [Check Out](https://newsapi.org/docs) |
+| `NewsData.io API` | Breaking news, historical articles & multilingual news coverage. | [Check Out](https://newsdata.io/documentation) |
+| `New York Times API` | NYT articles, archives, books, movies, and journalism datasets. | [Check Out](https://developer.nytimes.com/apis) |
+| `Reuters API` | Global news, financial journalism & market-moving information. | [Check Out](https://www.reutersagency.com/en/products/reuters-api/) |
+
