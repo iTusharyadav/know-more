@@ -1698,3 +1698,23 @@
 | `USPTO Open Data API` | U.S. patents, trademarks, assignments & IP statistics. | [Check Out](https://developer.uspto.gov/) |
 | `WIPO API` | International IP data covering patents, trademarks & global filings. | [Check Out](https://www.wipo.int/tools/en/gazette/api.html) |
 
+# International Development & Aid APIs
+*APIs that provide data related to global development, poverty reduction, economic aid, humanitarian funding, and international development indicators.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `OECD Development API` | Global development indicators, aid flows, donor statistics & economic development data. | [Check Out](https://data.oecd.org/api/) |
+| `UNDP API` | United Nations Development Programme data on human development, SDGs & global progress. | [Check Out](https://hdr.undp.org/data-center) |
+| `USAID Open Data API` | U.S. foreign aid spending, development projects & international assistance data. | [Check Out](https://www.foreignassistance.gov/) |
+| `World Bank Open Data API` | Global development indicators, poverty, education, health & economic statistics. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) |
+| `AidData API` | International development finance, aid transparency & global investment tracking. | [Check Out](https://www.aiddata.org/data) |
+
+# International Trade & Customs APIs
+*APIs that provide data on global trade, imports/exports, tariffs, customs duties, trade agreements, and cross-border commerce statistics.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `UN Comtrade API` | Official global trade statistics database for imports, exports & commodities. | [Check Out](https://comtradeplus.un.org/) |
+| `WTO API` | World Trade Organization data on trade flows, tariffs & trade agreements. | [Check Out](https://apiportal.wto.org/) |
+| `EU TARIC API` | EU customs tariff, duties, trade measures & commodity classifications. | [Check Out](https://taxation-customs.ec.europa.eu/customs-4/customs-duties/taric_en) |
+| `U.S. Census Trade API` | U.S. international trade data including exports, imports & trade balances. | [Check Out](https://www.census.gov/data/developers/data-sets/international-trade.html) |
+| `World Customs Organization (WCO) Data` | Global customs standards, harmonized system codes & trade facilitation data. | [Check Out](https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/tools/data-model.aspx) |
+
