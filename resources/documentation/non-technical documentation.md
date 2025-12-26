@@ -1718,3 +1718,13 @@
 | `U.S. Census Trade API` | U.S. international trade data including exports, imports & trade balances. | [Check Out](https://www.census.gov/data/developers/data-sets/international-trade.html) |
 | `World Customs Organization (WCO) Data` | Global customs standards, harmonized system codes & trade facilitation data. | [Check Out](https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/tools/data-model.aspx) |
 
+# Internet Governance & Policy APIs
+*APIs and open datasets related to internet governance, digital policy, standards, domain management, cybersecurity policy, and global internet oversight.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `ICANN Open Data` | Internet domain governance, DNS statistics, registries & policy datasets. | [Check Out](https://www.icann.org/resources/pages/open-data-2014-01-30-en) |
+| `IANA Registry Data` | Internet protocol parameters, IP address spaces, ports & DNS root zone data. | [Check Out](https://www.iana.org/protocols) |
+| `Internet Governance Forum (IGF) Data` | Global internet policy discussions, governance issues & digital cooperation resources. | [Check Out](https://www.intgovforum.org/) |
+| `OECD Digital Policy Data` | Digital economy policies, internet regulation & global governance indicators. | [Check Out](https://www.oecd.org/digital/) |
+| `World Bank Digital Governance Data` | Internet policy, digital public infrastructure & governance indicators. | [Check Out](https://www.worldbank.org/en/topic/digitaldevelopment) |
+
