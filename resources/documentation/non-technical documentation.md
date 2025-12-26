@@ -1728,3 +1728,25 @@
 | `OECD Digital Policy Data` | Digital economy policies, internet regulation & global governance indicators. | [Check Out](https://www.oecd.org/digital/) |
 | `World Bank Digital Governance Data` | Internet policy, digital public infrastructure & governance indicators. | [Check Out](https://www.worldbank.org/en/topic/digitaldevelopment) |
 
+# International Organizations & Institutions APIs
+*APIs and open data portals from global and regional organizations providing statistics, reports, indicators, and policy-related datasets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `International Monetary Fund (IMF) API` | Global economic indicators, financial stability data, balance of payments & country statistics. | [Check Out](https://www.imf.org/en/Data) |
+| `United Nations Data API` | Official UN datasets covering population, development, environment, and global indicators. | [Check Out](https://data.un.org/) |
+| `UNESCO API` | Education, culture, science, heritage & media development statistics. | [Check Out](https://uis.unesco.org/en/uis-api) |
+| `World Health Organization (WHO) Data API` | Global health indicators, disease statistics & public health datasets. | [Check Out](https://www.who.int/data/gho/info/gho-odata-api) |
+| `World Trade Organization (WTO) Data API` | Trade statistics, tariffs, trade agreements & economic indicators. | [Check Out](https://apiportal.wto.org/) |
+| `OECD Data API` | Economic, social, environmental & governance statistics for member countries. | [Check Out](https://data.oecd.org/api/) |
+
+# Job & Recruitment APIs
+*APIs that provide job listings, recruitment data, hiring platforms, employment analytics, and labor market information.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Adzuna API` | Global job search engine data including job listings, salaries & locations. | [Check Out](https://developer.adzuna.com/) |
+| `Indeed API` | Job listings, employer data, and employment search integration. | [Check Out](https://developer.indeed.com/) |
+| `Jooble API` | Worldwide job search data, vacancies & employment aggregation services. | [Check Out](https://jooble.org/api/about) |
+| `LinkedIn Talent Solutions API` | Recruitment, job postings, candidate insights & workforce analytics. | [Check Out](https://learn.microsoft.com/en-us/linkedin/) |
+| `USAJobs API` | Official U.S. government job listings, hiring paths & federal employment data. | [Check Out](https://developer.usajobs.gov/) |
+| `ZipRecruiter API` | Job postings, candidate matching & recruitment marketplace data. | [Check Out](https://www.ziprecruiter.com/publishers) |
+
