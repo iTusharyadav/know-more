@@ -1762,3 +1762,25 @@
 | `New York Times API` | NYT articles, archives, books, movies, and journalism datasets. | [Check Out](https://developer.nytimes.com/apis) |
 | `Reuters API` | Global news, financial journalism & market-moving information. | [Check Out](https://www.reutersagency.com/en/products/reuters-api/) |
 
+# Judicial & Court APIs
+*APIs that provide access to court records, case law, judgments, legal proceedings, judiciary data, and justice system information.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `CourtListener API` | U.S. court opinions, dockets, judges, oral arguments & legal filings. | [Check Out](https://www.courtlistener.com/api/) |
+| `ECourts India API` | Indian judiciary case status, court orders & cause lists. | [Check Out](https://ecourts.gov.in/ecourts_home/) |
+| `European Court of Human Rights (HUDOC API)` | Judgments, decisions & case law from the ECHR. | [Check Out](https://hudoc.echr.coe.int/eng) |
+| `OpenJustice API (California)` | Criminal justice data, court outcomes & public safety datasets. | [Check Out](https://openjustice.doj.ca.gov/) |
+| `PACER (U.S. Federal Courts)` | U.S. federal court case and docket access system. | [Check Out](https://pacer.uscourts.gov/) |
+| `UK Court & Tribunal Data` | UK court judgments, tribunal decisions & judiciary datasets. | [Check Out](https://www.judiciary.uk/judgments/) |
+
+# Justice & Law Enforcement APIs
+*APIs that provide data related to policing, crime statistics, public safety, corrections, and justice system operations.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Bureau of Justice Statistics (BJS) API` | U.S. crime data, incarceration statistics, courts & law enforcement metrics. | [Check Out](https://bjs.ojp.gov/data-analysis-tools) |
+| `FBI Crime Data API` | U.S. crime reports, arrests, incidents & law enforcement statistics. | [Check Out](https://crime-data-api.fr.cloud.gov/api) |
+| `Interpol Open Data` | International crime data, notices & global law enforcement cooperation datasets. | [Check Out](https://www.interpol.int/How-we-work/Notices/Open-data) |
+| `Open Policing API (UK)` | UK police forces, crime reports, stop-and-search & public safety data. | [Check Out](https://data.police.uk/docs/) |
+| `UNODC API` | United Nations data on crime, drugs, corruption & criminal justice systems. | [Check Out](https://dataunodc.un.org/) |
+| `Vera Institute Justice Data` | Criminal justice reform data, incarceration trends & policy research. | [Check Out](https://www.vera.org/data) |
+
