@@ -1829,3 +1829,15 @@
 | `Indian Kanoon API (Unofficial)` | Indian court judgments, legal documents & statutes. | [Check Out](https://indiankanoon.org/doc/api/) |
 | `Legislation.gov.uk API` | UK legislation, statutory instruments & legal revisions. | [Check Out](https://www.legislation.gov.uk/developer) |
 | `OpenLaw API` | Open legal data standards for contracts, agreements & legal documents. | [Check Out](https://docs.openlaw.io/) |
+
+# Libraries & Archives APIs
+*APIs that provide access to libraries, digital archives, books, manuscripts, historical records, and cultural heritage collections.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `British Library API` | Access to catalog metadata, digital collections & bibliographic records. | [Check Out](https://www.bl.uk/bibliographic/data-services) |
+| `Europeana API` | European cultural heritage data including books, art, archives & museum collections. | [Check Out](https://pro.europeana.eu/page/apis) |
+| `Library of Congress API` | U.S. Library of Congress digital collections, photos, maps & documents. | [Check Out](https://www.loc.gov/apis/) |
+| `National Archives API (UK)` | UK government archives, records, historical documents & metadata. | [Check Out](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/apis/) |
+| `Open Library API` | Open, editable library catalog with millions of book records. | [Check Out](https://openlibrary.org/developers/api) |
+| `WorldCat API` | Global library catalog data, bibliographic records & holdings. | [Check Out](https://www.oclc.org/developer/develop/apis/worldcat-discovery-api.en.html) |
+
