@@ -1796,3 +1796,14 @@
 | `Semantic Scholar API` | AI-powered academic research data including papers, citations & authors. | [Check Out](https://api.semanticscholar.org/) |
 | `Wikidata API` | Structured open knowledge base supporting research, linked data & metadata queries. | [Check Out](https://www.wikidata.org/wiki/Wikidata:Data_access) |
 
+# KYC & Identity Verification APIs
+*APIs that provide Know Your Customer (KYC), identity verification, document validation, biometric checks, and fraud prevention services.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Jumio API` | Identity verification, document validation, biometrics & compliance checks. | [Check Out](https://www.jumio.com/developer/) |
+| `Onfido API` | KYC, identity verification, document & facial recognition services. | [Check Out](https://documentation.onfido.com/) |
+| `Persona API` | Identity verification, KYC workflows & compliance automation. | [Check Out](https://docs.withpersona.com/) |
+| `Shufti Pro API` | Identity verification, AML, KYC & biometric authentication services. | [Check Out](https://shuftipro.com/docs/) |
+| `Sumsub API` | KYC, AML screening, transaction monitoring & fraud detection. | [Check Out](https://developers.sumsub.com/) |
+| `Trulioo API` | Global identity verification across countries & data sources. | [Check Out](https://developer.trulioo.com/) |
+
