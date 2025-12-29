@@ -1807,3 +1807,14 @@
 | `Sumsub API` | KYC, AML screening, transaction monitoring & fraud detection. | [Check Out](https://developers.sumsub.com/) |
 | `Trulioo API` | Global identity verification across countries & data sources. | [Check Out](https://developer.trulioo.com/) |
 
+# Land & Property APIs
+*APIs that provide land records, property ownership, cadastral data, land use, zoning information, and government land registries.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `HM Land Registry API (UK)` | Official UK land ownership, title registers, and property transaction data. | [Check Out](https://www.gov.uk/guidance/hm-land-registry-apis-technical-guide) |
+| `India Land Records (DILRMP)` | Digitized land records, cadastral maps & ownership data across Indian states. | [Check Out](https://dilrmp.gov.in/) |
+| `INSPIRE Geoportal (EU)` | European land use, cadastral parcels & spatial land datasets. | [Check Out](https://inspire.ec.europa.eu/) |
+| `NSDI India API` | National Spatial Data Infrastructure for land, terrain & property datasets. | [Check Out](https://nsdi.gov.in/) |
+| `US Bureau of Land Management API` | Public land records, land surveys, mineral rights & geospatial land data. | [Check Out](https://www.blm.gov/services/geospatial/GISData) |
+| `World Bank Land Governance Data` | Global land ownership, land rights & governance indicators. | [Check Out](https://landportal.org/) |
+
