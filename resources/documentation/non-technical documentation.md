@@ -1841,3 +1841,14 @@
 | `Open Library API` | Open, editable library catalog with millions of book records. | [Check Out](https://openlibrary.org/developers/api) |
 | `WorldCat API` | Global library catalog data, bibliographic records & holdings. | [Check Out](https://www.oclc.org/developer/develop/apis/worldcat-discovery-api.en.html) |
 
+# Logistics & Supply Chain APIs
+*APIs that provide data and services for shipping, logistics, transportation, warehousing, freight, tracking, and supply chain management.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `DHL API` | Shipment tracking, rates, locations & logistics services. | [Check Out](https://developer.dhl.com/) |
+| `FedEx API` | Shipping, tracking, rates, labels & logistics services. | [Check Out](https://developer.fedex.com/) |
+| `Maersk API` | Container shipping, logistics services & supply chain data. | [Check Out](https://developer.maersk.com/) |
+| `UPS API` | Shipping, tracking, logistics & address validation services. | [Check Out](https://developer.ups.com/) |
+| `USPS Web Tools API` | U.S. postal services including shipping rates, tracking & address validation. | [Check Out](https://www.usps.com/business/web-tools-apis/) |
+| `Flexport API` | Global logistics, freight forwarding & supply chain visibility. | [Check Out](https://www.flexport.com/developers/) |
+
