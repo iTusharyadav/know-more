@@ -1784,3 +1784,15 @@
 | `UNODC API` | United Nations data on crime, drugs, corruption & criminal justice systems. | [Check Out](https://dataunodc.un.org/) |
 | `Vera Institute Justice Data` | Criminal justice reform data, incarceration trends & policy research. | [Check Out](https://www.vera.org/data) |
 
+# Knowledge & Research APIs
+*APIs that provide access to academic research, scientific publications, open knowledge bases, datasets, and scholarly information.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `arXiv API` | Open-access research papers in physics, mathematics, computer science & related fields. | [Check Out](https://arxiv.org/help/api/index) |
+| `Crossref API` | Scholarly metadata including DOIs, journals, articles & citations. | [Check Out](https://www.crossref.org/documentation/retrieve-metadata/rest-api/) |
+| `CORE API` | Open-access research papers aggregated from repositories and journals worldwide. | [Check Out](https://core.ac.uk/services/api) |
+| `Europe PMC API` | Life sciences literature, biomedical abstracts & full-text articles. | [Check Out](https://europepmc.org/RestfulWebService) |
+| `OpenAlex API` | Global open catalog of scholarly papers, authors, institutions & concepts. | [Check Out](https://docs.openalex.org/) |
+| `Semantic Scholar API` | AI-powered academic research data including papers, citations & authors. | [Check Out](https://api.semanticscholar.org/) |
+| `Wikidata API` | Structured open knowledge base supporting research, linked data & metadata queries. | [Check Out](https://www.wikidata.org/wiki/Wikidata:Data_access) |
+
