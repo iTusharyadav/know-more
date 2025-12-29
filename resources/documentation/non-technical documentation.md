@@ -1818,3 +1818,14 @@
 | `US Bureau of Land Management API` | Public land records, land surveys, mineral rights & geospatial land data. | [Check Out](https://www.blm.gov/services/geospatial/GISData) |
 | `World Bank Land Governance Data` | Global land ownership, land rights & governance indicators. | [Check Out](https://landportal.org/) |
 
+# Law & Legal APIs
+*APIs that provide access to laws, regulations, statutes, legal documents, compliance data, and legal information systems.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Congress.gov API` | U.S. federal legislation, bills, laws, amendments & congressional records. | [Check Out](https://api.congress.gov/) |
+| `CourtListener API` | Legal opinions, case law, dockets & judicial data from U.S. courts. | [Check Out](https://www.courtlistener.com/api/) |
+| `EU Law (EUR-Lex API)` | European Union law, treaties, directives, regulations & case law. | [Check Out](https://eur-lex.europa.eu/content/help/api.html) |
+| `GovInfo API` | Official U.S. government publications including laws, regulations & legal materials. | [Check Out](https://www.govinfo.gov/api-docs/) |
+| `Indian Kanoon API (Unofficial)` | Indian court judgments, legal documents & statutes. | [Check Out](https://indiankanoon.org/doc/api/) |
+| `Legislation.gov.uk API` | UK legislation, statutory instruments & legal revisions. | [Check Out](https://www.legislation.gov.uk/developer) |
+| `OpenLaw API` | Open legal data standards for contracts, agreements & legal documents. | [Check Out](https://docs.openlaw.io/) |
