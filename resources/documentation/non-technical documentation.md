@@ -1874,3 +1874,14 @@
 | `OpenCage Geocoding API` | Worldwide geocoding using multiple open data sources. | [Check Out](https://opencagedata.com/api) |
 | `TomTom Search API` | Address search, POIs, reverse geocoding & location intelligence. | [Check Out](https://developer.tomtom.com/search-api/documentation) |
 
+# Lodging & Hospitality APIs
+*APIs that provide data and services related to hotels, accommodations, bookings, availability, pricing, reviews, and hospitality management.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Airbnb API (Public / Partner)` | Short-term lodging listings, availability, pricing & host information. | [Check Out](https://www.airbnb.com/help/article/3415) |
+| `Amadeus Hotel API` | Hotel search, availability, offers, bookings & hospitality data. | [Check Out](https://developers.amadeus.com/self-service/category/hotel) |
+| `Booking.com Connectivity API` | Hotel inventory, rates, availability, reservations & property management integration. | [Check Out](https://developers.booking.com/) |
+| `Expedia Rapid API` | Hotel content, availability, pricing, bookings & travel inventory. | [Check Out](https://developers.expediagroup.com/docs/apis/rapid/) |
+| `Hotels.com API` | Hotel listings, room availability, pricing & booking data. | [Check Out](https://developers.expediagroup.com/) |
+| `OpenTravel Alliance (OTA) API` | Open XML/JSON standards for hospitality, hotel reservations & travel distribution. | [Check Out](https://opentravel.org/) |
+
