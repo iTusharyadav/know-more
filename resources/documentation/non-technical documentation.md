@@ -1863,3 +1863,14 @@
 | `Singapore Open Data API` | City-level datasets on transport, housing, environment & public services. | [Check Out](https://data.gov.sg/developer) |
 | `Toronto Open Data API` | City of Toronto datasets including infrastructure, services & civic data. | [Check Out](https://open.toronto.ca/developers/) |
 
+# Location & Geocoding APIs
+*APIs that provide address lookup, geocoding, reverse geocoding, place search, coordinates, and location-based data services.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Google Maps Geocoding API` | Convert addresses to coordinates and vice versa with global coverage. | [Check Out](https://developers.google.com/maps/documentation/geocoding) |
+| `HERE Geocoding API` | Address lookup, reverse geocoding & place discovery services. | [Check Out](https://developer.here.com/documentation/geocoding-search-api/) |
+| `LocationIQ API` | Forward and reverse geocoding based on OpenStreetMap data. | [Check Out](https://locationiq.com/docs) |
+| `Mapbox Geocoding API` | Address search, place lookup & geographic feature indexing. | [Check Out](https://docs.mapbox.com/api/search/geocoding/) |
+| `OpenCage Geocoding API` | Worldwide geocoding using multiple open data sources. | [Check Out](https://opencagedata.com/api) |
+| `TomTom Search API` | Address search, POIs, reverse geocoding & location intelligence. | [Check Out](https://developer.tomtom.com/search-api/documentation) |
+
