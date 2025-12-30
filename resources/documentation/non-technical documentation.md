@@ -1885,3 +1885,14 @@
 | `Hotels.com API` | Hotel listings, room availability, pricing & booking data. | [Check Out](https://developers.expediagroup.com/) |
 | `OpenTravel Alliance (OTA) API` | Open XML/JSON standards for hospitality, hotel reservations & travel distribution. | [Check Out](https://opentravel.org/) |
 
+# Maps & Navigation APIs
+*APIs that provide mapping, navigation, routing, directions, traffic data, and geographic visualization services.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Bing Maps API` | Mapping, routing, traffic, and spatial data visualization by Microsoft. | [Check Out](https://learn.microsoft.com/en-us/bingmaps/) |
+| `Google Maps Platform` | Maps, navigation, directions, traffic, and places data worldwide. | [Check Out](https://developers.google.com/maps/documentation) |
+| `HERE Maps & Navigation API` | Global maps, routing, traffic flow, and location intelligence. | [Check Out](https://developer.here.com/documentation) |
+| `Mapbox Navigation API` | Turn-by-turn navigation, routing, and real-time traffic updates. | [Check Out](https://docs.mapbox.com/api/navigation/) |
+| `OpenStreetMap API` | Open, community-driven map data including roads, POIs, and boundaries. | [Check Out](https://wiki.openstreetmap.org/wiki/API) |
+| `TomTom Maps & Routing API` | Maps, navigation, traffic, routing, and location analytics services. | [Check Out](https://developer.tomtom.com/) |
+
