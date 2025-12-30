@@ -1852,3 +1852,14 @@
 | `USPS Web Tools API` | U.S. postal services including shipping rates, tracking & address validation. | [Check Out](https://www.usps.com/business/web-tools-apis/) |
 | `Flexport API` | Global logistics, freight forwarding & supply chain visibility. | [Check Out](https://www.flexport.com/developers/) |
 
+# Local Government & Municipal APIs
+*APIs that provide data and services from local governments, municipalities, cities, and urban administrations including civic services, permits, budgets, and public records.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `NYC Open Data API` | New York City datasets covering transportation, housing, health, budgets & civic services. | [Check Out](https://opendata.cityofnewyork.us/api/) |
+| `London Datastore API` | Greater London Authority data on transport, planning, environment & city services. | [Check Out](https://data.london.gov.uk/) |
+| `Data.gov (U.S. Local & State)` | Open datasets from U.S. local, state, and municipal governments. | [Check Out](https://www.data.gov/developers/apis) |
+| `Open311 API` | Standardized API for civic issue tracking and municipal service requests. | [Check Out](https://www.open311.org/) |
+| `Singapore Open Data API` | City-level datasets on transport, housing, environment & public services. | [Check Out](https://data.gov.sg/developer) |
+| `Toronto Open Data API` | City of Toronto datasets including infrastructure, services & civic data. | [Check Out](https://open.toronto.ca/developers/) |
+
