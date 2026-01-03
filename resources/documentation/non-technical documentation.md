@@ -1930,3 +1930,14 @@
 | `Meteostat API` | Open historical weather and climate data from weather stations worldwide. | [Check Out](https://dev.meteostat.net/) |
 | `World Meteorological Organization (WMO) Data` | Global climate, atmospheric and meteorological datasets. | [Check Out](https://community.wmo.int/en/activity-areas/wmo-information-system-wis) |
 
+# Mining & Natural Resources APIs
+*APIs that provide data related to mining operations, minerals, energy resources, extraction statistics, reserves, and natural resource management.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `USGS Mineral Resources API` | U.S. and global data on minerals, production, reserves & resource assessments. | [Check Out](https://www.usgs.gov/centers/national-minerals-information-center) |
+| `EIA Open Data API` | Energy production, consumption, fossil fuels, renewables & resource statistics. | [Check Out](https://www.eia.gov/opendata/) |
+| `World Mining Data` | Global mining production, reserves & commodity statistics. | [Check Out](https://www.world-mining-data.info/) |
+| `Geoscience Australia API` | Australian mineral resources, energy data & geoscience datasets. | [Check Out](https://www.ga.gov.au/dea) |
+| `British Geological Survey API` | Geological, mineral, groundwater & geoscience data for the UK and globally. | [Check Out](https://www.bgs.ac.uk/geological-data/opengeoscience/) |
+| `Extractive Industries Transparency Initiative (EITI) Data` | Open data on oil, gas & mining revenues and governance. | [Check Out](https://eiti.org/open-data) |
+
