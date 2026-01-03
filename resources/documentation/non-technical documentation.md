@@ -1896,3 +1896,14 @@
 | `OpenStreetMap API` | Open, community-driven map data including roads, POIs, and boundaries. | [Check Out](https://wiki.openstreetmap.org/wiki/API) |
 | `TomTom Maps & Routing API` | Maps, navigation, traffic, routing, and location analytics services. | [Check Out](https://developer.tomtom.com/) |
 
+# Market & Economic Data APIs
+*APIs that provide economic indicators, market trends, inflation data, GDP statistics, employment figures, and macroeconomic insights.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Federal Reserve Economic Data (FRED) API` | U.S. and global economic indicators including GDP, inflation, interest rates & employment. | [Check Out](https://fred.stlouisfed.org/docs/api/fred/) |
+| `IMF Data API` | International Monetary Fund datasets on global finance, balance of payments & economic outlook. | [Check Out](https://www.imf.org/en/Data) |
+| `OECD Economic Outlook API` | Economic forecasts, country indicators & policy-related economic data. | [Check Out](https://data.oecd.org/api/) |
+| `Trading Economics API` | Global macroeconomic data, indicators, forecasts & historical economic time series. | [Check Out](https://docs.tradingeconomics.com/) |
+| `U.S. Bureau of Economic Analysis (BEA) API` | National income, GDP, trade, and regional economic statistics. | [Check Out](https://www.bea.gov/API/signup/index.cfm) |
+| `World Bank Economic Indicators API` | Global economic development indicators across countries and regions. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) |
+
