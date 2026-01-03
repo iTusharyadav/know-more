@@ -1919,3 +1919,14 @@
 | `YouTube Data API` | Video metadata, channels, playlists, comments & engagement statistics. | [Check Out](https://developers.google.com/youtube/v3) |
 | `Vimeo API` | Video hosting, metadata, analytics & media management services. | [Check Out](https://developer.vimeo.com/) |
 
+# Meteorology & Weather APIs
+*APIs that provide weather forecasts, climate data, atmospheric conditions, alerts, and historical meteorological records.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `NOAA Weather API` | U.S. national weather forecasts, alerts, radar & climate data. | [Check Out](https://www.weather.gov/documentation/services-web-api) |
+| `OpenWeather API` | Global current weather, forecasts, historical data & alerts. | [Check Out](https://openweathermap.org/api) |
+| `WeatherAPI.com` | Real-time weather, forecasts, astronomy & historical weather data. | [Check Out](https://www.weatherapi.com/docs/) |
+| `Weatherbit API` | Weather forecasts, air quality, severe weather alerts & climate data. | [Check Out](https://www.weatherbit.io/api) |
+| `Meteostat API` | Open historical weather and climate data from weather stations worldwide. | [Check Out](https://dev.meteostat.net/) |
+| `World Meteorological Organization (WMO) Data` | Global climate, atmospheric and meteorological datasets. | [Check Out](https://community.wmo.int/en/activity-areas/wmo-information-system-wis) |
+
