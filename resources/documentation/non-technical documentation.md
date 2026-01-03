@@ -1941,3 +1941,14 @@
 | `British Geological Survey API` | Geological, mineral, groundwater & geoscience data for the UK and globally. | [Check Out](https://www.bgs.ac.uk/geological-data/opengeoscience/) |
 | `Extractive Industries Transparency Initiative (EITI) Data` | Open data on oil, gas & mining revenues and governance. | [Check Out](https://eiti.org/open-data) |
 
+# National Statistics & Census APIs
+*APIs that provide official population, demographic, economic, social, and census statistics published by national statistical offices.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Data.gov Census API (USA)` | U.S. population, housing, demographic & economic census datasets. | [Check Out](https://www.census.gov/data/developers/data-sets.html) |
+| `Eurostat API` | Official European Union statistics covering population, economy, health & society. | [Check Out](https://ec.europa.eu/eurostat/web/json-and-unicode-web-services) |
+| `India Census API` | Indian population census data, demographics & socio-economic indicators. | [Check Out](https://censusindia.gov.in/) |
+| `ONS API (UK)` | UK Office for National Statistics data on population, economy & labor markets. | [Check Out](https://developer.ons.gov.uk/) |
+| `Statistics Canada API` | Canadian census, demographic, social & economic datasets. | [Check Out](https://www.statcan.gc.ca/en/developers/wds) |
+| `UN Statistics Division API` | Global national statistics submitted by countries to the United Nations. | [Check Out](https://unstats.un.org/home/) |
+
