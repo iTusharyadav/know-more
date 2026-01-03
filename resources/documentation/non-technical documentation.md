@@ -1907,3 +1907,15 @@
 | `U.S. Bureau of Economic Analysis (BEA) API` | National income, GDP, trade, and regional economic statistics. | [Check Out](https://www.bea.gov/API/signup/index.cfm) |
 | `World Bank Economic Indicators API` | Global economic development indicators across countries and regions. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) |
 
+# Media & Entertainment APIs
+*APIs that provide access to movies, TV shows, music, streaming content, metadata, ratings, reviews, and digital entertainment services.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `IMDb API (Unofficial)` | Movie, TV show metadata, ratings, cast, crew & release information. | [Check Out](https://developer.imdb.com/) |
+| `OMDb API` | Open movie database for film and TV metadata including posters and ratings. | [Check Out](https://www.omdbapi.com/) |
+| `Spotify Web API` | Music streaming data including tracks, albums, artists, playlists & audio features. | [Check Out](https://developer.spotify.com/documentation/web-api/) |
+| `Apple Music API` | Music catalog, artist data, playlists & music metadata. | [Check Out](https://developer.apple.com/documentation/applemusicapi) |
+| `TMDB API` | Community-built movie and TV database with metadata, images & popularity data. | [Check Out](https://developer.themoviedb.org/docs) |
+| `YouTube Data API` | Video metadata, channels, playlists, comments & engagement statistics. | [Check Out](https://developers.google.com/youtube/v3) |
+| `Vimeo API` | Video hosting, metadata, analytics & media management services. | [Check Out](https://developer.vimeo.com/) |
+
