@@ -1964,3 +1964,14 @@
 | `New York Times API` | NYT articles, archives, books, movies & journalism datasets. | [Check Out](https://developer.nytimes.com/apis) |
 | `Reuters API` | Global news, financial journalism & real-time media feeds. | [Check Out](https://www.reutersagency.com/en/products/reuters-api/) |
 
+# Nonprofit & Charity APIs
+*APIs that provide data related to nonprofits, charities, donations, fundraising, social impact, transparency, and philanthropic activities.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Charity Navigator API` | Charity ratings, financial health, accountability & transparency data. | [Check Out](https://charitynavigator.org/index.cfm?bay=content.view&cpid=1397) |
+| `Donorbox API` | Donation processing, donor management & nonprofit fundraising tools. | [Check Out](https://donorbox.org/developers) |
+| `GlobalGiving API` | Global nonprofit projects, donations & impact tracking data. | [Check Out](https://www.globalgiving.org/api/) |
+| `GuideStar / Candid API` | U.S. nonprofit profiles, IRS filings & organizational transparency data. | [Check Out](https://candid.org/use-our-data) |
+| `Open Collective API` | Open-source and community-driven funding, expenses & contributor data. | [Check Out](https://docs.opencollective.com/help/developers/api) |
+| `UN NGO Branch Data` | United Nations–recognized NGOs, accreditation & organizational information. | [Check Out](https://www.un.org/desa/cso/en/) |
+
