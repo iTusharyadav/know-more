@@ -1952,3 +1952,15 @@
 | `Statistics Canada API` | Canadian census, demographic, social & economic datasets. | [Check Out](https://www.statcan.gc.ca/en/developers/wds) |
 | `UN Statistics Division API` | Global national statistics submitted by countries to the United Nations. | [Check Out](https://unstats.un.org/home/) |
 
+# News & Media APIs
+*APIs that provide access to news articles, media publications, headlines, press releases, journalism content, and media analytics.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Associated Press (AP) News API` | Professional journalism content including breaking news, images & multimedia. | [Check Out](https://developer.ap.org/) |
+| `GDELT Project API` | Global news monitoring, media events, geopolitical analysis & sentiment data. | [Check Out](https://www.gdeltproject.org/data.html) |
+| `MediaStack API` | Real-time and historical news data from thousands of global sources. | [Check Out](https://mediastack.com/documentation) |
+| `NewsAPI.org` | Worldwide news headlines, articles, publishers & topic-based queries. | [Check Out](https://newsapi.org/docs) |
+| `NewsData.io API` | Breaking news, historical news & multilingual media coverage. | [Check Out](https://newsdata.io/documentation) |
+| `New York Times API` | NYT articles, archives, books, movies & journalism datasets. | [Check Out](https://developer.nytimes.com/apis) |
+| `Reuters API` | Global news, financial journalism & real-time media feeds. | [Check Out](https://www.reutersagency.com/en/products/reuters-api/) |
+
