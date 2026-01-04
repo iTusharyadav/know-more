@@ -1986,3 +1986,15 @@
 | `EURATOM Open Data` | European nuclear research, radiation protection & nuclear safety information. | [Check Out](https://joint-research-centre.ec.europa.eu/jrc-data-and-services_en) |
 | `Radiation Network Monitoring (EPA)` | Environmental radiation monitoring and public exposure data. | [Check Out](https://www.epa.gov/radnet) |
 
+# Ocean & Marine Data APIs
+*APIs that provide official data related to oceans, seas, marine life, fisheries, climate, tides, sea levels, coral reefs, and marine conservation.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `NOAA Ocean API` | U.S. National Oceanic and Atmospheric Administration ocean & marine datasets. | [Check Out](https://www.noaa.gov/open-data) |
+| `NOAA Tides & Currents API` | Real-time and historical tide, current, sea level & coastal data. | [Check Out](https://api.tidesandcurrents.noaa.gov/api/prod/) |
+| `Copernicus Marine Service API` | European marine environment monitoring, ocean physics & biogeochemistry data. | [Check Out](https://marine.copernicus.eu/services-portfolio/access-to-products/) |
+| `World Register of Marine Species (WoRMS) API` | Authoritative global database of marine species taxonomy. | [Check Out](https://www.marinespecies.org/rest/) |
+| `Global Fishing Watch API` | Commercial fishing activity, vessel tracking & marine protection data. | [Check Out](https://globalfishingwatch.org/our-apis/) |
+| `UNESCO Ocean Data (IOC)` | Oceanographic, tsunami & marine science datasets from UNESCO. | [Check Out](https://ioc.unesco.org/data-information) |
+| `MarineTraffic API` | Global ship positions, ports, AIS tracking & maritime analytics. | [Check Out](https://www.marinetraffic.com/en/ais-api-services) |
+
