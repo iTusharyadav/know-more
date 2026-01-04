@@ -1975,3 +1975,14 @@
 | `Open Collective API` | Open-source and community-driven funding, expenses & contributor data. | [Check Out](https://docs.opencollective.com/help/developers/api) |
 | `UN NGO Branch Data` | United Nations–recognized NGOs, accreditation & organizational information. | [Check Out](https://www.un.org/desa/cso/en/) |
 
+# Nuclear & Energy APIs
+*APIs that provide data related to nuclear energy, power generation, energy consumption, reactors, radiation monitoring, and national/international energy statistics.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `IAEA Open Data` | International Atomic Energy Agency data on nuclear power, safety, reactors & safeguards. | [Check Out](https://www.iaea.org/resources/databases) |
+| `U.S. Nuclear Regulatory Commission (NRC) API` | U.S. nuclear facilities, reactor status, licensing & radiation data. | [Check Out](https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1350/) |
+| `Energy Information Administration (EIA) API` | Energy production, nuclear generation, consumption & forecasts. | [Check Out](https://www.eia.gov/opendata/) |
+| `OECD Nuclear Energy Agency (NEA) Data` | Nuclear technology, safety, fuel cycle & policy datasets. | [Check Out](https://www.oecd-nea.org/jcms/pl_19610) |
+| `EURATOM Open Data` | European nuclear research, radiation protection & nuclear safety information. | [Check Out](https://joint-research-centre.ec.europa.eu/jrc-data-and-services_en) |
+| `Radiation Network Monitoring (EPA)` | Environmental radiation monitoring and public exposure data. | [Check Out](https://www.epa.gov/radnet) |
+
