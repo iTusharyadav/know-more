@@ -2010,3 +2010,14 @@
 | `OECD Open Data API` | International public policy, economy, education & governance data. | [Check Out](https://data.oecd.org/api/) |
 | `UN Open Data Portal` | United Nations datasets on development, peace, climate & governance. | [Check Out](https://data.un.org/Host.aspx?Content=API) |
 
+# Open Finance & Open Banking APIs
+*APIs that enable secure access to financial data, banking services, payments, account aggregation, and financial transparency under open banking regulations.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Open Banking UK` | Official UK open banking standards for secure bank data sharing. | [Check Out](https://www.openbanking.org.uk/customers/what-is-open-banking/) |
+| `Berlin Group NextGenPSD2 API` | European PSD2 open banking framework & standards. | [Check Out](https://www.berlin-group.org/nextgenpsd2-access-to-accounts) |
+| `Plaid API` | Bank account aggregation, transactions & identity verification. | [Check Out](https://plaid.com/docs/) |
+| `Yapily API` | Open banking connectivity for payments & financial data in Europe. | [Check Out](https://docs.yapily.com/) |
+| `TrueLayer API` | Financial data access & payments via open banking standards. | [Check Out](https://docs.truelayer.com/) |
+| `Open Bank Project API` | Open-source open banking platform and APIs. | [Check Out](https://www.openbankproject.com/api-documentation/) |
+
