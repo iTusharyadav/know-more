@@ -2021,3 +2021,15 @@
 | `TrueLayer API` | Financial data access & payments via open banking standards. | [Check Out](https://docs.truelayer.com/) |
 | `Open Bank Project API` | Open-source open banking platform and APIs. | [Check Out](https://www.openbankproject.com/api-documentation/) |
 
+# Open Insurance APIs
+*APIs that enable secure access to insurance data, policy management, claims processing, pricing, and interoperability between insurers, customers, and third-party platforms.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Open Insurance Initiative (OPIN)` | Global initiative defining open insurance data standards & APIs. | [Check Out](https://openinsurance.io/) |
+| `B3i Insurance API` | Blockchain-based insurance data exchange & reconciliation platform. | [Check Out](https://b3i.tech/) |
+| `Lemonade API` | Digital insurance platform APIs for policies, claims & customer data. | [Check Out](https://www.lemonade.com/developers/) |
+| `Allianz API Portal` | Insurance products, claims & partner integration APIs. | [Check Out](https://developer.allianz.com/) |
+| `AXA API Marketplace` | Insurance services, underwriting & claims APIs. | [Check Out](https://developer.axa.com/) |
+| `Zurich Insurance APIs` | Enterprise insurance APIs for policy and risk services. | [Check Out](https://www.zurich.com/en/services/digital-services) |
+
+
