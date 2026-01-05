@@ -1998,3 +1998,15 @@
 | `UNESCO Ocean Data (IOC)` | Oceanographic, tsunami & marine science datasets from UNESCO. | [Check Out](https://ioc.unesco.org/data-information) |
 | `MarineTraffic API` | Global ship positions, ports, AIS tracking & maritime analytics. | [Check Out](https://www.marinetraffic.com/en/ais-api-services) |
 
+# Open Data & Open Government APIs
+*APIs that provide public access to government-published datasets including transparency data, public records, civic information, budgets, policies, and open governance initiatives.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Data.gov API (USA)` | Central catalog of U.S. government open datasets across sectors. | [Check Out](https://www.data.gov/developers/apis) |
+| `EU Open Data Portal API` | Open datasets from European Union institutions and agencies. | [Check Out](https://data.europa.eu/en/about/api) |
+| `data.gov.uk API` | UK government open data including transport, finance & public services. | [Check Out](https://www.data.gov.uk/developers) |
+| `Open Government Partnership (OGP)` | Global open-government commitments, policies & country action plans. | [Check Out](https://www.opengovpartnership.org/open-government-data/) |
+| `World Bank Open Data API` | Global development indicators, governance & economic datasets. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) |
+| `OECD Open Data API` | International public policy, economy, education & governance data. | [Check Out](https://data.oecd.org/api/) |
+| `UN Open Data Portal` | United Nations datasets on development, peace, climate & governance. | [Check Out](https://data.un.org/Host.aspx?Content=API) |
+
