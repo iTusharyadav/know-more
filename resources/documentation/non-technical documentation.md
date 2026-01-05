@@ -2032,4 +2032,15 @@
 | `AXA API Marketplace` | Insurance services, underwriting & claims APIs. | [Check Out](https://developer.axa.com/) |
 | `Zurich Insurance APIs` | Enterprise insurance APIs for policy and risk services. | [Check Out](https://www.zurich.com/en/services/digital-services) |
 
+# Open Mapping & Geospatial APIs
+*APIs that provide maps, geographic data, spatial analysis, locations, boundaries, satellite imagery, and geospatial intelligence for public and private use.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `OpenStreetMap API` | Open, community-driven global map data and geospatial services. | [Check Out](https://wiki.openstreetmap.org/wiki/API) |
+| `Google Maps Platform` | Maps, geocoding, places, routing & location intelligence services. | [Check Out](https://developers.google.com/maps/documentation) |
+| `Mapbox API` | Custom maps, navigation, geocoding & geospatial visualization tools. | [Check Out](https://docs.mapbox.com/) |
+| `HERE Maps API` | Location services, traffic data, routing & mapping solutions. | [Check Out](https://developer.here.com/documentation) |
+| `ESRI ArcGIS REST API` | Professional GIS mapping, spatial analysis & geodata services. | [Check Out](https://developers.arcgis.com/rest/) |
+| `USGS Geospatial API` | Geological, topographical & satellite-based spatial datasets. | [Check Out](https://www.usgs.gov/products/data-and-tools/apis) |
+| `NASA Earthdata API` | Satellite imagery, climate & Earth observation geospatial data. | [Check Out](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/data-access-services) |
 
