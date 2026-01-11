@@ -2080,3 +2080,16 @@
 | `Japan Patent Office (JPO) Data` | Japanese patents, trademarks & industrial property data. | [Check Out](https://www.jpo.go.jp/e/system/services/patent/index.html) |
 | `IP Australia Open Data` | Australian patents, trademarks & design rights information. | [Check Out](https://www.ipaustralia.gov.au/tools-and-resources/ip-data-and-statistics) |
 
+# Payment & Financial Transaction APIs
+*APIs that enable digital payments, money transfers, billing, invoicing, wallets, and real-time financial transactions across global payment networks.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Adyen API` | Global payment processing, acquiring, and risk management. | [Check Out](https://docs.adyen.com/) |
+| `Authorize.Net API` | Payment gateway for credit card and eCheck transactions. | [Check Out](https://developer.authorize.net/) |
+| `Braintree API` | Online payments, subscriptions, and PayPal integrations. | [Check Out](https://developer.paypal.com/braintree/docs) |
+| `PayPal REST API` | Online payments, subscriptions, invoicing & payouts. | [Check Out](https://developer.paypal.com/docs/api/overview/) |
+| `Razorpay API` | Payment gateway for cards, UPI, wallets & subscriptions. | [Check Out](https://razorpay.com/docs/api/) |
+| `Square API` | Point-of-sale payments, invoicing & merchant services. | [Check Out](https://developer.squareup.com/docs) |
+| `Stripe API` | Online payments, billing, subscriptions & financial tooling. | [Check Out](https://stripe.com/docs/api) |
+| `Worldpay API` | Enterprise payment processing & global acquiring services. | [Check Out](https://developer.worldpay.com/) |
+
