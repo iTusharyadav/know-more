@@ -2068,3 +2068,15 @@
 | `Amtrak API` | Passenger rail schedules, routes & station information. | [Check Out](https://www.amtrak.com/developer) |
 | `IRCTC & Indian Railways APIs` | Train schedules, availability & national rail data (India). | [Check Out](https://www.indianrail.gov.in/enquiry/StaticPages/StaticEnquiry.jsp?StaticPage=index.html) |
 
+# Patent & Intellectual Property APIs
+*APIs that provide access to patent filings, trademarks, intellectual property rights, innovation records, legal ownership, and global IP databases.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `USPTO Open Data API` | U.S. patent, trademark, and intellectual property datasets. | [Check Out](https://developer.uspto.gov/) |
+| `EPO Open Patent Services (OPS)` | European Patent Office patent data, bibliographic records & legal status. | [Check Out](https://www.epo.org/searching-for-patents/data/web-services/ops.html) |
+| `WIPO IP Portal` | Global patents, trademarks, designs & IP statistics from WIPO. | [Check Out](https://www.wipo.int/tools/en/guides/guide.html) |
+| `Google Patents Public Data` | Worldwide patent search, citations & patent family data. | [Check Out](https://developers.google.com/public-data/docs/canonical/patents) |
+| `Lens.org API` | Open patent and scholarly innovation intelligence platform. | [Check Out](https://docs.api.lens.org/) |
+| `Japan Patent Office (JPO) Data` | Japanese patents, trademarks & industrial property data. | [Check Out](https://www.jpo.go.jp/e/system/services/patent/index.html) |
+| `IP Australia Open Data` | Australian patents, trademarks & design rights information. | [Check Out](https://www.ipaustralia.gov.au/tools-and-resources/ip-data-and-statistics) |
+
