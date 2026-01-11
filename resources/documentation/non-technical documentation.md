@@ -2044,3 +2044,15 @@
 | `USGS Geospatial API` | Geological, topographical & satellite-based spatial datasets. | [Check Out](https://www.usgs.gov/products/data-and-tools/apis) |
 | `NASA Earthdata API` | Satellite imagery, climate & Earth observation geospatial data. | [Check Out](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/data-access-services) |
 
+# Open Science & Research APIs
+*APIs that provide access to scientific publications, research datasets, academic metadata, citations, experiments, and open research infrastructure.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `arXiv API` | Open-access research papers across physics, math, CS & related fields. | [Check Out](https://info.arxiv.org/help/api/index.html) |
+| `Crossref API` | Scholarly metadata, DOIs, citations & research publication links. | [Check Out](https://api.crossref.org/) |
+| `Europe PMC API` | Life sciences literature, abstracts, grants & open-access research. | [Check Out](https://europepmc.org/RestfulWebService) |
+| `OpenAlex API` | Open catalog of global research works, authors, institutions & topics. | [Check Out](https://docs.openalex.org/) |
+| `PubMed / NCBI API` | Biomedical literature, abstracts & research metadata. | [Check Out](https://www.ncbi.nlm.nih.gov/home/develop/api/) |
+| `Semantic Scholar API` | AI-powered research discovery, citations & paper metadata. | [Check Out](https://api.semanticscholar.org/) |
+| `Zenodo API` | Open research data repository for datasets, software & publications. | [Check Out](https://developers.zenodo.org/) |
+
