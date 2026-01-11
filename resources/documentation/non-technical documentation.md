@@ -2056,3 +2056,15 @@
 | `Semantic Scholar API` | AI-powered research discovery, citations & paper metadata. | [Check Out](https://api.semanticscholar.org/) |
 | `Zenodo API` | Open research data repository for datasets, software & publications. | [Check Out](https://developers.zenodo.org/) |
 
+# Open Transport & Mobility APIs
+*APIs that provide data related to public transportation, traffic, mobility services, vehicles, routes, schedules, logistics, and smart transportation systems.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `GTFS (General Transit Feed Specification)` | Standard format for public transport schedules & route information. | [Check Out](https://gtfs.org/documentation/overview/) |
+| `Transport for London (TfL) API` | London public transport data including buses, trains & traffic. | [Check Out](https://api.tfl.gov.uk/) |
+| `Open Transport Data (EU)` | European open datasets for mobility, traffic & infrastructure. | [Check Out](https://transport.ec.europa.eu/transport-themes/intelligent-transport-systems/open-data_en) |
+| `511 Traffic API (USA)` | Real-time traffic, road conditions & transit updates. | [Check Out](https://511.org/developers) |
+| `Open Mobility Foundation APIs` | Open standards for shared mobility & urban transportation data. | [Check Out](https://github.com/openmobilityfoundation) |
+| `Amtrak API` | Passenger rail schedules, routes & station information. | [Check Out](https://www.amtrak.com/developer) |
+| `IRCTC & Indian Railways APIs` | Train schedules, availability & national rail data (India). | [Check Out](https://www.indianrail.gov.in/enquiry/StaticPages/StaticEnquiry.jsp?StaticPage=index.html) |
+
