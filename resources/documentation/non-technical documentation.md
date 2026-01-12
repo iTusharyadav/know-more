@@ -2093,3 +2093,14 @@
 | `Stripe API` | Online payments, billing, subscriptions & financial tooling. | [Check Out](https://stripe.com/docs/api) |
 | `Worldpay API` | Enterprise payment processing & global acquiring services. | [Check Out](https://developer.worldpay.com/) |
 
+# Pensions & Retirement APIs
+*APIs that provide data related to pension schemes, retirement plans, social security systems, contributions, benefits, and long-term financial security.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `U.S. Social Security Administration (SSA) API` | Retirement, disability & survivor benefits data and services. | [Check Out](https://www.ssa.gov/developer) |
+| `UK Pensions Dashboard Programme` | Centralized access to UK pension information and retirement savings. | [Check Out](https://www.pensionsdashboardsprogramme.org.uk/) |
+| `OECD Pensions Statistics` | International pension indicators, retirement systems & policy data. | [Check Out](https://www.oecd.org/pensions/pensionsdata.htm) |
+| `World Bank Pensions Data` | Global pension systems, coverage & sustainability indicators. | [Check Out](https://www.worldbank.org/en/topic/pensions) |
+| `European Insurance and Occupational Pensions Authority (EIOPA)` | EU pension funds, occupational retirement & regulatory data. | [Check Out](https://www.eiopa.europa.eu/tools-and-data_en) |
+| `Australian Superannuation Data` | Retirement savings, super funds & pension statistics (Australia). | [Check Out](https://www.apra.gov.au/data-collection) |
+
