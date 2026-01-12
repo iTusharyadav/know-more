@@ -2104,3 +2104,14 @@
 | `European Insurance and Occupational Pensions Authority (EIOPA)` | EU pension funds, occupational retirement & regulatory data. | [Check Out](https://www.eiopa.europa.eu/tools-and-data_en) |
 | `Australian Superannuation Data` | Retirement savings, super funds & pension statistics (Australia). | [Check Out](https://www.apra.gov.au/data-collection) |
 
+# Petroleum & Energy APIs
+*APIs that provide data related to oil, gas, petroleum production, reserves, pricing, exploration, refining, and global energy markets.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `EIA Petroleum API` | U.S. oil, gas, fuel production, consumption & price statistics. | [Check Out](https://www.eia.gov/opendata/) |
+| `OPEC Data API` | Oil production, reserves, pricing & global petroleum indicators. | [Check Out](https://www.opec.org/opec_web/en/data_graphs/40.htm) |
+| `IEA Energy Data API` | International energy statistics including oil & gas markets. | [Check Out](https://www.iea.org/data-and-statistics/data-tools/api) |
+| `BP Statistical Review Data` | Global petroleum, energy consumption & reserve datasets. | [Check Out](https://www.bp.com/statisticalreview) |
+| `U.S. Bureau of Ocean Energy Management (BOEM)` | Offshore oil & gas leasing, production & environmental data. | [Check Out](https://www.boem.gov/data-research) |
+| `Petroleum Registry of Norway (NPD)` | Norwegian oil & gas fields, licenses & production data. | [Check Out](https://www.norskpetroleum.no/en/developers/) |
+
