@@ -2126,3 +2126,14 @@
 | `PubChem PUG REST API` | Chemical substances, compounds, bioassays & molecular data. | [Check Out](https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest) |
 | `WHO Global Health Observatory (GHO)` | Essential medicines, drug access & global health indicators. | [Check Out](https://www.who.int/data/gho/info/gho-odata-api) |
 
+# Philanthropy & Grants APIs
+*APIs that provide data on grants, donations, philanthropic funding, social impact programs, foundations, and charitable giving activities.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Grants.gov API` | U.S. government grants listings, eligibility & application metadata. | [Check Out](https://www.grants.gov/help/html/help/index.htm?api.htm) |
+| `Foundation Center / Candid API` | Global foundation grants, donors & philanthropic funding data. | [Check Out](https://candid.org/use-our-data) |
+| `European Commission Funding & Tenders API` | EU grants, funding programs & public tenders data. | [Check Out](https://commission.europa.eu/funding-tenders/opportunities/docs/portal/api-reference_en.pdf) |
+| `NIH RePORTER API` | Biomedical and health research grants funded by NIH. | [Check Out](https://api.reporter.nih.gov/) |
+| `World Bank Projects & Operations API` | Development grants, aid projects & funding allocations. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889386-developer-information-overview) |
+| `UN OCHA Humanitarian Funding API` | Global humanitarian funding flows, donors & emergency grants. | [Check Out](https://api.hpc.tools/docs) |
+
