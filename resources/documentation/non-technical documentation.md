@@ -2115,3 +2115,14 @@
 | `U.S. Bureau of Ocean Energy Management (BOEM)` | Offshore oil & gas leasing, production & environmental data. | [Check Out](https://www.boem.gov/data-research) |
 | `Petroleum Registry of Norway (NPD)` | Norwegian oil & gas fields, licenses & production data. | [Check Out](https://www.norskpetroleum.no/en/developers/) |
 
+# Pharmaceutical & Drug APIs
+*APIs that provide official data on medicines, drugs, clinical trials, approvals, safety, chemical compounds, and global pharmaceutical research.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `ClinicalTrials.gov API` | Global registry of clinical studies, trials, results & protocols. | [Check Out](https://clinicaltrials.gov/api/gui) |
+| `DrugBank API` | Comprehensive drug data including interactions, targets & mechanisms. | [Check Out](https://docs.drugbank.com/) |
+| `European Medicines Agency (EMA) API` | EU-approved medicines, safety reports & regulatory data. | [Check Out](https://www.ema.europa.eu/en/medicines) |
+| `FDA openFDA API` | U.S. drug approvals, recalls, adverse events & labeling data. | [Check Out](https://open.fda.gov/apis/) |
+| `PubChem PUG REST API` | Chemical substances, compounds, bioassays & molecular data. | [Check Out](https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest) |
+| `WHO Global Health Observatory (GHO)` | Essential medicines, drug access & global health indicators. | [Check Out](https://www.who.int/data/gho/info/gho-odata-api) |
+
