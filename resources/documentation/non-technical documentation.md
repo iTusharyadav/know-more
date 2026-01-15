@@ -2171,3 +2171,15 @@
 | `Eurostat Crime & Safety Data` | European crime, policing & public safety indicators. | [Check Out](https://ec.europa.eu/eurostat/web/crime/data/database) |
 | `Chicago Crime Data API` | City-level crime incidents, locations & timelines (Chicago). | [Check Out](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2) |
 
+# Postal & Address APIs
+*APIs that provide address validation, postal codes, mail routing, delivery services, geocoding, and national/international postal system data.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `USPS Address Validation API` | U.S. address standardization, ZIP+4 lookup & mail routing. | [Check Out](https://www.usps.com/business/web-tools-apis/) |
+| `Royal Mail API` | UK postal services including address lookup & shipping data. | [Check Out](https://developer.royalmail.net/) |
+| `Canada Post API` | Address validation, postal codes & shipping services (Canada). | [Check Out](https://www.canadapost-postescanada.ca/apidocumentation) |
+| `Australia Post API` | Postal address verification, delivery & shipping services. | [Check Out](https://developers.auspost.com.au/apis) |
+| `Loqate API` | Global address verification and geocoding services. | [Check Out](https://www.loqate.com/developers/) |
+| `Melissa Address API` | International address validation, postal codes & identity data. | [Check Out](https://www.melissa.com/developer) |
+| `Universal Postal Union (UPU) Data` | Global postal network standards, routing & country postal data. | [Check Out](https://www.upu.int/en/Universal-Postal-Union/Activities/Postal-Data) |
+
