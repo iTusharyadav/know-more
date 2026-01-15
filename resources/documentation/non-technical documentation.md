@@ -2149,3 +2149,14 @@
 | `Smithsonian Open Access API` | Museum-quality images, artifacts & cultural heritage media. | [Check Out](https://www.si.edu/openaccess) |
 | `Unsplash API` | High-quality free photography with attribution metadata. | [Check Out](https://unsplash.com/documentation) |
 
+# Planning & Urban Development APIs
+*APIs that provide data related to city planning, urban development, land use, zoning regulations, infrastructure projects, housing plans, and smart city initiatives.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `OpenStreetMap Planning Data` | Land use, zoning tags & urban planning related geospatial data. | [Check Out](https://wiki.openstreetmap.org/wiki/Key:landuse) |
+| `Urban Observatory API` | Urban indicators covering housing, transport, environment & services. | [Check Out](https://www.urbanobservatory.ac.uk/documentation/) |
+| `UN-Habitat Urban Data` | Global urban development, housing & sustainability datasets. | [Check Out](https://data.unhabitat.org/pages/api) |
+| `World Bank Urban Development API` | City planning, housing, infrastructure & urban growth indicators. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) |
+| `US HUD Open Data API` | Housing, community development & urban policy data (USA). | [Check Out](https://www.huduser.gov/portal/apis.html) |
+| `EU Urban Atlas API` | European land use, city expansion & spatial planning datasets. | [Check Out](https://land.copernicus.eu/local/urban-atlas) |
+
