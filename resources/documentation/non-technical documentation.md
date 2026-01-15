@@ -2160,3 +2160,14 @@
 | `US HUD Open Data API` | Housing, community development & urban policy data (USA). | [Check Out](https://www.huduser.gov/portal/apis.html) |
 | `EU Urban Atlas API` | European land use, city expansion & spatial planning datasets. | [Check Out](https://land.copernicus.eu/local/urban-atlas) |
 
+# Police & Public Safety APIs
+*APIs that provide data related to law enforcement, crime statistics, public safety incidents, emergency response, arrests, and justice-related records.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `FBI Crime Data API` | U.S. national crime statistics, offenses, arrests & law enforcement data. | [Check Out](https://cde.ucr.fbi.gov/LATEST/webapp/#/pages/docApi) |
+| `UK Police Data API` | Crime reports, stop-and-search, outcomes & street-level policing data. | [Check Out](https://data.police.uk/docs/) |
+| `Open Justice Data API (USA)` | Justice system data including courts, corrections & public safety metrics. | [Check Out](https://ojd.ojp.gov/) |
+| `UNODC Crime Data` | Global crime, drug trafficking & criminal justice statistics. | [Check Out](https://dataunodc.un.org/) |
+| `Eurostat Crime & Safety Data` | European crime, policing & public safety indicators. | [Check Out](https://ec.europa.eu/eurostat/web/crime/data/database) |
+| `Chicago Crime Data API` | City-level crime incidents, locations & timelines (Chicago). | [Check Out](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2) |
+
