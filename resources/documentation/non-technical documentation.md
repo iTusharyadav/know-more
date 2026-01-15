@@ -2183,3 +2183,15 @@
 | `Melissa Address API` | International address validation, postal codes & identity data. | [Check Out](https://www.melissa.com/developer) |
 | `Universal Postal Union (UPU) Data` | Global postal network standards, routing & country postal data. | [Check Out](https://www.upu.int/en/Universal-Postal-Union/Activities/Postal-Data) |
 
+# Procurement & Tenders APIs
+*APIs that provide access to public procurement data, government tenders, contracts, bidding opportunities, vendors, and purchasing transparency records.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `SAM.gov API (USA)` | U.S. federal contracts, procurement notices & vendor registrations. | [Check Out](https://open.gsa.gov/api/sam/) |
+| `TED (Tenders Electronic Daily) API` | European Union public procurement & tender announcements. | [Check Out](https://ted.europa.eu/TED/misc/api/index.do) |
+| `Contracts Finder API (UK)` | UK government contracts, tenders & awarded procurement data. | [Check Out](https://www.contractsfinder.service.gov.uk/Developers) |
+| `World Bank Procurement API` | Global development project procurement & tender information. | [Check Out](https://projects.worldbank.org/en/projects-operations/procurement) |
+| `UN Global Marketplace (UNGM)` | United Nations procurement tenders & supplier registrations. | [Check Out](https://www.ungm.org/Public/Help) |
+| `Open Contracting Data Standard (OCDS) API` | Open standard for publishing contracting & procurement data. | [Check Out](https://standard.open-contracting.org/latest/en/) |
+| `GeBIZ API (Singapore)` | Singapore government procurement & tender opportunities. | [Check Out](https://www.gebiz.gov.sg/) |
+
