@@ -2207,3 +2207,14 @@
 | `Estated API` | U.S. property data including deeds, mortgages & valuations. | [Check Out](https://estated.com/docs) |
 | `EU INSPIRE Land Use Data` | European land parcels, zoning & land-use datasets. | [Check Out](https://inspire.ec.europa.eu/) |
 
+# Public Health APIs
+*APIs that provide official data related to population health, diseases, vaccinations, epidemics, healthcare indicators, and public health surveillance.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `WHO Global Health Observatory API` | Global health indicators, disease prevalence & health system data. | [Check Out](https://www.who.int/data/gho/info/gho-odata-api) |
+| `CDC Public Health API` | U.S. public health data including diseases, vaccinations & health trends. | [Check Out](https://data.cdc.gov/developers) |
+| `European Centre for Disease Prevention and Control (ECDC)` | Disease surveillance, outbreaks & public health data for Europe. | [Check Out](https://www.ecdc.europa.eu/en/publications-data) |
+| `Public Health England (UKHSA) API` | UK public health statistics, infections & health protection data. | [Check Out](https://ukhsa-dashboard.data.gov.uk/) |
+| `Global Burden of Disease (GBD) API` | Worldwide disease burden, mortality & risk factor data. | [Check Out](https://ghdx.healthdata.org/) |
+| `India National Health Data Portal` | Indian public health indicators, programs & disease data. | [Check Out](https://ndhm.gov.in/) |
+
