@@ -2195,3 +2195,15 @@
 | `Open Contracting Data Standard (OCDS) API` | Open standard for publishing contracting & procurement data. | [Check Out](https://standard.open-contracting.org/latest/en/) |
 | `GeBIZ API (Singapore)` | Singapore government procurement & tender opportunities. | [Check Out](https://www.gebiz.gov.sg/) |
 
+# Property & Real Estate APIs
+*APIs that provide data related to real estate listings, property prices, land records, ownership, valuations, rentals, and housing market insights.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Zillow API` | Property listings, home values, rental data & housing market insights. | [Check Out](https://www.zillow.com/howto/api/APIOverview.htm) |
+| `Realtor.com API` | Real estate listings, property details & market trends. | [Check Out](https://developer.realtor.com/) |
+| `ATTOM Property API` | Property ownership, tax records, valuations & real estate analytics. | [Check Out](https://developer.attomdata.com/) |
+| `UK Land Registry API` | Property ownership, prices paid & land records (UK). | [Check Out](https://landregistry.data.gov.uk/app/apis) |
+| `OpenStreetMap Property Data` | Building footprints, land use & address-linked property data. | [Check Out](https://wiki.openstreetmap.org/wiki/Buildings) |
+| `Estated API` | U.S. property data including deeds, mortgages & valuations. | [Check Out](https://estated.com/docs) |
+| `EU INSPIRE Land Use Data` | European land parcels, zoning & land-use datasets. | [Check Out](https://inspire.ec.europa.eu/) |
+
