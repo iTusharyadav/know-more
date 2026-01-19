@@ -2229,3 +2229,15 @@
 | `OECD Public Governance Data` | Public sector performance, trust & governance indicators. | [Check Out](https://www.oecd.org/gov/data/) |
 | `UNDP Governance Data` | Democratic governance, public institutions & development indicators. | [Check Out](https://www.undp.org/data) |
 
+# Public Records & Archives APIs
+*APIs that provide access to public records, historical archives, government documents, legal filings, cultural records, and officially preserved information.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `National Archives API (USA)` | U.S. historical records, federal documents & archival metadata. | [Check Out](https://www.archives.gov/developer) |
+| `UK National Archives API` | British government records, legislation & historical archives. | [Check Out](https://www.nationalarchives.gov.uk/developer/) |
+| `Europeana API` | European cultural heritage collections from libraries, museums & archives. | [Check Out](https://pro.europeana.eu/page/get-api) |
+| `Library of Congress API` | U.S. library collections, manuscripts, photos & recordings. | [Check Out](https://www.loc.gov/apis/) |
+| `Open Archives Initiative (OAI-PMH)` | Standard protocol for accessing metadata from digital archives. | [Check Out](https://www.openarchives.org/pmh/) |
+| `Trove API (Australia)` | Australian newspapers, books, images & government archives. | [Check Out](https://trove.nla.gov.au/about/create-something/using-api) |
+| `Digital Public Library of America (DPLA)` | Aggregated public-domain books, images & archival materials. | [Check Out](https://pro.dp.la/developers) |
+
