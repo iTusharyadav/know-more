@@ -2241,3 +2241,15 @@
 | `Trove API (Australia)` | Australian newspapers, books, images & government archives. | [Check Out](https://trove.nla.gov.au/about/create-something/using-api) |
 | `Digital Public Library of America (DPLA)` | Aggregated public-domain books, images & archival materials. | [Check Out](https://pro.dp.la/developers) |
 
+# Public Services & Utilities APIs
+*APIs that provide data related to essential public services such as water, electricity, gas, waste management, sanitation, public infrastructure, and utility operations.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Open Utility Data (OEDI)` | Open datasets for electricity, energy systems & public utilities. | [Check Out](https://openei.org/wiki/OpenEI) |
+| `US Energy & Utilities Open Data` | Electricity, power grids, utilities & infrastructure data (USA). | [Check Out](https://www.energy.gov/data/open-energy-data) |
+| `UK Ofgem Open Data` | UK gas and electricity markets, suppliers & regulatory datasets. | [Check Out](https://www.ofgem.gov.uk/data-portal) |
+| `Water Services Regulation Authority (Ofwat)` | UK water utility performance, pricing & service quality data. | [Check Out](https://www.ofwat.gov.uk/regulated-companies/company-obligations/data-portal/) |
+| `EU Energy & Utilities Open Data` | European utilities, infrastructure & public service datasets. | [Check Out](https://energy.ec.europa.eu/data-and-analysis_en) |
+| `India Open Government Utility Data` | Electricity, water, sanitation & municipal service datasets. | [Check Out](https://data.gov.in/) |
+| `World Bank Utility Data` | Global public utility access, performance & infrastructure indicators. | [Check Out](https://databank.worldbank.org/source/world-development-indicators) |
+
