@@ -2253,3 +2253,15 @@
 | `India Open Government Utility Data` | Electricity, water, sanitation & municipal service datasets. | [Check Out](https://data.gov.in/) |
 | `World Bank Utility Data` | Global public utility access, performance & infrastructure indicators. | [Check Out](https://databank.worldbank.org/source/world-development-indicators) |
 
+# Publishing & Books APIs
+*APIs that provide access to books, publications, ISBN data, authors, publishers, libraries, and digital publishing metadata.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Crossref Books API` | Book DOIs, publisher metadata & citation information. | [Check Out](https://api.crossref.org/) |
+| `Google Books API` | Book search, previews, authors, publishers & ISBN metadata. | [Check Out](https://developers.google.com/books/docs/overview) |
+| `ISBNdb API` | Global ISBN book database with publishers, authors & editions. | [Check Out](https://isbndb.com/apidocs) |
+| `Library of Congress Books API` | U.S. national library book records & bibliographic data. | [Check Out](https://www.loc.gov/apis/) |
+| `Open Library API` | Open, editable library catalog of books & authors. | [Check Out](https://openlibrary.org/developers/api) |
+| `WorldCat Search API` | Global library collections, book holdings & bibliographic records. | [Check Out](https://www.oclc.org/developer/develop/apis/worldcat-search-api.en.html) |
+| `Project Gutenberg Metadata` | Public-domain books, authors & publishing metadata. | [Check Out](https://www.gutenberg.org/wiki/Gutenberg:Feeds) |
+
