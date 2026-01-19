@@ -2218,3 +2218,14 @@
 | `Global Burden of Disease (GBD) API` | Worldwide disease burden, mortality & risk factor data. | [Check Out](https://ghdx.healthdata.org/) |
 | `India National Health Data Portal` | Indian public health indicators, programs & disease data. | [Check Out](https://ndhm.gov.in/) |
 
+# Public Policy & Governance APIs
+*APIs that provide data on government policies, laws, regulations, legislative processes, governance indicators, and public administration.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `GovInfo API (USA)` | U.S. laws, bills, regulations, congressional records & government publications. | [Check Out](https://api.govinfo.gov/docs/) |
+| `Congress.gov API` | Legislative data including bills, members, votes & committees (USA). | [Check Out](https://api.congress.gov/) |
+| `EU Legislative Observatory (OEIL)` | European Union legislative procedures & policy tracking data. | [Check Out](https://oeil.secure.europarl.europa.eu/oeil/api) |
+| `World Bank Governance Indicators API` | Worldwide governance indicators such as rule of law & accountability. | [Check Out](https://info.worldbank.org/governance/wgi/) |
+| `OECD Public Governance Data` | Public sector performance, trust & governance indicators. | [Check Out](https://www.oecd.org/gov/data/) |
+| `UNDP Governance Data` | Democratic governance, public institutions & development indicators. | [Check Out](https://www.undp.org/data) |
+
