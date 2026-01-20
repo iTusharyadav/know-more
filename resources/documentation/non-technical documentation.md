@@ -2277,3 +2277,14 @@
 | `Codex Alimentarius (FAO/WHO)` | International food quality and safety standards. | [Check Out](https://www.fao.org/fao-who-codexalimentarius/codex-texts/en/) |
 | `UNECE Standards & Recommendations` | UN quality standards for trade, agriculture & transport. | [Check Out](https://unece.org/trade/standards) |
 
+# Quantitative Economics & Indicators APIs
+*APIs that provide quantitative economic indicators, macroeconomic metrics, forecasts, indexes, and statistical models used in economic analysis and policymaking.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `World Bank Economic Indicators API` | Global macroeconomic indicators including GDP, inflation & growth. | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) |
+| `IMF Data API` | International monetary, fiscal, balance of payments & debt statistics. | [Check Out](https://www.imf.org/en/Data) |
+| `OECD Economic Outlook API` | Economic forecasts, productivity & policy indicators. | [Check Out](https://data.oecd.org/api/) |
+| `FRED API (Federal Reserve)` | U.S. and global economic time series data. | [Check Out](https://fred.stlouisfed.org/docs/api/fred/) |
+| `UN National Accounts Data` | GDP, production, consumption & national accounts statistics. | [Check Out](https://unstats.un.org/unsd/snaama/) |
+| `Eurostat Economy & Finance API` | EU economic, financial & macroeconomic datasets. | [Check Out](https://ec.europa.eu/eurostat/web/json-and-unicode-web-services) |
+
