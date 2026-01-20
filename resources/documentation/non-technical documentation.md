@@ -2288,3 +2288,14 @@
 | `UN National Accounts Data` | GDP, production, consumption & national accounts statistics. | [Check Out](https://unstats.un.org/unsd/snaama/) |
 | `Eurostat Economy & Finance API` | EU economic, financial & macroeconomic datasets. | [Check Out](https://ec.europa.eu/eurostat/web/json-and-unicode-web-services) |
 
+# Questionnaires & Surveys APIs
+*APIs that enable creation, distribution, collection, and analysis of surveys, questionnaires, polls, and feedback data for research and decision-making.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `SurveyMonkey API` | Create surveys, collect responses & analyze results programmatically. | [Check Out](https://developer.surveymonkey.com/api/v3/) |
+| `Google Forms API` | Programmatic access to Google Forms for surveys and quizzes. | [Check Out](https://developers.google.com/forms/api) |
+| `Qualtrics API` | Enterprise survey creation, distribution & advanced analytics. | [Check Out](https://api.qualtrics.com/) |
+| `Typeform API` | Interactive forms, surveys & conversational questionnaires. | [Check Out](https://developer.typeform.com/) |
+| `LimeSurvey API` | Open-source survey platform with response management APIs. | [Check Out](https://api.limesurvey.org/) |
+| `Open Data Kit (ODK) API` | Mobile data collection and survey management for field research. | [Check Out](https://docs.getodk.org/central-api/) |
+
