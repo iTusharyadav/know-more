@@ -2265,3 +2265,15 @@
 | `WorldCat Search API` | Global library collections, book holdings & bibliographic records. | [Check Out](https://www.oclc.org/developer/develop/apis/worldcat-search-api.en.html) |
 | `Project Gutenberg Metadata` | Public-domain books, authors & publishing metadata. | [Check Out](https://www.gutenberg.org/wiki/Gutenberg:Feeds) |
 
+# Quality & Standards APIs
+*APIs that provide access to international quality standards, certifications, compliance frameworks, measurements, and regulatory standards used across industries.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `ISO Standards Catalogue` | International standards for quality, safety, efficiency & interoperability. | [Check Out](https://www.iso.org/standards.html) |
+| `IEC Standards API` | International electrotechnical and electronic standards data. | [Check Out](https://www.iec.ch/dyn/www/f?p=103:85:0::::FSP_LANG_ID:25) |
+| `NIST Data & Standards API` | U.S. standards for measurements, cybersecurity, manufacturing & quality. | [Check Out](https://www.nist.gov/data) |
+| `BSI Standards Portal` | British Standards Institution quality and compliance standards. | [Check Out](https://www.bsigroup.com/en-GB/standards/) |
+| `ASTM Standards` | Global standards for materials, products, systems & services quality. | [Check Out](https://www.astm.org/products-services/standards-and-publications.html) |
+| `Codex Alimentarius (FAO/WHO)` | International food quality and safety standards. | [Check Out](https://www.fao.org/fao-who-codexalimentarius/codex-texts/en/) |
+| `UNECE Standards & Recommendations` | UN quality standards for trade, agriculture & transport. | [Check Out](https://unece.org/trade/standards) |
+
