@@ -2299,3 +2299,14 @@
 | `LimeSurvey API` | Open-source survey platform with response management APIs. | [Check Out](https://api.limesurvey.org/) |
 | `Open Data Kit (ODK) API` | Mobile data collection and survey management for field research. | [Check Out](https://docs.getodk.org/central-api/) |
 
+# Quotations & Quotes APIs
+*APIs that provide access to quotations, sayings, speeches, literary excerpts, famous quotes, authorship metadata, and thematic quote collections.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Quotable API` | Open API for famous quotes, authors, tags & random quote generation. | [Check Out](https://github.com/lukePeavey/quotable) |
+| `They Said So Quotes API` | Quotes by category, author, date & popularity. | [Check Out](https://theysaidso.com/api/) |
+| `ZenQuotes API` | Motivational, inspirational & philosophical quotes dataset. | [Check Out](https://zenquotes.io/) |
+| `FavQs API` | Community-curated quotes with authors, tags & user collections. | [Check Out](https://favqs.com/api) |
+| `Wikiquote Data API` | Quotations sourced from Wikiquote authors, works & themes. | [Check Out](https://www.mediawiki.org/wiki/API:Main_page) |
+| `QuoteGarden API` | Searchable quote database by author, keyword & topic. | [Check Out](https://pprathameshmore.github.io/QuoteGarden/) |
+
