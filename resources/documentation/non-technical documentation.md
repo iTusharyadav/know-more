@@ -2343,3 +2343,15 @@
 | `Adzuna API` | Global job listings, salary data & employment analytics. | [Check Out](https://developer.adzuna.com/) |
 | `ZipRecruiter API` | Job postings, candidate matching & recruitment analytics. | [Check Out](https://www.ziprecruiter.com/publishers) |
 
+# Reference & Dictionaries APIs
+*APIs that provide access to dictionaries, encyclopedias, linguistic references, definitions, thesauri, and general reference knowledge.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Oxford Dictionaries API` | Definitions, meanings, synonyms & language metadata. | [Check Out](https://developer.oxforddictionaries.com/) |
+| `Merriam-Webster API` | Dictionary, thesaurus & learner reference data. | [Check Out](https://dictionaryapi.com/) |
+| `Cambridge Dictionary API` | English dictionary definitions and usage examples. | [Check Out](https://dictionary.cambridge.org/) |
+| `Wordnik API` | Word definitions, examples, pronunciations & lexical data. | [Check Out](https://developer.wordnik.com/) |
+| `Wiktionary API` | Open multilingual dictionary & lexical reference data. | [Check Out](https://www.mediawiki.org/wiki/API:Main_page) |
+| `Encyclopedia Britannica API` | Encyclopedic reference content & knowledge articles. | [Check Out](https://developer.britannica.com/) |
+| `DBpedia API` | Structured reference knowledge extracted from Wikipedia. | [Check Out](https://www.dbpedia.org/resources/ontology/) |
+
