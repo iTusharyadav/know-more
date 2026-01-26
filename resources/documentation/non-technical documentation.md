@@ -2332,3 +2332,14 @@
 | `Firebase Realtime Database API` | Live data synchronization across clients. | [Check Out](https://firebase.google.com/docs/database) |
 | `Socket.IO API` | Real-time bidirectional event-based communication. | [Check Out](https://socket.io/docs/v4/) |
 
+# Recruitment & Jobs APIs
+*APIs that provide access to job listings, recruitment platforms, hiring analytics, applicant tracking, labor market data, and employment opportunities.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `LinkedIn Jobs API` | Job listings, company hiring data & employment insights. | [Check Out](https://learn.microsoft.com/en-us/linkedin/) |
+| `Indeed API` | Job search, listings, salary insights & labor market trends. | [Check Out](https://developer.indeed.com/) |
+| `Glassdoor API` | Jobs, company reviews, salaries & workplace insights. | [Check Out](https://www.glassdoor.com/developer/index.htm) |
+| `USAJobs API` | U.S. federal government job openings & hiring data. | [Check Out](https://developer.usajobs.gov/) |
+| `Adzuna API` | Global job listings, salary data & employment analytics. | [Check Out](https://developer.adzuna.com/) |
+| `ZipRecruiter API` | Job postings, candidate matching & recruitment analytics. | [Check Out](https://www.ziprecruiter.com/publishers) |
+
