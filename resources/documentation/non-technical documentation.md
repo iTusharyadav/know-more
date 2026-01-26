@@ -2310,3 +2310,14 @@
 | `Wikiquote Data API` | Quotations sourced from Wikiquote authors, works & themes. | [Check Out](https://www.mediawiki.org/wiki/API:Main_page) |
 | `QuoteGarden API` | Searchable quote database by author, keyword & topic. | [Check Out](https://pprathameshmore.github.io/QuoteGarden/) |
 
+# Radio & Broadcasting APIs
+*APIs that provide access to radio stations, live broadcasts, audio streams, schedules, metadata, podcasts, and broadcasting information.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Radio Browser API` | Open directory of global radio stations with streams & metadata. | [Check Out](https://api.radio-browser.info/) |
+| `TuneIn API` | Live radio, podcasts, music stations & broadcast metadata. | [Check Out](https://tunein.com/broadcasters/) |
+| `BBC Sounds / BBC Data APIs` | Radio programs, schedules & broadcast-related metadata (UK). | [Check Out](https://developer.bbc.co.uk/) |
+| `NPR API` | Public radio programs, podcasts & broadcast metadata (USA). | [Check Out](https://www.npr.org/api/) |
+| `Radio.co API` | Internet radio station management, streaming & analytics APIs. | [Check Out](https://radio.co/developers/) |
+| `iHeartRadio API` | Live radio stations, shows & broadcast content metadata. | [Check Out](https://www.iheart.com/) |
+
