@@ -2321,3 +2321,14 @@
 | `Radio.co API` | Internet radio station management, streaming & analytics APIs. | [Check Out](https://radio.co/developers/) |
 | `iHeartRadio API` | Live radio stations, shows & broadcast content metadata. | [Check Out](https://www.iheart.com/) |
 
+# Real-Time Data & Streaming APIs
+*APIs that provide live, real-time data feeds and streaming access for events, sensors, markets, notifications, and continuously updating information.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `WebSockets API (W3C)` | Standard protocol for real-time, bidirectional data communication. | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) |
+| `Server-Sent Events (SSE)` | One-way real-time data streaming over HTTP. | [Check Out](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events) |
+| `Pusher API` | Hosted real-time messaging, notifications & event streaming. | [Check Out](https://pusher.com/docs/) |
+| `Ably Realtime API` | Global real-time data delivery & pub/sub messaging. | [Check Out](https://ably.com/docs) |
+| `Firebase Realtime Database API` | Live data synchronization across clients. | [Check Out](https://firebase.google.com/docs/database) |
+| `Socket.IO API` | Real-time bidirectional event-based communication. | [Check Out](https://socket.io/docs/v4/) |
+
