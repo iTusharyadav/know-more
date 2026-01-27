@@ -2355,3 +2355,15 @@
 | `Encyclopedia Britannica API` | Encyclopedic reference content & knowledge articles. | [Check Out](https://developer.britannica.com/) |
 | `DBpedia API` | Structured reference knowledge extracted from Wikipedia. | [Check Out](https://www.dbpedia.org/resources/ontology/) |
 
+# Regulatory & Compliance APIs
+*APIs that provide access to laws, regulations, compliance requirements, enforcement actions, filings, audits, and regulatory oversight data across industries.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `SEC EDGAR API` | U.S. corporate filings, financial disclosures & compliance reports. | [Check Out](https://www.sec.gov/edgar/sec-api-documentation) |
+| `EU EUR-Lex API` | European Union laws, regulations, directives & legal texts. | [Check Out](https://eur-lex.europa.eu/content/tools/api.html) |
+| `UK Legislation API` | UK statutes, regulations & legislative documents. | [Check Out](https://www.legislation.gov.uk/developer) |
+| `FINRA API` | Financial industry regulatory actions, broker data & compliance info. | [Check Out](https://developer.finra.org/) |
+| `OpenSanctions API` | Sanctions lists, watchlists & compliance screening data. | [Check Out](https://www.opensanctions.org/docs/api/) |
+| `FDA Compliance & Enforcement Data` | Regulatory inspections, warnings & enforcement actions (USA). | [Check Out](https://open.fda.gov/apis/) |
+| `OECD Regulatory Policy Data` | Regulatory quality, policy indicators & compliance metrics. | [Check Out](https://www.oecd.org/gov/regulatory-policy/data.htm) |
+
