@@ -2367,3 +2367,14 @@
 | `FDA Compliance & Enforcement Data` | Regulatory inspections, warnings & enforcement actions (USA). | [Check Out](https://open.fda.gov/apis/) |
 | `OECD Regulatory Policy Data` | Regulatory quality, policy indicators & compliance metrics. | [Check Out](https://www.oecd.org/gov/regulatory-policy/data.htm) |
 
+# Religion & Faith APIs
+*APIs that provide access to religious texts, faith-based calendars, scriptures, traditions, prayer times, and cultural-religious reference data.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Quran API` | Quranic verses, translations, recitations & metadata. | [Check Out](https://alquran.cloud/api) |
+| `Bible API` | Biblical text, chapters, verses & translations. | [Check Out](https://bible-api.com/) |
+| `AlAdhan Prayer Times API` | Islamic prayer times, calendars & Qibla direction. | [Check Out](https://aladhan.com/prayer-times-api) |
+| `Vulcan Calendar API` | Religious and cultural calendar data. | [Check Out](https://calendarific.com/) |
+| `Jewish Calendar API` | Hebrew calendar, holidays & religious observances. | [Check Out](https://www.hebcal.com/home/developer-apis) |
+| `Sacred Texts API` | Open archive of religious and spiritual texts. | [Check Out](https://www.sacred-texts.com/) |
+
