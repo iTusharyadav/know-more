@@ -2389,3 +2389,14 @@
 | `Notion API` | Collaborative documents, databases & workspace automation. | [Check Out](https://developers.notion.com/) |
 | `Trello API` | Task management, boards & team collaboration workflows. | [Check Out](https://developer.atlassian.com/cloud/trello/rest/) |
 
+# Renewable Energy APIs
+*APIs that provide data related to renewable energy sources such as solar, wind, hydro, geothermal, and biomass, including production, capacity, forecasts, and sustainability metrics.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `OpenEI Renewable Energy API` | Open data on renewable energy resources, policies & projects. | [Check Out](https://openei.org/wiki/OpenEI) |
+| `NREL API` | U.S. renewable energy data including solar, wind & efficiency metrics. | [Check Out](https://developer.nrel.gov/) |
+| `IEA Renewables Data` | Global renewable energy statistics, capacity & generation trends. | [Check Out](https://www.iea.org/data-and-statistics) |
+| `Global Wind Atlas API` | Wind resource maps, power density & location-based analysis. | [Check Out](https://globalwindatlas.info/en) |
+| `Global Solar Atlas API` | Solar photovoltaic potential & irradiation data worldwide. | [Check Out](https://globalsolaratlas.info/) |
+| `World Bank Energy Data API` | Renewable energy access, usage & sustainability indicators. | [Check Out](https://data.worldbank.org/topic/energy-and-mining) |
+
