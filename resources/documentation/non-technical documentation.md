@@ -2378,3 +2378,14 @@
 | `Jewish Calendar API` | Hebrew calendar, holidays & religious observances. | [Check Out](https://www.hebcal.com/home/developer-apis) |
 | `Sacred Texts API` | Open archive of religious and spiritual texts. | [Check Out](https://www.sacred-texts.com/) |
 
+# Remote Work & Collaboration APIs
+*APIs that support remote work, team collaboration, virtual meetings, document sharing, communication, and productivity in distributed work environments.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Zoom API` | Video meetings, webinars, recordings & user management. | [Check Out](https://developers.zoom.us/docs/api/) |
+| `Microsoft Teams API` | Collaboration, meetings, chat, files & organizational communication. | [Check Out](https://learn.microsoft.com/en-us/graph/teams-concept-overview) |
+| `Slack API` | Team messaging, workflows, bots & collaboration tools. | [Check Out](https://api.slack.com/) |
+| `Google Workspace APIs` | Docs, Sheets, Drive, Meet & collaborative productivity tools. | [Check Out](https://developers.google.com/workspace) |
+| `Notion API` | Collaborative documents, databases & workspace automation. | [Check Out](https://developers.notion.com/) |
+| `Trello API` | Task management, boards & team collaboration workflows. | [Check Out](https://developer.atlassian.com/cloud/trello/rest/) |
+
