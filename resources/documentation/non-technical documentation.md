@@ -2412,3 +2412,14 @@
 | `arXiv API` | Preprints in physics, math, CS & related research fields. | [Check Out](https://info.arxiv.org/help/api/) |
 | `Scopus APIs` | Abstracts, citations & research analytics (subscription-based). | [Check Out](https://dev.elsevier.com/) |
 
+# Reviews & Ratings APIs
+*APIs that provide access to user reviews, ratings, feedback scores, reputation metrics, and consumer opinions across products, services, businesses, and content.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Google Places Reviews API` | Business reviews, ratings & user feedback from Google Places. | [Check Out](https://developers.google.com/maps/documentation/places/web-service/details) |
+| `Yelp Fusion API` | Business ratings, reviews, categories & location-based feedback. | [Check Out](https://docs.developer.yelp.com/) |
+| `Trustpilot API` | Customer reviews, trust scores & brand reputation data. | [Check Out](https://developers.trustpilot.com/) |
+| `Tripadvisor Content API` | Travel-related reviews, ratings & attraction feedback. | [Check Out](https://developer-tripadvisor.com/) |
+| `IMDb API / Datasets` | Movie, TV show ratings, reviews & audience metrics. | [Check Out](https://developer.imdb.com/) |
+| `Glassdoor Reviews API` | Employee reviews, company ratings & workplace feedback. | [Check Out](https://www.glassdoor.com/developer/index.htm) |
+
