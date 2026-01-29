@@ -2434,3 +2434,15 @@
 | `Munich Re NatCatSERVICE` | Natural catastrophe loss events & risk analytics datasets. | [Check Out](https://www.munichre.com/en/solutions/for-industry-clients/natcatservice.html) |
 | `OpenFEMA Risk MAP Data` | Flood risk, hazard maps & insurance-related geospatial data (USA). | [Check Out](https://www.fema.gov/flood-maps/tools-resources/data) |
 
+# Roads & Transportation APIs
+*APIs that provide data related to road networks, traffic conditions, public transportation, logistics routes, mobility infrastructure, and transport planning.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `OpenStreetMap Roads API` | Global road networks, highways, intersections & transport tags. | [Check Out](https://wiki.openstreetmap.org/wiki/Highways) |
+| `HERE Traffic API` | Real-time traffic flow, incidents & road conditions. | [Check Out](https://developer.here.com/documentation/traffic-api/) |
+| `Google Roads API` | Road snapping, speed limits & route-related road data. | [Check Out](https://developers.google.com/maps/documentation/roads) |
+| `TomTom Traffic API` | Traffic congestion, incidents & travel time data. | [Check Out](https://developer.tomtom.com/traffic-api) |
+| `Transport for London (TfL) API` | Roads, congestion, public transport & traffic data (London). | [Check Out](https://api.tfl.gov.uk/) |
+| `US DOT Transportation Data API` | Road safety, infrastructure & transportation statistics (USA). | [Check Out](https://data.transportation.gov/developers) |
+| `EU Transport Open Data` | European transport networks, roads & mobility indicators. | [Check Out](https://transport.ec.europa.eu/transport-themes/transport-data_en) |
+
