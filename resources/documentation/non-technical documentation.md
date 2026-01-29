@@ -2446,3 +2446,14 @@
 | `US DOT Transportation Data API` | Road safety, infrastructure & transportation statistics (USA). | [Check Out](https://data.transportation.gov/developers) |
 | `EU Transport Open Data` | European transport networks, roads & mobility indicators. | [Check Out](https://transport.ec.europa.eu/transport-themes/transport-data_en) |
 
+# Royalties & Licensing APIs
+*APIs that provide data and services related to intellectual property licensing, royalties tracking, copyright usage, content rights management, and revenue attribution.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Copyright Office API (USA)` | Copyright registrations, records & licensing references. | [Check Out](https://www.copyright.gov/developers/) |
+| `PRS for Music API` | Music licensing, royalties distribution & rights management (UK). | [Check Out](https://www.prsformusic.com/help/using-music-online/developer-services) |
+| `ASCAP API` | Performance royalties, music licensing & rights data. | [Check Out](https://www.ascap.com/help/royalties-and-payment) |
+| `BMI API` | Music usage tracking, licensing & royalty information. | [Check Out](https://www.bmi.com/licensing) |
+| `Creative Commons API` | Open licensing metadata, usage rights & attribution standards. | [Check Out](https://creativecommons.org/about/program-areas/technology/) |
+| `Open IP Data (WIPO)` | Intellectual property filings, licensing & royalty-related indicators. | [Check Out](https://www.wipo.int/portal/en/index.html) |
+
