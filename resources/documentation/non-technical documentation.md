@@ -2423,3 +2423,14 @@
 | `IMDb API / Datasets` | Movie, TV show ratings, reviews & audience metrics. | [Check Out](https://developer.imdb.com/) |
 | `Glassdoor Reviews API` | Employee reviews, company ratings & workplace feedback. | [Check Out](https://www.glassdoor.com/developer/index.htm) |
 
+# Risk & Insurance APIs
+*APIs that provide data and services related to risk assessment, insurance products, claims, underwriting, actuarial data, catastrophe modeling, and compliance in the insurance sector.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Open Insurance Data API` | Open datasets for insurance markets, products & risk indicators. | [Check Out](https://openinsurance.io/) |
+| `NAIC Insurance Data API` | U.S. insurance regulatory data, financial statements & market stats. | [Check Out](https://content.naic.org/cipr-topical_insurance_data.htm) |
+| `OECD Insurance Statistics` | Global insurance market indicators, premiums & risk metrics. | [Check Out](https://www.oecd.org/insurance/statistics/) |
+| `Swiss Re Sigma Explorer` | Global insurance risk, catastrophe & reinsurance insights. | [Check Out](https://www.swissre.com/institute/research/sigma-research.html) |
+| `Munich Re NatCatSERVICE` | Natural catastrophe loss events & risk analytics datasets. | [Check Out](https://www.munichre.com/en/solutions/for-industry-clients/natcatservice.html) |
+| `OpenFEMA Risk MAP Data` | Flood risk, hazard maps & insurance-related geospatial data (USA). | [Check Out](https://www.fema.gov/flood-maps/tools-resources/data) |
+
