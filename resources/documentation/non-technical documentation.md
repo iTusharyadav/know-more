@@ -2400,3 +2400,15 @@
 | `Global Solar Atlas API` | Solar photovoltaic potential & irradiation data worldwide. | [Check Out](https://globalsolaratlas.info/) |
 | `World Bank Energy Data API` | Renewable energy access, usage & sustainability indicators. | [Check Out](https://data.worldbank.org/topic/energy-and-mining) |
 
+# Research & Academic APIs
+*APIs that provide access to scholarly publications, research data, academic metrics, citations, datasets, and institutional research outputs.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `Crossref API` | Scholarly publication metadata, DOIs, citations & references. | [Check Out](https://api.crossref.org/) |
+| `Semantic Scholar API` | Research papers, citations, authors & academic influence data. | [Check Out](https://api.semanticscholar.org/) |
+| `OpenAlex API` | Open catalog of global research works, institutions & citations. | [Check Out](https://docs.openalex.org/) |
+| `CORE API` | Open-access research papers from repositories worldwide. | [Check Out](https://core.ac.uk/services/api) |
+| `PubMed / NCBI API` | Biomedical literature, abstracts & research metadata. | [Check Out](https://www.ncbi.nlm.nih.gov/apis/) |
+| `arXiv API` | Preprints in physics, math, CS & related research fields. | [Check Out](https://info.arxiv.org/help/api/) |
+| `Scopus APIs` | Abstracts, citations & research analytics (subscription-based). | [Check Out](https://dev.elsevier.com/) |
+
