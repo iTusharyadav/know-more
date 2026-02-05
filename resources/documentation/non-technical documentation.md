@@ -2457,3 +2457,14 @@
 | `Creative Commons API` | Open licensing metadata, usage rights & attribution standards. | [Check Out](https://creativecommons.org/about/program-areas/technology/) |
 | `Open IP Data (WIPO)` | Intellectual property filings, licensing & royalty-related indicators. | [Check Out](https://www.wipo.int/portal/en/index.html) |
 
+# Rural Development & Agriculture APIs
+*APIs that provide data related to rural economies, agriculture, farming practices, crops, livestock, food security, land use, and rural development programs.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `FAO API (FAOSTAT)` | Global agriculture, food security, crops & livestock statistics. | [Check Out](https://www.fao.org/faostat/en/#data) |
+| `USDA Open Data API` | U.S. agriculture, crops, livestock, rural development & food data. | [Check Out](https://quickstats.nass.usda.gov/api) |
+| `CGIAR Data API` | Agricultural research, climate-resilient crops & rural livelihoods data. | [Check Out](https://data.cgiar.org/) |
+| `World Bank Agriculture Data API` | Rural development, farming productivity & food systems indicators. | [Check Out](https://data.worldbank.org/topic/agriculture-and-rural-development) |
+| `EU CAP Open Data` | European Common Agricultural Policy funding & rural development data. | [Check Out](https://agriculture.ec.europa.eu/common-agricultural-policy/cap-overview/cap-open-data_en) |
+| `India Agri Open Data API` | Crops, markets, weather-linked agriculture & rural programs data. | [Check Out](https://data.gov.in/) |
+
