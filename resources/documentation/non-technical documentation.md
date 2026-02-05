@@ -2468,3 +2468,14 @@
 | `EU CAP Open Data` | European Common Agricultural Policy funding & rural development data. | [Check Out](https://agriculture.ec.europa.eu/common-agricultural-policy/cap-overview/cap-open-data_en) |
 | `India Agri Open Data API` | Crops, markets, weather-linked agriculture & rural programs data. | [Check Out](https://data.gov.in/) |
 
+# Safety & Emergency Services APIs
+*APIs that provide data related to public safety, emergency response, disaster management, fire services, rescue operations, and emergency preparedness.*
+| **Technology / Service** | **Description** | **Official Documentation** |
+|--------------------------|------------------|-----------------------------|
+| `FEMA Open Data API` | Disaster declarations, emergency response, recovery & hazard data (USA). | [Check Out](https://www.fema.gov/about/openfema/api) |
+| `EM-DAT API` | Global disaster events, impacts & emergency statistics. | [Check Out](https://www.emdat.be/) |
+| `US Fire Administration API` | Fire incidents, emergency response & fire safety statistics. | [Check Out](https://www.usfa.fema.gov/data/) |
+| `UN OCHA Humanitarian Data Exchange (HDX)` | Emergency response, crisis & disaster-related datasets worldwide. | [Check Out](https://data.humdata.org/) |
+| `Red Cross Open Data` | Disaster response, preparedness & humanitarian operations data. | [Check Out](https://www.ifrc.org/document/open-data) |
+| `Copernicus Emergency Management Service` | Rapid mapping & emergency geospatial data (EU). | [Check Out](https://emergency.copernicus.eu/) |
+
