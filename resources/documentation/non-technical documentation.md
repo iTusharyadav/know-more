@@ -2492,4 +2492,15 @@
 | `PCI DSS` | Security standards for organizations handling credit card information | [Check Out](https://www.pcisecuritystandards.org/document_library) |
 | `SOC 2` | Compliance standard for service organizations handling customer data | [Check Out](https://www.aicpa.org/resources/landing/system-and-organization-controls-soc-suite-of-services) |
 
+## Social Media  
+*Social Media platforms enable people and organizations to create, share, and interact with content, communities, and audiences globally.*
+| **Platform / Standard** | **Description** | **Official Documentation** |
+|-------------------------|-----------------|----------------------------|
+| `Facebook (Meta) Policies & Docs` | Official policies, standards, and platform documentation for Facebook services | [Check Out](https://www.facebook.com/policies_center/) |
+| `Instagram Platform Documentation` | Guidelines and platform documentation for Instagram features and integrations | [Check Out](https://developers.facebook.com/docs/instagram-platform/) |
+| `LinkedIn Platform Policies` | Official documentation for LinkedIn APIs, marketing, and data usage | [Check Out](https://learn.microsoft.com/en-us/linkedin/) |
+| `Reddit API & Policy Docs` | Official API documentation and content policy for Reddit | [Check Out](https://www.redditinc.com/policies) |
+| `TikTok Developer & Policy Docs` | Documentation for TikTok platform rules, APIs, and integrations | [Check Out](https://developers.tiktok.com/doc/) |
+| `X (Twitter) Developer Platform` | Official documentation for Twitter/X APIs, policies, and developer tools | [Check Out](https://developer.x.com/en/docs) |
+| `YouTube Policies & API Docs` | Content policies and developer documentation for YouTube platform | [Check Out](https://developers.google.com/youtube) |
 
