@@ -2479,3 +2479,17 @@
 | `Red Cross Open Data` | Disaster response, preparedness & humanitarian operations data. | [Check Out](https://www.ifrc.org/document/open-data) |
 | `Copernicus Emergency Management Service` | Rapid mapping & emergency geospatial data (EU). | [Check Out](https://emergency.copernicus.eu/) |
 
+## Security  
+*Security focuses on protecting systems, data, organizations, and individuals from threats, risks, and unauthorized access through standards, policies, and best practices.*
+| **Technology / Standard** | **Description** | **Official Documentation** |
+|---------------------------|-----------------|----------------------------|
+| `CIS Controls` | Globally recognized best practices for securing IT systems and data | [Check Out](https://www.cisecurity.org/controls) |
+| `GDPR (General Data Protection Regulation)` | European Union regulation for data protection and privacy | [Check Out](https://gdpr.eu/documentation/) |
+| `HIPAA Security Rule` | U.S. standards for protecting electronic health information | [Check Out](https://www.hhs.gov/hipaa/for-professionals/security/index.html) |
+| `ISO/IEC 27001` | International standard for information security management systems (ISMS) | [Check Out](https://www.iso.org/isoiec-27001-information-security.html) |
+| `NIST Cybersecurity Framework` | Framework for improving critical infrastructure cybersecurity | [Check Out](https://www.nist.gov/cyberframework) |
+| `OWASP Top 10` | Awareness document for the most critical web application security risks | [Check Out](https://owasp.org/www-project-top-ten/) |
+| `PCI DSS` | Security standards for organizations handling credit card information | [Check Out](https://www.pcisecuritystandards.org/document_library) |
+| `SOC 2` | Compliance standard for service organizations handling customer data | [Check Out](https://www.aicpa.org/resources/landing/system-and-organization-controls-soc-suite-of-services) |
+
+
