@@ -2504,3 +2504,16 @@
 | `X (Twitter) Developer Platform` | Official documentation for Twitter/X APIs, policies, and developer tools | [Check Out](https://developer.x.com/en/docs) |
 | `YouTube Policies & API Docs` | Content policies and developer documentation for YouTube platform | [Check Out](https://developers.google.com/youtube) |
 
+## Software Licensing  
+*Software Licensing defines the legal terms under which software can be used, modified, distributed, and shared by individuals and organizations.*
+| **License / Standard** | **Description** | **Official Documentation** |
+|------------------------|-----------------|----------------------------|
+| `Apache License 2.0` | Permissive open-source license allowing modification and distribution with attribution | [Check Out](https://www.apache.org/licenses/LICENSE-2.0) |
+| `BSD License` | Simple and permissive open-source license with minimal restrictions | [Check Out](https://opensource.org/licenses/BSD-3-Clause) |
+| `Creative Commons Licenses` | Licenses for sharing creative works with defined usage rights | [Check Out](https://creativecommons.org/licenses/) |
+| `GNU General Public License (GPL)` | Copyleft license requiring derived works to remain open source | [Check Out](https://www.gnu.org/licenses/gpl-3.0.en.html) |
+| `MIT License` | Short and permissive license widely used in open-source projects | [Check Out](https://opensource.org/licenses/MIT) |
+| `Mozilla Public License 2.0` | File-level copyleft license balancing open and proprietary code | [Check Out](https://www.mozilla.org/en-US/MPL/2.0/) |
+| `Proprietary Software Licensing` | Commercial licensing models with restricted usage rights | [Check Out](https://www.wipo.int/sme/en/ip_business/licensing/licensing.htm) |
+
+
