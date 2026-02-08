@@ -2516,4 +2516,13 @@
 | `Mozilla Public License 2.0` | File-level copyleft license balancing open and proprietary code | [Check Out](https://www.mozilla.org/en-US/MPL/2.0/) |
 | `Proprietary Software Licensing` | Commercial licensing models with restricted usage rights | [Check Out](https://www.wipo.int/sme/en/ip_business/licensing/licensing.htm) |
 
-
+## Supply Chain Management  
+*Supply Chain Management (SCM) involves planning, controlling, and optimizing the flow of goods, services, information, and finances from raw materials to end customers.*
+| **Framework / Standard / Platform** | **Description** | **Official Documentation** |
+|------------------------------------|-----------------|----------------------------|
+| `APICS (ASCM) Body of Knowledge` | Global standards and frameworks for supply chain and operations management | [Check Out](https://www.ascm.org/learning-development/apics-certifications/) |
+| `ISO 28000` | International standard for supply chain security management systems | [Check Out](https://www.iso.org/standard/44641.html) |
+| `SAP Supply Chain Management` | Enterprise SCM solutions covering logistics, planning, and operations | [Check Out](https://help.sap.com/docs/SAP_SCM) |
+| `SCOR Model (Supply Chain Operations Reference)` | Reference model for evaluating and improving supply chain performance | [Check Out](https://www.ascm.org/learning-development/scor-framework/) |
+| `UN/CEFACT Supply Chain Standards` | United Nations standards for global trade and supply chain processes | [Check Out](https://unece.org/trade/uncefact) |
+| `World Bank Logistics & Supply Chain Docs` | Research and documentation on global logistics and supply chains | [Check Out](https://www.worldbank.org/en/topic/logistics) |
