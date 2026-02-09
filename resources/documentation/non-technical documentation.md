@@ -2526,3 +2526,16 @@
 | `SCOR Model (Supply Chain Operations Reference)` | Reference model for evaluating and improving supply chain performance | [Check Out](https://www.ascm.org/learning-development/scor-framework/) |
 | `UN/CEFACT Supply Chain Standards` | United Nations standards for global trade and supply chain processes | [Check Out](https://unece.org/trade/uncefact) |
 | `World Bank Logistics & Supply Chain Docs` | Research and documentation on global logistics and supply chains | [Check Out](https://www.worldbank.org/en/topic/logistics) |
+
+## Sustainability  
+*Sustainability focuses on meeting present needs without compromising the ability of future generations, covering environmental, social, and economic responsibility.*
+| **Framework / Standard / Organization** | **Description** | **Official Documentation** |
+|----------------------------------------|-----------------|----------------------------|
+| `ESG (Environmental, Social, Governance)` | Framework for measuring corporate sustainability and ethical impact | [Check Out](https://www.unpri.org/pri/what-is-responsible-investment) |
+| `Global Reporting Initiative (GRI)` | International standards for sustainability and impact reporting | [Check Out](https://www.globalreporting.org/standards/) |
+| `ISO 14001` | International standard for environmental management systems (EMS) | [Check Out](https://www.iso.org/iso-14001-environmental-management.html) |
+| `Sustainable Development Goals (SDGs)` | United Nations goals for global sustainable development | [Check Out](https://sdgs.un.org/goals) |
+| `Task Force on Climate-related Financial Disclosures (TCFD)` | Framework for climate-related financial risk disclosures | [Check Out](https://www.fsb-tcfd.org/) |
+| `UN Global Compact` | Voluntary initiative for corporate sustainability and responsible business | [Check Out](https://www.unglobalcompact.org/what-is-gc) |
+| `World Economic Forum – Sustainability` | Research and documentation on global sustainability initiatives | [Check Out](https://www.weforum.org/topics/sustainability/) |
+
