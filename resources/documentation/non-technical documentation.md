@@ -2551,3 +2551,15 @@
 | `Risk Management System (ISO 31000)` | Guidelines for implementing risk management systems | [Check Out](https://www.iso.org/iso-31000-risk-management.html) |
 | `Voting & Electoral Systems (IDEA)` | Documentation on electoral systems and democratic processes | [Check Out](https://www.idea.int/our-work/what-we-do/electoral-systems) |
 
+## Taxation  
+*Taxation refers to the system by which governments collect financial charges from individuals and organizations to fund public services, infrastructure, and administration.*
+| **Authority / Framework** | **Description** | **Official Documentation** |
+|---------------------------|-----------------|----------------------------|
+| `Internal Revenue Service (IRS)` | Official tax authority of the United States providing tax laws, forms, and guidelines | [Check Out](https://www.irs.gov/forms-instructions) |
+| `Central Board of Direct Taxes (CBDT - India)` | Governing body for direct tax administration in India | [Check Out](https://incometaxindia.gov.in/pages/acts/income-tax-act.aspx) |
+| `HM Revenue & Customs (HMRC - UK)` | UK government department responsible for tax collection and customs | [Check Out](https://www.gov.uk/government/organisations/hm-revenue-customs) |
+| `OECD Tax Policy & Administration` | International tax standards, policies, and global tax frameworks | [Check Out](https://www.oecd.org/tax/) |
+| `Goods and Services Tax (GST)` | Consumption-based indirect tax system used in multiple countries | [Check Out](https://www.gst.gov.in/help) |
+| `World Bank – Tax Policy` | Global research and documentation on taxation systems and reforms | [Check Out](https://www.worldbank.org/en/topic/taxation) |
+| `United Nations Tax Committee` | International cooperation and guidance on tax matters | [Check Out](https://www.un.org/development/desa/financing/what-we-do/ECOSOC/tax-committee.html) |
+
