@@ -2563,3 +2563,14 @@
 | `World Bank – Tax Policy` | Global research and documentation on taxation systems and reforms | [Check Out](https://www.worldbank.org/en/topic/taxation) |
 | `United Nations Tax Committee` | International cooperation and guidance on tax matters | [Check Out](https://www.un.org/development/desa/financing/what-we-do/ECOSOC/tax-committee.html) |
 
+## Telecommunications  
+*Telecommunications covers systems, policies, and standards for transmitting information over distances, including phone, internet, radio, and satellite communications.*
+| **Authority / Standard / Organization** | **Description** | **Official Documentation** |
+|----------------------------------------|-----------------|----------------------------|
+| `International Telecommunication Union (ITU)` | United Nations agency responsible for global telecom standards and spectrum management | [Check Out](https://www.itu.int/en/Pages/default.aspx) |
+| `Federal Communications Commission (FCC - USA)` | Regulates interstate and international communications in the United States | [Check Out](https://www.fcc.gov/about-fcc/fcc-rulemaking) |
+| `Telecom Regulatory Authority of India (TRAI)` | Regulates telecommunications services and policies in India | [Check Out](https://www.trai.gov.in/notifications) |
+| `European Electronic Communications Code (EECC)` | Regulatory framework for electronic communications in the European Union | [Check Out](https://digital-strategy.ec.europa.eu/en/policies/electronic-communications-code) |
+| `GSMA` | Global organization representing mobile network operators worldwide | [Check Out](https://www.gsma.com/aboutus/what-we-do/) |
+| `World Bank – Telecommunications` | Research and policy documentation on global telecom development | [Check Out](https://www.worldbank.org/en/topic/digitaldevelopment) |
+
