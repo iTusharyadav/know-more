@@ -2539,3 +2539,15 @@
 | `UN Global Compact` | Voluntary initiative for corporate sustainability and responsible business | [Check Out](https://www.unglobalcompact.org/what-is-gc) |
 | `World Economic Forum – Sustainability` | Research and documentation on global sustainability initiatives | [Check Out](https://www.weforum.org/topics/sustainability/) |
 
+## Systems  
+*Systems refer to structured frameworks of interconnected components used to organize, govern, manage, or operate institutions such as governments, education, healthcare, and organizations.*
+| **System / Framework** | **Description** | **Official Documentation** |
+|------------------------|-----------------|----------------------------|
+| `Education System (UNESCO)` | Global documentation and frameworks for national and international education systems | [Check Out](https://www.unesco.org/en/education) |
+| `Healthcare Systems (WHO)` | Official resources on healthcare system governance, policy, and management | [Check Out](https://www.who.int/health-topics/health-systems) |
+| `Judicial System Documentation` | Overview and standards related to legal and judicial systems worldwide | [Check Out](https://www.unodc.org/unodc/en/justice-and-prison-reform.html) |
+| `Public Administration Systems (UN DESA)` | Frameworks and guidance for public sector administration and governance | [Check Out](https://www.un.org/development/desa/public-administration) |
+| `Quality Management System (ISO 9001)` | International standard for quality management systems in organizations | [Check Out](https://www.iso.org/iso-9001-quality-management.html) |
+| `Risk Management System (ISO 31000)` | Guidelines for implementing risk management systems | [Check Out](https://www.iso.org/iso-31000-risk-management.html) |
+| `Voting & Electoral Systems (IDEA)` | Documentation on electoral systems and democratic processes | [Check Out](https://www.idea.int/our-work/what-we-do/electoral-systems) |
+
