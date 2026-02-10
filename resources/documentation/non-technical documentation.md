@@ -2586,3 +2586,14 @@
 | `World Federation of Exchanges (WFE)` | Global standards and research for regulated exchanges | [Check Out](https://www.world-exchanges.org/our-work) |
 | `IOSCO (International Organization of Securities Commissions)` | Global standards for securities regulation and trading markets | [Check Out](https://www.iosco.org/library/) |
 
+## Transparency  
+*Transparency refers to openness, accountability, and clarity in governance, organizations, finance, and public information so stakeholders can make informed decisions.*
+| **Framework / Organization / Standard** | **Description** | **Official Documentation** |
+|----------------------------------------|-----------------|----------------------------|
+| `Freedom of Information Act (FOIA - USA)` | Law ensuring public access to government records and information | [Check Out](https://www.foia.gov/about.html) |
+| `Right to Information (RTI - India)` | Legal framework empowering citizens to access public authority information | [Check Out](https://rti.gov.in/) |
+| `Open Government Partnership (OGP)` | International initiative promoting transparent, accountable governance | [Check Out](https://www.opengovpartnership.org/about/) |
+| `OECD Public Sector Transparency` | Global guidelines and research on transparency and integrity | [Check Out](https://www.oecd.org/governance/transparency-integrity/) |
+| `Extractive Industries Transparency Initiative (EITI)` | Standard for open and accountable management of natural resources | [Check Out](https://eiti.org/eiti-standard) |
+| `International Budget Partnership (IBP)` | Documentation on budget transparency and public financial accountability | [Check Out](https://internationalbudget.org/open-budget-survey/) |
+
