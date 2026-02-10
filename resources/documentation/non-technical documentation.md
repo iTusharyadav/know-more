@@ -2574,3 +2574,15 @@
 | `GSMA` | Global organization representing mobile network operators worldwide | [Check Out](https://www.gsma.com/aboutus/what-we-do/) |
 | `World Bank – Telecommunications` | Research and policy documentation on global telecom development | [Check Out](https://www.worldbank.org/en/topic/digitaldevelopment) |
 
+## Trading  
+*Trading involves the buying and selling of financial instruments such as stocks, commodities, derivatives, and currencies through regulated markets and exchanges.*
+| **Authority / Platform / Standard** | **Description** | **Official Documentation** |
+|------------------------------------|-----------------|----------------------------|
+| `Securities and Exchange Commission (SEC - USA)` | Regulates securities markets and protects investors in the United States | [Check Out](https://www.sec.gov/rules) |
+| `Commodity Futures Trading Commission (CFTC)` | U.S. regulator for futures, options, and swaps markets | [Check Out](https://www.cftc.gov/LawRegulation/index.htm) |
+| `Financial Conduct Authority (FCA - UK)` | Regulates financial markets and trading firms in the United Kingdom | [Check Out](https://www.fca.org.uk/rules-guidance) |
+| `National Stock Exchange of India (NSE)` | Official documentation for trading, rules, and market operations | [Check Out](https://www.nseindia.com/regulations) |
+| `New York Stock Exchange (NYSE)` | Rules and documentation governing trading on NYSE | [Check Out](https://www.nyse.com/regulation) |
+| `World Federation of Exchanges (WFE)` | Global standards and research for regulated exchanges | [Check Out](https://www.world-exchanges.org/our-work) |
+| `IOSCO (International Organization of Securities Commissions)` | Global standards for securities regulation and trading markets | [Check Out](https://www.iosco.org/library/) |
+
