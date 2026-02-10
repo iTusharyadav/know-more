@@ -2597,3 +2597,15 @@
 | `Extractive Industries Transparency Initiative (EITI)` | Standard for open and accountable management of natural resources | [Check Out](https://eiti.org/eiti-standard) |
 | `International Budget Partnership (IBP)` | Documentation on budget transparency and public financial accountability | [Check Out](https://internationalbudget.org/open-budget-survey/) |
 
+## Transportation  
+*Transportation covers the systems, policies, and regulations used to move people and goods by land, air, sea, and rail in a safe and efficient manner.*
+| **Authority / Organization / Framework** | **Description** | **Official Documentation** |
+|-----------------------------------------|-----------------|----------------------------|
+| `International Civil Aviation Organization (ICAO)` | United Nations agency setting global standards for civil aviation | [Check Out](https://www.icao.int/Pages/default.aspx) |
+| `International Maritime Organization (IMO)` | UN agency responsible for maritime safety, security, and environmental standards | [Check Out](https://www.imo.org/en/About/Pages/Default.aspx) |
+| `International Transport Forum (ITF - OECD)` | Global platform for transport policy and research | [Check Out](https://www.itf-oecd.org/) |
+| `Ministry of Road Transport & Highways (MoRTH - India)` | Policies, rules, and standards for road transport and highways in India | [Check Out](https://morth.nic.in/) |
+| `U.S. Department of Transportation (USDOT)` | Federal authority regulating transportation systems in the United States | [Check Out](https://www.transportation.gov/mission) |
+| `European Transport Policy` | Transportation regulations and initiatives within the European Union | [Check Out](https://transport.ec.europa.eu/index_en) |
+| `World Bank – Transport` | Global research and documentation on transport infrastructure and policy | [Check Out](https://www.worldbank.org/en/topic/transport) |
+
