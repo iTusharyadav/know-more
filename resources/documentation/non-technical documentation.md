@@ -2609,3 +2609,22 @@
 | `European Transport Policy` | Transportation regulations and initiatives within the European Union | [Check Out](https://transport.ec.europa.eu/index_en) |
 | `World Bank – Transport` | Global research and documentation on transport infrastructure and policy | [Check Out](https://www.worldbank.org/en/topic/transport) |
 
+## Non-Tech Documentation  
+*Official documentation for APIs in general business & real-world domains like travel, telecom, transportation, ticketing, tax, etc.*
+
+| **Technology / API** | **Description** | **Official Documentation** |
+|----------------------|-----------------|-----------------------------|
+| TaxJar API | API for automated U.S. sales tax calculations, reporting, and filing services | [Check Out](https://developers.taxjar.com/api/reference/) |
+| Ticketmaster API | API for event discovery, ticketing, venues, and entertainment data | [Check Out](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/) |
+| Twilio API (Telecom & Messaging) | Communication APIs for SMS, voice, WhatsApp, video, email, and authentication | [Check Out](https://www.twilio.com/docs) |
+| Tripadvisor API | Travel platform API offering hotel, attractions, and restaurant data | [Check Out](https://developer-tripadvisor.com/home) |
+| Travelport API | Global distribution system APIs for flights, hotels, bookings, and travel agencies | [Check Out](https://www.travelport.com/developer-solutions) |
+| Transport for London (TfL) Unified API | Public transit data for London including lines, routes, stops, disruptions, and real-time info | [Check Out](https://api.tfl.gov.uk/) |
+| Travelpayouts Travel API | API for flights, hotels, insurance, and booking monetization | [Check Out](https://travelpayouts.github.io/slate/) |
+| Trello API | API for boards, tasks, workflows, and productivity automations | [Check Out](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/) |
+| Trustpilot API | API for business reviews, ratings, consumer insights, and reputation management | [Check Out](https://developers.trustpilot.com/) |
+| Typeform API | API for survey creation, form submissions, analytics, and workflow automation | [Check Out](https://www.typeform.com/developers/) |
+| Trolley Payments API | Payout automation platform supporting global mass payouts | [Check Out](https://docs.trolley.com/) |
+| Tink Open Banking API | European open banking API for finance data, transactions, and payments | [Check Out](https://docs.tink.com/) |
+| TomTom Maps API | API for maps, routing, geocoding, traffic and location services | [Check Out](https://developer.tomtom.com/) |
+| Ticket Tailor API | Ticketing and event management API for organizers and venues | [Check Out](https://www.tickettailor.com/developers/) |
