@@ -2628,3 +2628,20 @@
 | Tink Open Banking API | European open banking API for finance data, transactions, and payments | [Check Out](https://docs.tink.com/) |
 | TomTom Maps API | API for maps, routing, geocoding, traffic and location services | [Check Out](https://developer.tomtom.com/) |
 | Ticket Tailor API | Ticketing and event management API for organizers and venues | [Check Out](https://www.tickettailor.com/developers/) |
+
+## Non-Tech Documentation  
+*Official documentation for APIs in general business & real-world domains like travel, logistics, payments, commerce, and transportation.*
+
+| **Technology / API** | **Description** | **Official Documentation** |
+|----------------------|------------------|-----------------------------|
+| Uber API | APIs for ride-hailing, delivery, fleet management, user activity, and trip data | [Check Out](https://developer.uber.com/) |
+| UniCorn API (Universal Currency Rates) | API for global currency exchange rates, conversions, and forex data | [Check Out](https://currencyapi.com/docs) |
+| UnionPay API | Payment gateway API for card transactions, secure payments, and merchant services | [Check Out](https://developer.unionpayintl.com/) |
+| United Airlines API (United Developer Portal) | APIs for flight schedules, bookings, seat maps, and travel operations | [Check Out](https://developer.united.com/) |
+| UN Comtrade API | Official United Nations API for global trade, imports/exports, and commerce datasets | [Check Out](https://comtradeapi.un.org/public/index.html) |
+| UPS Developer API | API for parcel tracking, shipping labels, freight, and logistics automation | [Check Out](https://developer.ups.com/) |
+| USPS Web Tools API | U.S. Postal Service API for package tracking, address validation, rates, and shipping | [Check Out](https://www.usps.com/business/web-tools-apis/) |
+| UShip API | Logistics marketplace API for freight listings and shipment management | [Check Out](https://developer.uship.com/docs) |
+| UptimeRobot API | API for website monitoring, uptime checks, and alerts | [Check Out](https://uptimerobot.com/api/) |
+| Urban Airship (Airship) API | Customer engagement platform API for push notifications, SMS, email & automation | [Check Out](https://docs.airship.com/) |
+
