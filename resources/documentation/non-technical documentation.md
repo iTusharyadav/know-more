@@ -2661,3 +2661,21 @@
 | Veriphone API | Phone number validation and lookup API | [Check Out](https://veriphone.io/documentation) |
 | Vonage Communications API | APIs for SMS, voice, video, messaging apps, and number insights | [Check Out](https://developer.vonage.com/) |
 
+## Non-Tech Documentation  
+*Official documentation for APIs in retail, finance, health, weather, logistics, and global data.*
+
+| **Technology / API** | **Description** | **Official Documentation** |
+|----------------------|------------------|-----------------------------|
+| Walmart Open API | Product search, store data, inventory, reviews, and marketplace integrations | [Check Out](https://developer.walmart.com/) |
+| WeatherAPI.com API | Global weather forecasts, real-time conditions, air quality, and astronomy data | [Check Out](https://www.weatherapi.com/docs/) |
+| Weatherbit API | Weather forecasts, historical climate data, air quality, and alerts | [Check Out](https://www.weatherbit.io/api) |
+| WebEx API (Cisco WebEx) | Video conferencing, messaging, meeting management, and collaboration API | [Check Out](https://developer.webex.com/docs) |
+| WHO API (World Health Organization) | Global disease, vaccination, health indicators, statistics, and open data | [Check Out](https://ghoapi.azureedge.net/api/) |
+| Wise (TransferWise) API | International payments, currency exchange, account balances, and payouts | [Check Out](https://api-docs.wise.com/) |
+| World Bank API | Economic indicators, global development data, finance datasets, and statistics | [Check Out](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation) |
+| World Trading Data API | Stock prices, forex, crypto, real-time and historical market data | [Check Out](https://www.worldtradingdata.com/documentation) |
+| Wix API | Website builder API for e-commerce, bookings, blogging, CRM, and database | [Check Out](https://dev.wix.com/docs) |
+| WooCommerce REST API | E-commerce API for products, orders, customers, coupons, and store analytics | [Check Out](https://woocommerce.github.io/woocommerce-rest-api-docs/) |
+| Wordnik API | Dictionary API for definitions, synonyms, antonyms, usage, and examples | [Check Out](https://developer.wordnik.com/) |
+| WorkflowMax API | Project management & job costing API for time tracking, invoicing, and client data | [Check Out](https://www.workflowmax.com/api-overview) |
+
