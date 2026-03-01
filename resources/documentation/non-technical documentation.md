@@ -2679,3 +2679,17 @@
 | Wordnik API | Dictionary API for definitions, synonyms, antonyms, usage, and examples | [Check Out](https://developer.wordnik.com/) |
 | WorkflowMax API | Project management & job costing API for time tracking, invoicing, and client data | [Check Out](https://www.workflowmax.com/api-overview) |
 
+## Non-Tech Documentation  
+*Official documentation for APIs in accounting, finance, logistics, payments, and global services.*
+
+| **Technology / API** | **Description** | **Official Documentation** |
+|----------------------|------------------|-----------------------------|
+| Xero Accounting API | Cloud-based accounting API for invoices, payroll, bank feeds, inventory, and financial reporting | [Check Out](https://developer.xero.com/documentation/api/overview) |
+| Xignite Market Data API | Enterprise-grade financial APIs for stocks, ETFs, forex, commodities, and corporate actions | [Check Out](https://www.xignite.com/financial-data-apis) |
+| XMLSoccer API | Football (soccer) statistics API for matches, teams, players, and historical data | [Check Out](https://xmlsoccer.com/documentation.aspx) |
+| Xendit Payments API | Payments API for card transactions, e-wallets, virtual accounts, payouts, and invoicing | [Check Out](https://developers.xendit.co/) |
+| Xoom (PayPal) API | Cross-border money transfer API for remittances, deposits, and bill payments | [Check Out](https://www.paypal.com/us/webapps/mpp/xoom-integration) |
+| XpressBees Logistics API | Shipping API for tracking, order creation, pickups, and logistics automation | [Check Out](https://www.xpressbees.com/developers) |
+| X-Rates API | API for exchange rates, conversions, and currency history | [Check Out](https://www.x-rates.com/json/) |
+| XWiki REST API | API for wiki content, pages, users, permissions, and documentation workflows | [Check Out](https://www.xwiki.org/xwiki/bin/view/Documentation/DevGuide/RESTAPI/) |
+
