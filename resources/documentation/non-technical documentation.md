@@ -2693,3 +2693,19 @@
 | X-Rates API | API for exchange rates, conversions, and currency history | [Check Out](https://www.x-rates.com/json/) |
 | XWiki REST API | API for wiki content, pages, users, permissions, and documentation workflows | [Check Out](https://www.xwiki.org/xwiki/bin/view/Documentation/DevGuide/RESTAPI/) |
 
+## Non-Tech Documentation  
+*Official documentation for APIs in reviews, finance, travel, video, search, and data aggregation.*
+
+| **Technology / API** | **Description** | **Official Documentation** |
+|----------------------|------------------|-----------------------------|
+| Yahoo Finance API | Financial market data API for stocks, ETFs, forex, crypto, and historical prices | [Check Out](https://www.yahoofinanceapi.com/) |
+| Yandex Maps API | API for maps, geocoding, routing, traffic, and location-based services | [Check Out](https://yandex.com/dev/maps/) |
+| Yandex Translate API | Neural machine translation API supporting dozens of languages | [Check Out](https://yandex.com/dev/translate/) |
+| Yandex Weather API | Hyperlocal weather forecasts, historical data, and climate info | [Check Out](https://yandex.com/dev/weather/) |
+| Yatra API | Travel booking API offering flights, hotels, packages, and travel data | [Check Out](https://developers.yatra.com/) |
+| Yelp Fusion API | API providing business listings, reviews, ratings, photos, and local search | [Check Out](https://docs.developer.yelp.com/docs/fusion-intro) |
+| Yodlee API | Financial data aggregation API for bank accounts, transactions, balances, and insights | [Check Out](https://developer.yodlee.com/docs) |
+| YouTube Data API | API for managing videos, playlists, comments, channels, and analytics | [Check Out](https://developers.google.com/youtube/v3) |
+| YouTube Analytics API | Detailed video/channel analytics, audience metrics, revenue, and engagement | [Check Out](https://developers.google.com/youtube/analytics) |
+| YouSendIt (Hightail) API | File sharing and digital content collaboration API | [Check Out](https://api.hightail.com/) |
+
