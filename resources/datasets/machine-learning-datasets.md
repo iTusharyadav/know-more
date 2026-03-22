@@ -40,3 +40,16 @@
 | CORD-19 Dataset | COVID-19 research paper dataset used for NLP research and scientific knowledge extraction | [Check Out](https://www.semanticscholar.org/cord19) |
 | Chest X-Ray Dataset | Medical imaging dataset used for pneumonia detection and medical diagnosis models | [Check Out](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) |
 | Consumer Complaint Dataset | Dataset containing complaints submitted to financial institutions used for text classification and sentiment analysis | [Check Out](https://www.consumerfinance.gov/data-research/consumer-complaints/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| DOTA (Dataset for Object Detection in Aerial Images) | Large-scale dataset of aerial images annotated for object detection used in remote sensing research | [Check Out](https://captain-whu.github.io/DOTA/dataset.html) |
+| DTD (Describable Textures Dataset) | Image dataset containing 47 texture categories used for texture recognition and classification | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/dtd/) |
+| DeepFashion Dataset | Large-scale clothing dataset with annotations for attribute prediction, retrieval, and landmark detection | [Check Out](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) |
+| DUKE MTMC-ReID Dataset | Person re-identification dataset used for tracking and surveillance research | [Check Out](https://github.com/layumi/DukeMTMC-reID_evaluation) |
+| DRIVE Dataset | Retinal fundus image dataset used for blood vessel segmentation in medical imaging | [Check Out](https://drive.grand-challenge.org/) |
+| DBpedia Dataset | Structured data extracted from Wikipedia used for knowledge graph and NLP research | [Check Out](https://www.dbpedia.org/resources/) |
+| Describable Textures Dataset (DTD) | Dataset of real-world textures annotated with human-describable attributes | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/dtd/) |
+| Draper Satellite Image Chronology Dataset | Dataset of satellite imagery used for image classification and time-based satellite analysis | [Check Out](https://www.kaggle.com/datasets/draperx/draper-satellite-image-chronology) |
+| Disaster Tweets Dataset | Dataset of tweets labeled as disaster-related or not, used for NLP classification tasks | [Check Out](https://www.kaggle.com/c/nlp-getting-started) |
+| Dog Breed Identification Dataset | Large dog images dataset used for breed classification | [Check Out](https://www.kaggle.com/c/dog-breed-identification) |
