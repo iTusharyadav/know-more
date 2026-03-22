@@ -15,9 +15,6 @@
 | ArXiv Dataset | Large collection of research paper metadata used for NLP, recommendation systems, and knowledge graph tasks | [Check Out](https://www.kaggle.com/Cornell-University/arxiv) |
 | Affective Text Dataset | Dataset used for emotion recognition and sentiment analysis in NLP | [Check Out](https://www.kaggle.com/datasets) |
 
-
-### B
-
 | **Dataset** | **Description** | **Source / Documentation** |
 |-------------|-----------------|----------------------------|
 | Bank Marketing Dataset | Dataset related to direct marketing campaigns of a Portuguese banking institution used for classification tasks | [Check Out](https://archive.ics.uci.edu/ml/datasets/bank+marketing) |
@@ -30,3 +27,16 @@
 | Bitcoin Historical Dataset | Cryptocurrency dataset used for financial prediction, trading strategies, and time series analysis | [Check Out](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data) |
 | Blue Book for Bulldozers Dataset | Dataset used in Kaggle competitions for predicting the sale price of heavy equipment | [Check Out](https://www.kaggle.com/c/bluebook-for-bulldozers) |
 | Birdsnap Dataset | Large fine-grained bird species image dataset used in computer vision classification tasks | [Check Out](http://thomasberg.org/datasets/birdsnap/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| CIFAR-10 Dataset | Image dataset containing 60,000 small images across 10 object classes widely used for computer vision benchmarking | [Check Out](https://www.cs.toronto.edu/~kriz/cifar.html) |
+| CIFAR-100 Dataset | Extension of CIFAR-10 containing 100 image classes used for more complex image classification tasks | [Check Out](https://www.cs.toronto.edu/~kriz/cifar.html) |
+| COCO (Common Objects in Context) Dataset | Large-scale object detection, segmentation, and captioning dataset used in computer vision research | [Check Out](https://cocodataset.org/) |
+| CelebA Dataset | Large dataset of celebrity faces annotated with facial attributes used for face recognition and generative models | [Check Out](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) |
+| Cityscapes Dataset | High-quality dataset for semantic urban scene understanding used in autonomous driving research | [Check Out](https://www.cityscapes-dataset.com/) |
+| Cornell Movie Dialogs Corpus | Dataset containing movie conversations used for building chatbots and conversational AI models | [Check Out](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) |
+| Common Crawl Dataset | Massive web crawl dataset used for NLP training, search engines, and language modeling | [Check Out](https://commoncrawl.org/) |
+| CORD-19 Dataset | COVID-19 research paper dataset used for NLP research and scientific knowledge extraction | [Check Out](https://www.semanticscholar.org/cord19) |
+| Chest X-Ray Dataset | Medical imaging dataset used for pneumonia detection and medical diagnosis models | [Check Out](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) |
+| Consumer Complaint Dataset | Dataset containing complaints submitted to financial institutions used for text classification and sentiment analysis | [Check Out](https://www.consumerfinance.gov/data-research/consumer-complaints/) |
