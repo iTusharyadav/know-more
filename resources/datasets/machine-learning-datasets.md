@@ -93,3 +93,16 @@
 | Global Terrorism Database (GTD) | Dataset of global terrorist incidents used for security analytics and prediction modeling | [Check Out](https://www.start.umd.edu/gtd/) |
 | GAP-coreference Dataset | Dataset used for gender-balanced coreference resolution in NLP | [Check Out](https://github.com/google-research-datasets/gap-coreference) |
 | GRiT (General Robust Image Task) Dataset | Dataset designed for evaluating robustness of vision models | [Check Out](https://github.com/robustness-gym/GRiT) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Human Activity Recognition (HAR) Dataset | Smartphone sensor data used for classification of human physical activities | [Check Out](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones) |
+| HAM10000 Dataset | Large dataset of skin lesion images used for melanoma and skin cancer classification | [Check Out](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) |
+| Hateful Memes Dataset | Multimodal dataset for detecting hateful content in memes | [Check Out](https://ai.facebook.com/datasets/hatefulmemes/) |
+| HEAR 2021 Dataset | Large audio embedding benchmark dataset used for general audio representation learning | [Check Out](https://hearbenchmark.com/) |
+| HMDB51 Dataset | Video dataset with 51 action categories used for human action recognition | [Check Out](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) |
+| HAPT Dataset | Dataset of smartphone inertial sensor signals used for activity recognition | [Check Out](https://archive.ics.uci.edu/ml/datasets/hapt+data+set) |
+| Housing Prices Dataset | Dataset used in Kaggle competitions for predicting housing prices using tabular ML | [Check Out](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
+| Hotspot TREC Dataset | Dataset for triage classification in emergency response prediction modeling | [Check Out](https://trec.nist.gov/data.html) |
+| Heart Disease Dataset | Medical dataset used for classification and cardiovascular risk prediction | [Check Out](https://archive.ics.uci.edu/ml/datasets/heart+disease) |
+| Human Connectome Project Dataset | Large dataset for neuroscience ML models used in brain connectivity analysis | [Check Out](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) |
