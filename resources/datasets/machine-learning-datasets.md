@@ -53,3 +53,16 @@
 | Draper Satellite Image Chronology Dataset | Dataset of satellite imagery used for image classification and time-based satellite analysis | [Check Out](https://www.kaggle.com/datasets/draperx/draper-satellite-image-chronology) |
 | Disaster Tweets Dataset | Dataset of tweets labeled as disaster-related or not, used for NLP classification tasks | [Check Out](https://www.kaggle.com/c/nlp-getting-started) |
 | Dog Breed Identification Dataset | Large dog images dataset used for breed classification | [Check Out](https://www.kaggle.com/c/dog-breed-identification) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| EMNIST Dataset | Extended MNIST dataset containing letters and digits for handwritten character recognition | [Check Out](https://www.nist.gov/itl/products-and-services/emnist-dataset) |
+| EuroSAT Dataset | Satellite image dataset based on Sentinel-2 used for land use and land cover classification | [Check Out](https://github.com/phelber/eurosat) |
+| Enron Email Dataset | Large dataset of emails used for NLP tasks such as spam detection and email classification | [Check Out](https://www.cs.cmu.edu/~enron/) |
+| ESC-50 Dataset | Labeled environmental audio dataset including natural sounds used for sound classification | [Check Out](https://github.com/karoldvl/ESC-50) |
+| eICU Collaborative Research Database | Critical care dataset used for medical ML models related to ICU patient outcomes | [Check Out](https://eicu-crd.mit.edu/) |
+| eCommerce Behavior Dataset | Dataset containing user behavior logs for building recommendation systems and analytics models | [Check Out](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store) |
+| Epinions Dataset | Product review dataset used for sentiment analysis and trust-based recommendation systems | [Check Out](https://www.trustlet.org/epinions.html) |
+| Earthquake Dataset | Dataset with global earthquake records used for geospatial ML and time series forecasting | [Check Out](https://earthquake.usgs.gov/earthquakes/search/) |
+| ETH Pedestrian Dataset | Benchmark dataset for pedestrian detection and tracking | [Check Out](https://data.vision.ee.ethz.ch/cvl/aessid/ethz-street-scene/) |
+| EEG Eye State Dataset | EEG signals dataset used for classification of eye-open vs eye-closed states | [Check Out](https://archive.ics.uci.edu/ml/datasets/eeg+eye+state) |
