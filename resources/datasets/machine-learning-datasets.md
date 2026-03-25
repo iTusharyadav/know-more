@@ -66,3 +66,16 @@
 | Earthquake Dataset | Dataset with global earthquake records used for geospatial ML and time series forecasting | [Check Out](https://earthquake.usgs.gov/earthquakes/search/) |
 | ETH Pedestrian Dataset | Benchmark dataset for pedestrian detection and tracking | [Check Out](https://data.vision.ee.ethz.ch/cvl/aessid/ethz-street-scene/) |
 | EEG Eye State Dataset | EEG signals dataset used for classification of eye-open vs eye-closed states | [Check Out](https://archive.ics.uci.edu/ml/datasets/eeg+eye+state) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Fashion-MNIST Dataset | Image dataset of clothing items used as a replacement for MNIST in benchmarking models | [Check Out](https://github.com/zalandoresearch/fashion-mnist) |
+| FER2013 Dataset | Facial expression recognition dataset used for emotion detection tasks | [Check Out](https://www.kaggle.com/datasets/msambare/fer2013) |
+| Flickr8k Dataset | Image-caption dataset used for image captioning and multimodal learning | [Check Out](https://github.com/jbrownlee/Datasets/releases/tag/Flickr8k) |
+| Flickr30k Dataset | Larger version of Flickr8k with more images and captions for vision-language tasks | [Check Out](https://shannon.cs.illinois.edu/DenotationGraph/) |
+| Free Music Archive (FMA) Dataset | Audio dataset for music analysis, genre classification, and recommendation systems | [Check Out](https://github.com/mdeff/fma) |
+| Forest Cover Type Dataset | Dataset used for predicting forest cover types from cartographic variables | [Check Out](https://archive.ics.uci.edu/ml/datasets/covertype) |
+| Fake News Dataset | Dataset used for detecting misinformation and fake news in NLP tasks | [Check Out](https://www.kaggle.com/c/fake-news) |
+| Flowers Recognition Dataset | Image dataset of flower species used for classification tasks | [Check Out](https://www.kaggle.com/alxmamaev/flowers-recognition) |
+| FaceForensics++ Dataset | Dataset for detecting manipulated facial videos (deepfakes) | [Check Out](https://github.com/ondyari/FaceForensics) |
+| Framingham Heart Study Dataset | Medical dataset used for predicting cardiovascular disease risk | [Check Out](https://www.kaggle.com/datasets/amanajmera1/framingham-heart-study-dataset) |
