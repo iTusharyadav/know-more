@@ -79,3 +79,17 @@
 | Flowers Recognition Dataset | Image dataset of flower species used for classification tasks | [Check Out](https://www.kaggle.com/alxmamaev/flowers-recognition) |
 | FaceForensics++ Dataset | Dataset for detecting manipulated facial videos (deepfakes) | [Check Out](https://github.com/ondyari/FaceForensics) |
 | Framingham Heart Study Dataset | Medical dataset used for predicting cardiovascular disease risk | [Check Out](https://www.kaggle.com/datasets/amanajmera1/framingham-heart-study-dataset) |
+
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Google Open Images Dataset | Large-scale dataset with millions of annotated images used for object detection, segmentation, and classification | [Check Out](https://storage.googleapis.com/openimages/web/index.html) |
+| Gutenberg eBooks Dataset | Large corpus of public-domain books used for NLP, language modeling, and text generation | [Check Out](https://www.gutenberg.org/) |
+| GTSRB (German Traffic Sign Recognition Benchmark) | Image dataset of traffic signs used for classification and autonomous driving research | [Check Out](https://benchmark.ini.rub.de/gtsrb_news.html) |
+| GTSDB (German Traffic Sign Detection Benchmark) | Dataset for traffic sign detection used in computer vision | [Check Out](https://benchmark.ini.rub.de/?section=gtsdb&subsection=news) |
+| Google Speech Commands Dataset | Audio dataset of spoken commands used for speech recognition | [Check Out](https://www.tensorflow.org/datasets/catalog/speech_commands) |
+| Gene Expression Omnibus (GEO) Dataset | Large bioinformatics dataset containing gene expression profiles used for medical ML research | [Check Out](https://www.ncbi.nlm.nih.gov/geo/) |
+| Google Landmarks Dataset | Dataset for landmark recognition and retrieval used in computer vision | [Check Out](https://github.com/cvdfoundation/google-landmark) |
+| Global Terrorism Database (GTD) | Dataset of global terrorist incidents used for security analytics and prediction modeling | [Check Out](https://www.start.umd.edu/gtd/) |
+| GAP-coreference Dataset | Dataset used for gender-balanced coreference resolution in NLP | [Check Out](https://github.com/google-research-datasets/gap-coreference) |
+| GRiT (General Robust Image Task) Dataset | Dataset designed for evaluating robustness of vision models | [Check Out](https://github.com/robustness-gym/GRiT) |
