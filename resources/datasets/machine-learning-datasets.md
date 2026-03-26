@@ -132,3 +132,16 @@
 | JHMDB Dataset | Human motion dataset used for action recognition | [Check Out](http://jhmdb.is.tue.mpg.de/) |
 | Jena Climate Dataset | Climate and weather dataset used for time series forecasting | [Check Out](https://www.kaggle.com/datasets/pankrzysiu/weather-archive-jena) |
 | Job Salary Prediction Dataset | Dataset for predicting job salaries from job descriptions (NLP + regression) | [Check Out](https://www.kaggle.com/datasets/rhuebner/job-salary-prediction) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| KITTI Vision Benchmark Suite | One of the most widely used datasets for autonomous driving, covering stereo vision, optical flow, depth, and object detection | [Check Out](http://www.cvlibs.net/datasets/kitti/) |
+| KDD Cup 1999 Dataset | Classic dataset used for network intrusion detection and cybersecurity ML tasks | [Check Out](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) |
+| KMNIST Dataset | Japanese Kuzushiji handwritten character dataset used as a drop-in MNIST replacement | [Check Out](https://github.com/rois-codh/kmnist) |
+| Kuzushiji-MNIST (K-MNIST) Dataset | Handwritten Japanese characters dataset used for classification | [Check Out](https://github.com/rois-codh/kmnist) |
+| Kaggle Titanic Dataset | Famous dataset used for binary classification (survival prediction) | [Check Out](https://www.kaggle.com/c/titanic) |
+| Kaggle Dogs vs Cats Dataset | Image dataset used for binary image classification tasks | [Check Out](https://www.kaggle.com/c/dogs-vs-cats) |
+| Kinect Activity Recognition Dataset | Dataset of human activities recorded via Kinect sensors used for gesture and action recognition | [Check Out](https://archive.ics.uci.edu/ml/datasets/kinect+activities) |
+| Korean Hate Speech Dataset | NLP dataset for toxic content and hate speech detection in Korean | [Check Out](https://github.com/kocohub/korean-hate-speech) |
+| KIT Motion-Language Dataset | Dataset pairing human motions with natural language descriptions used for grounding and action modeling | [Check Out](https://motion-language.github.io/dataset.html) |
+| KittiMoSeg Dataset | KITTI-based motion segmentation dataset for self-driving research | [Check Out](https://github.com/gworthey/KittiMoSeg) |
