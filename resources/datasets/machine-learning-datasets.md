@@ -145,3 +145,16 @@
 | Korean Hate Speech Dataset | NLP dataset for toxic content and hate speech detection in Korean | [Check Out](https://github.com/kocohub/korean-hate-speech) |
 | KIT Motion-Language Dataset | Dataset pairing human motions with natural language descriptions used for grounding and action modeling | [Check Out](https://motion-language.github.io/dataset.html) |
 | KittiMoSeg Dataset | KITTI-based motion segmentation dataset for self-driving research | [Check Out](https://github.com/gworthey/KittiMoSeg) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| LFW (Labeled Faces in the Wild) Dataset | Large-scale face dataset used for face verification and face recognition benchmarking | [Check Out](http://vis-www.cs.umass.edu/lfw/) |
+| LibriSpeech ASR Dataset | Large corpus of read English speech used for automatic speech recognition training | [Check Out](https://www.openslr.org/12/) |
+| LSUN Dataset | Large image dataset for scene classification and generative model evaluation | [Check Out](https://www.yf.io/p/lsun) |
+| LUNA16 Dataset | Lung nodule detection dataset used in CT scan medical imaging research | [Check Out](https://luna16.grand-challenge.org/) |
+| LVIS Dataset (Long-tailed Visual Recognition) | Object detection dataset with long-tailed distribution for realistic recognition tasks | [Check Out](https://www.lvisdataset.org/) |
+| LibreOffice Text Corpus | Text dataset generated from open-source office documents used for NLP preprocessing tasks | [Check Out](https://corpora.uni-leipzig.de/) |
+| Landsat Satellite Dataset | Satellite imagery used for environmental monitoring, classification, and land cover analysis | [Check Out](https://landsat.gsfc.nasa.gov/) |
+| LJSpeech Dataset | Public domain single-speaker English speech dataset used for TTS training | [Check Out](https://keithito.com/LJ-Speech-Dataset/) |
+| LiveWires Sound Dataset | Environmental sound dataset for audio classification tasks | [Check Out](https://www.openslr.org/) |
+| LIP (Look Into Person) Dataset | Human parsing dataset with pixel-level segmentation of human body parts | [Check Out](https://github.com/Engineering-Course/LIP_SSL) |
