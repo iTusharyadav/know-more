@@ -106,3 +106,16 @@
 | Hotspot TREC Dataset | Dataset for triage classification in emergency response prediction modeling | [Check Out](https://trec.nist.gov/data.html) |
 | Heart Disease Dataset | Medical dataset used for classification and cardiovascular risk prediction | [Check Out](https://archive.ics.uci.edu/ml/datasets/heart+disease) |
 | Human Connectome Project Dataset | Large dataset for neuroscience ML models used in brain connectivity analysis | [Check Out](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| ImageNet Dataset | One of the largest and most influential datasets for image classification, used to benchmark deep learning models | [Check Out](https://www.image-net.org/) |
+| IMDB Movie Reviews Dataset | Large dataset of movie reviews labeled for sentiment analysis in NLP tasks | [Check Out](https://ai.stanford.edu/~amaas/data/sentiment/) |
+| iNaturalist Dataset | Large-scale dataset of species images used for fine-grained visual classification | [Check Out](https://github.com/visipedia/inat_comp) |
+| INRIA Person Dataset | Dataset for pedestrian detection used in computer vision research | [Check Out](https://lear.inrialpes.fr/data) |
+| Indian Pines Hyperspectral Dataset | Hyperspectral image dataset used for remote sensing and pixel-level classification tasks | [Check Out](https://purr.purdue.edu/publications/1947/1) |
+| IEMOCAP Dataset | Multimodal dataset for emotion recognition using speech, video, and text | [Check Out](https://sail.usc.edu/iemocap/) |
+| ISIC Skin Cancer Dataset | Dermoscopic images dataset used for skin cancer classification and segmentation | [Check Out](https://www.isic-archive.com/) |
+| ILSVRC Challenge Dataset | Dataset subset of ImageNet used for the ImageNet Large Scale Visual Recognition Challenge | [Check Out](https://www.image-net.org/challenges/LSVRC/) |
+| ICDAR Dataset (OCR) | Document image dataset used for text detection, text recognition, and document parsing | [Check Out](https://rrc.cvc.uab.es/) |
+| IXI Brain MRI Dataset | Brain MRI dataset used in medical imaging tasks such as segmentation and reconstruction | [Check Out](https://brain-development.org/ixi-dataset/) |
