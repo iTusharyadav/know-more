@@ -119,3 +119,16 @@
 | ILSVRC Challenge Dataset | Dataset subset of ImageNet used for the ImageNet Large Scale Visual Recognition Challenge | [Check Out](https://www.image-net.org/challenges/LSVRC/) |
 | ICDAR Dataset (OCR) | Document image dataset used for text detection, text recognition, and document parsing | [Check Out](https://rrc.cvc.uab.es/) |
 | IXI Brain MRI Dataset | Brain MRI dataset used in medical imaging tasks such as segmentation and reconstruction | [Check Out](https://brain-development.org/ixi-dataset/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Jester Dataset | Large dataset of video clips showing human hand gestures used for gesture recognition models | [Check Out](https://20bn.com/datasets/jester) |
+| JAFFE Dataset (Japanese Female Facial Expressions) | Dataset of facial expressions used for facial emotion recognition | [Check Out](https://www.kasrl.org/jaffe.html) |
+| JSRT Chest X-Ray Dataset | Dataset of chest radiographs used for lung segmentation and medical diagnosis | [Check Out](http://db.jsrt.or.jp/eng.php) |
+| JPCL Handwritten Character Dataset | Japanese handwritten character dataset used for OCR tasks | [Check Out](http://etlcdb.db.aist.go.jp/) |
+| JHU-CROWD++ Dataset | Large crowd counting dataset used for density estimation | [Check Out](https://crowdbenchmark.com/) |
+| JSON Datasets Repository | Collection of public JSON-based datasets used for ML experimentation | [Check Out](https://github.com/json-iterator/test-data) |
+| JIGSAWS Dataset | Surgical gesture classification dataset used in surgical robotics and action segmentation | [Check Out](https://cirl.lcsr.jhu.edu/research/hmm/dataset/) |
+| JHMDB Dataset | Human motion dataset used for action recognition | [Check Out](http://jhmdb.is.tue.mpg.de/) |
+| Jena Climate Dataset | Climate and weather dataset used for time series forecasting | [Check Out](https://www.kaggle.com/datasets/pankrzysiu/weather-archive-jena) |
+| Job Salary Prediction Dataset | Dataset for predicting job salaries from job descriptions (NLP + regression) | [Check Out](https://www.kaggle.com/datasets/rhuebner/job-salary-prediction) |
