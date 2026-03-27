@@ -176,3 +176,17 @@
 | METR-LA Traffic Dataset | Traffic speed and flow dataset used for spatial-temporal forecasting | [Check Out](https://github.com/liyaguang/DCRNN) |
 | Mini-ImageNet Dataset | Smaller subset of ImageNet used for few-shot learning research | [Check Out](https://www.kaggle.com/datasets/arjunashok33/miniimagenet) |
 | Mozilla Common Voice Dataset | Large open-source multilingual speech dataset used for ASR training | [Check Out](https://commonvoice.mozilla.org/en/datasets) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| NSL-KDD Dataset | Improved version of the KDD’99 intrusion detection dataset used for cybersecurity and anomaly detection | [Check Out](https://www.unb.ca/cic/datasets/nsl.html) |
+| NLTK Movie Reviews Dataset | Sentiment-labelled movie review dataset bundled with NLTK used for NLP tasks | [Check Out](https://www.nltk.org/nltk_data/) |
+| NCBI Disease Corpus | Biomedical NLP dataset containing disease mentions and annotations | [Check Out](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/) |
+| NER CoNLL-2003 Dataset | Named Entity Recognition dataset containing annotated English news articles | [Check Out](https://www.clips.uantwerpen.be/conll2003/ner/) |
+| NIST Handprinted Forms Dataset | Dataset containing hand-labeled forms used for OCR and document analysis | [Check Out](https://www.nist.gov/srd/nist-special-database-19) |
+| NEON Ecological Dataset | Environmental and ecological observational data used for climate and biodiversity modeling | [Check Out](https://data.neonscience.org/) |
+| NASA Turbofan Engine Degradation Dataset | Sensor dataset used for predictive maintenance and RUL (Remaining Useful Life) forecasting | [Check Out](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) |
+| NOAA Weather Dataset | Weather and oceans dataset for forecasting, climate modeling, and environmental ML tasks | [Check Out](https://www.ncei.noaa.gov/) |
+| Natural Questions Dataset (NQ) | Large-scale QA dataset with real Google search queries used for training QA models | [Check Out](https://ai.google.com/research/NaturalQuestions) |
+| NuScenes Dataset | Autonomous driving dataset containing sensor data from lidar, radar, and cameras | [Check Out](https://www.nuscenes.org/) |
+| NAB (Numenta Anomaly Benchmark) Dataset | Time-series dataset used for benchmarking anomaly detection algorithms | [Check Out](https://github.com/numenta/NAB) |
