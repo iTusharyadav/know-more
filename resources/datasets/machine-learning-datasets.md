@@ -158,3 +158,21 @@
 | LJSpeech Dataset | Public domain single-speaker English speech dataset used for TTS training | [Check Out](https://keithito.com/LJ-Speech-Dataset/) |
 | LiveWires Sound Dataset | Environmental sound dataset for audio classification tasks | [Check Out](https://www.openslr.org/) |
 | LIP (Look Into Person) Dataset | Human parsing dataset with pixel-level segmentation of human body parts | [Check Out](https://github.com/Engineering-Course/LIP_SSL) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| MNIST Dataset | Classic handwritten digit dataset used for benchmarking classification models | [Check Out](http://yann.lecun.com/exdb/mnist/) |
+| MS COCO Captions Dataset | Dataset containing images with detailed human-written captions, used for image captioning and multimodal tasks | [Check Out](https://cocodataset.org/#home) |
+| Mapillary Vistas Dataset | High-quality dataset for semantic segmentation in street-level environments | [Check Out](https://www.mapillary.com/dataset/vistas) |
+| MURA Dataset | Large musculoskeletal radiograph dataset used for anomaly detection in medical imaging | [Check Out](https://stanfordmlgroup.github.io/competitions/mura/) |
+| MovieLens Dataset | Widely used recommendation systems dataset containing movie ratings and metadata | [Check Out](https://grouplens.org/datasets/movielens/) |
+| MIMIC-III Dataset | Clinical healthcare dataset used for medical ML research (ICU patient records) | [Check Out](https://mimic.physionet.org/) |
+| Million Song Dataset | Collection of audio features and metadata for music recommendation and analysis | [Check Out](http://millionsongdataset.com/) |
+| MPII Human Pose Dataset | Dataset for human pose estimation with annotated body joint positions | [Check Out](http://human-pose.mpi-inf.mpg.de/) |
+| MSRA Saliency Dataset | Dataset used for evaluating models of visual saliency prediction in images | [Check Out](https://www.microsoft.com/en-us/research/project/msra-salient-object-database/) |
+| MultiNLI (Multi-Genre Natural Language Inference) Dataset | NLP dataset for training and evaluating sentence inference and natural language understanding | [Check Out](https://cims.nyu.edu/~sbowman/multinli/) |
+| MUSDB18 Dataset | Music separation dataset used for audio source separation and signal processing | [Check Out](https://sigsep.github.io/datasets/musdb.html) |
+| MASA (Masked Audio Spectrogram Augmentation) Dataset | Dataset for self-supervised learning in audio tasks | [Check Out](https://github.com) |
+| METR-LA Traffic Dataset | Traffic speed and flow dataset used for spatial-temporal forecasting | [Check Out](https://github.com/liyaguang/DCRNN) |
+| Mini-ImageNet Dataset | Smaller subset of ImageNet used for few-shot learning research | [Check Out](https://www.kaggle.com/datasets/arjunashok33/miniimagenet) |
+| Mozilla Common Voice Dataset | Large open-source multilingual speech dataset used for ASR training | [Check Out](https://commonvoice.mozilla.org/en/datasets) |
