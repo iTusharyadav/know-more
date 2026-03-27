@@ -190,3 +190,22 @@
 | Natural Questions Dataset (NQ) | Large-scale QA dataset with real Google search queries used for training QA models | [Check Out](https://ai.google.com/research/NaturalQuestions) |
 | NuScenes Dataset | Autonomous driving dataset containing sensor data from lidar, radar, and cameras | [Check Out](https://www.nuscenes.org/) |
 | NAB (Numenta Anomaly Benchmark) Dataset | Time-series dataset used for benchmarking anomaly detection algorithms | [Check Out](https://github.com/numenta/NAB) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Open Images Dataset | Massive annotated image dataset with bounding boxes, segmentation masks, and labels | [Check Out](https://storage.googleapis.com/openimages/web/index.html) |
+| Oxford-IIIT Pet Dataset | Image dataset of 37 pet breeds with segmentation masks, used for classification & detection | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/pets/) |
+| Omniglot Dataset | Dataset of handwritten characters from 50+ alphabets used for one-shot learning | [Check Out](https://github.com/brendenlake/omniglot) |
+| Open Weather Dataset (NOAA/OpenWeather) | Global weather observations, forecasts, climate stats, historical weather | [Check Out](https://openweathermap.org/api) |
+| OpenAI Human Preferences (HPRL) Dataset | Dataset of human-labeled comparisons for RLHF (reinforcement learning from human feedback) | [Check Out](https://openai.com/research/) |
+| Open Graph Benchmark (OGB) | Large-scale graph datasets for ML on graphs (node/edge/link prediction) | [Check Out](https://ogb.stanford.edu/) |
+| OpenNeuro Neuroimaging Dataset | MRI, EEG, MEG datasets for brain research and cognitive neuroscience | [Check Out](https://openneuro.org/) |
+| OpenStreetMap (OSM) Planet Data | Worldwide geospatial dataset including roads, buildings, geography | [Check Out](https://planet.openstreetmap.org/) |
+| OpenFood Facts Dataset | Global dataset of food products including ingredients, nutrition, allergens | [Check Out](https://world.openfoodfacts.org/data) |
+| OpenLibrary Book Metadata Dataset | Millions of book metadata entries including authors, editions, subjects | [Check Out](https://openlibrary.org/developers/dumps) |
+| One Million Arab Coders Dataset | Arabic NLP dataset including coding discussions & comments | [Check Out](https://github.com/ARBML/osc-dataset) |
+| OQA (Open Question Answering) Dataset | Large-scale QA dataset built from natural queries & web documents | [Check Out](https://github.com/facebookresearch/DrQA) |
+| Open Catalyst Project Dataset | Molecular & materials dataset for catalyst discovery using ML | [Check Out](https://opencatalystproject.org/) |
+| OpenML Datasets Repository | Huge curated dataset repository for machine learning benchmarking | [Check Out](https://www.openml.org/search?type=data) |
+| Onera Satellite Change Detection (OSCD) Dataset | Remote sensing dataset for land-use & environment change detection | [Check Out](https://rcdaudt.github.io/oscd/) |
+| OpenASL Dataset | American Sign Language video dataset for gesture recognition | [Check Out](https://openasl.org/) |
