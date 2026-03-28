@@ -229,3 +229,16 @@
 | PatentsView Dataset | U.S. patent data including inventors, tech categories, geography | [Check Out](https://patentsview.org/download/data-download-tables) |
 | Project Gutenberg Dataset | Over 70,000 free digitized books for NLP, training, and analysis | [Check Out](https://www.gutenberg.org/) |
 | PolitiFact Fake News Dataset | Dataset of political fact-checks for misinformation detection | [Check Out](https://www.politifact.com/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| QUORA Question Pairs Dataset (QQP) | Dataset containing pairs of questions labeled as duplicate/non-duplicate for semantic similarity tasks | [Check Out](https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs) |
+| QNLI (Question-Natural Language Inference) Dataset | Question–answering inference dataset derived from Stanford QA tasks for GLUE benchmark | [Check Out](https://gluebenchmark.com/tasks) |
+| QALD (Question Answering over Linked Data) Dataset | Benchmark dataset for multilingual QA systems using semantic web and linked data | [Check Out](https://qald.sebastianwalter.org/) |
+| QANTA Dataset | Quiz-bowl question buzzing dataset used for incremental QA and model reasoning tasks | [Check Out](https://sites.google.com/view/qanta/home) |
+| QASC Dataset | 9-fact aligned question answering dataset for elementary-level science reasoning | [Check Out](https://allenai.org/data/qasc) |
+| QMDataset Quantum Chemistry Dataset | Dataset containing quantum molecular structures used for chemistry ML and simulation tasks | [Check Out](https://qmml.org/datasets.html) |
+| QuesCollab Educational Dataset | Dataset of student questions, doubt patterns, and educational Q&A interactions | [Check Out](https://github.com/rajpurkar/SQuAD-explorer) |
+| QTABLE Financial Dataset | Quantitative finance dataset containing time-series data for trading models | [Check Out](https://www.kaggle.com/) |
+| QLUE (Quantitative Law Understanding Evaluation) Dataset | Dataset for evaluating LLM ability in legal reasoning and statutory interpretation | [Check Out](https://github.com) |
+| QA-SRL (Question-Answer Driven Semantic Role Labeling) Dataset | Dataset mapping natural language questions to semantic role labels | [Check Out](https://nlp.jhu.edu/qasrl/) |
