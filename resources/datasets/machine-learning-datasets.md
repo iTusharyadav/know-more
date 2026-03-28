@@ -242,3 +242,21 @@
 | QTABLE Financial Dataset | Quantitative finance dataset containing time-series data for trading models | [Check Out](https://www.kaggle.com/) |
 | QLUE (Quantitative Law Understanding Evaluation) Dataset | Dataset for evaluating LLM ability in legal reasoning and statutory interpretation | [Check Out](https://github.com) |
 | QA-SRL (Question-Answer Driven Semantic Role Labeling) Dataset | Dataset mapping natural language questions to semantic role labels | [Check Out](https://nlp.jhu.edu/qasrl/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Reddit Comment Corpus (Pushshift Reddit Dataset) | Massive archive of Reddit posts and comments used for NLP, sentiment analysis, and pretraining | [Check Out](https://pushshift.io/) |
+| Reuters-21578 Dataset | Classic newswire text classification dataset used for topic modeling and NLP | [Check Out](https://kdd.ics.uci.edu/databases/reuters21578/) |
+| RAVDESS Emotional Speech & Song Dataset | Audio dataset of actors expressing emotions through speech and singing | [Check Out](https://zenodo.org/record/1188976) |
+| ROCO (Radiology Objects in Context) Dataset | Medical imaging dataset with captions for radiology image–text tasks | [Check Out](https://github.com/razorx89/roco-dataset) |
+| RACE Reading Comprehension Dataset | Large-scale English passage QA dataset used for machine reading comprehension | [Check Out](https://www.cs.cmu.edu/~glai1/data/race/) |
+| RIOS Weather Radar Dataset | Remote sensing radar dataset for precipitation estimation and weather forecasting | [Check Out](https://www.kaggle.com/) |
+| RIKEN Brain/MINDS Dataset | Large-scale mouse brain image dataset for neuroscience research | [Check Out](https://brainminds.jp/en) |
+| RUL Turbofan Engine Dataset | Remaining Useful Life (RUL) prediction dataset for predictive maintenance | [Check Out](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) |
+| RASTER Vision Remote Sensing Dataset | Geospatial imagery dataset for land classification and segmentation | [Check Out](https://registry.opendata.aws/) |
+| RecSys Amazon Reviews Dataset | Product reviews with ratings used for recommendation system research | [Check Out](https://nijianmo.github.io/amazon/index.html) |
+| RST Discourse Treebank | Dataset annotating discourse relations for NLP and linguistic analysis | [Check Out](https://catalog.ldc.upenn.edu/LDC2015T13) |
+| Road Damage Detection Dataset (RDD) | Dataset containing road cracks, potholes, and defects for CV tasks | [Check Out](https://rdd2018.deepaccel.ai/) |
+| RoboNet Dataset | Large-scale robotic manipulation dataset for imitation learning | [Check Out](https://robonet.stanford.edu/) |
+| Russian SuperGLUE | Benchmark dataset for evaluating NLP models in Russian | [Check Out](https://russiansuperglue.com/) |
+| RadioML Dataset | Synthetic radio signal dataset for modulation classification | [Check Out](https://www.deepsig.io/datasets) |
