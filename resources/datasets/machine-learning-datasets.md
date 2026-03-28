@@ -209,3 +209,23 @@
 | OpenML Datasets Repository | Huge curated dataset repository for machine learning benchmarking | [Check Out](https://www.openml.org/search?type=data) |
 | Onera Satellite Change Detection (OSCD) Dataset | Remote sensing dataset for land-use & environment change detection | [Check Out](https://rcdaudt.github.io/oscd/) |
 | OpenASL Dataset | American Sign Language video dataset for gesture recognition | [Check Out](https://openasl.org/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| PASCAL VOC Dataset | Popular image dataset for object detection, classification, and segmentation | [Check Out](http://host.robots.ox.ac.uk/pascal/VOC/) |
+| PubChem Bioassay Dataset | Large repository of chemical compounds and bioassay screening results | [Check Out](https://pubchem.ncbi.nlm.nih.gov/) |
+| PlantVillage Dataset | Image dataset for plant disease classification and agricultural ML | [Check Out](https://plantvillage.psu.edu/) |
+| Pile Dataset (EleutherAI) | Massive English text corpus used for training large language models | [Check Out](https://pile.eleuther.ai/) |
+| PhysioNet Dataset | Clinical and physiological signals (ECG, EEG, ICU data, etc.) | [Check Out](https://physionet.org/) |
+| Pew Research Survey Datasets | Global datasets related to social science, demographics, and public opinion | [Check Out](https://www.pewresearch.org/download-datasets/) |
+| Proton Mail Phishing Dataset | Email phishing dataset for security and detection tasks | [Check Out](https://github.com) |
+| ProPublica Data Store | Investigative journalism datasets (healthcare, politics, finance, policing) | [Check Out](https://www.propublica.org/datastore) |
+| Princeton WordNet Dataset | Lexical database of English used for NLP tasks | [Check Out](https://wordnet.princeton.edu/) |
+| PubMed Central Open Access Dataset | Millions of biomedical research papers for NLP and text mining | [Check Out](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/) |
+| PAN Author Profiling Dataset | NLP dataset for gender, age, and authorship classification tasks | [Check Out](https://pan.webis.de/) |
+| PDB (Protein Data Bank) Dataset | 3D structures of proteins, nucleic acids, and molecular complexes | [Check Out](https://www.rcsb.org/) |
+| PlanetScope Satellite Dataset | Daily satellite imagery used for climate, land, agriculture, and analytics | [Check Out](https://www.planet.com/) |
+| PKLot Dataset | Parking lot occupancy detection dataset from CCTV images | [Check Out](https://web.inf.ufpr.br/vri/databases/pklot/) |
+| PatentsView Dataset | U.S. patent data including inventors, tech categories, geography | [Check Out](https://patentsview.org/download/data-download-tables) |
+| Project Gutenberg Dataset | Over 70,000 free digitized books for NLP, training, and analysis | [Check Out](https://www.gutenberg.org/) |
+| PolitiFact Fake News Dataset | Dataset of political fact-checks for misinformation detection | [Check Out](https://www.politifact.com/) |
