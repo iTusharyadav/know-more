@@ -260,3 +260,31 @@
 | RoboNet Dataset | Large-scale robotic manipulation dataset for imitation learning | [Check Out](https://robonet.stanford.edu/) |
 | Russian SuperGLUE | Benchmark dataset for evaluating NLP models in Russian | [Check Out](https://russiansuperglue.com/) |
 | RadioML Dataset | Synthetic radio signal dataset for modulation classification | [Check Out](https://www.deepsig.io/datasets) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| TIMIT Dataset | Phoneme-labeled speech dataset used for speech recognition research | [Check Out](https://catalog.ldc.upenn.edu/LDC93S1) |
+| Tiny ImageNet | Simplified 200-class version of ImageNet used for ML benchmarking | [Check Out](https://tiny-imagenet.herokuapp.com/) |
+| Twitter Sentiment Dataset | Sentiment-labeled tweets for NLP tasks | [Check Out](https://www.kaggle.com/kazanova/sentiment140) |
+| TREC Question Classification Dataset | Dataset for classifying types of questions | [Check Out](https://cogcomp.seas.upenn.edu/Data/QA/QC/) |
+| THUMOS Action Recognition Dataset | Video dataset for human activity recognition | [Check Out](http://crcv.ucf.edu/THUMOS14/) |
+| TU-Berlin Sketch Dataset | Hand-drawn sketches used for sketch recognition | [Check Out](http://cybertron.cg.tu-berlin.de/eitz/projects/sketch-recognition/) |
+| TACRED Dataset | Large-scale relation extraction dataset | [Check Out](https://nlp.stanford.edu/projects/tacred/) |
+| Text8 Dataset | 100MB cleaned English Wikipedia text used for language modeling | [Check Out](http://mattmahoney.net/dc/textdata.html) |
+| TempEval Dataset | Dataset for temporal events, ordering, and time expressions | [Check Out](https://timeml.org/tempeval2/) |
+| TACO Dataset | Trash Annotations in Context — waste object detection dataset | [Check Out](http://tacodataset.org/) |
+| TUH EEG Corpus | Large EEG dataset used for seizure detection research | [Check Out](https://www.isip.piconepress.com/projects/tuh_eeg/) |
+| Turku Dependency Treebank | Finnish dependency parsing dataset | [Check Out](https://turkunlp.org/treebank.html) |
+| TED Talks Open Translation Dataset | Multilingual translation corpus from TED Talks | [Check Out](https://opus.nlpl.eu/TED2013.php) |
+| Toxic Comment Classification Dataset | Dataset for detecting toxic and abusive language | [Check Out](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) |
+| TACO Indoor Scene Dataset | Indoor scene segmentation dataset | [Check Out](https://github.com/aremoto/taco) |
+| Toronto Face Dataset | Facial expression and emotion dataset | [Check Out](http://aclab.ca/face-database/) |
+| Taxi Trip Dataset (NYC) | Millions of real-world NYC taxi trip records | [Check Out](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) |
+| Twitter Bot Detection Dataset | Dataset for training bot vs human classifiers | [Check Out](https://botometer.osome.iu.edu/bot-research/) |
+| TAU Urban Acoustic Scenes | Environmental sound classification dataset | [Check Out](https://zenodo.org/record/3819968) |
+| TIMIT LIUM SpkSeg Dataset | Speaker segmentation and diarization dataset | [Check Out](https://projets-lium.univ-lemans.fr/spkseg/) |
+| TACO Waste Segmentation Dataset | Object detection dataset for trash and recycling | [Check Out](http://tacodataset.org/) |
+| TRoJAI Dataset | Dataset for detecting Trojan-infected neural networks | [Check Out](https://trojai.ai/data/) |
+| TID2013 Image Distortion Dataset | Benchmark for image quality assessment | [Check Out](https://www.ponomarenko.info/tid2013.htm) |
+| Time Series Classification Archive | Archive of 100+ time-series datasets | [Check Out](http://www.timeseriesclassification.com/) |
+| TyDi QA | Multilingual question-answering dataset | [Check Out](https://ai.google.com/research/tydiqa) |
