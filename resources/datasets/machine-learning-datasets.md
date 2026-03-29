@@ -288,3 +288,26 @@
 | TID2013 Image Distortion Dataset | Benchmark for image quality assessment | [Check Out](https://www.ponomarenko.info/tid2013.htm) |
 | Time Series Classification Archive | Archive of 100+ time-series datasets | [Check Out](http://www.timeseriesclassification.com/) |
 | TyDi QA | Multilingual question-answering dataset | [Check Out](https://ai.google.com/research/tydiqa) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| UCF101 Action Recognition Dataset | 101 human action video categories for activity recognition | [Check Out](https://www.crcv.ucf.edu/data/UCF101.php) |
+| UIUC Sports Dataset | Video dataset of 8 sports categories for action recognition | [Check Out](http://vision.cs.uiuc.edu/projects/activity/) |
+| UCI Machine Learning Repository | One of the largest collections of classic ML datasets | [Check Out](https://archive.ics.uci.edu/ml/index.php) |
+| UMich SI650 Sentiment Dataset | Amazon product reviews for sentiment analysis | [Check Out](https://web.eecs.umich.edu/~mihalcea/downloads.html) |
+| UrbanSound8K Dataset | 8,732 labeled urban sound clips for audio classification | [Check Out](https://urbansounddataset.weebly.com/urbansound8k.html) |
+| USPS Handwritten Digits Dataset | 16x16 grayscale handwritten digit dataset | [Check Out](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html) |
+| UN Comtrade Dataset | Global trade statistics from the United Nations | [Check Out](https://comtradeapi.un.org/public/index.html) |
+| UN Humanitarian Data Exchange (HDX) | Global humanitarian datasets (health, crisis, population, etc.) | [Check Out](https://data.humdata.org/) |
+| Uber Movement Dataset | Mobility, traffic, and city movement datasets | [Check Out](https://movement.uber.com/) |
+| UK Biobank Dataset | Large biomedical dataset (genomics, MRI, biomarkers, lifestyle) | [Check Out](https://www.ukbiobank.ac.uk/) |
+| UMDFaces Dataset | Large-scale dataset for face recognition | [Check Out](https://www.umdfaces.io/) |
+| UVO Dataset (Unidentified Video Objects) | Dataset for object segmentation in the wild | [Check Out](https://github.com/facebookresearch/UVO) |
+| UniRef Protein Sequence Dataset | Protein clusters used in bioinformatics (UniProt) | [Check Out](https://www.uniprot.org/help/uniref) |
+| UrbanLoco Dataset | Autonomous driving dataset with lidar + imu + gps | [Check Out](https://drive.google.com/drive/folders/1eR1Q1sVLYUWvtXkiMfaZjJ1ZtrWiOiiG) |
+| UNSW-NB15 Cybersecurity Dataset | Network traffic dataset for intrusion detection | [Check Out](https://research.unsw.edu.au/projects/unsw-nb15-dataset) |
+| US Census Dataset | Demographics, population, economic, and geographic data | [Check Out](https://www.census.gov/data.html) |
+| US Geological Survey (USGS) Dataset | Climate, geology, satellite, and environmental datasets | [Check Out](https://www.usgs.gov/products/data-and-tools/data) |
+| UltraMNIST Dataset | Harder MNIST variant (100× harder) for benchmarking | [Check Out](https://github.com/google-research/google-research/tree/master/ultra_mnist) |
+| UMLS Metathesaurus Dataset | Biomedical terminology dataset used in medical NLP | [Check Out](https://www.nlm.nih.gov/research/umls/index.html) |
+| UniSpeech Dataset | Multilingual speech pretraining dataset | [Check Out](https://github.com/microsoft/UniSpeech) |
