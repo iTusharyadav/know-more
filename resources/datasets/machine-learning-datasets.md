@@ -311,3 +311,30 @@
 | UltraMNIST Dataset | Harder MNIST variant (100× harder) for benchmarking | [Check Out](https://github.com/google-research/google-research/tree/master/ultra_mnist) |
 | UMLS Metathesaurus Dataset | Biomedical terminology dataset used in medical NLP | [Check Out](https://www.nlm.nih.gov/research/umls/index.html) |
 | UniSpeech Dataset | Multilingual speech pretraining dataset | [Check Out](https://github.com/microsoft/UniSpeech) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| VGGFace Dataset | Large-scale face recognition dataset created by Oxford VGG | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/vgg_face/) |
+| VGGFace2 Dataset | Updated face dataset with pose, age, illumination diversity | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/) |
+| Visual Genome Dataset | Scene understanding dataset with objects, attributes, and relationships | [Check Out](https://visualgenome.org/) |
+| VoxCeleb1 Dataset | Large-scale speaker identification audio dataset | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/) |
+| VoxCeleb2 Dataset | Extended version with millions of utterances from thousands of speakers | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) |
+| Video2GIF Dataset | Dataset for video-to-GIF summarization | [Check Out](https://github.com/gyglim/video2gif_dataset) |
+| VisDrone Dataset | Drone-based vision dataset (detection, tracking, segmentation) | [Check Out](http://www.aiskyeye.com/) |
+| VideoQA Dataset | Question answering over videos | [Check Out](https://github.com/JaywongWang/VideoQA) |
+| VQAv2 Dataset | Large visual question answering dataset | [Check Out](https://visualqa.org/) |
+| VQA-CP Dataset | VQA dataset with controlled question-answer priors | [Check Out](https://github.com/rubencas/VisualQA-CP) |
+| VOT Challenge Dataset | Visual object tracking benchmark | [Check Out](https://www.votchallenge.net/) |
+| VOC2012 (PASCAL VOC) | Vision benchmark for detection, segmentation, and classification | [Check Out](http://host.robots.ox.ac.uk/pascal/VOC/) |
+| VisDA Dataset | Synthetic-to-real domain adaptation benchmark | [Check Out](https://ai.bu.edu/visda-2017/) |
+| VIPeR Dataset | Person re-identification benchmark dataset | [Check Out](https://vision.soe.ucsc.edu/node/178) |
+| VeRi Dataset | Vehicle re-identification dataset | [Check Out](https://vehiclereid.github.io/VeRi/) |
+| VehicleID Dataset | Large-scale vehicle identity recognition dataset | [Check Out](https://pkuml.org/resources/pku-vehicleid.html) |
+| VITAL Dataset | Dataset for multi-target visual tracking | [Check Out](https://github.com/NebiNguyen/VITAL) |
+| VIST Dataset (Visual Storytelling) | Image sequences with human-written stories | [Check Out](https://visionandlanguage.net/VIST/) |
+| VCTK Corpus | Multispeaker English speech dataset | [Check Out](https://datashare.ed.ac.uk/handle/10283/3443) |
+| VoiceBank Dataset | Speech dataset for speech enhancement tasks | [Check Out](https://datashare.ed.ac.uk/handle/10283/2791) |
+| VAIS Dataset | Vehicle classification dataset for aerial imagery | [Check Out](https://www.pnnl.gov/projects/vehicle-classification) |
+| VQA-Med Dataset | Medical visual question answering dataset | [Check Out](https://www.imageclef.org/lifeclef/2023/vqa) |
+| VisA Dataset | Industrial anomaly detection benchmark | [Check Out](https://github.com/amazon-science/spot-diff) |
+| Vimeo-90K Dataset | Video interpolation and restoration dataset | [Check Out](https://github.com/anchen1011/vimeo-90k) |
