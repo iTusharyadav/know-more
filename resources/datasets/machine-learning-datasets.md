@@ -338,3 +338,18 @@
 | VQA-Med Dataset | Medical visual question answering dataset | [Check Out](https://www.imageclef.org/lifeclef/2023/vqa) |
 | VisA Dataset | Industrial anomaly detection benchmark | [Check Out](https://github.com/amazon-science/spot-diff) |
 | Vimeo-90K Dataset | Video interpolation and restoration dataset | [Check Out](https://github.com/anchen1011/vimeo-90k) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| WikiText Dataset | Large vocabulary language modeling dataset derived from Wikipedia articles | [Check Out](https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/) |
+| WIDER Face Dataset | Large-scale face detection dataset with diverse poses and occlusions | [Check Out](http://shuoyang1213.me/WIDERFACE/) |
+| Waymo Open Dataset | Autonomous driving dataset with lidar, camera, and map data | [Check Out](https://waymo.com/open/) |
+| WebVision Dataset | Noisy web-crawled dataset for large-scale visual learning | [Check Out](http://www.webvisionchallenge.org/) |
+| WeatherBench Dataset | Benchmark dataset for data-driven weather forecasting | [Check Out](https://github.com/pangeo-data/WeatherBench) |
+| WikiQA Dataset | Question-answering dataset based on real Bing queries | [Check Out](https://www.microsoft.com/en-us/download/details.aspx?id=52419) |
+| WikiHow Dataset | Instructional text dataset scraped from WikiHow for summarization and reasoning | [Check Out](https://github.com/mahnazkoupaee/WikiHow-Dataset) |
+| WikiART Dataset | Large collection of artwork images for style classification and analysis | [Check Out](https://www.wikiart.org/) |
+| WMT Translation Datasets | Annual machine translation benchmark across multiple language pairs | [Check Out](http://www.statmt.org/wmt20/translation-task.html) |
+| WESAD Dataset | Wearable stress and affect detection dataset using physiological signals | [Check Out](https://ubicomp.eti.uni-siegen.de/home/datasets/wesad/) |
+| WT-WT Dataset | Wikipedia titles and text dataset for text classification and retrieval | [Check Out](https://github.com/pgcool/WTWT) |
+| WebNLG Dataset | Natural language generation dataset converting structured RDF data to text | [Check Out](https://webnlg-challenge.loria.fr/) |
