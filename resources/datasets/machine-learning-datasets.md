@@ -379,3 +379,16 @@
 | YT-BB (YouTube Bounding Boxes) Dataset | Large-scale video dataset with object detection bounding boxes | [Check Out](https://research.google.com/youtube-bb/) |
 | YOLO-OpenImages Subset | YOLO-friendly object detection dataset derived from OpenImages | [Check Out](https://github.com/theAIGuysCode/YOLOv4-OpenImages) |
 | YJ Captions Dataset | Japanese–English image caption dataset used for multimodal translation | [Check Out](https://github.com/r-tsubaki/YJCaptions) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Zillow ZTRAX Dataset | Massive U.S. real estate dataset including property transactions, tax records, and attributes | [Check Out](https://www.zillow.com/research/ztrax/) |
+| ZINC Dataset | Large chemical compound dataset used for drug discovery and molecular modeling | [Check Out](https://zinc.docking.org/) |
+| Zappos50K Dataset | 50,000 shoe images used for fine-grained image classification | [Check Out](http://vision.cs.utexas.edu/projects/finegrained/utzap50k/) |
+| Zurich Summer Dataset | High-resolution aerial imagery dataset used for urban segmentation tasks | [Check Out](https://www.vision.ee.ethz.ch/datasets/) |
+| Zernike Moments Dataset | Dataset used for pattern recognition, image retrieval, and shape analysis | [Check Out](https://data.mendeley.com/datasets/5hh2c7v2fy/1) |
+| ZaloAI Challenge Dataset | Vietnamese NLP datasets (QA, sentiment, NER) from annual Zalo AI challenges | [Check Out](https://challenge.zalo.ai/) |
+| Zoo Animal Dataset | Collection of animal images used for classification & recognition tasks | [Check Out](https://www.kaggle.com/datasets/antoreepjana/zoo-dataset) |
+| Zimbabwe Census Data | Population & demographic dataset used for social science research | [Check Out](https://www.zimstat.co.zw/) |
+| Zema Red Wine Dataset | Chemical properties + quality scores for wine quality prediction | [Check Out](https://www.kaggle.com/datasets/knightbearr/wine-quality-dataset) |
+| Ziff Davis Malware Dataset | Malware samples used for cybersecurity & threat detection research | [Check Out](https://csr.lanl.gov/data/cyber1/) |
