@@ -366,3 +366,16 @@
 | XR-Lung Dataset | Medical imaging dataset for lung cancer detection using X-ray images | [Check Out](https://data.mendeley.com/datasets/rscbjbr9sj/3) |
 | XMC-GAN Dataset | Multimodal dataset used for cross-modal synthesis (image generation from text) | [Check Out](https://github.com/rosinality/xmc-gan) |
 | XBench Dataset | Benchmark dataset for cross-lingual semantic textual similarity | [Check Out](https://aclanthology.org/2020.lrec-1.353/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Yelp Review Dataset | Large-scale sentiment analysis dataset with millions of restaurant & business reviews | [Check Out](https://www.yelp.com/dataset) |
+| Yahoo Answers Dataset | Question–answer dataset covering 10+ categories for text classification | [Check Out](https://webscope.sandbox.yahoo.com/catalog.php?datatype=l) |
+| YouTube-8M Dataset | Large-scale video understanding dataset with millions of labeled videos | [Check Out](https://research.google.com/youtube8m/) |
+| YFCC100M Dataset | 100 million Flickr images & videos with metadata for vision and multimodal ML | [Check Out](http://projects.dfki.uni-kl.de/yfcc100m/) |
+| YAGO Dataset | Large semantic knowledge graph extracted from Wikipedia, WordNet, etc. | [Check Out](https://yago-knowledge.org/) |
+| YLI-MED Dataset | Multimedia event detection dataset of annotated videos | [Check Out](https://digital.library.unt.edu/explore/collections/YLIMED/) |
+| YPVector Dataset | Yeast proteome dataset used for protein interaction and bioinformatics research | [Check Out](https://github.com/mengyao0713/YPVector) |
+| YT-BB (YouTube Bounding Boxes) Dataset | Large-scale video dataset with object detection bounding boxes | [Check Out](https://research.google.com/youtube-bb/) |
+| YOLO-OpenImages Subset | YOLO-friendly object detection dataset derived from OpenImages | [Check Out](https://github.com/theAIGuysCode/YOLOv4-OpenImages) |
+| YJ Captions Dataset | Japanese–English image caption dataset used for multimodal translation | [Check Out](https://github.com/r-tsubaki/YJCaptions) |
