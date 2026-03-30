@@ -353,3 +353,16 @@
 | WESAD Dataset | Wearable stress and affect detection dataset using physiological signals | [Check Out](https://ubicomp.eti.uni-siegen.de/home/datasets/wesad/) |
 | WT-WT Dataset | Wikipedia titles and text dataset for text classification and retrieval | [Check Out](https://github.com/pgcool/WTWT) |
 | WebNLG Dataset | Natural language generation dataset converting structured RDF data to text | [Check Out](https://webnlg-challenge.loria.fr/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| XiaoIce Conversation Dataset | Large-scale social chatbot conversation dataset from Microsoft XiaoIce | [Check Out](https://www.microsoft.com/en-us/research/project/xiaoice/) |
+| XSum (Extreme Summarization) Dataset | BBC article dataset designed for single-sentence abstractive summarization | [Check Out](https://github.com/EdinburghNLP/XSum) |
+| XNLI Dataset | Cross-lingual natural language inference dataset in 15 languages | [Check Out](https://cims.nyu.edu/~sbowman/xnli/) |
+| X-Ray8 Dataset | Chest X-ray dataset for multi-label pneumonia classification | [Check Out](https://nihcc.app.box.com/v/ChestXray-NIHCC) |
+| Xview Dataset | Satellite imagery dataset for object detection in overhead imagery | [Check Out](https://xviewdataset.org/) |
+| Xview2 Dataset | Post-disaster satellite image dataset for building damage assessment | [Check Out](https://xview2.org/) |
+| XPersona Dataset | Cross-lingual multilingual persona-based dialogue dataset | [Check Out](https://github.com/HLTCHKUST/XPersona) |
+| XR-Lung Dataset | Medical imaging dataset for lung cancer detection using X-ray images | [Check Out](https://data.mendeley.com/datasets/rscbjbr9sj/3) |
+| XMC-GAN Dataset | Multimodal dataset used for cross-modal synthesis (image generation from text) | [Check Out](https://github.com/rosinality/xmc-gan) |
+| XBench Dataset | Benchmark dataset for cross-lingual semantic textual similarity | [Check Out](https://aclanthology.org/2020.lrec-1.353/) |
