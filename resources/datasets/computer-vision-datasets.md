@@ -23,3 +23,19 @@
 | BRAU (Breast Ultrasound) Dataset | Ultrasound images for breast tumor classification and segmentation | [Check Out](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset) |
 | Brats Dataset (Brain Tumor Segmentation) | MRI datasets for brain tumor segmentation (glioma, edema, necrosis) | [Check Out](https://www.med.upenn.edu/sbia/brats2018/data.html) |
 | BISEP Dataset | Biological specimen image dataset used for classification & segmentation tasks | [Check Out](https://data.mendeley.com/datasets/5ys4nm64j9/1) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| COCO (Common Objects in Context) | One of the most widely used datasets for object detection, segmentation, keypoints, and captions | [Check Out](https://cocodataset.org/) |
+| CIFAR-10 | 60,000 small images across 10 classes; widely used for image classification | [Check Out](https://www.cs.toronto.edu/~kriz/cifar.html) |
+| CIFAR-100 | Similar to CIFAR-10 but with 100 fine-grained categories | [Check Out](https://www.cs.toronto.edu/~kriz/cifar.html) |
+| Cityscapes Dataset | High-resolution street-scene images for semantic segmentation | [Check Out](https://www.cityscapes-dataset.com/) |
+| Caltech 101 | 9,000+ images across 101 object classes; early benchmark for image classification | [Check Out](https://data.caltech.edu/records/20086) |
+| Caltech 256 | Extended version with 256 object classes for more challenging classification tasks | [Check Out](https://data.caltech.edu/records/20070) |
+| CelebA Dataset | Large-scale celebrity face dataset with 40 labeled attributes | [Check Out](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) |
+| ChaLearn LAP Dataset | Dataset for gesture recognition, human analysis, age estimation | [Check Out](http://gesture.chalearn.org/data) |
+| CUB-200 (Caltech-UCSD Birds) | Fine-grained bird species classification dataset with bounding boxes and part labels | [Check Out](http://www.vision.caltech.edu/visipedia/CUB-200.html) |
+| ChestX-ray14 Dataset | Large-scale chest X-ray dataset for disease detection | [Check Out](https://nihcc.app.box.com/v/ChestXray-NIHCC) |
+| COMPcars Dataset | Comprehensive car image dataset with attributes, car models, and viewpoints | [Check Out](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html) |
+| CrowdHuman Dataset | Crowd-level human detection dataset with challenging dense scenes | [Check Out](https://www.crowdhuman.org/) |
+| CUHK03 Dataset | Person re-identification dataset with labeled and detected bounding boxes | [Check Out](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html) |
