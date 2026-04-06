@@ -39,3 +39,16 @@
 | COMPcars Dataset | Comprehensive car image dataset with attributes, car models, and viewpoints | [Check Out](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html) |
 | CrowdHuman Dataset | Crowd-level human detection dataset with challenging dense scenes | [Check Out](https://www.crowdhuman.org/) |
 | CUHK03 Dataset | Person re-identification dataset with labeled and detected bounding boxes | [Check Out](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| DOTA (Dataset for Object Detection in Aerial Images) | Large-scale aerial imagery dataset for object detection with rotated bounding boxes | [Check Out](https://captain-whu.github.io/DOTA/) |
+| DAVIS Dataset | High-quality video dataset for video object segmentation and tracking | [Check Out](https://davischallenge.org/) |
+| DeepFashion Dataset | Massive clothing dataset for fashion classification, detection, and landmark prediction | [Check Out](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/InShopRetrieval.html) |
+| DRIVE Dataset (Digital Retinal Images for Vessel Extraction) | Retinal image dataset for blood vessel segmentation | [Check Out](https://drive.grand-challenge.org/) |
+| DukeMTMC-ReID Dataset | Person re-identification dataset collected from surveillance cameras | [Check Out](https://github.com/sxzrt/DukeMTMC-reID_evaluation) |
+| DDSM (Digital Database for Screening Mammography) | Mammogram dataset for breast cancer detection | [Check Out](http://www.eng.usf.edu/cvprg/mammography/database.html) |
+| DIV2K Dataset | High-resolution image dataset used for image super-resolution tasks | [Check Out](https://data.vision.ee.ethz.ch/cvl/DIV2K/) |
+| DeepLesion Dataset | Large-scale CT lesion dataset for medical image detection and segmentation | [Check Out](https://nihcc.app.box.com/v/DeepLesion) |
+| DocVQA Dataset | Dataset for document visual question answering (scanned docs, OCR tasks) | [Check Out](https://rrc.cvc.uab.es/?ch=17) |
+| DBpedia-Images Dataset | Image dataset linked with DBpedia entities used for multimodal learning | [Check Out](https://wiki.dbpedia.org/projects/dbpedia-commons) |
