@@ -52,3 +52,16 @@
 | DeepLesion Dataset | Large-scale CT lesion dataset for medical image detection and segmentation | [Check Out](https://nihcc.app.box.com/v/DeepLesion) |
 | DocVQA Dataset | Dataset for document visual question answering (scanned docs, OCR tasks) | [Check Out](https://rrc.cvc.uab.es/?ch=17) |
 | DBpedia-Images Dataset | Image dataset linked with DBpedia entities used for multimodal learning | [Check Out](https://wiki.dbpedia.org/projects/dbpedia-commons) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| EgoHands Dataset | Egocentric (first-person) hand detection dataset with pixel-level annotations | [Check Out](http://vision.soic.indiana.edu/projects/egohands/) |
+| EMNIST Dataset | Extension of MNIST including handwritten letters and digits | [Check Out](https://www.nist.gov/itl/products-and-services/emnist-dataset) |
+| EuroSAT Dataset | Satellite imagery dataset (Sentinel-2) for land-use and land-cover classification | [Check Out](https://github.com/phelber/eurosat) |
+| Extended Yale Face Database B | Face dataset with controlled lighting variations for face recognition | [Check Out](https://vision.ucsd.edu/content/extended-yale-face-database-b) |
+| ETH Pedestrian Dataset | Images for pedestrian detection captured from a moving platform | [Check Out](https://data.vision.ee.ethz.ch/cvl/aess/dataset/) |
+| EyePACS Dataset | Large retinal image dataset used for diabetic retinopathy classification | [Check Out](https://www.kaggle.com/c/diabetic-retinopathy-detection/data) |
+| EPIC-Kitchens Dataset | Large-scale egocentric video dataset for action recognition and object detection | [Check Out](https://epic-kitchens.github.io/) |
+| eCPIC Dataset | Dataset for object-centric video prediction and perception tasks | [Check Out](https://github.com/google-deepmind/ecpic) |
+| ExDark Dataset | Low-light image dataset for object detection in dark environments | [Check Out](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) |
+| EmotionNet Dataset | Facial expression dataset annotated with AU and emotion labels for emotion recognition | [Check Out](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/) |
