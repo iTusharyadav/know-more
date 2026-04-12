@@ -65,3 +65,16 @@
 | eCPIC Dataset | Dataset for object-centric video prediction and perception tasks | [Check Out](https://github.com/google-deepmind/ecpic) |
 | ExDark Dataset | Low-light image dataset for object detection in dark environments | [Check Out](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) |
 | EmotionNet Dataset | Facial expression dataset annotated with AU and emotion labels for emotion recognition | [Check Out](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| FPHA (First-Person Hand Action) Dataset | Egocentric RGB-D video dataset for hand action recognition | [Check Out](https://guiggh.github.io/publications/first-person-hands/) |
+| Food-101 Dataset | 101 food categories with 1,000 images each; widely used for fine-grained classification | [Check Out](https://data.vision.ee.ethz.ch/cvl/food-101/) |
+| Flickr8k Dataset | 8,000 images with captions used for image-to-text and caption generation tasks | [Check Out](https://hocken.catalyst.net.nz/collectors/flickr8k-dataset) |
+| Flickr30k Dataset | 30,000 images with multiple captions used for multimodal learning | [Check Out](https://shannon.cs.illinois.edu/DenotationGraph/) |
+| FaceForensics++ Dataset | Large-scale dataset for face manipulation detection and deepfake research | [Check Out](https://github.com/ondyari/FaceForensics) |
+| FER2013 Dataset | Facial expression recognition dataset collected from the wild | [Check Out](https://www.kaggle.com/datasets/msambare/fer2013) |
+| FLIR Thermal Dataset | Thermal imaging dataset for pedestrian detection in day/night environments | [Check Out](https://www.flir.com/oem/adas/adas-dataset-form/) |
+| Fashion-MNIST Dataset | Drop-in replacement for MNIST with images of clothing items | [Check Out](https://github.com/zalandoresearch/fashion-mnist) |
+| FSS-1000 Dataset | 1,000 classes with only 10 images per class for few-shot segmentation | [Check Out](https://github.com/HKUSTCV/FSS-1000) |
+| FGVC-Aircraft Dataset | Fine-grained aircraft recognition dataset with detailed model labels | [Check Out](http://www.robots.ox.ac.uk/~vgg/data/aircraft/) |
