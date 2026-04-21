@@ -91,3 +91,17 @@
 | GazeCapture Dataset | Eye-tracking dataset for gaze estimation using mobile devices | [Check Out](https://gazecapture.csail.mit.edu/) |
 | GRAM Road Dataset | Dataset for road detection and segmentation in driving scenarios | [Check Out](https://gram.web.uah.es/data_road.html) |
 | GroZi-120 Dataset | Grocery product dataset used for product recognition and retail CV tasks | [Check Out](http://grozi.calit2.net/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| HAM10000 | Large dermatology image dataset for melanoma and skin-lesion classification | [Check Out](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) |
+| H36M (Human3.6M) | Large-scale human pose estimation dataset with 3D annotations | [Check Out](http://vision.imar.ro/human3.6m/description.php) |
+| HPatches | Dataset for evaluating local feature matching, patch verification, and descriptor learning | [Check Out](https://github.com/hpatches/hpatches-dataset) |
+| Hateful Memes Dataset | Dataset combining images + text to detect hateful multimodal content | [Check Out](https://www.drivendata.org/competitions/64/hateful-memes/) |
+| Histopathologic Cancer Detection | Microscopy-based dataset for detecting metastatic cancer | [Check Out](https://www.kaggle.com/competitions/histopathologic-cancer-detection) |
+| Holistic Scene Understanding (Hosu) | Dataset for depth, segmentation, normals, and intrinsic scene tasks | [Check Out](http://www.cvlibs.net/projects/sceneunderstanding/) |
+| HumanEva | Benchmark dataset for evaluating 3D human pose estimation methods | [Check Out](http://humaneva.is.tue.mpg.de/) |
+| Human Parsing Dataset (LIP) | Dataset for pixel-level human parsing (clothes, body parts, etc.) | [Check Out](https://github.com/Engineering-Course/LIP_SSL) |
+| Highway Driving Dataset (HighD) | Drone-based highway vehicle tracking dataset | [Check Out](https://www.highd-dataset.com/) |
+| HOT3D (Hand-Object Tracking 3D) | Dataset for 3D hand–object interaction tracking | [Check Out](https://hot-3d.github.io/) |
+
