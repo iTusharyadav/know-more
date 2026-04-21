@@ -129,3 +129,15 @@
 | JAXU Dataset | Dataset for X-ray based dental and orthodontic image analysis (Teeth segmentation) | [Check Out](https://figshare.com/articles/dataset/JAXU_Dataset/24082619) |
 | Junior Sports-10K | Dataset of annotated children's sports activity images for action recognition | [Check Out](https://github.com/cvlab-epfl/Junior-Sports-10K) |
 
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Kinetics-400 | Large-scale human action recognition dataset with 400 action classes from YouTube videos | [Check Out](https://deepmind.com/research/open-source/kinetics) |
+| Kinetics-600 | Extended version of Kinetics-400 featuring 600 human action classes | [Check Out](https://deepmind.com/research/open-source/kinetics) |
+| Kinetics-700 | Latest and largest Kinetics dataset with 700+ action categories | [Check Out](https://deepmind.com/research/open-source/kinetics) |
+| KITTI Vision Benchmark Suite | Widely used dataset for autonomous driving, including object detection, depth, optical flow, and tracking | [Check Out](http://www.cvlibs.net/datasets/kitti/) |
+| KU Leuven Multi-view RGB-D Dataset | Multi-view RGB-D dataset for object recognition and reconstruction | [Check Out](https://homes.esat.kuleuven.be/~konijn/publications/rgb-d-dataset/) |
+| Kosmos-2 Vision Dataset | Dataset used for grounding and multimodal reasoning in vision-language models | [Check Out](https://huggingface.co/microsoft/kosmos-2-patch) |
+| KonIQ-10K | Image quality assessment dataset with human MOS scores | [Check Out](http://database.mmsp-kn.de/koniq-10k-database.html) |
+| Kaist Multispectral Pedestrian Dataset | Thermal + visible light pedestrian detection dataset for night/day driving | [Check Out](https://soonminhwang.github.io/kaist-pedestrian/) |
+| KDEF (Karolinska Directed Emotional Faces) | Controlled facial expression dataset used in psychology and computer vision | [Check Out](https://www.kdef.se/) |
+| KID (Keypoint Image Dataset) | Dataset focused on image keypoints for evaluating local feature extraction algorithms | [Check Out](https://github.com/lenlen/KID) |
