@@ -105,3 +105,16 @@
 | Highway Driving Dataset (HighD) | Drone-based highway vehicle tracking dataset | [Check Out](https://www.highd-dataset.com/) |
 | HOT3D (Hand-Object Tracking 3D) | Dataset for 3D hand–object interaction tracking | [Check Out](https://hot-3d.github.io/) |
 
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| ImageNet | One of the largest image classification datasets with 14M+ labeled images across 20k categories | [Check Out](https://www.image-net.org/) |
+| iNaturalist Dataset | Real-world species classification dataset with millions of fine-grained biodiversity images | [Check Out](https://github.com/visipedia/inat_comp) |
+| INRIA Person Dataset | Popular dataset for pedestrian detection tasks | [Check Out](http://pascal.inrialpes.fr/data/human/) |
+| ICDAR Datasets | Benchmark datasets for text detection, OCR, scene text recognition | [Check Out](https://rrc.cvc.uab.es/) |
+| iMaterialist (Fashion / Product) | Dataset for fashion attribute recognition & product categorization | [Check Out](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6) |
+| iSAID | Instance segmentation dataset for aerial imagery | [Check Out](https://captain-whu.github.io/iSAID/) |
+| IDD (India Driving Dataset) | Large-scale dataset for road scene understanding in India | [Check Out](http://idd.insaan.iiit.ac.in/) |
+| Imagenette | Small, easy-to-train subset of ImageNet for quick benchmarking | [Check Out](https://github.com/fastai/imagenette) |
+| ImageWoof | Subset of ImageNet containing only dog breeds (challenging benchmark) | [Check Out](https://github.com/fastai/imagenette) |
+| iCartoonFace | Large-scale cartoon face recognition dataset | [Check Out](https://github.com/luxiangju-PersonAI/iCartoonFace) |
+
