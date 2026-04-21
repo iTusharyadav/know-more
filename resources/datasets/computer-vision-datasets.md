@@ -118,3 +118,14 @@
 | ImageWoof | Subset of ImageNet containing only dog breeds (challenging benchmark) | [Check Out](https://github.com/fastai/imagenette) |
 | iCartoonFace | Large-scale cartoon face recognition dataset | [Check Out](https://github.com/luxiangju-PersonAI/iCartoonFace) |
 
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| JAAD (Joint Attention for Autonomous Driving) | Dataset focused on pedestrian behavior and joint attention cues for self-driving systems | [Check Out](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/) |
+| JFT-300M | Large-scale proprietary dataset used by Google for large vision models (public info only) | [Check Out](https://arxiv.org/abs/1707.02921) |
+| JIGSAWS | Surgical activity dataset for gesture recognition and robotic surgery analysis | [Check Out](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/) |
+| JPEG-AI Dataset | Dataset for evaluating next-generation image compression standards | [Check Out](https://jpeg.org/jpegai/) |
+| JAFFE (Japanese Female Facial Expression) | Facial expression dataset of Japanese female subjects with labeled emotions | [Check Out](https://zenodo.org/record/3451524) |
+| JHMDB | Human action recognition dataset containing annotated video clips | [Check Out](http://jhmdb.is.tue.mpg.de/) |
+| JAXU Dataset | Dataset for X-ray based dental and orthodontic image analysis (Teeth segmentation) | [Check Out](https://figshare.com/articles/dataset/JAXU_Dataset/24082619) |
+| Junior Sports-10K | Dataset of annotated children's sports activity images for action recognition | [Check Out](https://github.com/cvlab-epfl/Junior-Sports-10K) |
+
