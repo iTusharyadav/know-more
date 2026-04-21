@@ -78,3 +78,16 @@
 | Fashion-MNIST Dataset | Drop-in replacement for MNIST with images of clothing items | [Check Out](https://github.com/zalandoresearch/fashion-mnist) |
 | FSS-1000 Dataset | 1,000 classes with only 10 images per class for few-shot segmentation | [Check Out](https://github.com/HKUSTCV/FSS-1000) |
 | FGVC-Aircraft Dataset | Fine-grained aircraft recognition dataset with detailed model labels | [Check Out](http://www.robots.ox.ac.uk/~vgg/data/aircraft/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Google Open Images Dataset | Large-scale dataset with 9M+ images for detection, segmentation, and classification | [Check Out](https://storage.googleapis.com/openimages/web/index.html) |
+| GTSRB (German Traffic Sign Recognition Benchmark) | Traffic sign classification dataset used in autonomous driving research | [Check Out](https://benchmark.ini.rub.de/gtsrb_news.html) |
+| GTSDB (German Traffic Sign Detection Benchmark) | Dataset for detecting traffic signs in real-world images | [Check Out](https://benchmark.ini.rub.de/gtsdb_news.html) |
+| GTA5 Dataset | Synthetic dataset for semantic segmentation generated from GTA V | [Check Out](https://download.visinf.tu-darmstadt.de/data/from_games/) |
+| Google Landmarks Dataset | Landmark recognition dataset with millions of images for image retrieval | [Check Out](https://github.com/cvdfoundation/google-landmark) |
+| GeoLife Dataset | GPS trajectory dataset used for geo-visual analysis and movement prediction | [Check Out](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/) |
+| GrabCut Dataset | Image segmentation dataset used for foreground extraction tasks | [Check Out](https://www.microsoft.com/en-us/research/publication/grabcut-interactive-foreground-extraction-using-iterated-graph-cuts/) |
+| GazeCapture Dataset | Eye-tracking dataset for gaze estimation using mobile devices | [Check Out](https://gazecapture.csail.mit.edu/) |
+| GRAM Road Dataset | Dataset for road detection and segmentation in driving scenarios | [Check Out](https://gram.web.uah.es/data_road.html) |
+| GroZi-120 Dataset | Grocery product dataset used for product recognition and retail CV tasks | [Check Out](http://grozi.calit2.net/) |
