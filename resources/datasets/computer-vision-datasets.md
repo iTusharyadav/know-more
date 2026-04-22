@@ -155,3 +155,16 @@
 | LoveDA Dataset | Remote sensing dataset for domain adaptation in land-cover classification | [Check Out](https://github.com/Junjue-Wang/LoveDA) |
 | LaPa Dataset (Labeled Face Parsing) | Dataset for face parsing with pixel-level annotations | [Check Out](https://github.com/JDAI-CV/lapa-dataset) |
 
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| MS COCO (Common Objects in Context) | Large-scale dataset for object detection, segmentation, keypoints, captions | [Check Out](https://cocodataset.org/) |
+| MNIST | Handwritten digits dataset for classification benchmarking | [Check Out](http://yann.lecun.com/exdb/mnist/) |
+| Moving MNIST | Dataset for video prediction with moving handwritten digits | [Check Out](https://www.cs.toronto.edu/~nitish/unsupervised_video/) |
+| MPII Human Pose Dataset | Human pose estimation dataset with keypoint annotations | [Check Out](http://human-pose.mpi-inf.mpg.de/) |
+| Market-1501 | Person re-identification dataset captured from 6 cameras | [Check Out](https://www.kaggle.com/datasets/astorfi/market-1501) |
+| Mapillary Vistas Dataset | High-resolution street-view images for semantic segmentation | [Check Out](https://www.mapillary.com/dataset/vistas) |
+| Medical Segmentation Decathlon | 10 medical imaging segmentation tasks (CT, MRI, etc.) | [Check Out](http://medicaldecathlon.com/) |
+| MURA Dataset | Bone X-ray dataset for musculoskeletal abnormality detection | [Check Out](https://stanfordmlgroup.github.io/competitions/mura/) |
+| MiniPlaces Dataset | Small-scale version of Places205 for scene recognition | [Check Out](http://miniplaces.csail.mit.edu/) |
+| Middlebury Stereo Dataset | Benchmark for stereo vision, optical flow, and surface reconstruction | [Check Out](https://vision.middlebury.edu/stereo/) |
+| Multi-PIE Dataset | Large multi-view, multi-illumination face dataset | [Check Out](http://multi-pie.org/) |
