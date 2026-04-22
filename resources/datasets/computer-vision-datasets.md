@@ -141,3 +141,17 @@
 | Kaist Multispectral Pedestrian Dataset | Thermal + visible light pedestrian detection dataset for night/day driving | [Check Out](https://soonminhwang.github.io/kaist-pedestrian/) |
 | KDEF (Karolinska Directed Emotional Faces) | Controlled facial expression dataset used in psychology and computer vision | [Check Out](https://www.kdef.se/) |
 | KID (Keypoint Image Dataset) | Dataset focused on image keypoints for evaluating local feature extraction algorithms | [Check Out](https://github.com/lenlen/KID) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| LFW (Labeled Faces in the Wild) | Benchmark dataset for face recognition with unconstrained images | [Check Out](http://vis-www.cs.umass.edu/lfw/) |
+| LSUN Dataset | Large-scale scene understanding dataset for scene classification and GAN training | [Check Out](https://www.yf.io/p/lsun) |
+| LVIS Dataset | Large Vocabulary Instance Segmentation dataset with thousands of object categories | [Check Out](https://www.lvisdataset.org/) |
+| LabelMe Dataset | Image dataset with polygon annotations for object segmentation | [Check Out](http://labelme.csail.mit.edu/Release3.0/) |
+| Look Into Person (LIP) Dataset | Human parsing dataset with fine-grained semantic segmentation | [Check Out](http://sysu-hcp.net/lip/) |
+| LISA Traffic Sign Dataset | Traffic sign detection dataset collected in real driving conditions | [Check Out](http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html) |
+| LUNA16 Dataset | Lung nodule detection dataset from CT scans for medical imaging tasks | [Check Out](https://luna16.grand-challenge.org/) |
+| LandCover.ai Dataset | Aerial imagery dataset for land cover segmentation (buildings, roads, vegetation) | [Check Out](https://landcover.ai/) |
+| LoveDA Dataset | Remote sensing dataset for domain adaptation in land-cover classification | [Check Out](https://github.com/Junjue-Wang/LoveDA) |
+| LaPa Dataset (Labeled Face Parsing) | Dataset for face parsing with pixel-level annotations | [Check Out](https://github.com/JDAI-CV/lapa-dataset) |
+
