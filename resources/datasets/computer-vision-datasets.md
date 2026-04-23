@@ -181,3 +181,16 @@
 | NICO Dataset | Dataset for studying domain generalization and robustness | [Check Out](https://nicochallenge.com/) |
 | NEU Surface Defect Dataset | Industrial dataset for steel surface defect detection | [Check Out](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html) |
 | NIST SD19 Dataset | Handwritten character dataset including digits and letters | [Check Out](https://www.nist.gov/srd/nist-special-database-19) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Open Images Dataset | Large-scale dataset with bounding boxes, segmentation, and relations | [Check Out](https://storage.googleapis.com/openimages/web/index.html) |
+| Oxford-IIIT Pet Dataset | 37-class pet image dataset with segmentation masks | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/pets/) |
+| Oxford 102 Flowers Dataset | 102-category fine-grained flower classification dataset | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/) |
+| OTB (Object Tracking Benchmark) | Benchmark for visual object tracking across multiple challenges | [Check Out](http://cvlab.hanyang.ac.kr/tracker_benchmark/) |
+| OmniFashion Dataset | Fashion images for detection, segmentation, and keypoint estimation | [Check Out](https://github.com/OmniBenchmark/OmniFashion) |
+| OpenEDS Dataset | Eye-tracking dataset focused on segmentation and gaze prediction | [Check Out](https://research.fb.com/programs/openeds/) |
+| OpenStereo Dataset | Stereo image dataset for disparity and depth estimation | [Check Out](https://github.com/opencv/open_stereo) |
+| OpenLORIS Dataset | Lifelong robotic vision dataset for SLAM and object recognition | [Check Out](https://lifelong-robotic-vision.github.io/dataset/) |
+| ORFD Road Dataset | Road defect detection dataset (cracks, potholes, etc.) | [Check Out](https://github.com/NEU-ROBOTICS-LAB/ORFD) |
+| OVIS (Occluded Video Instance Segmentation) | Dataset for highly occluded video instance segmentation tasks | [Check Out](https://songbai.site/ovis/) |
