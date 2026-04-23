@@ -194,3 +194,17 @@
 | OpenLORIS Dataset | Lifelong robotic vision dataset for SLAM and object recognition | [Check Out](https://lifelong-robotic-vision.github.io/dataset/) |
 | ORFD Road Dataset | Road defect detection dataset (cracks, potholes, etc.) | [Check Out](https://github.com/NEU-ROBOTICS-LAB/ORFD) |
 | OVIS (Occluded Video Instance Segmentation) | Dataset for highly occluded video instance segmentation tasks | [Check Out](https://songbai.site/ovis/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| PASCAL VOC | Benchmark dataset for object detection, segmentation, and classification | [Check Out](http://host.robots.ox.ac.uk/pascal/VOC/) |
+| Places365 | Scene recognition dataset with millions of images across 365 scene categories | [Check Out](http://places2.csail.mit.edu/) |
+| Penn-Fudan Pedestrian Dataset | Pedestrian detection dataset with pixel-level annotations | [Check Out](https://www.cis.upenn.edu/~jshi/ped_html/) |
+| PlantVillage Dataset | Plant disease classification dataset with labeled leaf images | [Check Out](https://www.kaggle.com/datasets/emmarex/plantdisease) |
+| Pascal3D+ Dataset | Dataset with 3D annotations for object recognition and pose estimation | [Check Out](https://cvgl.stanford.edu/projects/pascal3d.html) |
+| PoseTrack Dataset | Multi-person pose estimation and tracking dataset in videos | [Check Out](https://posetrack.net/) |
+| PRID2011 Dataset | Person re-identification dataset with multi-camera views | [Check Out](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/prid11/) |
+| PETA Dataset | Pedestrian attribute recognition dataset (clothing, gender, etc.) | [Check Out](https://github.com/abelyaev/PETA) |
+| PartImageNet Dataset | Dataset with part-level annotations for fine-grained recognition | [Check Out](https://github.com/TACJu/PartImageNet) |
+| PhotoTourism Dataset | Dataset for visual localization and 3D reconstruction tasks | [Check Out](https://www.cs.ubc.ca/research/kmyi_data/imw2020.html) |
+
