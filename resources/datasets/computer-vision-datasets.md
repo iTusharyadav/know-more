@@ -208,3 +208,10 @@
 | PartImageNet Dataset | Dataset with part-level annotations for fine-grained recognition | [Check Out](https://github.com/TACJu/PartImageNet) |
 | PhotoTourism Dataset | Dataset for visual localization and 3D reconstruction tasks | [Check Out](https://www.cs.ubc.ca/research/kmyi_data/imw2020.html) |
 
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| QMNIST Dataset | Extended and improved version of the MNIST handwritten digit dataset | [Check Out](https://github.com/facebookresearch/qmnist) |
+| QuIC-Face Dataset | Quality assessment dataset for face images across lighting & pose variations | [Check Out](https://www.idiap.ch/dataset/quic-face) |
+| QNRF Crowd Counting Dataset | High-resolution crowd dataset with dense annotations | [Check Out](http://www.ee.cuhk.edu.hk/~yz014/crowdcounting.html) |
+| QUT Multiview Dataset | Multi-camera dataset for object detection and tracking | [Check Out](https://wiki.qut.edu.au/display/cyphy/QUT+Multiview+Dataset) |
+| QUVA ReID Dataset | Person re-identification dataset from QUVA Lab | [Check Out](https://quvacomputer.vision/reid-dataset) |
