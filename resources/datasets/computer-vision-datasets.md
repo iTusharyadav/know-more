@@ -168,3 +168,16 @@
 | MiniPlaces Dataset | Small-scale version of Places205 for scene recognition | [Check Out](http://miniplaces.csail.mit.edu/) |
 | Middlebury Stereo Dataset | Benchmark for stereo vision, optical flow, and surface reconstruction | [Check Out](https://vision.middlebury.edu/stereo/) |
 | Multi-PIE Dataset | Large multi-view, multi-illumination face dataset | [Check Out](http://multi-pie.org/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| NYU Depth V2 | RGB-D indoor scene dataset for depth estimation and segmentation | [Check Out](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) |
+| nuScenes Dataset | Autonomous driving dataset with lidar, radar, and camera data | [Check Out](https://www.nuscenes.org/) |
+| NUS-WIDE Dataset | Web image dataset with multi-label annotations for tagging and retrieval | [Check Out](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html) |
+| N-Caltech101 | Event-based vision dataset derived from Caltech101 using neuromorphic sensors | [Check Out](http://www.garrickorchard.com/datasets/n-caltech101) |
+| N-MNIST | Event-based version of MNIST captured with neuromorphic vision sensors | [Check Out](http://www.garrickorchard.com/datasets/n-mnist) |
+| North America Birds Dataset (NABirds) | Fine-grained bird species dataset with detailed annotations | [Check Out](https://dl.allaboutbirds.org/nabirds) |
+| NightOwls Dataset | Nighttime pedestrian detection dataset for autonomous driving | [Check Out](https://www.nightowls-dataset.org/) |
+| NICO Dataset | Dataset for studying domain generalization and robustness | [Check Out](https://nicochallenge.com/) |
+| NEU Surface Defect Dataset | Industrial dataset for steel surface defect detection | [Check Out](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html) |
+| NIST SD19 Dataset | Handwritten character dataset including digits and letters | [Check Out](https://www.nist.gov/srd/nist-special-database-19) |
