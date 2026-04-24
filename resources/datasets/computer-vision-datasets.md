@@ -228,3 +228,18 @@
 | RIDER Dataset | Road anomaly & defect detection dataset for autonomous driving | [Check Out](https://github.com/seung-lab/RIDER) |
 | RSNA Pneumonia Detection Dataset | Chest X-ray dataset for pneumonia detection | [Check Out](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) |
 | RHD (Rendered Handpose Dataset) | Synthetic dataset for hand pose estimation | [Check Out](https://lmb.informatik.uni-freiburg.de/projects/hand3d/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| SUN397 Dataset | Large-scale scene recognition dataset with 397 categories | [Check Out](https://vision.princeton.edu/projects/2010/SUN/) |
+| Stanford Cars Dataset | Car classification dataset with make/model labels | [Check Out](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) |
+| Stanford Dogs Dataset | Fine-grained dog breed classification dataset | [Check Out](http://vision.stanford.edu/aditya86/ImageNetDogs/) |
+| SceneNet RGB-D | Synthetic RGB-D dataset for indoor scene understanding | [Check Out](https://robotvault.bitbucket.io/scenenet-rgbd.html) |
+| ShapeNet Dataset | Large-scale 3D shape dataset for reconstruction & modeling | [Check Out](https://shapenet.org/) |
+| ScanNet Dataset | 3D indoor RGB-D dataset for semantic segmentation | [Check Out](http://www.scan-net.org/) |
+| SNOW Dataset | Surveillance dataset with snowy weather conditions | [Check Out](https://data.vision.ee.ethz.ch/cvl/snow/) |
+| SVHN (Street View House Numbers) | Real-world digit recognition dataset from Google Street View | [Check Out](http://ufldl.stanford.edu/housenumbers/) |
+| SURREAL Dataset | Synthetic dataset for human body pose & shape estimation | [Check Out](https://www.di.ens.fr/willow/research/surreal/) |
+| SynthText Dataset | Synthetic dataset for text detection in natural scenes | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/scenetext/) |
+| Something-Something Dataset | Large-scale video dataset for action recognition | [Check Out](https://developer.qualcomm.com/software/ai-datasets/something-something) |
+| Stanford Online Products Dataset | Metric learning dataset for product image retrieval | [Check Out](https://cvgl.stanford.edu/projects/lifted_struct/) |
