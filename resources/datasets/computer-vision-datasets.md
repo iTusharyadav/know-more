@@ -215,3 +215,16 @@
 | QNRF Crowd Counting Dataset | High-resolution crowd dataset with dense annotations | [Check Out](http://www.ee.cuhk.edu.hk/~yz014/crowdcounting.html) |
 | QUT Multiview Dataset | Multi-camera dataset for object detection and tracking | [Check Out](https://wiki.qut.edu.au/display/cyphy/QUT+Multiview+Dataset) |
 | QUVA ReID Dataset | Person re-identification dataset from QUVA Lab | [Check Out](https://quvacomputer.vision/reid-dataset) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| RAF-DB (Real-world Affective Faces Database) | Facial expression dataset with diverse annotations | [Check Out](http://www.whdeng.cn/RAF/model1.html) |
+| RAVDESS Dataset | Audio-visual emotional speech & song dataset (used for emotion recognition) | [Check Out](https://smartlaboratory.org/ravdess/) |
+| RefCOCO / RefCOCO+ / RefCOCOg | Referring expression comprehension datasets for grounding objects in images | [Check Out](https://github.com/lichengunc/refer) |
+| RobotCar Dataset (Oxford RobotCar) | Long-term autonomous driving dataset collected in Oxford | [Check Out](https://robotcar-dataset.robots.ox.ac.uk/) |
+| RoboNet Dataset | Large-scale robotics manipulation video dataset | [Check Out](https://github.com/ARISE-Initiative/robodata) |
+| RICE Image Dataset | Satellite image dataset for rice crop classification | [Check Out](https://data.mendeley.com/datasets/b56d4zwdcj/2) |
+| ROD (RGB-D Object Dataset) | RGB-D dataset for 3D object recognition | [Check Out](http://rgbd-dataset.cs.washington.edu/) |
+| RIDER Dataset | Road anomaly & defect detection dataset for autonomous driving | [Check Out](https://github.com/seung-lab/RIDER) |
+| RSNA Pneumonia Detection Dataset | Chest X-ray dataset for pneumonia detection | [Check Out](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) |
+| RHD (Rendered Handpose Dataset) | Synthetic dataset for hand pose estimation | [Check Out](https://lmb.informatik.uni-freiburg.de/projects/hand3d/) |
