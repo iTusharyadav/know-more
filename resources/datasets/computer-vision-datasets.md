@@ -243,3 +243,17 @@
 | SynthText Dataset | Synthetic dataset for text detection in natural scenes | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/scenetext/) |
 | Something-Something Dataset | Large-scale video dataset for action recognition | [Check Out](https://developer.qualcomm.com/software/ai-datasets/something-something) |
 | Stanford Online Products Dataset | Metric learning dataset for product image retrieval | [Check Out](https://cvgl.stanford.edu/projects/lifted_struct/) |
+
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| Tiny ImageNet | 200-class subset of ImageNet for lightweight benchmarking | [Check Out](https://tiny-imagenet.herokuapp.com/) |
+| T-LESS Dataset | Texture-less object dataset for 6D pose estimation | [Check Out](https://cmp.felk.cvut.cz/t-less/) |
+| TU-Berlin Sketch Dataset | Hand-drawn sketch dataset for sketch recognition | [Check Out](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/) |
+| TrafficNet Dataset | Traffic video dataset for detection and analysis | [Check Out](https://github.com/trafficnet/dataset) |
+| THUMOS14 Dataset | Action recognition dataset for temporal localization in videos | [Check Out](http://crcv.ucf.edu/THUMOS14/) |
+| Toyota Smarthome Dataset | Activity recognition dataset from smart home environments | [Check Out](https://project.inria.fr/toyotasmarthome/) |
+| Tsinghua-Tencent 100K Dataset | Traffic sign detection dataset from Chinese roads | [Check Out](https://cg.cs.tsinghua.edu.cn/traffic-sign/) |
+| TACO Dataset | Trash detection dataset for waste classification | [Check Out](http://tacodataset.org/) |
+| TID2013 Dataset | Image quality assessment dataset with distorted images | [Check Out](https://www.ponomarenko.info/tid2013.htm) |
+| Total-Text Dataset | Scene text detection dataset with curved text annotations | [Check Out](https://github.com/cs-chan/Total-Text-Dataset) |
+
