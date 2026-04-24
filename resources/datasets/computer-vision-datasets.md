@@ -257,3 +257,16 @@
 | TID2013 Dataset | Image quality assessment dataset with distorted images | [Check Out](https://www.ponomarenko.info/tid2013.htm) |
 | Total-Text Dataset | Scene text detection dataset with curved text annotations | [Check Out](https://github.com/cs-chan/Total-Text-Dataset) |
 
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| UCF101 | Action recognition dataset with 101 human action categories | [Check Out](https://www.crcv.ucf.edu/data/UCF101.php) |
+| UCF50 | Smaller action recognition dataset with 50 action classes | [Check Out](https://www.crcv.ucf.edu/data/UCF50.php) |
+| UCI Vision Datasets | Collection of image datasets available via UCI repository | [Check Out](https://archive.ics.uci.edu/ml/datasets.php) |
+| UMDFaces Dataset | Large-scale face dataset for recognition and attribute prediction | [Check Out](https://umdfaces.io/) |
+| UVD Dataset (Unmanned Vehicle Detection) | Dataset for detecting drones and unmanned aerial vehicles | [Check Out](https://github.com/VisDrone/VisDrone-Dataset) |
+| Urban100 Dataset | High-resolution images for super-resolution benchmarking | [Check Out](https://github.com/jbhuang0604/SelfExSR) |
+| UTKFace Dataset | Face dataset with age, gender, and ethnicity labels | [Check Out](https://susanqq.github.io/UTKFace/) |
+| Unaligned Celeb Dataset | Dataset for unpaired face image translation tasks | [Check Out](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) |
+| Unrestricted Adversarial Examples Dataset | Dataset for robustness testing in adversarial vision models | [Check Out](https://github.com/MadryLab/unrestricted-adversarial-examples) |
+| UOA-DR Dataset | Diabetic retinopathy dataset with retinal fundus images | [Check Out](https://www.kaggle.com/datasets/andrewmvd/retinal-disease-classification) |
+
