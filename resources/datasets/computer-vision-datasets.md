@@ -270,3 +270,15 @@
 | Unrestricted Adversarial Examples Dataset | Dataset for robustness testing in adversarial vision models | [Check Out](https://github.com/MadryLab/unrestricted-adversarial-examples) |
 | UOA-DR Dataset | Diabetic retinopathy dataset with retinal fundus images | [Check Out](https://www.kaggle.com/datasets/andrewmvd/retinal-disease-classification) |
 
+| **Dataset** | **Description** | **Source / Documentation** |
+|-------------|-----------------|----------------------------|
+| VisDrone Dataset | Drone-based dataset for object detection, tracking, and segmentation | [Check Out](https://www.visdrone.com/) |
+| VOC PASCAL (Variants) | Variants of VOC dataset used for detection/segmentation research | [Check Out](http://host.robots.ox.ac.uk/pascal/VOC/) |
+| VID (ImageNet Video Object Detection) | Large-scale dataset for video object detection | [Check Out](http://image-net.org/challenges/LSVRC/) |
+| VGGFace Dataset | Large-scale face dataset for recognition and verification | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/vgg_face/) |
+| VGGFace2 Dataset | Diverse face dataset with multi-pose/multi-age identities | [Check Out](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/) |
+| VOT Challenge Datasets | Visual object tracking benchmark datasets used annually | [Check Out](https://www.votchallenge.net/) |
+| Visual Genome | Dataset with region descriptions, relationships, and attributes | [Check Out](https://visualgenome.org/) |
+| VEIS Dataset | Synthetic dataset for vehicle instance segmentation | [Check Out](https://arxiv.org/abs/1901.05949) |
+| Vimeo-90k Dataset | High-quality video dataset for interpolation and restoration tasks | [Check Out](http://toflow.csail.mit.edu/) |
+| VIPER Dataset | Synthetic dataset for semantic segmentation & depth estimation | [Check Out](https://playing-for-benchmarks.org/) |
